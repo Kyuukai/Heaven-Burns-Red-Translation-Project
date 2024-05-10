@@ -1,4 +1,4 @@
-# XUnity.AutoTranslator and BepInEx for Heaven-Burns-Red
+# XUnity.AutoTranslator and BepInEx for Heaven Burns Red
 This project aims to translate Heaven Burns Red in English using XUnity.AutoTranslator.
 
 XUnity AutoTranslator uses Machine Translation to automatically translate japanese text on screen to English (uses Google Translate by default), the objective of this repository is to manually replace incorrect translations to correct ones.
