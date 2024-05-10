@@ -1,0 +1,34 @@
+﻿6th Sense
+天然　+1上昇！=Airheadedness +1 increase!
+天然　+2上昇！=Airheadedness +2 increase!
+天然　+3上昇！=Airheadedness +3 increase!
+天然　+4上昇！=Airheadedness +4 increase!
+天然　+5上昇！=Airheadedness +5 increase!
+メンタル　+1上昇！=Mentality +1 increase!
+メンタル　+2上昇！=Mentality +2 increase!
+メンタル　+3上昇！=Mentality +3 increase!
+メンタル　+4上昇！=Mentality +4 increase!
+メンタル　+5上昇！=Mentality +5 increase!
+クレイジー　+1上昇！=Craziness +1 increase!
+クレイジー　+2上昇！=Craziness +2 increase!
+クレイジー　+3上昇！=Craziness +3 increase!
+クレイジー　+4上昇！=Craziness +4 increase!
+クレイジー　+5上昇！=Craziness +5 increase!
+優しさ　+1上昇！=Kindness +1 increase!
+優しさ　+2上昇！=Kindness +2 increase!
+優しさ　+3上昇！=Kindness +3 increase!
+優しさ　+4上昇！=Kindness +4 increase!
+優しさ　+5上昇！=Kindness +5 increase!
+器　+1上昇！=Understanding +1 increase!
+器　+2上昇！=Understanding +2 increase!
+器　+3上昇！=Understanding +3 increase!
+器　+4上昇！=Understanding +4 increase!
+器　+5上昇！=Understanding +5 increase!
+カリスマ　+1上昇！=Charisma +1 increase!
+カリスマ　+2上昇！=Charisma +2 increase!
+カリスマ　+3上昇！=Charisma +3 increase!
+カリスマ　+4上昇！=Charisma +4 increase!
+カリスマ　+5上昇！=Charisma +5 increase!
+
+
+--------------------

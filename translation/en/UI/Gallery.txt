@@ -1,0 +1,6 @@
+﻿サウンド=Sound
+フォト=Photo
+ストーリー=Story
+メモリーストーリー=Memory Story
+-----------
+和泉 ユキ「なんて朝だよ」=Yuki Izumi "What a Morning"

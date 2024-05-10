@@ -1,0 +1,32 @@
+ライブ設定=Live Settings
+ライブ音量設定=Live Volume Settings
+・ライブモードのキーの設定=・ Live Mode Key Settings
+リセット=Reset
+
+[Scene]
+・レーンの明るさ=・ Lane Brightness
+・動画の明るさ=・ Video Brightness
+・レーンエフェクトの表示=・ Lane Effect Display
+・スキルカットインの表示=・ Skill Cut-in Display
+
+・軽量モード=・ Lightweight Mode
+・FPSモード=・ FPS Mode
+低FPS	=Low FPS
+
+
+[Control]
+・判定調整 (Bluetooth™接続時)=・ Offset Adjustment (Bluetooth™)
+・同時押しラインの表示=・ Display of Simultaneous Press Lines
+ ・レーン配置の反転=・ Inverted Lane Arrangement
+・長押しラインの濃さ=・ Long Press Line Density
+・判定調整 (通常時)=・ Offset Adjustment (Normal)
+・ノーツの大きさ=・ Note Size
+・ノーツの速度=・ Note Speed
+・マーカー種類=・ Marker Type
+
+[Sounds]
+・タップ音種類=・ Tap Sound Type
+ライブ音量=Live Volume
+<size\=34>BGM</size>（ライブミュージック）=<size\=34>BGM</size> (Live Music)
+<size\=34>SE</size>（タップ音）=<size\=34>SE</size> (Tap Sound)
+<size\=34>VOICE</size>（カットインボイス）=<size\=34>VOICE</size> (Cut-in Voice)

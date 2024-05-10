@@ -1,0 +1,11 @@
+﻿現在のライフストーン所持数=Current Lifestones Held
+現在のクォーツ所持数=Current Quartz Held
+0個=0 pcs.
+または=or
+ライフ回復数=Number of Lives Recovered
+ライフを回復します=Restore Life
+ライフストーンを消費=Consume Lifestone
+クォーツを消費=Consume Quartz
+※クォーツは無償分から消費されます。=*Quartz is consumed from the free portion.
+<style\=RubyPrefixTag></style>\nライフを回復しました=<style\=RubyPrefixTag></style>\nLife Recovered
+※過去３か月間の利用履歴が確認できます。\n※無償分のクォーツから先に消費されます。=※You can check the usage history for the past 3 months. \n※Free quartz will be consumed first.

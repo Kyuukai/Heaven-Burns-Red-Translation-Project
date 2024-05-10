@@ -1,0 +1,328 @@
+﻿Terms:
+メガネの少女=The Girl with the Glasses
+司令官=General
+黒髪の少女=Black Haired Girl
+高飛車な少女=A Domineering Girl
+貴族のようなひと=A Person Who Seems Like a Noble
+武士のようなひと=A Person Who Seems Like a Warrior
+艶のあるひと=A Charming Person
+お面のひと=Masked Person
+腕まくりの少女=Girl with Her Arms Crossed
+研究者？=Researcher?
+
+
+Names:
+----------------
+
+神崎 アーデルハイド=<size\=85%>Adelheid Kanzaki</size>
+神崎アーデルハイド=Adelheid Kanzaki
+[神崎アーデルハイド]=[Adelheid Kanzaki]
+[神崎 アーデルハイド]=[Adelheid Kanzaki]
+-----------------------
+瑞原 あいな=Aina Mizuhara
+瑞原あいな=Aina Mizuhara
+[瑞原あいな]=[Aina Mizuhara]
+[瑞原 あいな]=[Aina Mizuhara]
+-----------------
+伊達 朱里=Akari Date
+伊達朱里=Akari Date
+[伊達朱里]=[Akari Date]
+[伊達 朱里]=[Akari Date]
+---------------
+キャロル・リーパー=Carole Reaper
+キャロル リーパー=Carole Reaper
+キャロルリーパー=Carole Reaper
+[キャロルリーパー]=[Carole Reaper]
+[キャロル・リーパー]=[Carole Reaper]
+[キャロル リーパー]=[Carole Reaper]
+-------------
+シャルロッタ・スコポフスカヤ=<size\=84%>Charlotta Skopovskaya</size>
+シャルロッタ スコポフスカヤ=Charlotta Skopovskaya
+シャルロッタスコポフスカヤ=Charlotta Skopovskaya
+[シャルロッタ・スコポフスカヤ=[Charlotta Skopovskaya]
+[シャルロッタ スコポフスカヤ=[Charlotta Skopovskaya]
+[シャルロッタスコポフスカヤ=[Charlotta Skopovskaya]
+
+-----------------
+菅原 千恵=Chie Sugawara
+菅原千恵=Chie Sugawara
+[菅原千恵]=[Chie Sugawara]
+[菅原 千恵]=[Chie Sugawara]
+---------------------
+松岡 チロル=<size\=85%>Chiroru Matsuoka</size>
+松岡チロル=Chiroru Matsuoka
+[松岡チロル]=[Chiroru Matsuoka]
+[松岡 チロル]=[Chiroru Matsuoka]
+
+--------------------
+蒼井 えりか=Erika Aoi
+蒼井えりか=Erika Aoi
+[蒼井えりか]=[Erika Aoi]
+[蒼井 えりか]=[Erika Aoi]
+--------------------------
+命 吹雪=Fubuki Mikoto
+命吹雪=Fubuki Mikoto
+[命吹雪]=[Fubuki Mikoto]
+[命 吹雪]=[Fubuki Mikoto]
+
+------------------
+渕田 ひさ子=<size\=85%>Hisako Fuchida</size>
+渕田ひさ子=Hisako Fuchida
+[渕田ひさ子]=[Hisako Fuchida]
+[渕田 ひさ子]=[Hisako Fuchida]
+----------------------------
+小笠原 緋雨=<size\=85%>Hisame Ogasahara</size>
+小笠原緋雨=Hisame Ogasahara
+[小笠原緋雨]=[Hisame Ogasahara]
+[小笠原 緋雨]=[Hisame Ogasahara]
+------------------------
+水瀬 いちご=Ichigo Minase
+水瀬いちご=Ichigo Minase
+[水瀬いちご]=[Ichigo Minase]
+[水瀬 いちご]=[Ichigo Minase]
+-------------------------
+山脇・ボン・イヴァール=<size\=85%>Ivar Bon Yamawaki</size>
+山脇ボン・イヴァール=Ivar Bon Yamawaki
+山脇ボンイヴァール=Ivar Bon Yamawaki
+山脇 ボン イヴァール=Ivar Bon Yamawaki
+[山脇・ボン・イヴァール]=[Ivar Bon Yamawaki]
+-------------------------------
+
+大島 一千子=<size\=85%>Ichiko Ohshima</size>
+大島一千子=Ichiko Ohshima
+[大島一千子]=[Ichiko Ohshima]
+[大島 一千子]=[Ichiko Ohshima]
+
+--------------------------
+夏目 祈=Inori Natsume
+夏目祈=Inori Natsume
+[夏目祈]=[Inori Natsume]
+[夏目 祈]=[Inori Natsume]
+-------------------
+アイリーン・レドメイン=<size\=85%>Irene Redmayne</size>
+アイリーン レドメイン=Irene Redmayne
+アイリーンレドメイン=Irene Redmayne
+[アイリーン・レドメイン]=Irene Redmayne
+[アイリーンレドメイン]=[Irene Redmayne]
+[アイリーン レドメイン]=[Irene Redmayne]
+
+--------------
+石井 色葉=Iroha Ishii
+石井色葉=Iroha Ishii
+[石井色葉]=[Iroha Ishii]
+[石井 色葉]=[Iroha Ishii]
+
+--------------------------
+大島 五十鈴=<size\=85%>Isuzu Ohshima</size>
+大島五十鈴=Isuzu Ohshima
+[大島五十鈴]=[Isuzu Ohshima]
+[大島 五十鈴]=[Isuzu Ohshima]
+
+-------------
+丸山 奏多=<size\=85%>Kanata Maruyama</size>
+丸山奏多=Kanata Maruyama
+[丸山奏多]=[Kanata Maruyama]
+[丸山 奏多]=[Kanata Maruyama]
+
+------------
+朝倉 可憐=<size\=85%>Karen Asakura</size>
+朝倉可憐=Karen Asakura
+[朝倉 可憐]=[Karen Asakura]
+[朝倉可憐]=[Karen Asakura]
+<style\=RubyPrefixTag></style>\n朝倉<space\=-84.36201px><voffset\=1em><size\=50%><cspace\=0px>あさくら</cspace></size></voffset><space\=-2.175994px><style\=RubySuffixTag></style> 可憐<space\=-73.637px><voffset\=1em><size\=50%><cspace\=0px>かれん</cspace></size></voffset><space\=8.549002px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nKaren Asakura
+
+-----------------
+柊木 梢=<size\=85%>Kozue Hiiragi</size>
+柊木梢=Kozue Hiiragi
+[柊木梢]=[Kozue Hiiragi]
+[柊木 梢]=[Kozue Hiiragi]
+<style\=RubyPrefixTag></style>\n柊木<space\=-84.36201px><voffset\=1em><size\=50%><cspace\=0px>ひいらぎ</cspace></size></voffset><space\=-2.175994px><style\=RubySuffixTag></style> 梢<space\=-52.912px><voffset\=1em><size\=50%><cspace\=0px>こずえ</cspace></size></voffset><space\=-12.176px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>Hiiragi<space\=-2.175994px><style\=RubySuffixTag></style> Kozue<space\=-52.912px><style\=RubySuffixTag></style>
+
+------------------
+黒沢 真希=Maki Kurosawa
+黒沢真希=Maki Kurosawa
+[黒沢真希]=[Maki Kurosawa]
+[黒沢 真希]=[Maki Kurosawa]
+------------------------------
+浅見 真紀子=Makiko Asami
+浅見真紀子=Makiko Asami
+[浅見真紀子=Makiko Asami]
+[浅見 真紀子=Makiko Asami]
+--------------------
+佐月 マリ=Mari Satsuki
+佐月マリ=Mari Satsuki
+[佐月マリ]=[Mari Satsuki]
+[佐月 マリ]=[Mari Satsuki]
+---------------------
+マリア・デ・アンジェリス=<size\=85%>Maria de Angelis</size>
+マリア デ アンジェリス=Maria de Angelis
+マリアデアンジェリス=Maria de Angelis
+[マリア・デ・アンジェリス]=[Maria de Angelis]
+[マリア デ アンジェリス]=[Maria de Angelis]
+[マリアデアンジェリス]=[Maria de Angelis]
+[マリアデアンジェリス]=[Maria de Angelis]
+--------------------
+逢川 めぐみ=<size\=85%>Megumi Aikawa</size>
+逢川めぐみ=Megumi Aikawa
+[逢川めぐみ]=[Megumi Aikawa]
+[逢川 めぐみ]=[Megumi Aikawa]
+<style\=RubyPrefixTag></style>\n逢川<space\=-84.36201px><voffset\=1em><size\=50%><cspace\=0px>あいかわ</cspace></size></voffset><space\=-2.175994px><style\=RubySuffixTag></style> めぐみ<space\=-62.912px><voffset\=1em><size\=50%><cspace\=0px></cspace></size></voffset><space\=60.724px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nMegumi Aikawa
+--
+行動を止めるスタンが得意な DEBUFFERスタイル\n\n【スタンブレード】\n　敵を叩きつけて攻撃 さらに確率でスタンさせる\n　攻めながらにして守る戦い方ができる=DEBUFFER style that is good at stuns that preventing actions\n\n[Stun Blade] Attack by slamming the enemy and with a chance of stunning it\n You can fight while attacking and defending.
+スタンブレード=Stunblade
+敵を叩きつけて攻撃\nさらに 確率でスタンさせる=Attack by slamming the enemy\nAdditional chance to stun
+------------------------
+天音 巫呼=Miko Tenne
+天音巫呼=Miko Tenne
+[天音巫呼]=[Miko Tenne]
+[天音 巫呼]=[Miko Tenne]
+---------------
+
+柳 美音=Mion Yanagi
+柳美音=Mion Yanagi
+[柳美音]=[Mion Yanagi]
+[柳 美音]=[Mion Yanagi]
+----------------------------
+大島 三野里=Minori Ohshima
+大島三野里=Minori Ohshima
+[大島三野里]=[Minori Ohshima]
+[大島 三野里]=[Minori Ohshima]
+
+-------------
+桐生 美也=Miya Kiryu
+桐生美也=Miya Kiryu
+[桐生美也]=[Miya Kiryu]
+[桐生 美也]=[Miya Kiryu]
+-------------------
+入江 みゆき=Miyuki Irie
+入江みゆき=Miyuki Irie
+[入江みゆき=Miyuki Irie]
+[入江 みゆき=Miyuki Irie]
+----------------------
+二階堂 三郷=<size\=88%>Misato Nikaido</size>
+二階堂三郷=Misato Nikaido
+[二階堂三郷]=[Misato Nikaido]
+[二階堂 三郷]=[Misato Nikaido]
+--------------------
+月城 最中=<size\=85%>Monaka Tsukishiro</size>
+月城最中=Monaka Tsukishiro
+[月城最中]=[Monaka Tsukishiro]
+[月城 最中]=[Monaka Tsukishiro]
+---------------
+
+大島 六宇亜=Muua Ohshima
+大島六宇亜=Muua Ohshima
+[大島六宇亜]=[Muua Ohshima]
+[大島 六宇亜]=[Muua Ohshima]
+
+-----------------
+七瀬=Nanase
+七瀬 七海=<size\=88%>Nanase Nanami</size>
+七瀬七海=Nanase Nanami
+[七瀬七海]=[Nanase Nanami]
+[七瀬 七海]=[Nanase Nanami]
+----------------------
+大島 二以奈=Niina Ohshima
+大島二以奈=Niina Ohshima
+[大島二以奈]=[Niina Ohshima]
+[大島 二以奈]=[Niina Ohshima]
+
+------------------
+室伏 理沙=Risa Murofushi
+室伏理沙=Risa Murofushi
+[室伏理沙]=[Risa Murofushi]
+[室伏 理沙]=[Risa Murofushi]
+----------------
+茅森 月歌=<size\=85%>Ruka Kayamori</size>
+茅森月歌=Ruka Kayamori
+[茅森流歌]=[Ruka Kayamori]
+[茅森 月歌]=[Ruka Kayamori]
+
+<style\=RubyPrefixTag></style>\n茅森<space\=-84.36201px><voffset\=1em><size\=50%><cspace\=0px>かやもり</cspace></size></voffset><space\=-2.175994px><style\=RubySuffixTag></style> 月歌<space\=-62.912px><voffset\=1em><size\=50%><cspace\=0px>るか</cspace></size></voffset><space\=19.274px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nRuka Kayamori
+----------------------
+手塚 咲=<size\=86%>Saki Tezuka</size>
+手塚咲=Saki Tezuka
+[手塚 咲]=[Saki Tezuka]
+[手塚咲]=[Saki Tezuka]
+-----------------------
+蔵 里見=Satomi Kura
+蔵里見=Satomi Kura
+[蔵里見]=[Satomi Kura]
+[蔵 里見]=[Satomi Kura]
+----------------------------
+樋口 聖華=<size\=86%>Seika Higuchi</size>
+樋口聖華=Seika Higuchi
+[樋口聖華]=[Seika Higuchi]
+[樋口 聖華]=[Seika Higuchi]
+<style\=RubyPrefixTag></style>\n樋口<space\=-73.637px><voffset\=1em><size\=50%><cspace\=0px>ひぐち</cspace></size></voffset><space\=8.549002px><style\=RubySuffixTag></style> 聖華<space\=-73.637px><voffset\=1em><size\=50%><cspace\=0px>せいか</cspace></size></voffset><space\=8.549002px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nSeika Higuchi
+---
+<style\=RubyPrefixTag></style>\n樋口<space\=-69.137px><voffset\=1em><size\=50%><cspace\=0px>ひぐち</cspace></size></voffset><space\=13.049px><style\=RubySuffixTag></style> 聖華<space\=-69.137px><voffset\=1em><size\=50%><cspace\=0px>せいか</cspace></size></voffset><space\=13.049px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nSeika Higuchi
+-----------------------
+華村 詩紀=Shiki Hanamura
+華村 詩紀=Shiki Hanamura
+[華村 詩紀]=[Shiki Hanamura]
+[華村 詩紀]=[Shiki Hanamura]
+----------------------
+水瀬 すもも=Sumomo Minase
+水瀬すもも=Sumomo Minase
+[水瀬すもも]=[Sumomo Minase]
+[水瀬 すもも]=[Sumomo Minase
+-----------------------------
+桜庭 星羅=Seira Sakuraba
+桜庭 星羅=Seira Sakuraba
+[桜庭星羅]=[Seira Sakuraba]
+[桜庭 星羅]=[Seira Sakuraba]
+------------
+國見 タマ=<size\=88%>Tama Kunimi</size>
+國見タマ=Tama Kunimi
+[國見タマ]=[Tama Kunimi]
+[國見 タマ]=[Tama Kunimi]
+<style\=RubyPrefixTag></style>\n國見<space\=-73.637px><voffset\=1em><size\=50%><cspace\=0px>くにみ</cspace></size></voffset><space\=8.549002px><style\=RubySuffixTag></style> タマ<space\=-42.187px><voffset\=1em><size\=50%><cspace\=0px></cspace></size></voffset><space\=39.999px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nTama Kunimi
+<style\=RubyPrefixTag></style>\n國見<space\=-73.637px><voffset\=1em><size\=50%><cspace\=0px>くにみ</cspace></size></voffset><space\=8.549002px><style\=RubySuffixTag></style> タマ<space\=-42.187px><voffset\=1em><size\=50%><cspace\=0px></cspace></size></voffset><space\=39.999px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nTama Kunimi
+--------------------
+東城 つかさ=<size\=86%>Tsukasa Toujo</size>
+東城つかさ=Tsukasa Toujo
+[東城 つかさ]=[Tsukasa Toujo]
+[東城つかさ]=[Tsukasa Toujo]
+<style\=RubyPrefixTag></style>\n東城<space\=-95.087px><voffset\=1em><size\=50%><cspace\=0px>とうじょう</cspace></size></voffset><space\=-12.901px><style\=RubySuffixTag></style> つかさ<space\=-62.912px><voffset\=1em><size\=50%><cspace\=0px></cspace></size></voffset><space\=60.724px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nTsukasa Toujo
+
+-----------------------
+
+ヴリティカ・バラクリシュナン=<size\=85%>Vritika Balakrishnan</size>
+ヴリティカ バラクリシュナン=Vritika Balakrishnan
+ヴリティカバラクリシュナン=Vritika Balakrishnan
+[ヴリティカバラクリシュナン]=[Vritika Balakrishnan]
+[ヴリティカ バラクリシュナン]=[Vritika Balakrishnan]
+[ヴリティカ・バラクリシュナン]=[Vritika Balakrishnan]
+-----------------------
+豊後 弥生=Yayoi Bungo
+豊後弥生=Yayoi Bungo
+[豊後弥生]=[Yayoi Bungo]
+[豊後 弥生]=[Yayoi Bungo]
+--------------------------
+李 映夏=Yingxia Li
+李映夏=Yingxia Li
+[李映夏]=[Yingxia Li]
+[李 映夏]=[Yingxia Li]
+
+-------------------------
+大島 四ツ葉=<size\=85%>Yotsuha Ohshima</size>
+大島四ツ葉=Yotsuha Ohshima
+[大島四ツ葉]=[Yotsuha Ohshima]
+[大島 四ツ葉]=[Yotsuha Ohshima]
+-----------------
+白河 ユイナ=<size\=85%>Yuina Shirakawa</size>
+白河ユイナ=Yuina Shirakawa
+[白河ユイナ]=[Yuina Shirakawa]
+[白河 ユイナ]=[Yuina Shirakawa]
+-----------------------
+和泉 ユキ=<size\=88%>Yuki Izumi</size>
+和泉ユキ=Yuki Izumi
+[和泉 ユキ]=[Yuki Izumi]
+[和泉ユキ]=[Yuki Izumi]
+<style\=RubyPrefixTag></style>\n和泉<space\=-73.637px><voffset\=1em><size\=50%><cspace\=0px>いずみ</cspace></size></voffset><space\=8.549002px><style\=RubySuffixTag></style> ユキ<space\=-42.187px><voffset\=1em><size\=50%><cspace\=0px></cspace></size></voffset><space\=39.999px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nYuki Izumi
+----------------------
+仲村 ゆり=<size\=85%>Yuri Nakamura</size>
+仲村ゆり=Yuri Nakamura
+[仲村ゆり]=[Yuri Nakamura]
+[仲村 ゆり]=[Yuri Nakamura]

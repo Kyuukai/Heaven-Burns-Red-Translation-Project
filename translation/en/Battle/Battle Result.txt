@@ -1,0 +1,9 @@
+﻿バトルリザルト=Post-Battle
+獲得GP=Earned GP
+体力=<size\=22>Cons</size>
+運=<size\=22>Luck</size>
+器用さ=<size\=76%>Agility</size>
+精神=<size\=76%>Spirit</size>
+知性=<size\=20>Wisdom</size>
+力=<size\=73%>Strength</size>
+獲得アイテム=Acquired items

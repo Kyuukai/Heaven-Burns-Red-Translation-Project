@@ -1,0 +1,22 @@
+﻿第一章Day0クリア報酬 =Chapter 1 Day 0 Clear Reward
+第一章Day1クリア報酬 =Chapter 1 Day 1 Clear Reward
+第一章Day2クリア報酬 =Chapter 1 Day 2 Clear Reward
+第一章Day3クリア報酬 =Chapter 1 Day 3 Clear Reward
+第一章Day4クリア報酬 =Chapter 1 Day 4 Clear Reward
+第一章Day5クリア報酬 =Chapter 1 Day 5 Clear Reward
+第一章Day6クリア報酬 =Chapter 1 Day 6 Clear Reward
+第一章Day7クリア報酬 =Chapter 1 Day 7 Clear Reward
+第一章Day8クリア報酬 =Chapter 1 Day 8 Clear Reward 
+第一章Day9クリア報酬 =Chapter 1 Day 9 Clear Reward 
+第一章Day10クリア報酬 =Chapter 1 Day 10 Clear Reward 
+第一章Day11クリア報酬 =Chapter 1 Day 11 Clear Reward
+第一章Day12クリア報酬 =Chapter 1 Day 12 Clear Reward  
+
+通常ログインボーナス1日目 =Normal Login Bonus 1st Day
+通常ログインボーナス2日目 =Normal Login Bonus 2nd Day
+通常ログインボーナス3日目 =Normal Login Bonus 3rd Day
+通常ログインボーナス4日目 =Normal Login Bonus 4th Day
+通常ログインボーナス5日目 =Normal Login Bonus 5th Day
+通常ログインボーナス6日目 =Normal Login Bonus 6th Day
+通常ログインボーナス7日目 =Normal Login Bonus 7th Day
+

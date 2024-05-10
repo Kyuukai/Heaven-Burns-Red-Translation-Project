@@ -1,0 +1,139 @@
+﻿LifeStone
+0個=0
+1個=1
+2個=2
+3個=3
+4個=4
+5個=5
+6個=6
+7個=7
+8個=8
+9個=9
+10個=10 
+15個=15 
+20個=20 
+25個=25 
+30個=30 
+35個=35 
+40個=40 
+45個=45 
+50個=50 
+55個=55 
+60個=60 
+65個=65 
+70個=70 
+75個=75 
+80個=80 
+85個=85 
+90個=90 
+95個=95 
+100個=100 
+100個=105
+100個=110 
+100個=115 
+100個=125 
+100個=130 
+100個=135 
+100個=140 
+100個=145 
+100個=150 
+100個=155 
+100個=160
+100個=165 
+100個=170 
+100個=175 
+100個=180 
+100個=185 
+100個=190 
+100個=195  
+200個=200
+--------
+Medal Exchange
+交換所メダル=Exchange Medals
+必要メダル 0=Required Medals 0
+必要メダル 10=Required Medals 10
+必要メダル 50=Required Medals 50
+必要メダル 60=Required Medals 60
+必要メダル 80=Required Medals 80
+必要メダル 100=Required Medals 100
+必要メダル 150=Required Medals 150
+必要メダル 200=Required Medals 200
+必要メダル 250=Required Medals 250
+必要メダル 300=Required Medals 300
+必要メダル 400=Required Medals 400
+必要メダル 500=Required Medals 500
+-------------------
+獲得数：100=Acquired Number: 100
+獲得数：200=Acquired Number: 200
+獲得数：300=Acquired Number: 300
+獲得数：400=Acquired Number: 400
+獲得数：500=Acquired Number: 500
+獲得数：600=Acquired Number: 600
+獲得数：700=Acquired Number: 700
+獲得数：800=Acquired Number: 800
+獲得数：900=Acquired Number: 900
+獲得数：1,000=Acquired Number: 1000
+獲得数：1,100=Acquired Number: 1100
+獲得数：1,200=Acquired Number: 1200
+獲得数：1,300=Acquired Number: 1300
+獲得数：1,400=Acquired Number: 1,400
+獲得数：1,500=Acquired Number: 1,500
+
+-------------------
+Exhange Amount
+交換回数　0/1=Number of Exchanges 0/1
+交換回数　1/1=Number of Exchanges 1/1
+-------------------
+交換回数　0/3=Number of Exchanges 0/3
+交換回数　1/3=Number of Exchanges 1/3
+交換回数　2/3=Number of Exchanges 2/3
+交換回数　3/3=Number of Exchanges 3/3
+--------------------
+交換回数　0/5=Number of Exchanges 0/5
+交換回数　1/5=Number of Exchanges 1/5
+交換回数　2/5=Number of Exchanges 2/5
+交換回数　3/5=Number of Exchanges 3/5
+交換回数　4/5=Number of Exchanges 4/5
+交換回数　5/5=Number of Exchanges 5/5
+------------------
+交換回数　0/7=Number of Exchanges 0/7
+交換回数　1/7=Number of Exchanges 1/7
+交換回数　2/7=Number of Exchanges 2/7
+交換回数　3/7=Number of Exchanges 3/7
+交換回数　4/7=Number of Exchanges 4/7
+交換回数　5/7=Number of Exchanges 5/7
+交換回数　6/7=Number of Exchanges 6/7
+交換回数　7/7=Number of Exchanges 7/7
+-----------------
+交換回数　0/10=Number of Exchanges 0/10
+交換回数　1/10=Number of Exchanges 1/10
+交換回数　2/10=Number of Exchanges 2/10
+交換回数　3/10=Number of Exchanges 3/10
+交換回数　4/10=Number of Exchanges 4/10
+交換回数　5/10=Number of Exchanges 5/10
+交換回数　6/10=Number of Exchanges 6/10
+交換回数　7/10=Number of Exchanges 7/10
+交換回数　8/10=Number of Exchanges 8/10
+交換回数　9/10=Number of Exchanges 9/10
+交換回数　10/10=Number of Exchanges 10/10
+----------------
+交換回数　0/15=Number of Exchanges 0/15
+交換回数　1/15=Number of Exchanges 1/15
+交換回数　2/15=Number of Exchanges 2/15
+交換回数　3/15=Number of Exchanges 3/15
+交換回数　4/15=Number of Exchanges 4/15
+交換回数　5/15=Number of Exchanges 5/15
+交換回数　6/15=Number of Exchanges 6/15
+交換回数　7/15=Number of Exchanges 7/15
+交換回数　8/15=Number of Exchanges 8/15
+交換回数　9/15=Number of Exchanges 9/15
+交換回数　10/15=Number of Exchanges 10/15
+交換回数　11/15=Number of Exchanges 11/15
+交換回数　12/15=Number of Exchanges 12/15
+交換回数　13/15=Number of Exchanges 13/15
+交換回数　14/15=Number of Exchanges 14/15
+交換回数　15/15=Number of Exchanges 15/15
+------------------------
+交換回数　無制限=Unlimited
+交換回数　2147483647/0=Number of Exchanges 2147483647/0
+***********************************

@@ -1,0 +1,15 @@
+﻿メニュー=Menu
+ガチャ=Gacha
+設定=Settings
+着せ替えショップ=Style Store
+着せ替え=Customizations
+名簿=Register
+シックスセンス=6th Sense
+部隊=Squad
+スタイル=Styles
+ギフト=Gift
+持ち物=Inventory
+お知らせ=Notice
+ランク=Rank
+ゲームを終了する=Exit Game
+帰還する=Homecoming

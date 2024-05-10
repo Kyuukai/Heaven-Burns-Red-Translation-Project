@@ -1,0 +1,22 @@
+七海からのアドバイス=Advice from Nanami
+推奨戦力=<size\=90%>Recommended Combat Power:</size>
+戦闘対象=Target:
+初心者向けの練習を用意しました。\n皆さんならなんなく攻略することができるでしょう。=<size\=85%>We have prepared exercises for beginners. We are sure that you will be able to conquer this course without any difficulty.</size>
+部隊編成=<size\=130%>Organize\nMembers</size>
+省電力周回=<size\=115%>Power-Saving\nLaps</size>
+初回のみ+150GP !=First time only +150GP!
+省電力モード<size\=26>（バックグラウンドでも有効になります）</size>=Power Save Mode<size\=26>(works in the background)</size>
+もう一度プレイする=Play Again
+（ プレイヤーランク : 1 ）=(Player Rank : 1)
+オートプレイ残り時間=Autoplay Remaining Time
+クリアタイム=Clear Time
+所持上限を超えたためこのアイテムは取得できません=This item cannot be acquired because the possession limit has been exceeded
+GPを獲得しました=We won the GP!
+
+[Dialogue]
+訓練を選択してください。=Select your training.
+お疲れ様でした。=Thank you for your hard work.
+
+[Challenges]
+初級 Lv.1=Elementary Lv.1
+

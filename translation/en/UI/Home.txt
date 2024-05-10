@@ -1,0 +1,60 @@
+﻿強化 / 育成=Enhancement / Training
+コンテンツ=Contents
+メインストーリー=Main Story
+イベント=Events
+復刻=Reissue
+アーツバトル=Arts Battle
+ギャラリー=Gallery
+ライブ=Live
+ジオラマ=Diorama
+交換所=Clearing House
+友達招待=Friend Invitation
+最新のショップ=Go to the Latest Shop
+アリーナ=Arena
+最新のフリータイムへ=Go to the latest Free Time
+
+
+-----
+これから始まる長い運命を辿っていくために、時には寄り道も必要だ。=Sometimes we need to take a detour to follow the long\ndestiny that is about to begin.
+ボクに何か手伝えることはあるかな？=Is there anything I can do to help?
+もし道に迷ったら、ここに戻っておいで。いってらっしゃい。=If you get lost, come back here. Have a good day.
+<style\=RubyPrefixTag></style>\nホームに戻りますか？=<style\=RubyPrefixTag></style>\nDo you want to return to Home?
+調べる=Investigate
+
+
+[Story Progress]
+Prologue\n - プロローグ -=Prologue
+Prologue\n<size\=32>- プロローグ -</size>=Prologue
+Epilogue\n<size\=32>- エピローグ -</size>=Epilogue
+
+[Story]
+続きから=Continue
+過去をたどる=Trace the Past
+交流/メモリーストーリー=Interaction/Memory Story
+
+[Locked Prompt]
+<style\=RubyPrefixTag></style>\n第一章クリアで解放されます=<style\=RubyPrefixTag></style>\nIt will be unlocked after clearing the first chapter.
+<style\=RubyPrefixTag></style>\nメインストーリーの進行で解放されます=<style\=RubyPrefixTag></style>\nIt will be unlocked as the main story progresses.
+<style\=RubyPrefixTag></style>\n第一章Day11クリアで解放されます=<style\=RubyPrefixTag></style>\nIt will be unlocked after clearing Day11 of Chapter 1.
+<style\=RubyPrefixTag></style>\n第一章Day5クリアで解放されます=<style\=RubyPrefixTag></style>\nIt will be unlocked after clearing Chapter 1 Day 5.
+<style\=RubyPrefixTag></style>\n第一章Day2クリアで解放されます=<style\=RubyPrefixTag></style>\nIt will be unlocked after clearing Chapter 1 Day 2.
+
+--------------
+振り返り=Look Back
+ドーム交流=Dome Exchange
+
+時間帯選択=Timezone Selection
+特殊効果：=Special Effects :
+途中から=From the Middle
+交流=Bond Story
+
+プレイヤーランクExpを獲得しました=Earned Player Rank EXP
+交換所メダルを獲得しました=Earned Exchange Medals
+
+
+交換所獲得アイテム=Items Acquired at the Exchange
+利用履歴はありません=The History is Empty
+履歴を更新する=Update History
+利用履歴の更新に成功しました=Update Successful
+用途=Use
+利用日時(JST)=Date and Time (JST)

@@ -1,0 +1,97 @@
+﻿スキル効果アップ=Increase Skill Power
+クリティカル率上昇スキル効果アップ=Increase Skill Critical Rate
+器用さ +10%=Agility +10%
+全能力 +1=All Stats +1
+知性 +1=Wisdom +1
+突追撃率 +1%=Charge Rate +1%
+
+--------------
+
+
+体力 +2=Stamina +2
+運 +2=Luck +2
+体力 +10%=Cons +10
+
+[Dexterity]
+器用さ +1=Agility +1
+器用さ +2=Agility +2
+器用さ +3=Agility +3
+器用さ +4=Agility +4
+器用さ +5=Agility +5
+
+[Intelligence]
+知性 +2=Wisdom +2
+知性 +10%=Wisdom +10%
+知性 +15%=Wisdom +15%
+
+[Strength]
+力 +1=Strength +1
+力 +2=Strength +2
+力 +3=Strength +3
+力 +4=Strength +4
+力 +5=Strength +5
+
+力 +10%=Strength +10
+[Spirit]
+精神 +2=Spirit +2
+精神 +10%=Spirit +10%
+精神 +15%=Spirit +15%
+
+守りの能力を 引き上げる\n体力 +4, 精神 +3=Increase Cons by +4 and Spirit by +3
+回復力の能力を 引き上げる\n知性 +6=Increase Wisdom by +6
+デフレクタの能力を 引き上げる\nDP +100=Increase DP by 100
+HP攻撃の能力を 引き上げる\n力 +6=Increase Strength by +6
+DP攻撃の能力を 引き上げる\n器用さ +6=Increase Agility by +6
+
+スタイルの精神が1上昇する=Style Spirit increases by 1
+スタイルの精神が2上昇する=Style Spirit increases by 2
+スタイルの精神が3上昇する=Style Spirit increases by 3
+スタイルの精神が4上昇する=Style Spirit increases by 4
+スタイルの精神が5上昇する=Style Spirit increases by 5
+スタイルの精神が6上昇する=Style Spirit increases by 6
+スタイルの精神が7上昇する=Style Spirit increases by 7
+スタイルの精神が8上昇する=Style Spirit increases by 8
+スタイルの精神が9上昇する=Style Spirit increases by 9
+スタイルの精神が10上昇する=Style Spirit increases by 10
+------
+スタイルの知性が1上昇する=Style Wisdom increases by 1
+スタイルの知性が2上昇する=Style Wisdom increases by 2
+スタイルの知性が3上昇する=Style Wisdom increases by 3
+スタイルの知性が4上昇する=Style Wisdom increases by 4
+スタイルの知性が5上昇する=Style Wisdom increases by 5
+スタイルの知性が6上昇する=Style Wisdom increases by 6
+スタイルの知性が7上昇する=Style Wisdom increases by 7
+スタイルの知性が8上昇する=Style Wisdom increases by 8
+スタイルの知性が9上昇する=Style Wisdom increases by 9
+スタイルの知性が10上昇する=Style Wisdom increases by 10
+-----------------
+スタイルの全能力が15上昇する=All abilities of the style are increased by 15
+スタイルの全能力が20上昇する=All abilities of the style are increased by 20
+スタイルの全能力が25上昇する=All abilities of the style are increased by 25
+スタイルの全能力が30上昇する=All abilities of the style are increased by 30
+スタイルの全能力が35上昇する=All abilities of the style are increased by 35
+スタイルの全能力が40上昇する=All abilities of the style are increased by 40
+スタイルの全能力が45上昇する=All abilities of the style are increased by 45
+スタイルの全能力が50上昇する=All abilities of the style are increased by 50
+スタイルの全能力が55上昇する=All abilities of the style are increased by 55
+スタイルの全能力が60上昇する=All abilities of the style are increased by 60
+全能力 +15=All abilities +15
+全能力 +20=All abilities +20
+全能力 +25=All abilities +25
+全能力 +30=All abilities +30
+全能力 +35=All abilities +35
+全能力 +40=All abilities +40
+全能力 +45=All abilities +45
+全能力 +50=All abilities +50
+全能力 +55=All abilities +55
+全能力 +60=All abilities +60
+スタイルのDPが200上昇する=Style DP increases by 200
+スタイルのDPが250上昇する=Style DP increases by 250
+スタイルのDPが300上昇する=Style DP increases by 300
+スタイルのDPが350上昇する=Style DP increases by 350
+スタイルのDPが400上昇する=Style DP increases by 400
+スタイルのDPが450上昇する=Style DP increases by 450
+スタイルのDPが500上昇する=Style DP increases by 500
+スタイルのDPが550上昇する=Style DP increases by 550
+スタイルのDPが600上昇する=Style DP increases by 600
+スタイルのDPが650上昇する=Style DP increases by 650

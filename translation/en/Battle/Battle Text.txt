@@ -1,0 +1,18 @@
+﻿最大ダメージ更新！=Maximum damage update!
+SP回復+2=SP Recovery +2
+その他=Miscellaneous
+ゲージ1段階以上=Gauge 1 level or higher
+ゲージ2段階以上=Gauge 2 steps or higher
+ゲージ3段階=Gauge 3 levels
+発動しない=Not triggered
+
+-----
+通常攻撃攻撃力上昇=Normal Attack Power Increased
+通常攻撃火属性付与=Normal Attack Fire Attribute Granted
+通常攻撃雷属性付与=Normal Attack Thunder Attribute Granted
+通常攻撃氷属性付与=Normal Attack Ice Attribute Granted
+通常攻撃光属性付与=Normal Attack Light Attribute Granted
+通常攻撃闇属性付与=Normal Attack Dark Attribute Granted
+敵から攻撃を受けると : トークン+1=When attacked by an enemy: Token +1
+敵から攻撃を受けると : トークン+2=When attacked by an enemy: Token +2
+味方全体の雷スキル攻撃力+10%=Thunder Skill Attack Power of All Allies +10%

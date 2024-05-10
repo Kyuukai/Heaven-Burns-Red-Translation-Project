@@ -1,0 +1,58 @@
+﻿Characters
+--------------------
+[Aoi Erika]
+テストで必ず１００点を取れる天才少女。\n３１Ｂの部隊長だが、自分に自信がなくいつもおどおどとしている。\n同じ３１Ｂのビャッコの存在だけが心のよりどころ。\nよくぽかーんと呆けてしまう。=A genius girl who always scores 100 points on a test. \nShe is the commander of 31B, but she lacks confidence and is timid. \nThe existence of Byakko, who's also in 31B, is the only source of strength for my heart. \nI often find myself daydreaming.
+
+<style\=RubyPrefixTag></style>\n蒼井<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>あおい</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style> えりか<space\=-117.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=117px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nAoi<space\=42.905px><style\=RubySuffixTag></style> Erika<space\=-117.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=117px><style\=RubySuffixTag></style>
+ 特殊な能力を持つ健気な部隊長= A strong squad leader with special abilities
+CV : 宮下早紀 =CV: Saki Miyashita 
+-------------
+[Izumi Yuki]
+CV : 前川涼子 =CV : Ryoko Maekawa 
+ ハッカー集団『オーキッド』所属の天才ハッカー= Genius hacker belonging to the hacker group "Orchid
+<style\=RubyPrefixTag></style>\n和泉<space\=-92.41px><voffset\=1em><size\=30%><cspace\=0px>いずみ</cspace></size></voffset><space\=63.6px><style\=RubySuffixTag></style> ユキ<space\=-78.00999px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=77.99999px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nIzumi Yuki
+
+ハッカー集団『オーキッド』に所属していた、第三次世界大戦を防いだ実績を持つ天才ハッカー。\nボケだらけの31Aの中では唯一の常識人で、ツッコミ役を一手に担う。\n茅森が所属していた伝説的バンド『She is Legend』のファン。\nセラフ部隊に入ってからは茅森に振り回されつつも親身に支える。=A member of the hacker group "Orchid," she is a genius hacker with a track record of preventing World War III. She is the only person with common sense among the 31A's, which are full of idiots, and takes on the role of a comedian. She is a fan of the legendary band "She is Legend," of which Kayamori was a member. After joining the seraph unit, she is pushed around by Kayamori, but also provides her with friendly support.
+<style\=RubyPrefixTag></style>\n和泉<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>いずみ</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style> ユキ<space\=-78.00999px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=77.99999px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nIzumi Yuki
+
+-------
+[Karen Asakura]
+CV : 芹澤優 =CV : Yuu Serizawa 
+ FPSが得意なゲーマーであり、殺人鬼でもある二重人格者= Dual personality, a gamer who excels at FPS and a murderer.
+<style\=RubyPrefixTag></style>\n朝倉<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px>あさくら</cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style> 可憐<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>かれん</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nKaren Asakura
+
+FPSが得意なゲーマー少女。その容姿通りの可愛らしい性格。\nゲームをプレイし続けられる理由から、片手で食べられるジャンクフードを好む。\n新生『She is Legend』でツインボーカルの一翼を担う。=She is a gamer girl who is good at FPS. Her personality is as cute as her appearance. She prefers junk food that she can eat with one hand for the reason that it keeps her playing games. She is one of the twin vocalists in the new "She is Legend.
+-----------
+[Megumi Aikawa]
+CV : 伊波杏樹 =CV : Anju Iha 
+ 関西の自称天才サイキッカー= Self-proclaimed genius psychic in Kansai
+<style\=RubyPrefixTag></style>\n逢川<space\=-118.775px><voffset\=1em><size\=30%><cspace\=0px>あいかわ</cspace></size></voffset><space\=37.23499px><style\=RubySuffixTag></style> めぐみ<space\=-117.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=117px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nMegumi Aikawa
+
+関西出身の勝気なサイキック少女。\n超能力を扱えるが、その力は未知数。というか、セラフ部隊に入ってからは特に役に立っていない。\nしかし自分が世界を救う救世主であると信じている。\n同世代で天才としてもてはやされていた茅森に対して勝手にライバル意識を持っている。=She is a winsome psychic girl from Kansai. She can handle psychic powers, but her power is unknown. In fact, she has not been particularly useful since joining the seraph corps. However, she believes that she is the savior who will save the world. She has a sense of rivalry with Kayamori, who was a much admired genius of her generation.
+--------------------------
+[Ruka Kayamori]
+CV : 楠木ともり =CV : Tomori Kusunoki 
+ 伝説的バンド『She is Legend』の天才ボーカリスト= Vocal prodigy of the legendary band "She is Legend".
+<style\=RubyPrefixTag></style>\n茅森<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px>かやもり</cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style> 月歌<space\=-101.41px><voffset\=1em><size\=30%><cspace\=0px>るか</cspace></size></voffset><space\=54.59999px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nRuka Kayamori
+
+伝説的ロックバンド『She is Legend』の元ギター＆ボーカル。\n作詞作曲もこなし、メジャーデビューアルバムはその年の新人賞を総なめ。天才という言葉をほしいままにした。\nひたすら音楽が好きで、31Aの六人で新生『She is Legend』を結成してしまう。\n脳天気で、仲間思いで、時たま根性を見せる。=Former guitarist and vocalist of the legendary rock band "She is Legend. He also wrote lyrics and composed music, and his major label debut album won all the newcomer awards that year. He was a genius, and he was a genius in every sense of the word. He loves music so much that he formed the new "She is Legend" with the six members of 31A. She is a brainy, friendly, and sometimes gutsy person.
+---------------
+CV : 天海由梨奈 =CV : Yurina Amami 
+ ポンコツ美少女諜報員= Clunky beautiful girl secret agent
+<style\=RubyPrefixTag></style>\n東城<space\=-117.835px><voffset\=1em><size\=30%><cspace\=0px>とうじょう</cspace></size></voffset><space\=38.175px><style\=RubySuffixTag></style> つかさ<space\=-117.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=117px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nToujo Tsukasa
+
+完璧な外見を持つ、自称エリート諜報員。\nしかし、どこからどう見ても中身はポンコツ諜報員。\nただ、役に立たない情報だけは無駄に詳しい。\n同じ31Aの朝倉可憐に美肌のコツを教えては、悦に入っている。=A self-proclaimed elite intelligence officer with a perfect appearance. However, she is a clunker on the inside, no matter how you look at it. However, she only knows a lot of useless information. She takes great pleasure in teaching the secret of beautiful skin to Karen Asakura, who is also in 31A.
+ / Vo. : 鈴木このみ = / Vo. : Konomi Suzuki 
+
+-----------
+[Tama Kunimi]
+CV : 古賀葵 =CV : Aoi Koga 
+ 戦艦の頭脳としてデザインされたちびっ子艦長= A little captain designed to be the brains of a battleship.
+<style\=RubyPrefixTag></style>\n國見<space\=-93.93999px><voffset\=1em><size\=30%><cspace\=0px>くにみ</cspace></size></voffset><space\=62.06999px><style\=RubySuffixTag></style> タマ<space\=-78.00999px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=77.99999px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nTama Kunimi
+
+こんな見た目で戦艦の元艦長。オホーツク海で敗れ去った。\n天然ボケな性格だが、自覚はない。\nいつも庇ってくれる同じ31Aの逢川めぐみを慕っている。\n背が低いことをコンプレックスに感じている。=She was a former captain of a battleship with this appearance. He was defeated in the Sea of Okhotsk. She is a natural idiot, but she is unaware of it. She is always looking up to Megumi Aikawa, also a 31A student, who is always there to protect her. She feels complex about her short stature.
+----------
+[Terms]
+所属部隊=Affiliated Unit
+誕生日=Birthday
+出身地=Birthplace

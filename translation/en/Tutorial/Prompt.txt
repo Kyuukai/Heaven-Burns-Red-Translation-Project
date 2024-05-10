@@ -1,0 +1,114 @@
+﻿<style\=RubyPrefixTag></style>\n第二章クリアで解放されます=<style\=RubyPrefixTag></style>\nIt will be unlocked after clearing the second chapter.
+チュートリアル終了=End of tutorial
+<style\=RubyPrefixTag></style>\nゲームを終了しますか？=<style\=RubyPrefixTag></style>\nDo you want to exit the game?
+
+[Movement]
+<style\=RubyPrefix></style>移動には スワイプとフリック <cspace\=0.2em>2</cspace>種類の方法があります=<style\=RubyPrefix></style>There are two ways to move: swipe and flick.
+<style\=RubyPrefix></style>画面をすばやくフリックすると 指定の方向に移動しつづけます=<style\=RubyPrefix></style><size\=28>A flick of the screen will keep you moving in the specified direction.</size>
+-----------------
+<style\=RubyPrefix></style>フィールド上の矢印をタップすると 宿舎に移動できます=<style\=RubyPrefix></style>Tap the arrows on the field to move to the inn.
+------------------
+<style\=RubyPrefix></style>宿舎入口で矢印をタップし メイン通りに向かいましょう\n（矢印の近くで 画面フリックでも移動できます）=<style\=RubyPrefix></style><size\=28>Tap the arrow at the entrance of the dorm to go to Main Street\n(You can also move by flicking the screen near the arrow)</size>
+<style\=RubyPrefix></style>矢印をタップし メイン通りに向かいましょう\n（画面フリックでも移動できます）=<style\=RubyPrefix></style>Tap the arrows to go to Main Street\n(You can also flick the screen)
+---------------------
+<style\=RubyPrefix></style>画面右上のミニマップをタップしましょう=<style\=RubyPrefix></style>Tap the mini-map in the upper right corner of the screen!
+<style\=RubyPrefix></style>旗アイコンが次の目的地を示しています=<style\=RubyPrefix></style>A flag icon indicates next destination
+<style\=RubyPrefix></style>画面右上のボタンで マップを閉じることができます=<style\=RubyPrefix></style><size\=90%>Close the map by clicking the <color\=#D184E7>X</color> in the corner of the screen</size>
+------------
+<style\=RubyPrefixTag></style>\n攻略を進めると、ヘリを使えるようになります=<style\=RubyPrefixTag></style>\nAs you progress through the strategy, you will be able to use the helicopter
+--------------
+<style\=RubyPrefixTag></style>\n適性試験に合格すると、ヘリを使えるようになります=<style\=RubyPrefixTag></style>\nIf you pass the aptitude test, you will be able to use the helicopter
+-----------
+<style\=RubyPrefix></style>自由時間では マップから\n基地内の各ポイントへ ショートカット移動できます=<style\=RubyPrefix></style>During your free time, you can take shortcuts\nfrom the map to each point within the base
+
+*************************
+[Arena]
+<style\=RubyPrefix></style>アリーナで訓練してみましょう=<style\=RubyPrefix></style>Let's train in the arena
+---------
+<style\=RubyPrefix></style>自由時間にアリーナへ訪れると <cspace\=0.2em>1</cspace>日<cspace\=0.2em>1</cspace>回経験値アイテムがもらえます=<style\=RubyPrefix></style><size\=85%>If you visit the arena during free time, you'll receive experience items once a day</size>
+
+
+
+**********************
+[Battle]
+<style\=RubyPrefix></style>攻撃をして まずは<cspace\=0.2em>1</cspace>段階目の\n青いゲージ（<cspace\=0.2em>DP</cspace>）を削りきりましょう=<style\=RubyPrefix></style><size\=24>Let's attack and cut off the blue gauge (DP) in the 1st stage.</size>
+<style\=RubyPrefix></style><cspace\=0.2em>1</cspace>段階目のゲージ（<cspace\=0.2em>DP</cspace>）を削り切ると\n敵はブレイク状態になり <cspace\=0.2em>1</cspace>ターンダウンします=<style\=RubyPrefix></style><size\=24>When the gauge of the first stage (DP) is cut off\nthe enemy enters a break state and turns down.</size>
+<style\=RubyPrefix></style>このボタンで バトルスピードを変更できます=<style\=RubyPrefix></style><size\=28>This button lets you to change the battle speed.</size>
+<style\=RubyPrefix></style>部隊は 前衛と後衛にわかれて戦います\n<cspace\=0.2em>DP</cspace>の少ないメンバーを後衛に下げて 敵からのダメージを避けましょう=<style\=RubyPrefix></style><size\=29>The troops are divided into vanguard and rear guard.\nMove members with low DP to the rear guard to avoid damage from enemies.</size>
+<style\=RubyPrefix></style>メンバーを順に選択すると 並び順を変えられます=<style\=RubyPrefix></style><size\=28>You can change the order of the members by\nselecting them in the order you want.</size>
+<style\=RubyPrefix></style>ターンの開始時 <cspace\=0.2em>SP</cspace>は<cspace\=0.2em>2</cspace>ずつ回復します\n<cspace\=0.2em>SP</cspace>を使って スキルを発動してみましょう=<style\=RubyPrefix></style><size\=26>At the start of the turn, SP will recover one by one.</size>
+<style\=RubyPrefix></style>ブレイク状態の敵に攻撃すると\n与えられるダメージが 徐々に増えていきます=<style\=RubyPrefix></style><size\=32>The damage dealt to an enemy in a\nbroken state will gradually increase.</size>
+<style\=RubyPrefix></style><cspace\=0.2em>1</cspace>段階目のゲージ（<cspace\=0.2em>DP</cspace>）は\n<cspace\=0.2em>0</cspace>にならない限り スキルなどで回復可能です=<style\=RubyPrefix></style><size\=26>The gauge of the first stage (DP) can be recovered\nby skills or other means as long as it does not reach 0.</size>
+<style\=RubyPrefix></style><cspace\=0.2em>0</cspace>になると <cspace\=0.2em>2</cspace>段階目のゲージ（<cspace\=0.2em>HP</cspace>）にダメージを受けてしまいます\n<cspace\=0.2em>HP</cspace>は回復できないので注意しましょう=<style\=RubyPrefix></style><size\=30>If it does reach 0, you'll receive damage toward the gauge of\nthe second stage (HP). Be careful as HP cannot be recovered.</size>
+<style\=RubyPrefix></style><cspace\=0.2em>HIT</cspace>数に応じて<cspace\=0.2em>OVERDRIVE</cspace>ゲージが溜まっていきます\n蓄積することで 特殊なモードに入ることができます=<style\=RubyPrefix></style><size\=28>The OVERDRIVE gauge will fill up according to the number of hits.\nBy accumulating them, you can enter a special mode.</size>
+<style\=RubyPrefix></style>右側の敵は 回復をしてくるようです=<style\=RubyPrefix></style><size\=25>The enemy on the right seems to be recovering.</size>
+<style\=RubyPrefix></style>敵をタップしてターゲットを変更し\n狙いを定めてスキルを使いましょう=<style\=RubyPrefix></style><size\=25>Tap the enemy to change the target,\naim, and use your skills!</size>
+<style\=RubyPrefix></style>味方⇒敵の順にタップすることで\n個別にターゲットを指定することもできます=<style\=RubyPrefix></style><size\=28>By tapping in the order of allies ⇒ enemies\nYou can also specify targets individually</size>
+<style\=RubyPrefix></style>前衛の並びは 攻撃順に影響します\n前衛同士の並び替えも試してみましょう=<style\=RubyPrefix></style><size\=24>The arrangement of the vanguard will affect the\nattack order, so try rearranging the vanguard as well.</size>
+----------------------
+<style\=RubyPrefix></style>このボタンで オートモードにできます=<style\=RubyPrefix></style>This button allows for auto mode
+<style\=RubyPrefix></style><cspace\=0.2em>FULL</cspace>を選ぶと すべてのスキルを使って戦います=<style\=RubyPrefix></style>Select <cspace\=0.2em>FULL</cspace> to fight with all your skills
+<style\=RubyPrefix></style><cspace\=0.2em>NORMAL</cspace>を選ぶと 回数制限のあるスキルを温存します=<style\=RubyPrefix></style>Select <cspace\=0.2em>NORMAL</cspace> to preserve a limited number of skills
+<style\=RubyPrefix></style>スキル選択時の【<cspace\=0.2em>AUTO</cspace> <cspace\=0.2em>CONFIG</cspace>】からチェックを外すと\n使わないスキルを個別設定もできます=<style\=RubyPrefix></style>You can also set individual skills that you don't use\nby unchecking them from the【<cspace\=0.2em>AUTO</cspace> <cspace\=0.2em>CONFIG</cspace>】box.
+
+**********************
+[Styles]
+バトルを繰り返すと、キャラクターの<cspace\=0.2em>Lv</cspace>が上がります。=Repeated battles will increase the character's level.
+<style\=RubyPrefixTag></style>\nバトルを繰り返すと、キャラクターの<cspace\=0.2em>Lv</cspace>が上がります。=<style\=RubyPrefixTag></style>\nRepeated battles will increase the character's level.
+さらに重要なのが、戦い方の可能性【スタイル】です。=Even more important are the fighting possibilities [Style].
+【スタイル】を装備すると、キャラクターの能力が大幅にアップします。=Equipping a [Style] greatly increases a character's \nabilities.
+【スタイル】は、バトルで入手したアイテムで強化できます。さっそく試してみましょう。=A [Style] can be enhanced with items obtained in battle.\nLet's try it out right away.
+------------------------------------------
+強化でスキルなどを覚えると、装備スタイルを変えても引きつづき使用できます。=<space\=-0.7372px><voffset\=0.4em><cspace\=0px><size\=89%>When skills and other skills are learned through\nreinforcement, they can continue to be used even\nif the equipment style is changed.</size></cspace></size></voffset>
+ただし、一部スタイル専用の能力もあるので注意しましょう。=Note, however, that some abilities are exclusive\Nto certain styles.
+----------------------------------------
+<style\=RubyPrefix></style>様々なスタイルを強化して\nより強い部隊を目指していきましょう=<style\=RubyPrefix></style><size\=30>Let's strengthen various styles\nto achieve stronger troops!</size>
+-------------------------
+ガチャで【スタイル】を入手できます。=You can get [Styles] in gacha.
+【スタイル】入手と同時に、新メンバーが加わることもあります。=New members may be added when a [Style] is obtained.
+入手済みの場合【スタイル】を大幅に強化できる\n素材【ピース】が手に入ります。=If you have already obtained it, you will get a material\n[Piece] that can greatly enhance your [Style].
+-----------------------------
+<style\=RubyPrefix></style>まずはガチャを引いてみましょう=<style\=RubyPrefix></style>Let's start by pulling a gacha.
+<style\=RubyPrefix></style>【スタイル】を入手しました\n入れ替えることで 戦力を強化できます=<style\=RubyPrefix></style><size\=29>We've got a new [style] that we can\n swap in and out to strengthen our forces.</size>
+<style\=RubyPrefix></style>新しく手に入れたスタイルで 部隊編成をしてみましょう=<style\=RubyPrefix></style>Let's form our troops in our newly acquired style.
+<style\=RubyPrefix></style>おすすめ編成をすると 強力なスタイルを優先して\n部隊を組むことができます=<style\=RubyPrefix></style><size\=30>The recommended formation allows you to\nprioritize the most powerful styles for your troops.</size>
+<style\=RubyPrefix></style>おすすめ編成によって 強力な部隊が編成されました=<style\=RubyPrefix></style><size\=30>A powerful force has been assembled according\n to the recommended specifications</size>
+------------------------------
+<style\=RubyPrefix></style>アイテムを使っての強化は 部隊画面から行えます=<style\=RubyPrefix></style><size\=85%>Strengthening using items can be done from the unit screen</size>
+<style\=RubyPrefix></style>強化アイテムはここから使用できます\nメンバーを強化した上で アリーナでの戦いに臨みましょう=<style\=RubyPrefix></style>You can use items here to strengthen your\nteam members before battling in the arena
+<style\=RubyPrefix></style>アリーナで得られる<cspace\=0.2em>GP</cspace>は 基地内で通貨として使えます\n自由時間のうちに 獲得しておきましょう=<style\=RubyPrefix></style><size\=85%>GP earned in the arena can be used as currency within the base,\nMake sure to earn it during your free time</size>
+
+-------------------------
+****************************
+[Menu]
+<style\=RubyPrefix></style>スタイルを強化してみましょう\n画面左下のボタンで <cspace\=0.2em>MENU</cspace>を開けます=<style\=RubyPrefix></style><size\=27>Let's enhance your style, open the MENU\nwith the button at the bottom left of the screen</size>
+--
+<style\=RubyPrefix></style>習得ボタンを押すと 強化内容を確認できます=<style\=RubyPrefix></style><size\=28>Press the <color\=#D184E7>Learn</color> button to see the enhancements.</size>
+<color\=#f4c64b>1</color> PDMG to enemies within <color\=#f4c64b>3</color>
+<style\=RubyPrefix></style>スタイルを強化できました\n戻るボタンを押しましょう=<style\=RubyPrefix></style><size\=26>Now that we've enhanced the\nstyle, let's hit the back button.</size>
+<style\=RubyPrefix></style>画面に表示されている端末の外側をタップすると\nメニューを閉じることができます=<style\=RubyPrefix></style>Tap outside the terminal on the screen to close the menu
+------------
+<style\=RubyPrefix></style>このボタンで 次の目的地までオート移動できます\n（画面タップでキャンセルできます）=<style\=RubyPrefix></style><size\=26>This button allows you to auto-move to the next destination.\n(Tap the screen to cancel)</size>
+------------------
+プレイヤープロフィールでは自分だけのプロフィールカードを作成することができます。\nプロフィールへはデンチョから遷移できます。=In the Player Profile section, you can create your own<br>profile card. You can access your profile from Dencho.
+編集ボタンを押下すると内容が変更できます。\n各種項目を自分好みに仕上げましょう。=Click the Edit button to change the contents.\nMake the various items to your liking.
+プロフィールは保存ボタンから画像を保存できます。\n<cspace\=0.2em>SNS</cspace>などで画像を共有し、是非周りの友達にこだわりのプロフィールを見てもらいましょう。=Profiles can save images from the Save button.\n<cspace\=0.2em>SNS</cspace>We encourage you to share your images with your friends and colleagues and let them see your particular profile.
+<style\=RubyPrefixTag></style>\nプロフィールは保存ボタンから画像を保存できます。\n<cspace\=0.2em>SNS</cspace>などで画像を共有し、是非周りの友達にこだわりのプ\r\nロフィールを見てもらいましょう。=<style\=RubyPrefixTag></style>\nYou can save your profile by clicking the save button.\nShare the image on social networking sites and let your\nfriends around you see your profile.
+------------
+<style\=RubyPrefix></style>設定画面でキーコンフィグすることが出来ます=<style\=RubyPrefix></style><size\=28>Key configuration can be done in the settings screen</size>
+<style\=RubyPrefix></style>ここで使用できるキーの一覧を確認しましょう=<style\=RubyPrefix></style>Check the list of available keys here
+-------------
+メッセージが届くと、メッセージアイコンが表示されます。=When a message arrives, a message icon appears.
+メッセージアイコンをタップして、メッセージ内容を確認しましょう。=Tap the message icon to see the message content.
+--------------
+<style\=RubyPrefix></style>プロフェッサー制度により 自由なメンバーでチーム編成できます=<style\=RubyPrefix></style>The professor system lets us organize a team with any member.
+
+<style\=RubyPrefix></style>午後の訓練に備えて チームを整えておきましょう=<style\=RubyPrefix></style>Let's get a team ready for this afternoon's drill.
+*******************************
+[Home]
+<style\=RubyPrefix></style>ヘブンバーンズレッドの世界へようこそ！=<style\=RubyPrefix></style><size\=30>Welcome to the world of Heaven Burns Red!</size>
+<style\=RubyPrefix></style>ここ「ホーム」には ゲームをプレイするための\n便利な機能が集まっています=<style\=RubyPrefix></style><size\=34>At "Home", you'll find a variety of\nuseful functions for playing the game</size>
+<style\=RubyPrefix></style>まずは ギフトを受け取ってみましょう=<style\=RubyPrefix></style>First, let's accept the gift.
+<style\=RubyPrefix></style>受け取ったギフトを使って ガチャを引いてみましょう=<style\=RubyPrefix></style>Use the gift you received to pull off a gacha!
+<style\=RubyPrefix></style>メンバーは 物語中のバトルでレベルアップします\n育成したいチームを 事前に組んでおきましょう=<style\=RubyPrefix></style><size\=24>Members will level up through battles during the story,\nso be sure to set up the team you want to train before you start.</size>
+<style\=RubyPrefix></style>準備を整えたら ここから\nヘブンバーンズレッドの物語をはじめましょう=<style\=RubyPrefix></style><size\=30>Here you can start the story of\nHeaven Burns Red whenever you are ready</size>

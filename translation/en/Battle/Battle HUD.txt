@@ -1,0 +1,31 @@
+﻿[Fight]
+通常攻撃=Normal Attack
+攻撃スキル=Offensive Skill
+アビリティ=Ability
+行動開始=Engage
+
+
+[Navigation]
+スキル選択=Skill Selection
+対象を選択=Select Target
+メンバー選択=<size\=22> Member Selection</size>
+敵ターゲット選択=<size\=22> Enemy Target Selection</size>
+
+[Other]
+状態変化詳細=State Change Details
+オート詳細設定=Auto Advanced Settings
+オーバードライブ自動発動=Overdrive Auto-Activation
+[モードFULL] 選んだメンバーは攻撃力アップ×2以上で攻撃スキルを使う=[Mode FULL] Selected member uses attack skill with attack power up x 2 or more.
+[モードFULL] 専用攻撃スキルを優先して使う（回復/バフ/防御デバフ等は除く）=[Mode FULL] Priority is given to dedicated attack skills (excluding recovery/buff/defensive debuff, etc.).
+
+
+[Confirmation]
+特になし=None
+キャンセル=Cancel
+決定=Accept
+再戦する=Rematch
+やめる=Stop
+撤退=Withdraw
+再戦しますか？=Do you want to Rematch?
+デフォルトに戻す=<size\=22>Reset to Default</size>
+すべてはずす=<size\=24>Remove All</size>

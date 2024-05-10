@@ -1,0 +1,52 @@
+﻿アイテム=Item
+売却=Sell
+アリーナ\n探検（メインストーリー）=Arena\nExploration (Main Story)
+殻石=Shell Stone
+ピース=Pieces
+成長素材=Growth
+チップ=Chips
+ブースター=Boosters
+変換=<size\=28>Convert</size>
+キャンサーから入手できるスタイル強化用の素材です=Materials for style enhancement available from Cancer.
+合成=Synthesize
+アクセサリを所持していません=No accessories in possession
+
+[Accessories]
+アクセサリ順=Sort
+ブースターを所持していません=Does not possess a booster.
+
+[Booster]
+ブースター順=Sort
+チップを所持していません=Not in possession of chip.
+
+[Chip]
+チップ順=Sort
+成長素材を所持していません=No growth material in possession.
+ピースを所持していません=No pieces in possession
+変換可能なスタイルピースを所持していません=Does not possess a convertible style piece
+ピースポイント変換=Peace point conversion
+万能ピース変換=Universal Piece Conversion
+スタイルピース変換=Style Piece Conversion
+※変換すると元には戻せません=Once converted, it cannot be undone.
+余剰のスタイルピースを万能ピースに変換しますか?=Convert a surplus style piece into an all-purpose piece?
+未使用=Unused
+使用済=No Longer Used
+未所持=Not Owned
+所持済=Already Owned
+所持状況=Possession Status
+非ロック中=Unlocked
+ロック中=Locked
+ロック=Lock
+装飾部位=Ornamental Part
+上限未到達=Upper Limit Not Reached
+上限到達済み=Upper Limit Reached
+キャラLv.=Character Lv.
+武器属性=Weapon Attributes
+元素属性=Elemental Attribute
+クリティカル率=Critical Rate
+効果アップ=Increased Effect
+専用ピースのみ=Dedicated piece only
+ロール=Roll
+レアリティ=Rarity
+並べ替え=Sort
+絞り込み=Filter

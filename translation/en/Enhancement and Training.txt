@@ -1,0 +1,22 @@
+はじめから=Start
+プリズムバトル=Prism Battle
+宝石プリズム=Jewel Prism
+-------------
+スコアアタック=Score Attack
+開始する=Start
+イベントストーリーの強敵が\nスコアアタックに登場！\n高難易度やミッションをクリアして\nS以上確定ガチャチケットや\nジェネライズ素材をGETしよう=A powerful enemy from the event story appears in Score Attack !\nClear high difficulty levels and missions to get Materials and S Rank or above Gacha Tickets
+---------------
+ダンジョン=Dungeon
+オーブボス=Orb Boss
+超上級者ミッション=Super Advanced Mission
+時の修練場=Hyperbolic Time Chamber
+記憶の庭へ=Garden of Memories
+オススメコンテンツ=Recommended Content
+恒星掃戦線=Solraker Front
+
+限界突破の器=LimitBreaking Vessel
+ミッションへ=Missions Tab
+限界突破の器に溜まった力を消費してSSスタイルを限界突破することができます。\n限界突破2段階目までは100%消費、3段階目以降は200%消費して限界突破が可能です。=You can use the power accumulated in the Limit Breaking Vessel to break through the SS style. \nIt is possible to LimitBreak by consuming 100% up to the 2nd stage, and 200% from the 3rd stage onwards.
+限界突破へ=Go to LimitBreaking Vessel
+
+宝石で【★6アクセサリ】を錬成しよう！\n特に【通常攻撃に元素属性を付加】するブレスや【DPを激増】させるピアスは必需品だ！=Let's make [★ 6 Accessories] jewelry!\nIn particular, bonuses that [adds elemental attributes to normal attacks] and earrings that [DP increased dramatically] are recommended!

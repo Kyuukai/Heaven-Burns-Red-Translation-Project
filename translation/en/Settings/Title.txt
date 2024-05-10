@@ -1,0 +1,48 @@
+﻿[Navigation]
+閉じる=Close
+
+[Data]
+データ引き継ぎ=Data Transfer
+引継ぎID未設定/紛失=Forgot Transfer ID
+セーブデータ修復=Restore Saves
+キャッシュクリア=Clear Cache
+<style\=RubyPrefixTag></style>\nサウンドのキャッシュを削除します。\nよろしいですか？=<style\=RubyPrefixTag></style>\nDelete sound cache. \nAre you sure?
+----------
+<style\=RubyPrefixTag></style>\n現在進行中のDay進捗や、省電力周回中の情報を削除し\n強制的にホームから開始します。\nエラーで進めなくなったときにお試しください。=<style\=RubyPrefixTag></style>\nDelete the current progress of the day and the information about the power saving cycle.\nForces the game to start from Home.\nPlease try this when you cannot proceed due to an error.
+
+[Network]
+一括ダウンロード=Bulk Download
+<style\=RubyPrefixTag></style>\nアセットの一括ダウンロードを実行しますか？=<style\=RubyPrefixTag></style>\nDo you want to download the rest of the game's assets?
+<style\=RubyPrefixTag></style>\nインターネット接続が確認できませんでした。\n接続状況を確かめてください。=<style\=RubyPrefixTag></style>\nInternet connection could not be verified. Please check your connection status.
+----------------
+アセット再取得=Asset Redownload
+頻繁にアプリが強制終了する方や、文字化けなどの不具合が発生する方は\r\n以下のボタンからアセットを再取得してください。\r=If the app frequently force closes or if you experience problems,\r\nPlease re-obtain the assets using the button below.\r
+※セーブデータは消去されません。\r\n※アセットの再取得に時間がかかるため、Wi-Fi環境をおすすめします。\n※アセットの再取得をしても不具合が解消されない場合は、運営までお問い合わせください。=※Save data will not be deleted. \r\n※We recommend a Wi-Fi environment as it takes time to redownload assets. \n※If the problem is not resolved even after reacquiring the asset, please contact the support.
+アセットを再取得する=Redownload Assets
+
+[Notice/Contact]
+
+利用規約等=Terms and Conditions
+ライセンス=License
+お知らせ一覧=List of Notices
+よくある質問=FAQ
+応援レビュー=Support Review
+お問い合わせ=Contact Us
+
+[Purchase]
+年齢別購入可能金額=Purchase Limit by Age
+アプリ専用通貨等の購入は、年齢別に購入可能金額が設定されています。=The amount that can be purchased for app-specific currency is set by age.
+1ヶ月の購入可能金額=1 month purchase amount
+制限なし=No Limit
+18歳以上=18 years old +
+10,000円 まで=Up to 10,000 Yen
+16歳～17歳=16 to 17 years old
+5,000円 まで=Up to 5,000 Yen
+0歳～15歳=0 to 15 years old
+
+[Account]
+タップしてIDを表示=Tap to display ID
+アカウント削除=Delete Account
+アカウントを削除する=Delete Your Account
+削除されたアカウントは二度と戻すことができません。=Deleted accounts can never be recovered.
+アカウント削除を行うと、\n\r最初から「ヘブンバーンズレッド」を始める事ができます。=If you delete your account,\n\rYou can start playing "Heaven Burns Red" from the beginning.

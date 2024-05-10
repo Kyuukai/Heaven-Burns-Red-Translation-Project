@@ -1,0 +1,150 @@
+﻿ゲーム設定=Game Settings
+標準=Normal
+表示=Show
+非表示=Hide
+カメラ=At Camera
+
+[Speed]
+・オート詳細設定=Auto Advanced Settings
+・オート=Auto
+2倍速=2X Speed
+通常=Normal
+・速度=Speed
+バトル=Battle
+
+[Graphics]
+
+・ノベル解像度=Novel Resolution
+高=High
+中=Medium
+低=Low
+・シャドウ品質=Shadow Quality
+・アンチエイリアス=Anti-aliasing
+・垂直同期=V-Sync
+高画質=High Definition
+標準画質=Standard
+低画質=Low
+※高画質はGPU負荷が高くなります=*High image quality is GPU-intensive.
+・画質=Image Quality
+
+
+[Sound]
+サウンド設定=Sound Settings
+全体音量設定=Overall Volume Setting
+個別音量設定=Individual Volume Setting
+・ボイスの継続再生=Continuous Voice Playback
+※ONの場合、音声の再生中に次の文章に進んでも再生を続けます=*When ON, playback continues even if you move on to the next sentence during audio playback.
+
+<size\=40>BGM</size>（バックミュージック）=<size\=40>BGM</size> (Background Music)
+<size\=40>SE</size>（効果音）=<size\=40>SE</size> (Sound Effects)
+<size\=40>SYSTEM</size>（システム音）=<size\=40>SYSTEM</size> (System SE)
+<size\=40>VOICE</size>（キャラクターボイス）=<size\=40>VOICE</size> (Character Voice)
+<size\=40>ENV</size>（環境音）=<size\=40>ENV</size> (Ambient Noise)
+<size\=40>MASTER</size>（マスターボリューム）=<size\=40>MASTER</size> (Overall Volume)
+
+[Camera]
+・カメラ操作 上下=Camera Operation Up/Down
+ノーマル=Normal
+リバース=Reverse
+・カメラ操作 左右=Camera Operation Left/Right
+・カメラ操作の感度=・ Camera Operation Sensivity
+
+[Data Transfer]
+データ引き継ぎ設定=Data Transfer Settings
+・データ引き継ぎ=Data Transfer
+データ引き継ぎを設定する=Set up data transfer
+
+[Controls]
+キーボード＆マウス=Keyboard & Mouse
+・キーコンフィグ=Key Configuration
+キーボード操作時のキーの設定を行います=Set the keys for keyboard operation.
+・マウスカーソルサイズ=Mouse Cursor Size
+小=Small
+大=Large
+・マウススクロールの感度=Mouse Scroll Sensitivity
+コントローラ=Controller
+・十字キーでカーソルを移動する=Move the cursor with the four-way controller.
+※OFFの場合、ショートカットキーを割り当てます=*When OFF, assign a shortcut key
+・バトル中の操作を以前の操作に戻す=Restore previous operation during battle
+・ジオラマ編集中のポインター速度=Pointer speed during diorama editing
+連続入力の速度設定=Speed setting for continuous input
+・連続入力開始までの長押し時間=Long Press to Start Continuous Input
+・連続入力の間隔=Continuous Input Interval
+※カーソル移動や個数選択の速度が変わります=The speed of cursor movement and selection of the number of pieces will change.
+
+[Other Settings]
+・未読テキストもスキップする=Skip Unread Text
+※スキル選択や敵の照準の操作を以前のバージョン互換に戻します=*Skill selection and enemy targeting controls will be returned to the previous version 
+
+
+[Spend Settings]
+・使いすぎアラート=Overuse Alert
+※1か月の購入額が10万円を超える場合アラートを表示します=*Alerts when purchases in a month exceed 100,000 Yen ($633 USD)
+
+[Formation]
+・編成制限ダイアログ=Organization Restrictions Dialog
+※編成がストーリーと乖離する場合お知らせします=*We will let you know if the composition deviates from the story.
+・ダンジョンでバトル終了時に部隊の並び順を保存する=Save the order of troops at the end of battle in dungeons
+・メンバー6を選択=Select Member 6
+・メンバー5を選択=Select Member 5
+・メンバー4を選択=Select Member 4
+・メンバー3を選択=Select Member 3
+・メンバー2を選択=Select Member 2
+・メンバー1を選択=Select Member 1
+
+[Misc]
+・動画の再生=・ Video Playback
+・初期設定=Initial Settings
+初期設定に戻す=Restore Default Settings
+タイトル画面に戻る=Return to Title Screen
+・タイトル画面=Title Screen
+・ダイアログ内チェックボックス=Checkboxes in the Dialog
+・レベルアップ/転生=Level up/Transfer
+・最大数を選択=Select Maximum Number
+・詳細の表示=View Details
+・確定=Fixed
+変更=Modify
+ノベル=Text
+フィールド=Field
+共通=Common
+キーコンフィグ=Key Configuration
+・会話ログの表示/非表示=Show/Hide Conversation Logs
+・スキップ=Skip
+
+[Language]
+・言語選択=Language Selection
+日本語=Japanese (Language)
+繁體中文=Traditional Chinese (Language)
+使用する言語を選択してください=Please select the language you wish to use
+言語選択=Language Selection
+※設定を反映するためタイトルに戻ります=Return to title to reflect settings.
+ゲーム開始後、設定画面から変更できます=You can change it from the settings screen after starting the game.
+※タイムゾーンの記載がない場合、表示される時刻は言語によって切り替わります\n=*If time zone is not mentioned, the time displayed will be switched according to the language.\n
+こちらの言語でよろしいですか？\n=Is this language correct?\n
+
+
+[Navigation]
+・ミッション画面を開く=Open Mission screen
+・ギフトボックス画面を開く=Open the Gift Box screen
+・ガチャ画面を開く=Open the Gacha screen.
+・オートの有効/解除=Enable / Disable Auto
+・ホームへ移動=Go to Home
+・メニューを開く/閉じる=Open/Close menu
+・右タブへ移動=Go to Right tab
+・左タブへ移動=Go to Left tab
+・戻る=Back to
+・キャンセル=Cancel
+・フィールドカメラリセット=Field Camera Reset
+・黒猫に話しかける=Talk to the Black Cat
+・ミニマップを開く/閉じる=Open/Close Minimap
+・帰還/次の時間へ=Return/Next Time
+・フィールドアクション=Field Action
+・UIの表示/非表示=Show/Hide UI
+・移動/ページの移動=Move/Page
+・移動/選択肢の選択=Movement/Selection of options
+・敵ターゲットを変更（右）=Change enemy target (right)
+・敵ターゲットを変更（左）=Change enemy target (left)
+・スキル切り替え=Switching Skills
+・オーバードライブ発動=Overdrive Sctivated
+・オートバトルの有効/解除=Enable/Disable Auto-Battle
+・行動開始=Start of Action

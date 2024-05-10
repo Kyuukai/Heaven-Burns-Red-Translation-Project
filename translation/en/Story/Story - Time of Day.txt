@@ -1,0 +1,35 @@
+﻿Day
+日=Day
+(日)=<size\=18>(Sun)</size>
+(月)=<size\=18>(Mon)</size>
+(火)=<size\=18>(Tue)</size>
+(水)=<size\=18>(Wed)</size>
+(木)=<size\=18>(Thu)</size>
+(金)=<size\=18>(Fri)</size>
+(土)=<size\=18>(Sat)</size>
+-----------------
+Period
+デイリザルト=Report
+午後01=Afternoon 01
+午後02=Afternoon 02
+午後03=Afternoon 03
+午後04=Afternoon 04
+午後05=Afternoon 05
+昼=Midday
+夕方=Evening
+課業後=After School
+深夜=Late at Night
+夜05=Night 05
+夜04=Night 04
+夜03=Night 03
+夜02=Night 02
+夜01=Night 01
+午前01=AM01
+午前02=AM02
+午前03=AM03
+午前04=AM04
+午前05=AM05
+朝=Morning
+早朝=Early Morning
+課業準備=Lesson Prep
+------------

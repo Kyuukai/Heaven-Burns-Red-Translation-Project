@@ -1,0 +1,28 @@
+﻿プレイ開始日=Start Playing Date
+交流・メモストクリア数=No. of Exchanges and Memost Clears
+部隊最高戦力=Highest Unit Strength
+メインストーリー進捗=Main Story Progress
+よろしくお願いします=Please Remember Me
+-----------
+編集を保存=Save Edits
+プロフィールを編集する=Edit Profile
+40文字以下=Less than 40 characters
+コメント=Comment
+1文字以上 20文字以下=More than 1 character and less than 20 characters
+プレイヤー名=Player Name
+プレイヤー情報=Player Information
+はずす=Remove
+設定中=in the middle of a setup
+設定する=Setup
+勲章一覧=List of Medals of Honor
+異時層クリア数=Number of Different Time Layers Cleared
+ギャラリー解放率=Gallery release rate
+コンプリートイベント数=Number of complete events
+お気に入り部隊=Favorite Unit
+お気に入りメンバー=Favorite Member
+項目選択=Item Selection
+トロフィー獲得数=No. of Trophies Won
+ログイン日数累計=Cumulative No. of Days Logged in
+ライブモードクリア数=Number of Live Mode Clears
+討伐ターゲット討伐数=Number of Targets Defeated
+

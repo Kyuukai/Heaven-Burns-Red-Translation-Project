@@ -1,0 +1,44 @@
+﻿販売期間：(JST)=Sales Period: (JST)
+購入確認=Purchase Confirmation
+クォーツ利用履歴=Quartz Usage History
+いいえ=No
+はい=Yes
+購入=Buy
+購入する=Buy Now
+加入する=Subscribe
+商品がありません=There are no products available.
+
+
+****************************
+General
+---------
+レベルスキップ強化育成パック=Level-Skip Reinforcement Training Pack
+[セール]クォーツ=[Sale] Quartz
+パック・クォーツ=Quartz Packs
+月額パス=Monthly Pass
+・有償クォーツ × 130=Paid quartz x 130
+・有償クォーツ × 3000\n[オマケ]・バトルレポートⅠ × 100=Quartz x 3000 [extra], Battle Report I x 100
+クォーツを\n¥160で購入しますか？=Quartz.\nWould you like to buy it for ¥160?
+
+***************************
+
+Notice
+--------
+利用規約=Terms of Use
+特商法/資金決済法=<size\=16>Commercial Code &\nFund Settlement Law</size>
+特商法/資金決済法表示=<size\=16>Commercial Code &\nFund Settlement Law</size>
+※Steam版では日本円でのみ決済可能です=Steam accepts payment in JPN Yen only.
+<style\=RubyPrefixTag></style>\nあなたは18歳以上ですか？=<style\=RubyPrefixTag></style>\nAre you at least 18 years old?
+・返品はできません。\r\n・利用者が未成年の場合、商品購入には親権者の同意が必要です。=No returns are allowed.\nIf the user is a minor, parental authority is required to purchase products.
+※こちらの商品にクォーツはつきません=This product does not come with quartz.
+
+**************************
+Events
+------------
+[3回限定] SS確定レコメンドガチャセット=<size\=20>[3 times] SS Fixed Recommended Gacha Set</size>
+7日間限定！スタートダッシュパック=Limited to 7 days! Start Dash Pack
+7日間限定！スタートダッシュパックを\n¥2,900で購入しますか？=Limited to 7 days! Start Dash Pack\nWould you like to purchase for ¥2,900 ($18)?
+[Golden Week]
+ゴールデンウィーク プレミアムパックB=Golden Week Premium Pack B
+ゴールデンウィーク プレミアムパックA=Golden Week Premium Pack A
+ゴールデンウィーク 第二弾プレミアムパック=Golden Week Second Premium Pack

@@ -1,0 +1,64 @@
+﻿初期化=Reinitialize
+--------------------
+背景=Background
+スポット=Spot
+背景選択=Background Selection
+配置中=Under Placement
+カラー=Color
+デフォルト=Default
+---------------
+配置=Arrangement
+保存=Save
+キャラ=Character
+------------------
+ステッカー=Sticker
+スタイルロゴ=Style logo
+配置しますか？=Do you want to place it?
+イラスト選択=Illustration Selection
+ステッカー選択=Sticker Selection
+スペシャル=Special
+スタンプ=Stamp
+ロゴ=Logo
+図形=Figure
+アウトライン=Outline
+ベースカラー=Base Color
+カラー設定=Color Settings
+カラーパレット=Color Pallette
+アウトラインの太さ=Outline Thickness
+図形設定=Shape Setting
+削除=Delete
+最背面=Backmost
+背面へ=To the Back
+前面へ=To the Front
+最前面=Frontmost
+配置編集=Edit Placement
+拡大縮小=Scaling
+編集=Edit
+回転=Rotate
+---------------
+ふきだし無し=No Speech Bubble
+文字入力=Character Input
+テキスト設定=Text Setting
+ふきだし1=Speech Bubble 1
+ふきだし2=Speech Bubble 2
+ふきだし3=Speech Bubble 3
+ふきだし4=Speech Bubble 4
+-------------------
+イラスト=Illustration
+撮影\n=Photograph\n
+---------------------
+View変更=View Change
+ジオラマ編集=Diorama Editing
+保存/撮影=Save/Shoot
+保存/シェア=Save/Share
+シーン設定=Scene Settings
+-----------------------
+ジオラマにイラストやステッカー、テキストを\n配置できる新機能が追加されました。\nより自由になったジオラマを楽しみましょう。=A new feature has been added that allows you to place illustrations, stickers, and text on the diorama. \nLet's enjoy the more free diorama.
+<style\=RubyPrefixTag></style>\nジオラマにイラストやステッカー、テキストを\n配置できる新機能が追加されました。\nより自由になったジオラマを楽しみましょう。=<style\=RubyPrefixTag></style>\nA new feature has been added that allows you to place illustrations, stickers, and text on the diorama. \nLet's enjoy the more free diorama.
+---------------------
+保存する=Save
+保存しない=Discard
+<style\=RubyPrefixTag></style>\nジオラマが保存されていません。\n保存しますか？=<style\=RubyPrefixTag></style>\nThe Diorama is not saved. \nDo you want to save?
+--------------------
+ホームに戻る=Return to Home
+<style\=RubyPrefixTag></style>\nホームに戻りますか？\n<color\=#ff9d9d>ジオラマの変更は破棄されます</color>=<style\=RubyPrefixTag></style>\nDo you want to go back to Home ?\n<color\=#ff9d9d>Diorama changes will be discarded</color>

@@ -1,0 +1,12 @@
+﻿[Story]
+第一章=Chapter I
+第二章=Chapter II
+第三章=Chapter III
+
+第四章 前編=Chapter 4 Part I
+第四章 後編=Chapter 4 Part II
+第五章 前編=Chapter 5 Part I
+
+断章Ⅰ=Interlude I
+断章Ⅰ=Interlude II
+プロローグ Day 0=Prologue Day 0

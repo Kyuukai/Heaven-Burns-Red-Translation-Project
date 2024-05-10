@@ -1,0 +1,172 @@
+﻿イラスト表示=Illustration
+拡大/縮小= Zoom In/Out
+強化結果=<size\=25>Reinforcement</size>
+消費アイテム=Consumables
+部隊順=Sort Units
+絞り込み：OFF=Refinement: OFF
+スタイル総合戦力=Style Overall Strength
+該当するスタイルがありません=No Applicable Style
+編成中=Being Organized
+限界突破=<size\=17>Breakthrough</size>
+スタイル強化=Style Enhancement
+詳細=Details
+<space\=-28.372px><voffset\=-0.1em><cspace\=0px><size\=28>
+能力=<size\=28>Stats</size>
+最大Lv.=Max Lv.
+能力強化I=<size\=25>Capacity Enhancement I</size>
+能力強化II=<size\=25>Capacity Enhancement II</size>
+能力強化III=<size\=25>Capacity Enhancement III</size>
+スキルLv.+=Skill Lv.+
+スキル=Skill
+スタイル一覧=Style List
+確認=Confirm
+一括強化=<size\=20>Batch Enhancement</size>
+スキル習得/強化=Skill Acquisition
+解放する=Unlock
+アクセサリ=<space\=-20px><voffset\=0em><cspace\=0px><size\=26>Accessory</size></cspace></size></voffset>
+強化=<space\=-10.7372px><voffset\=-0.2em><cspace\=0px><size\=18>Reinforce</size></cspace></size></voffset>
+必要Lv. =<space\=-29.7372px><voffset\=-0.2em><cspace\=0px><size\=18>Required Lv.</size></cspace></size></voffset>
+限界突破 Lv.=<space\=-0.7372px><voffset\=-0.2em><cspace\=0px><size\=18>Breakthrough Lv.</size></cspace></size></voffset>
+スタイル詳細=Style Details
+パラメータ=Parameter
+同時に使えません=Cannot be used at the same time
+強化完了！=Reinforcement complete!
+--------
+宝珠強化=Gem Enhancement
+スキル強化/ジェネライズ=Skill Enhancement/Generize
+能力強化IV=Ability Enhancement IV
+スキル(専用)Lv.+=Skill (exclusive)Lv.+
+スキル(専用)=Skill (exclusive)
+-------------
+ブースター選択=Booster Selection
+チップ選択=Chip Selection
+--------------------
+転生1回で解放=<size\=23>Unlocked after 1 Rebirth</size>
+転生5回で解放=<size\=23>Unlocked after 5 Rebirths</size>
+転生20回で解放=<size\=23>Unlocked after 20 Rebirths</size>
+才能開花で解放=<size\=23>Unlocked by talent development</size>
+才能開花=Talent Development
+解放されたパラメータはありません=No parameters unlocked
+
+スキル一括選択=Batch Skill Selection
+装備中=equipped (with)
+おすすめ=<size\=18>Recommended</size>
+アクセサリ選択=Selection
+
+部隊一覧=Unit List
+部隊名変更=Unit Name Change
+転生巻き戻し=Rewind
+強化アイテムをいくつ使用しますか？=How many enhancement items will you use?
+獲得=<space\=-22px><voffset\=-0em><cspace\=0px><size\=90%>Acquire</size></cspace></size></voffset>
+使用=Use
+クリア=Clear
+Lv上限まで強化します=Enhanced to the maximum Lv.
+強化教本（Lv.10）=Strengthening Instruction Book (Lv.10)
+強化教本（Lv.20）=Strengthening Instruction Book (Lv.20)
+強化教本（Lv.30）=Strengthening Instruction Book (Lv.30)
+使用\n=Use\n
+スタイルレポート=Style Report
+バトルレポートⅢ=Battle Report III
+バトルレポートⅡ=Battle Report II
+バトルレポートⅠ=Battle Report I
+CLv.が上限に達してないため使用できません=<size\=90%>Not available because Char Lv. has not reached the upper limit</size>
+強化教本（Lv.40）=Strengthening Instruction Book (Lv.40)
+強化教本（Lv.50）=Strengthening Instruction Book (Lv.50)
+強化教本（Lv.60）=Strengthening Instruction Book (Lv.60)
+強化教本（Lv.70）=Strengthening Instruction Book (Lv.70)
+強化教本（Lv.100）=Strengthening Instruction Book (Lv.100)
+強化教本（Lv.90）=Strengthening Instruction Book (Lv.90)
+強化教本（Lv.80）=Strengthening Instruction Book (Lv.80)
+転生ボーナス=Rebirth Bonus
+※転生はLv.90到達で解放されます=*Rebirth is unlocked upon reaching Lv.90.
+転生することでレベルがリセットされ、基礎能力に転生ボーナスが加算されます\r=Rebirth resets the level and adds a bonus to the basic ability\r
+転生巻き戻しは、\n転生を1回以上した時に可能になります=Rebirth rewinding becomes possible when you have reincarnated at least once!
+-------------
+タイトル=Title
+バインド=Bind
+スタン=Stun
+状態異常耐性=Ailment Resistance
+耐性=Resistance
+絆 Lv.=Bond Lv.
+装備を反映=Reflects equipment
+一括選択=<size\=23>Batch Selection</size>
+幻惑=Control
+ウイルス=Virus
+ブレイク=Break
+回=Counter
+リカバー=Recovery
+テキスト=Text
+ミッション達成=Mission Accomplished
+-------------
+ストーリー状況と乖離したメンバーを含めない=Ignore members outside of story scenario
+おすすめ編成の方針を選択してください=Select Recommended Organization Criteria
+おすすめ編成が完了しました=Recommended organization is complete.
+なし=None
+※現在の装備が外れる可能性があります。=*Current equipment may be removed.
+スタイル属性=<size\=21>Style Attribute</size>
+優先するアクセサリ属性=Preferred Accessory Attributes
+優先するパラメータ=Preferred Parameters
+詳細設定=Advanced Settings
+おすすめ装備を実行しますか？=Do you want to run the recommended equipment?
+----------------
+一括編成=Batch Organization
+前回クリア部隊=Previously cleared units
+ストーリー状況と乖離しています=Deviates from story situation
+フロントキャラを1人以上編成する必要があります=At least one front character must be organized
+出撃=Sortie
+アクセサリ装備=Accessory Equipment
+ブースター装備=Booster Equipment
+スキル設定=Skill Setup
+
+おすすめ編成=<size\=95%>Recommended Formation</size>
+おすすめ装備=<size\=95%>Recommended Equipment</size>
+順序入れかえ=<size\=95%>Reorder</size>
+アクセサリLv.=<space\=-0.7372px><voffset\=-0em><cspace\=0px><size\=90%>Accessory Lv.</size></cspace></size></voffset>
+最大Lv.=Max Lv.
+総合戦力=Combined Power
+編成=<size\=17>Organize</size>
+転生=<space\=-20px><voffset\=-0em><cspace\=0px><size\=80%>Rebirth</size></cspace></size></voffset>
+戦力=<line-height\=0.81em><space\=-2.372px><voffset\=0em><cspace\=0px><size\=90%>Combat \nPower</size></cspace></size></voffset>
+戻る=Cancel
+キャラクター選択=Character Selection
+メンバー=Member
+スタイル選択=Style Selection
+<style\=RubyPrefixTag></style>\n編集中の内容を破棄し、選択前の状態に戻ります\nよろしいですか？=<style\=RubyPrefixTag></style>\nDiscard the edited content and return to the pre-selection state.
+----------
+
+編成コピー=<size\=90%>Copy Squad</size>
+コピーする部隊=Copy Squad
+編成内容をコピーする先を選択してください。=Select the Squad to override.
+一部の装備は、売却などで不足しているため装備されません=Some equipment will not be equipped due to shortage of equipment.
+一部のスキルは、スキル枠が不足しているため装備されません=Some skills will not be equipped due to lack of Skill Slots.
+前回クリアした部隊で上書きしますか？=Do you want to overwrite the current Squad with the previously cleared Squad?
+-----------
+余剰のスタイルピースを変換\n交換所=Convert surplus style pieces\n<size\=22>(Exchange)</size>
+万能スタイルピース（Rank A）=Versatile Style Piece (Rank A)
+ガチャ（スタイル重複時）=Gacha\n<size\=22>(when a duplicate style is received)</size>
+入手方法=<space\=-0.372px><voffset\=-0em><cspace\=0px><size\=75%>How to Get</size></cspace></size></voffset>
+Rank Aのスタイルの万能強化素材です=It is an all-purpose enhancement material for Rank A style
+スタイルの強化素材です=Style Enhancement Material
+-----------
+※専用ピースから消費されます　専用ピースが足りない場合、万能ピースが消費されます=If there are not enough dedicated pieces, universal pieces will be consumed.
+全能力 <color\=#91EAF2>+1％</color>=Full Capacity <color\=#91EAF2>+1％</color>
+キャラLv上限（100→<color\=#91EAF2>101</color>）= Character Lv. Limit (100→<color\=#91EAF2>101</color>）
+限界突破（0→<color\=#91EAF2>1</color>)=Breakthrough (0→)<color\=#91EAF2>1</color>)
+結果=<space\=-23.0px><voffset\=0em><cspace\=0px><size\=26>Result</size></cspace></size></voffset>
+不足しています=Insufficient
+必要ピース数　10=<size\=28>Pieces Required: 10</size>
+-----------
+パラメータ(専用)=<size\=21>Parameter (Exclusive)</size>
+習得=Learn
+-------
+-----
+[Style Upgrade]
+転生10回で解放=Unlocked after 10 Rebirths
+
+転生数=Number of Rebirths
+スキル枠数=Number of Skill Slots
+パラメータボーナス\n=Parameter Bonus\n
+スキル枠ボーナス=Skill Limit Bonus
+
+転生することでレベルが下がり、「基礎能力」に転生ボーナスが加算されます。\r\n特定数転生すると、スキル枠も増加します。=By Rebirthing, your level will drop and a Rebirth bonus will be added to your stats. \r\nIf you Rebirth a certain number of times, the skill limit will also increase.
+転生数上限に達しました=Rebirth is already maximum level

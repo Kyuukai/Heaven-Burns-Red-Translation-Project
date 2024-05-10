@@ -1,0 +1,17 @@
+﻿[Golden Week]
+ゴールデンウィーク スペシャルログインボーナス1日目 =Golden Week Special Login Bonus Day 1
+ゴールデンウィーク スペシャルログインボーナス2日目 =Golden Week Special Login Bonus Day 2
+ゴールデンウィーク スペシャルログインボーナス3日目 =Golden Week Special Login Bonus Day 3
+ゴールデンウィーク スペシャルログインボーナス4日目 =Golden Week Special Login Bonus Day 4
+ゴールデンウィーク スペシャルログインボーナス5日目 =Golden Week Special Login Bonus Day 5
+ゴールデンウィーク スペシャルログインボーナス6日目 =Golden Week Special Login Bonus Day 6
+ゴールデンウィーク スペシャルログインボーナス7日目 =Golden Week Special Login Bonus Day 7
+--------
+[StartDash]
+スタートダッシュログインボーナス1日目 =Start Dash Log-in Bonus Day 1
+スタートダッシュログインボーナス2日目 =Start Dash Log-in Bonus Day 2
+スタートダッシュログインボーナス3日目 =Start Dash Log-in Bonus Day 3
+スタートダッシュログインボーナス4日目 =Start Dash Log-in Bonus Day 4
+スタートダッシュログインボーナス5日目 =Start Dash Log-in Bonus Day 5
+スタートダッシュログインボーナス6日目 =Start Dash Log-in Bonus Day 6
+スタートダッシュログインボーナス7日目 =Start Dash Log-in Bonus Day 7

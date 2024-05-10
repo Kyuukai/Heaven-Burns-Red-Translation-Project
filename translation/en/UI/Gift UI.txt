@@ -1,0 +1,13 @@
+﻿一括受け取り=Receive All
+受け取り=Receive
+受け取り履歴=Receive History
+※受信日時から30日経過すると自動で消去されます。\n　一括受け取りは有効期間が短い順から受け取ります。\n　一度に受け取れるギフトは最大100件までです。=*After 30 days from the time of receipt, entries will be deleted\nautomatically. Batch receipt is ordered by the shortest validity\nperiod. Up to 100 gifts can be received at once.
+ギフトボックス=Presents
+SNSキャンペーンの達成報酬をお送りします =We will send you the reward for the achievement of your SNS campaign. 
+一度に受け取れるギフトは100件までです。=You may receive up to 100 gifts at one time.
+以下のギフトを一括で受け取ります。よろしいですか？=Are you sure you want to receive the following gifts together?
+受け取る=Receive
+以下のギフトは受け取り済みです。=The following gifts have been received
+以下のギフトは未受け取りです。=The following gifts have not been received
+以下のギフトを受け取りました。=You have received the following gift(s)
+受け取り可能なものはありません=None available for pickup

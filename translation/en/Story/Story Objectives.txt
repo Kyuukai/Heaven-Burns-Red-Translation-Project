@@ -1,0 +1,22 @@
+﻿Prologue
+Sun 
+Morning
+右に進もう！=Let's go right!
+Evening
+七瀬を追って宿舎に向かおう！=Let's follow Nanase to the inn!
+部屋でひとやすみしよう！=Let's take a break in your room!
+---------
+Chapter 1 Day 1
+Moon
+宿舎から出よう！=Leave the dormitory!
+AM01
+教室に入ろう！=Let's go into the classroom!
+AM02
+カフェテリアまでいこう！=Let's go to the cafeteria!
+誰かをランチに誘おう！=Invite someone to lunch!
+Afternoon 01
+アリーナに向かおう！=Let's head to the arena!
+Afternoon 02
+ジムに行こう！=Let's go to the gym!
+Night 01
+自由時間を終えよう！=Let's finish our free time!

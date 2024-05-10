@@ -1,0 +1,27 @@
+﻿[General]
+【異時層リニューアル】ギフトをお送りします =[Different Time Layer Renewal] We sent you a gift.
+運営からのギフト =Gifts from Management 
+
+
+[Story]
+第一章Day0をクリアした報酬です=This is the reward for clearing Chapter 1 Day0
+第一章Day1をクリアした報酬です=This is the reward for clearing Chapter 1 Day1
+第一章Day2をクリアした報酬です=This is the reward for clearing Chapter 1 Day2
+第一章Day3をクリアした報酬です=This is the reward for clearing Chapter 1 Day3
+第一章Day4をクリアした報酬です=This is the reward for clearing Chapter 1 Day4
+第一章Day5をクリアした報酬です=This is the reward for clearing Chapter 1 Day5
+第一章Day6をクリアした報酬です=This is the reward for clearing Chapter 1 Day6
+第一章Day7をクリアした報酬です=This is the reward for clearing Chapter 1 Day7
+第一章Day8をクリアした報酬です=This is the reward for clearing Chapter 1 Day8
+第一章Day9をクリアした報酬です=This is the reward for clearing Chapter 1 Day9
+第一章Day10をクリアした報酬です=This is the reward for clearing Chapter 1 Day10
+第一章Day11をクリアした報酬です=This is the reward for clearing Chapter 1 Day11
+
+[Other]
+異時層クリア報酬 =Alternate Time Level Clear Reward 
+交流クリア報酬 =Exchange Clear Reward 
+
+[Event]
+ゴールデンウィークのギフトをお送りします =We sent you a gift for Golden Week 
+友達招待キャンペーンのギフトをお送りいたします。=We sent you a gift for the Invite a Friend campaign
+【友達招待CP】招待コード入力のギフトをお送りします =<size\=85%>[Friend invitation CP] We sent you a gift for entering the invitation code.</size>

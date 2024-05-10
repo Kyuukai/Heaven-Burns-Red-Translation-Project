@@ -1,0 +1,16 @@
+﻿コピー=Copy
+友達のコードを入力=Enter Friend's Code
+達成状況=Progress
+招待コード=Invitation Code
+※報酬はギフトボックスへ送られます。各条件5人分まで報酬を獲得できます。=*Rewards are sent to your gift box. Rewards can be earned for up to 5 people per condition.
+まだヘブバンを始めていない友達を招待すると\n友達へクォーツ1000個プレゼント！\nあなたへクォーツ最大7500個プレゼント！=Invite a friend who has not yet started playing and you'll receive 1000 quartz for your friend!\nUp to 7500 quartz will be rewarded to you!
+友達の招待コードを入力してください=Enter your friend's invitation code
+招待コード入力=Enter Invitation Code
+コードの入力は一回限りです=Enter the code only once!
+招待コードを入力すると<color\=#ff9d9d>クォーツ1000個</color>GET!\n招待してくれた友達は、あなたのプレイ進捗に応じて報酬を獲得できます。\n <size\=80%>\n※コード入力は2023年12月28日0時以降にゲームを開始した方が対象となります。\n※詳細はお知らせをご確認ください。</size>=Enter the invitation code and get <color\=#ff9d9d>1000 quartz</color>!\nInvited friends will earn rewards based on your playing progress.\n <size\=80%>\n*Code entry is available to those who started the game after midnight on December 28, 2023.\n*Please check the announcement for details.</size>
+<size\=34>0</size><size\=30>/</size><size\=24>5人</size>=<size\=34>0</size><size\=30>/</size><size\=24>5</size>
+友達がメインストーリー第一章をクリア=<size\=28>Friends complete Main Story Chapter 1</size>
+友達がメインストーリー第二章Day10をクリア=<size\=28>Friends clear Main Story Chapter 2, Day10</size>
+友達がメインストーリー第一章Day7をクリア =<size\=28>Friends clear Main Story Chapter 1, Day7 </size>
+友達の招待コードを入力してください=Enter your friend's invitation code
+<style\=RubyPrefixTag></style>\n入力に成功しました\nギフトBOXへ<color\=#ff9d9d>クォーツ1000個</color>をお送りいたしました=<style\=RubyPrefixTag></style>\nSuccessfully entered.\nWe have sent you <color\=#ff9d9d>1000 quartz</color>.\nGo to your Gift Box!

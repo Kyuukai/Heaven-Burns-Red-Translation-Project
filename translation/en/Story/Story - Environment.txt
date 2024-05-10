@@ -1,0 +1,23 @@
+﻿[Action]
+話しかける=Talk
+マップ=Map
+メッセージ=Message
+ホーム=Home
+移動=<size\=36>Move</size>
+次の時間へ=Next time
+ミッション=Mission
+インフォメーション=Information
+報酬一覧=Reward List
+残りターン : 0=Turns Remaining : 0
+カタログ=Catalog
+
+[Location]
+時計塔=Clock Tower
+学園基地=Campus
+学舎=School
+宿舎=Lodging House
+アリーナ前通り=Arena Front Street
+
+-----------------
+Environments:
+緩衝地帯=buffer zone

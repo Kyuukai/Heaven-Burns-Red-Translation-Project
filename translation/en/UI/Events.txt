@@ -1,0 +1,31 @@
+﻿開催中=Ongoing
+イベントプリズム=Event Prism
+シェア=Share
+討伐リスト=Subjugation List
+討伐任務=Subjugation Mission
+討伐ターゲット=Subjugation Target
+イベントミッション=Event Missions
+第一章クリア=Chapter 1 Clear
+第二章クリア=Chapter 2 Clear
+第三章クリア=Chapter 3 Clear
+メインストーリー断章=Main Story Fragments
+----------
+プレイヤーランクExp=Player Rank EXP
+プリズムバトルに挑戦しますか？=Would you like to challenge the Prism Battle?
+消費ライフ=Life Consumed
+出現する敵=Enemies
+報酬=Reward
+戦う=Fight
+-----------
+消費ライフ分報酬が増加します=Rewards will increase according to Life consumed
+ライフが不足しています=Not enough Life
+チケットが不足しています=Not enough Tickets
+プリズムバトルチケット=Prism Battle Ticket
+ライフ=Life
+消費チケット分報酬が増加します=Rewards will increase according to the Tickets used
+消費チケット=Ticket Used
+-----------
+プレミアメダル交換所=Premium Medals Exchange
+アクセサリ錬成=Create Accessories
+アイテム購入\n（GGP）=Item Purchase\n(GGP)
+アイテム購入\n（GP）=Item Purchase\n(GP)

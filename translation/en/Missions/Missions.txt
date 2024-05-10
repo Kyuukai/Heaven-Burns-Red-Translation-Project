@@ -1,0 +1,228 @@
+﻿デイリー=Daily
+ウィークリー=Weekly
+累計=<size\=26>Cumulative Total</size>
+チャレンジ\n=Self-Challenge\n
+初心者ミッション=Beginner's Mission
+マンスリーミッション=Monthly Mission
+期間限定=Limited Time
+このアイテムは所持上限を超えるため受け取れません=You cannot receive this item because it exceeds your possession limit.
+以下の報酬を受け取りました=The following rewards were received
+入手済=<size\=22>Acquired</size>
+-----------
+Daily
+ライフを3消費する=Consume 3 life
+ライフを2消費する=Consume 2 life
+ライフを1消費する=Consume 1 life
+全てのデイリーミッションをクリアする=Complete all daily missions
+
+----
+Weekly
+アクセサリを1回錬成する=Refine an accessory once
+バトルを30回クリアする（アリーナ・時の修練場を除く）=Clear 30 battles (excluding Arena/Hyperbolic Time Chamber)
+アリーナ・時の修練場を500回クリアする=Clear the Arena and Hyperbolic Time Chamber 500 times.
+ライフを20消費する=Consume 20 life
+ウィークリーミッション 1/4=Weekly Mission 1/4
+ウィークリーミッション 2/4=Weekly Mission 2/4
+ウィークリーミッション 3/4=Weekly Mission 3/4
+ウィークリーミッション 4/4=Weekly Mission 4/4
+----
+Cumulative Total
+データ引き継ぎ設定を行う=Set up data transfer settings
+スタイルを2回強化する=Enhance style 2 times
+スタイルを3回強化する=Enhance style 3 times
+スタイルを5回強化する=Enhance style 5 times
+スタイルを7回強化する=Enhance style 7 times
+スタイルを10回強化する=Enhance style 10 times
+スタイルを15回強化する=Enhance style 15 times
+スタイルを20回強化する=Enhance style 20 times
+スタイルを25回強化する=Enhance style 25 times
+スタイルを30回強化する=Enhance style 30 times
+スタイルを35回強化する=Enhance style 35 times
+スタイルを40回強化する=Enhance style 40 times
+1人の絆レベルを2にする=Increase the bonding level of one person to 2
+1人の絆レベルを3にする=Increase the bonding level of one person to 3
+1人の絆レベルを4にする=Increase the bonding level of one person to 4
+ダンジョンに1回挑戦する=One challenge to a dungeon
+交流を1回クリアする=Perform 1 exchange
+交流を2回クリアする=Perform 2 exchanges
+スタイルを10種類獲得する=Obtain 10 different styles
+スタイルを15種類獲得する=Obtain 15 different styles
+スタイルを20種類獲得する=Obtain 20 different styles
+スタイルを25種類獲得する=Obtain 25 different styles
+スタイルを30種類獲得する=Obtain 30 different styles
+スタイルを35種類獲得する=Obtain 35 different styles
+スタイルを40種類獲得する=Obtain 40 different styles
+スタイルを45種類獲得する=Obtain 45 different styles
+スタイルを50種類獲得する=Obtain 50 different styles
+アクセサリーの＋枠の効果を1回解放する=Release the effect of the + frame of the accessory once
+アクセサリーの＋枠の効果を1回変更する=Change the effect of the + frame of the accessory once
+限界突破を1回する=Push the limit once
+限界突破を2回する=Push the limit 2 times
+限界突破を3回する=Push the limit 3 times
+限界突破を4回する=Push the limit 4 times
+限界突破を5回する=Push the limit 5 times
+限界突破を6回する=Push the limit 6 times
+限界突破を7回する=Push the limit 7 times
+限界突破を8回する=Push the limit 8 times
+限界突破を9回する=Push the limit 9 times
+限界突破を10回する=Push the limit 10 times
+累計2日ログインする=Log in for a cumulative total of 2 days
+累計3日ログインする=Log in for a cumulative total of 3 days
+累計4日ログインする=Log in for a cumulative total of 4 days
+累計5日ログインする=Log in for a cumulative total of 5 days
+累計6日ログインする=Log in for a cumulative total of 6 days
+累計7日ログインする=Log in for a cumulative total of 7 days
+累計8日ログインする=Log in for a cumulative total of 8 days
+累計9日ログインする=Log in for a cumulative total of 9 days
+累計10日ログインする=Log in for a cumulative total of 10 days
+転生を1回する=Perform rebirth 1 time
+転生を2回する=Perform rebirth 2 times
+転生を3回する=Perform rebirth 3 times
+転生を4回する=Perform rebirth 4 times
+転生を5回する=Perform rebirth 5 times
+転生を6回する=Perform rebirth 6 times
+転生を7回する=Perform rebirth 7 times
+転生を8回する=Perform rebirth 8 times
+転生を9回する=Perform rebirth 9 times
+転生を10回する=Perform rebirth 10 times
+プレイヤーランクを2にする=Player rank to 2
+プレイヤーランクを3にする=Player rank to 3
+プレイヤーランクを4にする=Player rank to 4
+プレイヤーランクを5にする=Player rank to 5
+プレイヤーランクを6にする=Player rank to 6
+プレイヤーランクを7にする=Player rank to 7
+プレイヤーランクを8にする=Player rank to 8
+プレイヤーランクを9にする=Player rank to 9
+プレイヤーランクを10にする=Player rank to 10
+プレイヤーランクを11にする=Player rank to 11
+プレイヤーランクを12にする=Player rank to 12
+プレイヤーランクを13にする=Player rank to 13
+プレイヤーランクを14にする=Player rank to 14
+プレイヤーランクを15にする=Player rank to 15
+---------
+Self-Challenge
+【初心者強化応援ミッション】第一章Day11をクリアする（5/22）=[Mission to Support Beginners' Enhancement] Clear Chapter 1, Day 11 (5/22)
+【初心者強化応援ミッション】第一章Day11をクリアする（4/22）=[Mission to Support Beginners' Reinforcement] Clear Chapter 1, Day 11 (4/22)
+【初心者強化応援ミッション】第一章Day11をクリアする（3/22）=[Mission to Support Beginners' Reinforcement] Clear Chapter 1, Day 11 (3/22)
+【初心者強化応援ミッション】第一章Day11をクリアする（2/22）=[Mission to Support Beginners' Reinforcement] Clear Chapter 1 Day 11 (2/22)
+【初心者強化応援ミッション】第一章Day11をクリアする（1/22）=[Mission to Support Beginners' Reinforcement] Clear Chapter 1 Day 11 (1/22)
+メインストーリー 第一章Day1をクリアする=Clear Main Story Chapter 1 Day 1
+【初心者強化応援ミッション】第一章Day11をクリアする（7/22）=[Mission to Support Beginners' Reinforcement] Clear Chapter 1 Day 11 (7/22)
+【初心者強化応援ミッション】第一章Day11をクリアする（6/22）=[Mission to Support Beginners' Reinforcement] Clear Chapter 1, Day 11 (6/22)
+【初心者強化応援ミッション】第一章Day11をクリアする（8/22）=[Mission to Support Beginners' Reinforcement] Clear Chapter 1, Day 11 (Aug. 22)
+【初心者強化応援ミッション】第一章Day11をクリアする（9/22）=[Mission to Support Beginners' Reinforcement] Clear Chapter 1 Day 11 (9/22)
+【初心者強化応援ミッション】第一章Day11をクリアする（11/22）=[Mission to Support Beginners' Reinforcement] Clear Chapter 1 Day 11 (11/22)
+【初心者強化応援ミッション】第一章Day11をクリアする（10/22）=[Mission to Support Beginners' Enhancement] Clear Chapter 1, Day 11 (10/22)
+【初心者強化応援ミッション】第一章Day11をクリアする（12/22）=[Mission to Support Beginners' Reinforcement] Clear Chapter 1, Day 11 (12/22)
+【初心者強化応援ミッション】第一章Day11をクリアする（14/22）=[Mission to Support Beginners' Reinforcement] Clear Chapter 1 Day 11 (14/22)
+【初心者強化応援ミッション】第一章Day11をクリアする（13/22）=[Mission to Support Beginners' Reinforcement] Clear Chapter 1 Day 11 (13/22)
+【初心者強化応援ミッション】第一章Day11をクリアする（15/22）=[Mission to Support Beginners' Reinforcement] Clear Chapter 1 Day 11 (15/22)
+【初心者強化応援ミッション】第二章Day8をクリアする（18/22）=[Mission to Support Beginners' Reinforcement] Clear Chapter 2 Day 8 (18/22)
+【初心者強化応援ミッション】第一章Day11をクリアする（17/22）=[Mission to Support Beginners' Reinforcement] Clear Chapter 1 Day 11 (17/22)
+【初心者強化応援ミッション】第一章Day11をクリアする（16/22）=[Mission to Support Beginners' Reinforcement] Clear Chapter 1 Day 11 (16/22)
+【初心者強化応援ミッション】第三章Day13をクリアする（20/22）=[Mission to Support Beginners' Reinforcement] Clear Chapter 3 Day13 (20/22)
+【初心者強化応援ミッション】第三章Day20をクリアする（21/22）=[Mission to Support Beginners' Reinforcement] Clear Chapter 3 Day20 (21/22)
+【初心者強化応援ミッション】第二章Day23をクリアする（19/22）=[Mission to Support Beginners' Reinforcement] Clear Chapter 2 Day 23 (19/22)
+【初心者強化応援ミッション】第四章前編Day5をクリアする（22/22）=[Mission to Support Beginners' Reinforcement] Clear Chapter 4 Part 1 Day5 (22/22)
+異時層を1回クリアする=Clear the different time layers once.
+宝珠の迷宮 B10をクリアする=Clear the Treasure Maze B10.
+宝珠の迷宮 B30をクリアする=Clear the Treasure Maze B30.
+宝珠の迷宮 B20をクリアする=Clear the Treasure Maze B20.
+宝珠の迷宮 B50をクリアする=Clear the Treasure Maze B50.
+宝石プリズム [幻影]ベルクノッカーをクリアする=Clear the Jewel prism [phantom] Bergknocker.
+宝珠の迷宮 B40をクリアする=Clear the Treasure Maze B40.
+宝石プリズム [幻影]ヘイルホースをクリアする=Clear the Jewel prism [phantom] Hail Horse.
+宝石プリズム [幻影]パイルゴーレムTをクリアする=Clear the Jewel prism [phantom] Pile Golem T.
+宝石プリズム [幻影]シェルプロテクシオンをクリアする=Clear the Jewel prism [phantom] shell protections.
+宝石プリズム [幻影]ヴェイルドデスOをクリアする=Clear the Jewel prism [phantom] Veiled Death O
+宝石プリズム [幻影]ベルクノッカー : Lv.13をクリアする=Jewel Prism [Illusion] Bergknocker : Clear Lv.13
+宝石プリズム [幻影]ヘイルホース : Lv.13をクリアする=Jewel Prism [Phantom] Hail Horse : Clear Lv.13
+宝石プリズム [幻影]パイルゴーレムT : Lv.13をクリアする=Jewel Prism [Phantom] Pile Golem T : Clear Lv.13
+宝石プリズム [幻影]シェルプロテクシオン : Lv.13をクリアする=Jewel Prism [Illusion] Shell Protection : Clear Lv.13
+オーブボス エグゾウォッチャーRをクリアする=Clear the orb boss Exo Watcher R.
+オーブボス エグゾウォッチャーBをクリアする=Clear the orb boss Exo Watcher B.
+宝石プリズム [幻影]ヴェイルドデスO : Lv.13をクリアする=Clear Jewel Prism [Phantom] Veiled Death O : Lv.13
+オーブボス エグゾウォッチャーWをクリアする=Clear the orb boss Exo Watcher W.
+オーブボス エグゾウォッチャーPをクリアする=Clear the orb boss Exo Watcher P.
+オーブボス エグゾウォッチャーYをクリアする=Clear Orb Boss Exo Watcher Y
+オーブボス シニスター＆レクタス・ニールRをクリアする=Clear Orb Boss Sinister & Rectus Neil R.
+オーブボス シニスター＆レクタス・ニールBをクリアする=Clear Orb Boss Sinister & Rectus Neil B.
+オーブボス シニスター＆レクタス・ニールYをクリアする=Clear Orb Boss Sinister & Rectus Neil Y.
+オーブボス シニスター＆レクタス・ニールWをクリアする=Clear Orb Boss Sinister & Rectus Neil W.
+オーブボス シニスター＆レクタス・ニールPをクリアする=Clear Orb Boss Sinister & Rectus Neil P.
+オーブボス アモンYをクリアする=Clear the orb boss Amon Y.
+オーブボス アモンBをクリアする=Clear the orb boss Amon B.
+オーブボス アモンWをクリアする=Clear the orb boss Amon W.
+
+---------------
+Beginner's Mission
+ボード1　初心者ミッション =Board 1 Beginner Mission 
+ボード2　初心者ミッション =Board 2 Beginner Mission 
+ボード3　初心者ミッション =Board 3 Beginner Mission 
+ボード4　初心者ミッション =Board 4 Beginner Mission 
+ボード5　初心者ミッション =Board 5 Beginner Mission 
+交流を5回クリア=Clear 5 exchanges
+スタイルを15回強化=Enhanced style 15 times
+茅森月歌をLv.10にする=Make Ruka Kayamori Lv.10
+メインストーリー 第一章Day3をクリア=Clear Main Story Chapter 1 Day 3
+動画を見る=Watch the video
+「ヘブバンの遊び方」動画を見る=Watch the "How to Play Hebban" video
+進捗報酬=Progress Reward
+アリーナの初級Lv.3（打）をクリア=Clear the Arena's Beginner Level Lv.3 (Hit)
+ボード1 初心者ミッション  1/7=Board 1 Beginner Mission 1/7
+
+---------------
+Monthly Mission
+毎月１日4時リセット=Reset on the 1st day of every month at 4:00 p.m.
+ライトパス=Light Pass
+初月無料=1st Month Free
+プレミアムパス=Premium Pass
+ミッションがありません=There is no mission.
+**
+バトルを25回クリアする（アリーナ・時の修練場を除く）=Clear 25 battles (except Arena and Hyperbolic Time Chamber)
+バトルを20回クリアする（アリーナ・時の修練場を除く）=Clear 20 battles (except Arena and Hyperbolic Time Chamber)
+バトルを15回クリアする（アリーナ・時の修練場を除く）=Clear 15 battles (except Arena and Hyperbolic Time Chamber)
+バトルを10回クリアする（アリーナ・時の修練場を除く）=Clear 10 battles (except Arena and Hyperbolic Time Chamber)
+バトルを5回クリアする（アリーナ・時の修練場を除く）=Clear 5 battles (except Arena and Hyperbolic Time Chamber)
+バトルを35回クリアする（アリーナ・時の修練場を除く）=Clear 35 battles (except Arena and Hyperbolic Time Chamber)
+バトルを45回クリアする（アリーナ・時の修練場を除く）=Clear 45 battles (except Arena and Hyperbolic Time Chamber)
+バトルを40回クリアする（アリーナ・時の修練場を除く）=Clear 40 battles (except Arena and Hyperbolic Time Chamber)
+バトルを50回クリアする（アリーナ・時の修練場を除く）=Clear 50 battles (except Arena and Hyperbolic Time Chamber)
+バトルを60回クリアする（アリーナ・時の修練場を除く）=Clear 60 battles (except Arena and Hyperbolic Time Chamber)
+バトルを70回クリアする（アリーナ・時の修練場を除く）=Clear 70 battles (except Arena and Hyperbolic Time Chamber)
+バトルを80回クリアする（アリーナ・時の修練場を除く）=Clear 80 battles (except Arena and Hyperbolic Time Chamber)
+バトルを90回クリアする（アリーナ・時の修練場を除く）=Clear 90 battles (except Arena and Hyperbolic Time Chamber)
+バトルを100回クリアする（アリーナ・時の修練場を除く）=Clear 100 battles (except Arena and Hyperbolic Time Chamber)
+1日ログインする=Log in for 1 day
+2日ログインする=Log in for 2 days
+4日ログインする=Log in for 4 days
+6日ログインする=Log in for 6 days
+8日ログインする=Log in for 8 days
+10日ログインする=Log in for 10 days
+12日ログインする=Log in for 12 days
+14日ログインする=Log in for 14 days
+16日ログインする=Log in for 16 days
+20日ログインする=Log in for 20 days
+18日ログインする=Log in for 18 days
+22日ログインする=Log in for 22 days
+24日ログインする=Log in for 24 days
+--------------------
+
+スタイルを8種類獲得する=Obtain 8 different styles
+累計1日ログインする=Log in for a cumulative total of 1 day
+初心者強化応援ミッション 0/22=Beginners' reinforcement support mission 0/22
+ボード1 初心者ミッション  0/7=Board 1 Beginner Mission 0/7
+デイリーミッション 0/4=Daily Mission 0/4
+第一章 Day7をクリア=Chapter 1 Day7 is cleared.
+----
+第四章後編 Day3をクリア=Clear Chapter 4 Pt.2 Day 3
+--
+Day<size\=78>00</size><color\=#F6E5E5FF>(月)</color>=Day<size\=78>00</size><color\=#F6E5E5FF>(Monday)</color>
+--
+side : 逢川=Side: Aikawa
+side : 茅森=Side: Kayamori
+--
+つづきから=Resume
+--
+Day3クリアで茅森月歌SS\n【閃光のサーキットバースト】をGET！= GET Ruka Kayamori SS [Flash Circuit Burst] by clearing Day3!
+超上級者ミッションで\nSS確定ガチャチケットをGET！=Get a Guaranteed SS Gacha ticket with Super Advanced Missions !

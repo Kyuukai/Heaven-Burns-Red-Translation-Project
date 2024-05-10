@@ -1,0 +1,8 @@
+﻿[6th Sense]
+獲得場所=Acquisition Location
+クレイジー=Craziness
+天然=Airheadedness
+メンタル=Mentality
+優しさ=Kindness
+器=Understanding
+カリスマ=Charisma

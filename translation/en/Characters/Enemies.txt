@@ -1,0 +1,16 @@
+﻿ビャッコ=Byakko
+[ビャッコ]=[Byakko]
+
+[Hopper]
+クレストホッパー=Cresthopper
+ヒールホッパー=Heel Hopper
+スモールホッパー=Small Hopper
+
+[Prototype]
+[試作機]クレストホッパー=[Prototype] Cresthopper
+[試作機]ドール=[Prototype] Dole
+[試作機]ヒールホッパー=[Prototype] Heel Hopper
+[試作機]スモールホッパー=[Prototype] Small Hopper
+
+[Practice Machine\Trainer]
+[練習機]スモールホッパー=[Practice Machine] Small Hopper

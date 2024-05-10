@@ -1,0 +1,58 @@
+結果発表=Result Announcement
+ムービー=Movie
+スコア報酬=Score Reward
+ライブ開始=Live Start
+クリア回数=Clears
+クリア回数目標達成=Clear Count Goal
+EASYをSランク以上でクリア=Clear EASY with S Rank or higher
+NORMALをSランク以上でクリア=Clear NORMAL with S Rank or higher
+HARDをSランク以上でクリア=Clear HARD with S Rank or higher
+難易度設定=Difficulty Settings
+ライブ準備=Live Preparation
+達成=Achieved
+スコア：=Score :
+ライブ報酬=Live Reward
+
+
+[Songs]
+ありふれたBattle Song～いつも戦闘は面倒だ～=Commonplace Battle Song～Combat is Always a Pain～
+きみを忘れても=Kimi wo Wasurete Mo
+さよならの速度=Sayonara no Sokudo
+死にゆく季節でぼくは=Shiniyuku Kisetsu de Boku wa
+放課後のメロディ=Hokago no Melody
+シガチョコ=Choco Cigar
+Thank you for playing〜あなたに出会えてよかった〜=Thank you for playing ～Anata ni Deaete Yokatta～
+過眠症=Ka Nemurisho
+War Alive～時にはやぶれかぶれに～=War Alive ～Tokini wa Yabure Kabure ni～
+オーバーキル=Overkill
+起死廻生=Kishi Mawarisei
+春眠旅団=Shunmin Ryodan
+終末のヒーロー=Shumatsu no Hero
+真っ赤に咲く燃えるような情熱が=Makka ni Saku Moeru Yona Jonetsu ga
+
+[Condition]
+『小さき帝と穏やかな朝食』\nクリアで解放されます=Unlocked after clearing \n『The Little Emperor and the Calm Breakfast』
+『大島屋物語』\nクリアで解放されます=Unlocked after clearing \n『Ohshima Family Story』
+『Peace of Cradle』\nクリアで解放されます=Unlocked after clearing \n『Peace of Cradle』
+『新春！３１Ａ無人島サバイバル生活～時々ゲームオーバー～』\nクリアで解放されます=Unlocked after clearing \n 『New Year ! 31A Deserted Island Survival Life ～Sometimes Game Over～』
+『きみはこの夏のFairy、ぼくはその姿を瞳の奥にRec.』\nクリアで解放されます=Unlocked after clearing \n 『You are the Fairy this Summer, I See that Image in the Pupil of my Eye Rec.』
+『美人温泉物語　湯けむり千紫万紅』\nクリアで解放されます=Unlocked after clearing \n 『Beautiful Hot Spring Story - Steamy Multitude of Colors』
+『緋に染まる袖時雨』\nクリアで解放されます=Unlocked after clearing \n 『Scarlet Dyed Sleeves』
+『死にゆく季節でぼくらは』\nクリアで解放されます=Unlocked after clearing \n 『In the Dying Season, we Are』
+『２８メートルの永遠』\nクリアで解放されます=Unlocked after clearing \n 『28 Meters of Eternity』
+『夏だ！　水着だ！　トロピカル祭りだ！』\nクリアで解放されます=Unlocked after clearing \n 『It's Summer ! It's a Swimsuit ! It's a Tropical Festival !』
+『神託と白百合の花』\nクリアで解放されます=Unlocked after clearing \n 『The Oracle and the White Lily』
+『Dear My Little HERO』\nクリアで解放されます=Unlocked after clearing \n 『Dear My Little HERO』
+『セラフ剣刀武術祭』\nクリアで解放されます=Unlocked after clearing \n 『Seraph's Sword Martial Arts Festival』
+『Letters on The Back』\nクリアで解放されます=Unlocked after clearing \n『Letters on The Back』
+『この星に紡ぐ一手』\nクリアで解放されます=Unlocked after clearing \n 『A Hand Weaving to this Star』
+『進めちびっ子大作戦Ｕ１４０』\nクリアで解放されます=Unlocked after clearing \n 『Operation Mini Squad U140』
+『That day's Friend』\nクリアで解放されます=Unlocked after clearing \n 『That day's Friend』
+『君に読む憧れ』\nクリアで解放されます=Unlocked after clearing \n 『I Want to Learn from You』
+第二章 特定のDayクリアで解放されます=Unlocked after clearing \n Chapter 2 Specific Day
+第三章 特定のDayクリアで解放されます=Unlocked after clearing \n Chapter 3 Specific Day
+第四章 前編 特定のDayクリアで解放されます=Unlocked after clearing \n Chapter 4 Part 1 Specific Day
+第四章 後編 特定のDayクリアで解放されます=Unlocked after clearing \n Chapter 4 Part 2 Specific Day
+第五章 前編 特定のDayクリアで解放されます=Unlocked after clearing \n Chapter 5 Part 1 Specific Day
+
+<style\=RubyPrefixTag></style>\n『Popcorn N' Roses』\nスター42以上で解放できます。\n解放しますか？=<style\=RubyPrefixTag></style>\n『Popcorn N' Roses』Can be unlocked with 42 stars or above. \nDo you want to unlock it?

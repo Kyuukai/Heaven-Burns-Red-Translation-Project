@@ -1,0 +1,60 @@
+﻿消費ターン　0=Consumption Turn 0
+Boss出現まで=Until the Boss appears
+あと=Next
+使 用=Use
+スコア=Score
+詳 細=Detail
+タフネス=Toughness
+パワー=Power
+シーズンPt=Season Pts
+アーツリスト=Arts List
+プレイガイド=Play Guide
+メダルガチャ=Medals Gacha
+アーツ=Arts
+スコアボード=Scoreboard
+エンドレス=Endless
+<style\=RubyPrefixTag></style>\n『[MIX] HARD』をクリアで解放されます=<style\=RubyPrefixTag></style>\nUnlocks after clearing『[MIX] HARD』
+再開する=Resume
+ゲーム進行中=Game in Progress
+初回クリア報酬=First Clear reward
+使用制限=Restrictions
+挑戦する=Challenge
+デッキ編成=Deck Formation
+ボス討伐報酬=Boss Subjugation Reward
+報酬はすべて取得済みです=All rewards have been obtained
+部隊選択=Selection of Troops
+デッキ枚数が足りていないため挑戦できません=You cannot challenge because you do not have enough decks.
+必要デッキ枚数=Decks Required
+（ 現在=（ Currently
+使用可能アーツ=Arts Available
+------------------
+10ターン=10 Turns
+40ターン=40 turns
+60ターン=60 turns
+ボス登場まで=Until Boss Appearance
+
+---------------
+チュートリアル=Tutorial
+
+制限ターン=Max Turns
+到達エリア=Reaching Area
+ハイスコア=Highscore
+スコアボード対象=Scoreboard Target
+シーズンPt：=Season Pt:
+次の報酬まで=Until Next Reward
+シーズン報酬=Season Rewards
+
+-----------
+バトル [31B]NORMAL=Battle [31B] ​​NORMAL
+バトル [31B]HARD=Battle [31B] HARD
+バトル [31A]HARD=Battle [31A] HARD
+バトル [31A]NORMAL=Battle [31A] NORMAL
+バトル [31C]NORMAL=Battle [31C] NORMAL
+バトル [31C]HARD=Battle [31C] HARD
+バトル [31E]NORMAL=Battle [31E] NORMAL
+バトル [31E]HARD=Battle [31E] HARD
+バトル [MIX]HARD=Battle [MIX] HARD
+---------
+ 
+2024/04/19 11:00 〜 2024/07/26 10:59 まで開催=From 2024/04/19 11:00 to 2024/07/26 at 10:59
+シーズン2 -2024 Spring-=Season 2-2024 Spring-

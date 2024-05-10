@@ -1,0 +1,4 @@
+﻿デイリーログインボーナスの報酬獲得=Earn rewards for daily log-in bonuses
+体調不良や、睡眠不足の状態で\n臨まないようにしてくださいね。=Please do not go log-in if you're sick or sleep deprived.
+こちらが本日の支給品です。=Here are today's supplies.
+来るのを待っていました。\nこちらを受け取ってください。=We have been waiting for you to come. Please take this one.

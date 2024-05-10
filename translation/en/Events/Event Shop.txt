@@ -1,0 +1,16 @@
+﻿アーカイブ=Archive
+交換所ラインナップ=Exchange Lineup
+交換する=Exchange
+交換済=Exchanged
+所持交換Pt=Exchange Points
+購入数=Purchase Number
+交換確認=Exchange Confirmation
+所持数=Owned
+交換完了=Exchange Completed
+前回プレイ=Previous Play
+熟練度アップ！=Increase your Skill Level !
+-------------------
+※すでに所持しているスタイルを交換するとピースに変換されます。=※If you replace a Style you already own, it will be converted to a Piece.
+現在、交換できる商品がありません。=Currently, there is no product that can be replaced.
+--------------------
+※交換したクォーツはギフトに付与されます=※The Exchanged Quartz will be sent to Gift

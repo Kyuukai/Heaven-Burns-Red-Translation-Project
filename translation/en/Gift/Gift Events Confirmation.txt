@@ -1,0 +1,15 @@
+﻿事前登録キャンペーン報酬 =Pre-Registration Campaign Rewards 
+ゴールデンウィーク スペシャルログインボーナス1日目の報酬です=Golden Week Special Login Bonus Day 1 Rewards
+ゴールデンウィーク スペシャルログインボーナス2日目の報酬です=Golden Week Special Login Bonus Day 2 Rewards
+ゴールデンウィーク スペシャルログインボーナス3日目の報酬です=Golden Week Special Login Bonus Day 3 Rewards
+ゴールデンウィーク スペシャルログインボーナス4日目の報酬です=Golden Week Special Login Bonus Day 4 Rewards
+ゴールデンウィーク スペシャルログインボーナス5日目の報酬です=Golden Week Special Login Bonus Day 5 Rewards
+ゴールデンウィーク スペシャルログインボーナス6日目の報酬です=Golden Week Special Login Bonus Day 6 Rewards
+ゴールデンウィーク スペシャルログインボーナス7日目の報酬です=Golden Week Special Login Bonus Day 7 Rewards
+スタートダッシュログインボーナス1日目の報酬です=Here are the rewards for the 1st day of the Start Dash Log-in Bonus!
+スタートダッシュログインボーナス2日目の報酬です=Here are the rewards for the 2nd day of the Start Dash Log-in Bonus!
+スタートダッシュログインボーナス3日目の報酬です=Here are the rewards for the 3rd day of the Start Dash Log-in Bonus!
+スタートダッシュログインボーナス4日目の報酬です=Here are the rewards for the 4th day of the Start Dash Log-in Bonus!
+スタートダッシュログインボーナス5日目の報酬です=Here are the rewards for the 5th day of the Start Dash Log-in Bonus!
+スタートダッシュログインボーナス6日目の報酬です=Here are the rewards for the 6th day of the Start Dash Log-in Bonus!
+スタートダッシュログインボーナス7日目の報酬です=Here are the rewards for the 7th day of the Start Dash Log-in Bonus!

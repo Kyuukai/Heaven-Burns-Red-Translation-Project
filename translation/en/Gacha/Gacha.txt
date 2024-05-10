@@ -1,0 +1,45 @@
+﻿有償=Paid
+おまけ付き=Bonus
+選択中=Selected
+交換一覧=Exchange List
+ボーナスゲージ=Bonus Gauge
+無償=Free
+利用履歴=History
+詳細/提供割合=Details/Provision Ratio
+通常ガチャ=Regular Gacha
+チケットガチャ=Ticket Gacha
+交換Pt=<size\=15>Exchange Points</size>
+クォーツ300個を使用してガチャを1回引きますか?=Do you use 300 Quartz to draw once?
+クォーツ3000個を使用してガチャを10回引きますか?=Do you use 3000 Quartz to draw 10 times?
+S以上1体確定10連ガチャチケット1枚を使用してガチャを10回引きますか?=Do you want to pull 10 times using one Guaranteed S or Above Ticket?
+-----
+1日1回無料！=1 Free Pull Per Day!
+1日1回無料=1 Free Pull Per Day
+S以上1体確定=<size\=95%>1 S-Rank or higher guaranteed</size>
+あと0回無料=0 More Free
+あと1回無料=1 Time Free
+あと5回無料=5 Times Free
+あと10回無料=10 Times Free
+--------
+ガチャによって内容が異なります。必ず詳細をご確認下さい。=Contents vary from gacha to gacha. Please be sure to check the details.
+クォーツ0個を使用してガチャを1回引きますか?=Would you like to use 0 quartz to pull 1 gacha?
+画面タップで次へ=Tap screen to continue
+※交換可能なPt数に達しました=*You have reached the number of Pt that can be redeemed.
+もう一度引く=Pull Again
+ガチャ結果=Gacha Results
+---------------
+雷属性 SS確定チケット=Thunder Attribute SS Guaranteed Ticket
+雷属性ピックアップSS確定チケットガチャで使用できます\n※有効期限 2024/5/26 10:59(JST)まで=Can be used in the Thunder Attribute SS Ticket Gacha \n※Expiration date 2024/5/26 10:59 (JST)
+------------
+チュートリアルガチャ！\nSSスタイルをGETしよう！=Tutorial gacha! Get SS style!
+-----------------------
+
+SS1体確定=1 SS Confirmed
+SS確定ガチャのカケラ(イベント応援)×10枚で\nSSスタイルが1体確定で出現！=With 10 Guaranteed SS pieces (Event Support), \n1 SS Style will be guaranteed !
+SS確定ガチャのカケラ×10枚で\nSSスタイルが1体確定で出現！\n※毎月1日 4:00に更新されます=With 10 Guaranteed SS pieces \n1 SS Style will be guaranteed !\n* Updated at 4:00 on the 1st every month
+
+
+[Timestamps]
+2024/05/31 10:59まで開催=2024/05/31 Held until 10:59
+2024/05/19 10:59まで開催=2024/05/19 Held until 10:59
+販売期間：2024/05/07 11:00〜2024/05/24 10:59(JST)=Sales Period: 2024/05/07 11: 00-2024/05/24 10:59 (JST)

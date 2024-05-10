@@ -1,0 +1,36 @@
+﻿小さき帝と穏やかな朝食=A Peaceful Breakfast with the Young Master
+2023/10/06 10:59まで=Until 2023/10/06 at 10:59
+傍に控えるは、遠い約束。\n\n思い出すのは「お坊ちゃま」と呼んだ幼い主人の姿。                        \n廃鉱山を探索していた３１Ｆは地面の崩落に巻き込まれ、                        \n柳と丸山が隊から分断されてしまう。=What's waiting for me is a distant promise.\nWhat I remember is the image of someone whom I called "Young Master".\n31F Squad, which was exploring an abandoned mine, was caught in a ground collapse, Yanagi and Maruyama were divided from the Squad.
+
+地面の崩落によって廃鉱山の下層へ落ちてしまった柳と丸山。\n３１Ｆの仲間たちと合流するため地上を目指すも\n下層では巨大なキャンサーが目を光らせていた。=Yanagi and Maruyama fell to the bottom of an abandoned mine due to the ground collapsing.\n31F Squad tries to join them, but a huge Cancer was guarding the lower levels of the mine.
+
+残された華村たちは小笠原と天音を加えた救助部隊を結成し\n廃鉱山の下層を目指す。一方、柳らは巨大なキャンサー相手に\n身を潜めて地上を目指すも、負傷していた柳が倒れてしまう。=The Squad forms a rescue Squad with Ogasahara and Tenne, aiming for the lower level of the abandoned mine.\nOn the other hand, Yanagi and Maruyama hide themselves against a huge Cancer and tries to reach the upper levels, but Yanagi falls to the ground due to injuries.
+
+いくらか体力が回復した柳は、丸山と共に再び地上を目指す。\n救助部隊の捜索が続く中、\n柳・丸山の進む先には避けられない戦いが待っていた。=Yanagi, whose recovered some strength, heads out to reach the upper levels with Maruyama.\nWhile the rescue team keeps on looking for them, an inevitable battle awaits Yanagi and Maruyama.
+
+推奨戦力：=Recommended Strength:
+推奨戦力：5,800=Recommended Strength: 5,800
+[難易度 : B]ジャイアントアイ=[Difficulty: B] Giant Eye
+推奨戦力：7,500=Recommended Strength: 7,500
+[難易度 : A]ジャイアントアイ=[Difficulty: A] Giant Eye
+推奨戦力：9,500=Recommended Strength: 9,500
+[難易度 : S]ジャイアントアイ=[Difficulty: S] Giant Eye
+推奨戦力：10,500=Recommended Strength: 10,500
+[難易度 : S+]ジャイアントアイ=[Difficulty: SS] Giant Eye
+推奨戦力：11,500=Recommended Strength: 11,500
+[難易度 : SS]ジャイアントアイ=[Difficulty: SS] Giant Eye
+推奨戦力：12,500=Recommended Strength: 12,500
+[難易度 : X I]ジャイアントアイ=[Difficulty: X I] Giant Eye
+推奨戦力：13,500=Recommended Strength: 13,500
+[難易度 : X II]ジャイアントアイ=[Difficulty: X II] Giant Eye
+推奨戦力：14,000=Recommended Strength: 14,000
+[難易度 : X III]ジャイアントアイ=[Difficulty: X III] Giant Eye
+
+[難易度 : B]ジャイアントアイに挑戦します。\n使用するアイテムを選択してください。=[Difficulty: B] Challenge Giant Eye.\nPlease select the item to use.
+[難易度 : A]ジャイアントアイに挑戦します。\n使用するアイテムを選択してください。=[Difficulty: A] Challenge Giant Eye.\nPlease select the item to use.
+[難易度 : S]ジャイアントアイに挑戦します。\n使用するアイテムを選択してください。=[Difficulty: S] Challenge Giant Eye.\nPlease select the item to use.
+[難易度 : S+]ジャイアントアイに挑戦します。\n使用するアイテムを選択してください。=[Difficulty: S+] Challenge Giant Eye.\nPlease select the item to use.
+[難易度 : SS]ジャイアントアイに挑戦します。\n使用するアイテムを選択してください。=[Difficulty: SS] Challenge Giant Eye.\nPlease select the item to use.
+[難易度 : X I]ジャイアントアイに挑戦します。\n使用するアイテムを選択してください。=[Difficulty: X I] Challenge Giant Eye.\nPlease select the item to use.
+[難易度 : X II]ジャイアントアイに挑戦します。\n使用するアイテムを選択してください。=[Difficulty: X II] Challenge Giant Eye.\nPlease select the item to use.
+[難易度 : X III]ジャイアントアイに挑戦します。\n使用するアイテムを選択してください。=[Difficulty: X III] Challenge Giant Eye.\nPlease select the item to use.

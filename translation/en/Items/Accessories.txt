@@ -1,0 +1,30 @@
+﻿奥義のリング=Mystery Ring
+神秘のリング=Mysterious Ring
+炎のリング+3=Flame Ring +3
+ブラストピアス+2=Blast Earrings +2
+雷撃のブレス+2=Bracelets of Thunder +2
+熟練度=Skill Progression
+
+自身の火属性のスキル攻撃力 +8％\n力, 器用さ +37=Own Fire Skills Potency +8%, Increase Agility by +37
+DP攻撃に特化して デザインされている\n力 +11 /  器用さ +49=Increase Strength by +11 / Agility by +49. Specialized in DP Damage.
+HP攻撃に特化して デザインされている\n力 +49 /  器用さ +11=Increase Strength by +49 / Agility by +11. Specialized in HP Damage.
+
+祝福のチェーン=Chain of Blessing
+なにかいいことがありそうだ\n運 +48=Looks like something good is going to happen\nLuck +48
+天命のチェーン=Chain of Destiny
+不思議な力を感じる\n初期SP +3=I feel a mysterious power\nInitial SP +3
+火の加護のチェーン=Chain of Fire Protection
+火属性スキルのスキル回数 +1 / Healerの初期SP +3=Fire Ultimate Skill Limit +1 / Healer SP +3
+
+駆動のオーブ=Driving Orb
+スキルの力が込められた不思議な宝玉\n「ドライブゲイン」を覚える=Lを覚える=A mysterious jewel imbued with the skill "Drive Gain"
+復活のオーブ=Resurrection Orb
+スキルの力が込められた不思議な宝玉\n「リペアライト」を覚える=A mysterious jewel imbued with the skill "Repair Light"
+会心のオーブ=Critical Orb
+スキルの力が込められた不思議な宝玉\n「クリティカルシンキング」を覚える=A mysterious jewel imbued with the skill "Critical Thinking"
+防護のオーブ=Protection Orb
+スキルの力が込められた不思議な宝玉\n「プロテクション」を覚える=A mysterious jewel imbued with the skill "Protection"
+
+-------------
+Inventory Accessory
+プリズムバトル：Lv.9\nプリズムバトル：Lv.10=Prism Battle: Lv.9 \nPrism Battle: Lv.10

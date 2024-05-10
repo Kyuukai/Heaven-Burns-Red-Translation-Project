@@ -1,0 +1,29 @@
+﻿同意=Agree
+同意しない=Disagree
+ご注意=Caution
+・コントローラの決定ボタンを入れ替える=Swap the confirmation button on the controller
+※ONの場合、接続されたコントローラでゲームをプレイできます=*When ON, the game can be played with a connected controller
+・コントローラを使用する=Use the controller
+・解像度=Resolution
+フルスクリーン=Full Screen
+ウィンドウ=Windowed
+・表示モード=Display Mode
+グラフィック=Graphics
+表示モードと解像度を設定してください\nゲーム内の設定で後から変更できます\n=Please set the display mode and resolution, which can be changed later in the in-game settings\n
+※コントローラの決定ボタンとキャンセルボタンを入れ替えます=*Swap the decision button and cancel button on the controller.
+<style\=RubyPrefixTag></style>\nタイトルからアカウントを削除すると\n<cspace\=0.2em>2</cspace>回目以降はチュートリアルガチャまでスキップできます。\nそれではヘブンバーンズレッドをお楽しみください。=<style\=RubyPrefixTag></style>\nIf you delete your account from the title\n<cspace\=0.2em>2</cspace>After the second time, you can skip to the tutorial gacha. Enjoy Heaven Burns Red!
+
+<style\=RubyPrefixTag>
+</style>\n日本語に変更しました=<style\=RubyPrefixTag></style>\nChanged to Japanese
+国・地域選択=Country / Region Selection
+お住まいの国・地域を選択してください=Please select the Country / Region
+ゲーム開始後に変更する事は出来ません=You cannot change it after the game starts
+日本=Japan
+韓国=South Korea
+台湾=Taiwan
+香港=Hong Kong
+マカオ=Macao
+日本でよろしいですか？=Is Japan correct ?
+アプリ専用通貨規約=App-specific currency terms
+プライバシーポリシー=Privacy Policy
+同意する=Agree

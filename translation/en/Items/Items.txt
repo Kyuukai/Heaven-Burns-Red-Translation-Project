@@ -1,0 +1,84 @@
+﻿Currency
+クォーツ=Quartz
+クォーツ ×=Quartz x
+クォーツを獲得しました=Quartz was acquired.
+バトルレポートⅠを獲得しました=Battle Report I was obtained.
+-------------
+Inventory
+ショップなどで使えるコインです=These Coins can be used at the Shop
+柳 美音の全能力 +5\n『夜風のChill Time』専用=Mion Yanagi's All Stats +5 \nExclusive to "Mion Yanagi Chill Time"
+
+記憶の欠片=Fragment of Memory
+記憶を修復するための素材です=Material for Restoring Memory
+
+スキルガイド=Skill Guide
+キャラクターのスキルレベルを上げるアイテムです=A material used to raise the Skill of a Style
+交換所\n異時層=Exchange\ \nAlternate Time
+
+S以上確定ガチャチケット=S or above Gacha Ticket
+S以上確定チケットガチャで使用できます\n※有効期限付き=Can be used in the S or above Gacha Ticket \n※ With expiration date
+
+プレミアメダル=Premium Medals
+プレミアメダル交換所で使用できるメダルです=Can be used at the Premium Medals Exchange
+
+早天の鈴=Dawn Bell
+宵闇の鈴=Dusk Bell
+黄昏の鈴=Twilight Bell
+キャラクターを転生させるためのアイテムです=A material used to Rebirth a Style
+
+奇跡の器=Miracle Glass
+キャラクターの転生を巻き戻すアイテムです=A material used to revert a Style's Rebirth
+
+エーデルワイス=Edelweiss
+アーカイブイベントのメダルコンテンツ解放に必要なアイテムです=Unlocks Event Prism for archived Event Stories
+
+----------------------
+
+既に所持している場合、スタイルはピースに変換されます=If already in possession, the style will be converted to a piece
+所持上限を超えた分は取得できません=The amount exceeding the possession limit will not be acquired.
+
+----------------
+Materials
+融極鉱（打性）=Fusion Ore (Strike)
+融極鉱（突性）=Fusion Ore (Sudden)
+-------------
+ライフストーン=Lifestone
+ライフストーン ×=Lifestone x
+---------------
+スタイルレポート ×=Style Report x
+バトルレポートⅢ ×=Battle Report Ⅲ ×
+アーツメダル ×=Arts Medals x
+オーブボスチケット ×=Orb Boss Ticket x
+スキルガイド ×=Skill Guide x
+----------------------
+融極鉱（斬性）=Fusion Ore (Slash)
+10連ガチャチケット=10-Pull Gacha Ticket
+5連ガチャチケット=5-Pull Gacha ticket
+星屑の砂（斬性）=Sand of stardust (slashability)
+夢の泪=Tears of Dreams
+スタートダッシュガチャチケット=Start Dash Gacha Ticket
+S以上1体確定10連ガチャチケット=10-Pull gacha ticket to confirm one S or higher
+プレリオン溶液（斬性）=Prereion solution (slurry)
+プレリオン溶液（突性）=Pleurion Solution (Thrusting)
+プレリオン溶液（打性）=Prereion solution (percussive)
+アリーナ（中級 Lv.3）\nアリーナ（上級 Lv.3）\nプリズムバトル=Arena (Intermediate Lv.3) Arena (Advanced Lv.3) Prism Battle
+プリズムバトル（Lv.2以降）=Prism Battle (Lv.2 or later)
+星屑の砂（突性）=Sand of stardust (prodigious)
+星屑の砂（打性）=Stardust sand (percussion)
+プリズムバトル（Lv.5以降）=Prism Battle (Lv.5 or later)
+ノヴァ原水（斬性）=Nova raw water (slurry)
+ノヴァ原水（突性）=Nova raw water (突性)
+ノヴァ原水（打性）=Nova raw water (percussive)
+プリズムバトル（Lv.8以降）=Prism Battle (Lv.8 or later)
+シュワルツシルト核（斬性）=Schwarzschild nucleus (slit)
+シュワルツシルト核（突性）=Schwarzschild nucleus (thrust)
+シュワルツシルト核（打性）=Schwarzschild nucleus (percussion)
+ライフを1つ回復することができるアイテムです=This item can recover one life!
+-----------
+Anisochronous  Layer
+異時層チケット=Time Layer Ticket
+異時層に入場できるチケットです=Ticket for admission to different time layers.
+異時層のステータスブーストに使うアイテムです=This item is used for status boosting in different time layers
+-------------
+プリズムバトル\n宝石プリズムバトル\nイベントプリズムバトル=Prism Battle\nJewel Prisma\nEventPrism Battle
+スカウトチケットガチャで使用できます=Can be used in the Scout Ticket Gacha

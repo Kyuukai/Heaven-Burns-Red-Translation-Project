@@ -1,0 +1,10 @@
+﻿[Golden Week]
+GWスペシャルSS確定チケット=GW Special SS Fixed Ticket
+-----------
+[Secert Efforts]
+秘めたる努力=Secret Efforts
+プレリオン溶液（秘めたる努力）=Plerion Solution (Secret Efforts)
+交換所で入手できるスタイル強化用の素材です=Style Enhancement material obtained at the Exchange Shop.
+星屑の砂（秘めたる努力）=Stardust Sand (Secret Efforts)
+融極鉱（秘めたる努力）=Fusion Ore (Secret Efforts)
+[秘めたる努力]ピース=[Secret Efforts] Piece
