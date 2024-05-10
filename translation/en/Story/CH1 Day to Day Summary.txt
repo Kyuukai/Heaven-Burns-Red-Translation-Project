@@ -1,0 +1,19 @@
+﻿
+---------------------------------------------------------
+Story Menu Translations
+---------------------------------------------------------
+本編=Main Story
+ストーリー選択=Story Select
+はじめての共同生活。\n茅森たちはアリーナでの戦闘訓練を経験し、\nセラフについて学ぶ。=Its the team's first time living together! \nKayamori and her friends engage in combat training in the Arena to start learning about Seraphs.
+茅森たち31Aは、メンバーを分けての戦闘訓練をする。\nそんな中、朝倉の衝撃的な秘密が明らかに…。=Kayamori and the rest of Team 31A train for battle by diving their forces. In the midst of training, Asakura's surprising secret is revealed...
+訓練の中、先輩である30Gと競いあうことに。\n31A全員での、はじめての訓練が繰り広げられる。=During training, the team is pitted against their seniors: 30G, and the first training with all of 31A unfolds.
+つづく訓練。各々のスキルについて学んでいく茅森たち。\nそして夕方、茅森はとある廃屋を発見するのだった。\n※自由時間：ショップ新商品入荷=The training continues. Kayamori and co. learn about their individual skills, and in the evening Kayamori discovers an abandoned house. ※Free Time: New Items Unlocked in Shop
+訓練でスキルについて学ぶ茅森たち。\nそんな日々の中、31A全員でのバンド練習がはじまる。=Kayamori and team continue to learn more skills through their training. In their downtime, 31A starts practice to become a band.
+司令官、手塚との決死の戦い。\nなんとか勝利した茅森たちの前に、31Cが現れる。\n※BOSS：手塚=A decicive battle happens with Commander Tezuka, and 31C appears as Kayamori and the team manage to win. *BOSS: Tezuka.
+手塚からダンジョン探索の命を受ける茅森たち。\n出撃を翌日に控え、休日を満喫する。\n※自由時間：フレーバー通りオープン、ショップ新商品入荷=Kayamori and her team get orders from Tezuka to explore a dungeon. They decide to enjoy their day off before going out on their mission tomorrow. *FREE TIME: Flavor Street opens, and new items arrive in the store.
+池袋地下貯水池=Ikebukuro underground reservoir
+ついにはじまった、ダンジョンでの実戦。\nより深い層を目指し、茅森たちは31Cと競い合う。=With training finished, the real battles begin in the dungeons. As they aim to go deeper and deeper into the dungeon, Kayamori and team find themselves competing with 31C.
+つづくダンジョンでの実戦。\n31Cの様子が気になるが、慣れない実戦で\nいつも以上に疲れを感じる。=As the battles continue, 31C is worried about how their doing, feeling more tired than usual due to the unfamiliar circumstances.
+つづくダンジョンでの実戦。\n31Cは三層の攻略を始めるようだが…。=The dungeon exploration continues. 31C seems to launch an attack on the third floor of the labyrinth.
+つづくダンジョンでの実戦。\n先を行く31Cと追いかける31A。果たして勝負の行方は…。=The battles in the dungeons continue. 31C is ahead of 31A, what wll the outcome of this rivaly be...?
+突如、第二次防衛線内にキャンサー集団が侵入。\n31A、31Cに緊急出撃が要請される。\n※BOSS：DeathSlug=Unexpectedly, a group of Cancers invade their second line of defense, and 31A and 31C are ordered to launch an emergency counterattack. ※BOSS: DeathSlug
