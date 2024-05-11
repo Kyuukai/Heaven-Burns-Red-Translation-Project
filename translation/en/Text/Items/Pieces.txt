@@ -1,0 +1,13 @@
+--------------------------
+Pieces
+--------------------------
+[Attack or Music]ピース=[Attack or Music] Piece.
+
+万能スタイルピース（Rank A）=Universal Style Piece (A)
+Rank Sのスタイルの万能強化素材です=A Universal A Style Piece
+
+万能スタイルピース（Rank S）=Universal Style Piece (S)
+Rank Sのスタイルの万能強化素材です=A Universal S Style Piece
+
+万能スタイルピース（Rank SS）=Universal Style Piece (SS)
+Rank SSのスタイルの万能強化素材です=A Universal SS Style Piece
