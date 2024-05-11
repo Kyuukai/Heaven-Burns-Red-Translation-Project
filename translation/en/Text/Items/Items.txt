@@ -55,25 +55,25 @@ Materials
 S以上1体確定10連ガチャチケット=10-Pull S or Above Gacha Ticket
 
 プレリオン溶液（斬性）=Plerion Solution (Slash)
-プレリオン溶液（突性）=Plerion Solution (Thrust)
+プレリオン溶液（突性）=Plerion Solution (Pierce)
 プレリオン溶液（打性）=Plerion Solution (Blunt)
 星屑の砂（斬性）=Stardust Sand (Slash)
-星屑の砂（突性）=Stardust Sand (Thrust)
+星屑の砂（突性）=Stardust Sand (Pierce)
 星屑の砂（打性）=Stardust Sand (Blunt)
 融極鉱（斬性）=Fusion Ore (Slash)
 融極鉱（突性）=Fusion Ore (Slash)
 融極鉱（打性）=Fusion Ore (Slash)
 ノヴァ原水（斬性）=Nova Raw Water (Slash)
-ノヴァ原水（突性）=Nova Raw Water (Thrust)
+ノヴァ原水（突性）=Nova Raw Water (Pierce)
 ノヴァ原水（打性）=Nova Raw Water (Blunt)
 シュワルツシルト核（斬性）=Schwarzschild Core (Slash)
-シュワルツシルト核（突性）=Schwarzschild Core (Thrust)
+シュワルツシルト核（突性）=Schwarzschild Core (Pierce)
 シュワルツシルト核（打性）=Schwarzschild Core (Blunt)
 ノルドシュトロム結晶=Nordstorm Crystal
 キャンサーから入手できるスタイル強化用の素材です=A Style-enhancing material obtained from Cancer.
 
 宝珠（斬性）=Jewel (Slash)
-宝珠（突性）=Jewel (Thrust)
+宝珠（突性）=Jewel (Pierce)
 宝珠（打性）=Jewel (Blunt)
 宝珠（氷性）=Jewel (Ice)
 宝珠（火性）=Jewel (Fire)
