@@ -57,24 +57,20 @@ S以上1体確定10連ガチャチケット=10-Pull S or Above Gacha Ticket
 プレリオン溶液（斬性）=Plerion Solution (Slash)
 プレリオン溶液（突性）=Plerion Solution (Thrust)
 プレリオン溶液（打性）=Plerion Solution (Blunt)
-
 星屑の砂（斬性）=Stardust Sand (Slash)
 星屑の砂（突性）=Stardust Sand (Thrust)
 星屑の砂（打性）=Stardust Sand (Blunt)
-
 融極鉱（斬性）=Fusion Ore (Slash)
 融極鉱（突性）=Fusion Ore (Slash)
 融極鉱（打性）=Fusion Ore (Slash)
-
 ノヴァ原水（斬性）=Nova Raw Water (Slash)
 ノヴァ原水（突性）=Nova Raw Water (Thrust)
 ノヴァ原水（打性）=Nova Raw Water (Blunt)
-
 シュワルツシルト核（斬性）=Schwarzschild Core (Slash)
 シュワルツシルト核（突性）=Schwarzschild Core (Thrust)
 シュワルツシルト核（打性）=Schwarzschild Core (Blunt)
-
 ノルドシュトロム結晶=Nordstorm Crystal
+キャンサーから入手できるスタイル強化用の素材です=A Style-enhancing material obtained from Cancer.
 
 宝珠（斬性）=Jewel (Slash)
 宝珠（突性）=Jewel (Thrust)
@@ -84,10 +80,10 @@ S以上1体確定10連ガチャチケット=10-Pull S or Above Gacha Ticket
 宝珠（雷性）=Jewel (Thunder)
 宝珠（光性）=Jewel (Light)
 宝珠（闇性）=Jewel (Dark)
+宝珠の迷宮で入手できるスタイル強化用の素材です=A Style-enhancing material obtained from the Jewel Labyrinth.
 
 碧琥珀の雫=Blue Amber Drop
 アクセサリの＋枠を解放するためのアイテムです=This item is used to release the + frame of accessories.
-宝珠の迷宮で入手できるスタイル強化用の素材です=A Style-enhancing material that can be obtained from the Jewel Labyrinth.
 
 陽石の雫=Sunlight Drop
 アクセサリの＋枠の効果を変更するためのアイテムです=This item is used to change the + frame effect of accessories.

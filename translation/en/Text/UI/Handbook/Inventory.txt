@@ -7,7 +7,6 @@
 チップ=Chips
 ブースター=Boosters
 変換=<size\=28>Convert</size>
-キャンサーから入手できるスタイル強化用の素材です=Materials for style enhancement available from Cancer.
 合成=Synthesize
 アクセサリを所持していません=No accessories in possession
 
