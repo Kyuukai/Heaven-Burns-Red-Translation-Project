@@ -49,7 +49,6 @@
 200個=200
 --------
 Medal Exchange
-交換所メダル=Exchange Medals
 必要メダル 0=Required Medals 0
 必要メダル 10=Required Medals 10
 必要メダル 50=Required Medals 50

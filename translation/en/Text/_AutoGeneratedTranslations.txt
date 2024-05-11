@@ -1,0 +1,1 @@
+﻿対HPスキル攻撃力最大+10%（Hit数少ないほど効果大） / DP +550 / 知性 +43=Up to HP skill attack power up to +10%(more effects with less HIT) / DP +550 / intelligence +43

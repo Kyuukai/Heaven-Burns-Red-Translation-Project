@@ -1,7 +1,7 @@
 ﻿[Golden Week]
 GWスペシャルSS確定チケット=GW Special SS Fixed Ticket
 -----------
-[Secert Efforts]
+[Secret Efforts]
 秘めたる努力=Secret Efforts
 プレリオン溶液（秘めたる努力）=Plerion Solution (Secret Efforts)
 交換所で入手できるスタイル強化用の素材です=Style Enhancement material obtained at the Exchange Shop.

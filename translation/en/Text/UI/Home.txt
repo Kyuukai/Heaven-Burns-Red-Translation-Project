@@ -7,7 +7,7 @@
 ギャラリー=Gallery
 ライブ=Live
 ジオラマ=Diorama
-交換所=Clearing House
+交換所=Exchange Office
 友達招待=Friend Invitation
 最新のショップ=Go to the Latest Shop
 アリーナ=Arena

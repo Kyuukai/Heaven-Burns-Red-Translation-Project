@@ -20,7 +20,6 @@
 消費ライフ分報酬が増加します=Rewards will increase according to Life consumed
 ライフが不足しています=Not enough Life
 チケットが不足しています=Not enough Tickets
-プリズムバトルチケット=Prism Battle Ticket
 ライフ=Life
 消費チケット分報酬が増加します=Rewards will increase according to the Tickets used
 消費チケット=Ticket Used

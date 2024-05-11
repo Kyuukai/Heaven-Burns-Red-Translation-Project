@@ -24,7 +24,7 @@
 【強化育成CP】宝石プリズムバトルを70回クリアする=[Reinforcement Training CP] Clear the Jewel Prism Battle 70 times.
 【強化育成CP】宝石プリズムバトルを75回クリアする=[Reinforcement Training CP] Clearing the Jewel Prism Battle 75 times.
 【強化育成CP】宝石プリズムバトルを80回クリアする=[Reinforcement Training CP] Clear the Jewel Prism Battle 80 times.
-【強化育成CP】宝石プリズムバトルを85回クリアする=[[Strengthening and Training CP] Clear the Jewel Prism Battle 85 times.
+【強化育成CP】宝石プリズムバトルを85回クリアする=[Strengthening and Training CP] Clear the Jewel Prism Battle 85 times.
 【強化育成CP】宝石プリズムバトルを90回クリアする=[Reinforcement Training CP] Clear the Jewel Prism Battle 90 times.
 【強化育成CP】宝石プリズムバトルを95回クリアする=[Reinforcement Training CP] Clear the Jewel Prism Battle 95 times.
 【強化育成CP】アクセサリを1回錬成する=[Strengthening and Training CP] Smelting an accessory once

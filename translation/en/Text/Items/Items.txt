@@ -1,10 +1,12 @@
 ﻿Currency
+--------------------------
 クォーツ=Quartz
 クォーツ ×=Quartz x
-クォーツを獲得しました=Quartz was acquired.
-バトルレポートⅠを獲得しました=Battle Report I was obtained.
--------------
+クォーツを獲得しました=Quartz obtained.
+バトルレポートⅠを獲得しました=Battle Report I obtained.
+--------------------------
 Inventory
+--------------------------
 ショップなどで使えるコインです=These Coins can be used at the Shop
 柳 美音の全能力 +5\n『夜風のChill Time』専用=Mion Yanagi's All Stats +5 \nExclusive to "Mion Yanagi Chill Time"
 
@@ -31,54 +33,159 @@ S以上確定チケットガチャで使用できます\n※有効期限付き=C
 
 エーデルワイス=Edelweiss
 アーカイブイベントのメダルコンテンツ解放に必要なアイテムです=Unlocks Event Prism for archived Event Stories
-
-----------------------
-
+--------------------------
 既に所持している場合、スタイルはピースに変換されます=If already in possession, the style will be converted to a piece
 所持上限を超えた分は取得できません=The amount exceeding the possession limit will not be acquired.
-
-----------------
+--------------------------
 Materials
-融極鉱（打性）=Fusion Ore (Strike)
-融極鉱（突性）=Fusion Ore (Sudden)
--------------
+--------------------------
 ライフストーン=Lifestone
 ライフストーン ×=Lifestone x
----------------
+ライフを1つ回復することができるアイテムです=This item can restore one life.
+--------------------------
 スタイルレポート ×=Style Report x
 バトルレポートⅢ ×=Battle Report Ⅲ ×
 アーツメダル ×=Arts Medals x
 オーブボスチケット ×=Orb Boss Ticket x
 スキルガイド ×=Skill Guide x
-----------------------
-融極鉱（斬性）=Fusion Ore (Slash)
+--------------------------
 10連ガチャチケット=10-Pull Gacha Ticket
 5連ガチャチケット=5-Pull Gacha ticket
-星屑の砂（斬性）=Sand of stardust (slashability)
-夢の泪=Tears of Dreams
 スタートダッシュガチャチケット=Start Dash Gacha Ticket
-S以上1体確定10連ガチャチケット=10-Pull gacha ticket to confirm one S or higher
-プレリオン溶液（斬性）=Prereion solution (slurry)
-プレリオン溶液（突性）=Pleurion Solution (Thrusting)
-プレリオン溶液（打性）=Prereion solution (percussive)
-アリーナ（中級 Lv.3）\nアリーナ（上級 Lv.3）\nプリズムバトル=Arena (Intermediate Lv.3) Arena (Advanced Lv.3) Prism Battle
-プリズムバトル（Lv.2以降）=Prism Battle (Lv.2 or later)
-星屑の砂（突性）=Sand of stardust (prodigious)
-星屑の砂（打性）=Stardust sand (percussion)
-プリズムバトル（Lv.5以降）=Prism Battle (Lv.5 or later)
-ノヴァ原水（斬性）=Nova raw water (slurry)
-ノヴァ原水（突性）=Nova raw water (突性)
-ノヴァ原水（打性）=Nova raw water (percussive)
-プリズムバトル（Lv.8以降）=Prism Battle (Lv.8 or later)
-シュワルツシルト核（斬性）=Schwarzschild nucleus (slit)
-シュワルツシルト核（突性）=Schwarzschild nucleus (thrust)
-シュワルツシルト核（打性）=Schwarzschild nucleus (percussion)
-ライフを1つ回復することができるアイテムです=This item can recover one life!
------------
-Anisochronous  Layer
-異時層チケット=Time Layer Ticket
-異時層に入場できるチケットです=Ticket for admission to different time layers.
-異時層のステータスブーストに使うアイテムです=This item is used for status boosting in different time layers
--------------
-プリズムバトル\n宝石プリズムバトル\nイベントプリズムバトル=Prism Battle\nJewel Prisma\nEventPrism Battle
+S以上1体確定10連ガチャチケット=10-Pull S or Above Gacha Ticket
+
+プレリオン溶液（斬性）=Plerion Solution (Slash)
+プレリオン溶液（突性）=Plerion Solution (Thrust)
+プレリオン溶液（打性）=Plerion Solution (Blunt)
+
+星屑の砂（斬性）=Stardust Sand (Slash)
+星屑の砂（突性）=Stardust Sand (Thrust)
+星屑の砂（打性）=Stardust Sand (Blunt)
+
+融極鉱（斬性）=Fusion Ore (Slash)
+融極鉱（突性）=Fusion Ore (Slash)
+融極鉱（打性）=Fusion Ore (Slash)
+
+ノヴァ原水（斬性）=Nova Raw Water (Slash)
+ノヴァ原水（突性）=Nova Raw Water (Thrust)
+ノヴァ原水（打性）=Nova Raw Water (Blunt)
+
+シュワルツシルト核（斬性）=Schwarzschild Core (Slash)
+シュワルツシルト核（突性）=Schwarzschild Core (Thrust)
+シュワルツシルト核（打性）=Schwarzschild Core (Blunt)
+
+ノルドシュトロム結晶=Nordstorm Crystal
+
+宝珠（斬性）=Jewel (Slash)
+宝珠（突性）=Jewel (Thrust)
+宝珠（打性）=Jewel (Blunt)
+宝珠（氷性）=Jewel (Ice)
+宝珠（火性）=Jewel (Fire)
+宝珠（雷性）=Jewel (Thunder)
+宝珠（光性）=Jewel (Light)
+宝珠（闇性）=Jewel (Dark)
+
+碧琥珀の雫=Blue Amber Drop
+アクセサリの＋枠を解放するためのアイテムです=This item is used to release the + frame of accessories.
+宝珠の迷宮で入手できるスタイル強化用の素材です=A Style-enhancing material that can be obtained from the Jewel Labyrinth.
+
+陽石の雫=Sunlight Drop
+アクセサリの＋枠の効果を変更するためのアイテムです=This item is used to change the + frame effect of accessories.
+
+ダンジョンチケット=Dungeon Ticket
+記憶の庭のダンジョンに入場できるチケットです=This ticket allows you to enter a dungeon in the Garden of Memories.
+
+プリズムバトルチケット=Prism Battle Ticket
+記憶の庭のプリズムバトルに入場できるチケットです=A ticket that allows you to enter a Prism Battle in the Garden of Memories.
+
+オーブボスチケット=Orb Boss Ticket
+記憶の庭のオーブボスに入場できるチケットです=A ticket that allows you to enter a Orb Boss Battle in the Garden of Memories.
+
+第一回イベントダンジョンチケット=1st Event Dungeon Ticket
+【優しさと切なさと心強さと】\n記憶の庭のイベントダンジョン「池袋地下」に入場できるチケットです=【Kindness, Sadness, and Reassurance】\nA ticket that allows you to enter the Event Dungeon「Ikebukuro Underground」in the Garden of Memories.
+
+第二回イベントダンジョンチケット=2nd Event Dungeon Ticket
+【Requiem for the Blue】\n記憶の庭のイベントダンジョン「有明」に入場できるチケットです=【Requiem for the blue】\nA ticket that allows you to enter the Event Dungeon「Ariake」in the Garden of Memories.
+
+第三回イベントダンジョンチケット=3rd Event Dungeon Ticket
+【この星に紡ぐ一手】\n記憶の庭のイベントダンジョン「入間」に入場できるチケットです=【A Hand Weaving to this Star】\nA ticket that allows you to enter the Event Dungeon「Iruma」in the Garden of Memories.
+
+第五回イベントダンジョンチケット=5th Event Dungeon Ticket
+【進めちびっ子大作戦Ｕ１４０】\n記憶の庭のイベントダンジョン「廃棄研究所」に入場できるチケットです=【Operation Mini Squad U140】 \nA ticket that allows you to enter the Event Dungeon「Abandonned Laboratory」in the Garden of Memories.
+
+第六回イベントダンジョンチケット=6th Event Dungeon Ticket
+【A Little Tear, Forgotten Memories】\n記憶の庭のイベントダンジョン「浅草」に入場できるチケットです=【A Little Tear, Forgotten Memories】\nA ticket that allows you to enter the Event Dungeon「Asakusa」in the Garden of Memories.
+
+悠久のダフネ=Eternal Daphne
+異時層\nプレミアメダル交換所=Alternate Time Premium Medals Exchange
+スタイルを才能開花させるためのアイテムです=An item that will help you develop your style.
+
+ルビー=Ruby
+サファイア=Sapphire
+トパーズ=Topaz
+パール=Pearl
+オニキス=Onyx
+アレキサンドライト=Alexandrite
+錬成に使うアイテムです=An item used for Crafting.
+
+ダイヤモンド=Diamond
+錬成およびスキル進化に使うアイテムです=An item used for Crafting and Skill Evolution.
+
+異時層チケット=Alternate Time Ticket
+異時層に入場できるチケットです=Ticket for admission to Alternate Time.
+
+夢の泪=Tears of Dreams
+異時層のステータスブーストに使うアイテムです=This item is used for status boosting in Alternate Time.
+
+交換所メダル=Exchange Medals
+ストーリーイベント「Requiem for the Blue」交換所で使用できるメダルです=These Medals can be used at the story event「Requiem for the Blue」exchange.
+ストーリーイベント「この星に紡ぐ一手」交換所で使用できるメダルです=These Medals can be used at the story event「A Hand Weaving to this Star」exchange.
+ストーリーイベント「進めちびっ子大作戦Ｕ１４０」交換所で使用できるメダルです=These Medals can be used at the story event「Operation Mini Squad U140」exchange.
+ストーリーイベント「A Little Tear, Forgotten Memories」交換所で使用できるメダルです=These Medals can be used at the story event「A Little Tear, Forgotten Memories」exchange.
+ストーリーイベント「That day's Friend」交換所で使用できるメダルです=These Medals can be used at the story event「That day's Friend」exchange.
+ストーリーイベント「セラフ剣刀武術祭」交換所で使用できるメダルです=These Medals can be used at the story event「Seraph's Sword Martial Arts Festival」exchange.
+ストーリーイベント「大島屋物語」交換所で使用できるメダルです=These Medals can be used at the story event「Ohshima Family Story」exchange.
+ストーリーイベント「君に読む憧れ」交換所で使用できるメダルです=These Medals can be used at the story event「I Want to Read to You」exchange.
+ストーリーイベント「気高く儚い者たち」交換所で使用できるメダルです=These Medals can be used at the story event「Noble and Fleeting One」exchange.
+ストーリーイベント「罪と罰と愛と」交換所で使用できるメダルです=These Medals can be used at the story event「Crime, Punishment, and Love」exchange.
+ストーリーイベント「小さき帝と穏やかな朝食」交換所で使用できるメダルです=These Medals can be used at the story event「A Peaceful Breakfast with the Young Master」exchange.
+ストーリーイベント「Letters on The Back」交換所で使用できるメダルです=These Medals can be used at the story event「Letters on The Back」exchange.
+ストーリーイベント「怪人ノートと銀の時計」交換所で使用できるメダルです=These Medals can be used at the story event「The Phantom Note and the Silver Clock」exchange.
+ストーリーイベント「２８メートルの永遠」交換所で使用できるメダルです=These Medals can be used at the story event「28 Meters of Eternity」exchange.
+
+--------------------------
+プリズムバトル\n宝石プリズムバトル\nイベントプリズムバトル=Prism Battle\nJewel Prisma\nEvent Prism Battle
 スカウトチケットガチャで使用できます=Can be used in the Scout Ticket Gacha
+アリーナ（中級 Lv.3）\nアリーナ（上級 Lv.3）\nプリズムバトル=Arena (Intermediate Lv.3) Arena (Advanced Lv.3) Prism Battle
+ミッション\nイベントプリズムバトル\nイベントダンジョン=Mission\nEvent Prism Battle\nEvent Dungeon
+ミッション\nイベントプリズムバトル=Mission Event \nPrism Battle
+
+イベントプリズムバトル=Event Prism Battle
+
+プリズムバトル（Lv.2以降）=Prism Battle (Lv.2 or later)
+プリズムバトル（Lv.5以降）=Prism Battle (Lv.5 or later)
+プリズムバトル（Lv.8以降）=Prism Battle (Lv.8 or later)
+
+宝珠の迷宮=Jewel Labyrinth
+強化の回廊=Corridor of Reinforcement
+宝石プリズムバトル=Jewel Prism Battle
+--------------------------
+Pieces
+--------------------------
+[Attack or Music]ピース=[Attack or Music] Piece.
+
+万能スタイルピース（Rank A）=Universal Style Piece (A)
+Rank Sのスタイルの万能強化素材です=A Universal A Style Piece
+
+万能スタイルピース（Rank S）=Universal Style Piece (S)
+Rank Sのスタイルの万能強化素材です=A Universal S Style Piece
+
+万能スタイルピース（Rank SS）=Universal Style Piece (SS)
+Rank SSのスタイルの万能強化素材です=A Universal SS Style Piece
+
+SS確定ガチャのカケラ=Guaranteed SS Gacha Piece
+10枚でハイスコア報酬SS確定ガチャが1回引けます\n※有効期限つき=Earned as a reward from reaching High Score in Score Attack.\nGuarantees you an SS Style with 10 Pieces.\n※With Expiration date
+有効期限を確認する=Expiration date
+
+SS確定ガチャのカケラ(イベント応援)=<size\=22>Guaranteed SS Gacha Piece (Event Support)</size>
+10枚で「イベント応援ミッション SS確定ガチャ」が引けます\n※有効期限 2024/5/19 10:59まで=Earned as a reward from completing「Event Support Missions」.\nGuarantees you an SS Style with 10 Pieces.\n※Until 2024/5/19 at 10:59

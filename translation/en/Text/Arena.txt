@@ -11,12 +11,11 @@
 オートプレイ残り時間=Autoplay Remaining Time
 クリアタイム=Clear Time
 所持上限を超えたためこのアイテムは取得できません=This item cannot be acquired because the possession limit has been exceeded
-GPを獲得しました=We won the GP!
+GPを獲得しました=GP obtained
 
 [Dialogue]
-訓練を選択してください。=Select your training.
+訓練を選択してください。=Please select your training.
 お疲れ様でした。=Thank you for your hard work.
 
 [Challenges]
 初級 Lv.1=Elementary Lv.1
-

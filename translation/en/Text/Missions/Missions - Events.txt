@@ -1,6 +1,6 @@
 ﻿ストーリーイベント「２８メートルの永遠」をクリア=Cleared the story event [28 Meters of Eternity]
 【２８メートルの永遠】イベントプリズムを1回クリア=Clear the event prism once [28 Meters of Eternity]
-【２８メートルの永遠】交換所メダルを100枚獲得する=[28 Meters of Eternity] Obtain 100 Exchange medals
+【２８メートルの永遠】交換所メダルを100枚獲得する=[28 Meters of Eternity] Obtain 100 Exchange Medals
 
 [Golden Week]
 ゴールデンウィーク強化育成キャンペーン 1/40=Golden Week Enhancement Development Campaign 1/40
