@@ -1,26 +1,26 @@
 ﻿[Purchases]
-購入回数：あと0回=No. of Purchases: 0 more
-購入回数：あと1回=No. of Purchases: 1 more
-購入回数：あと1回=No. of Purchases: 1 more
-購入回数：あと2回=No. of Purchases: 2 more
-購入回数：あと3回=No. of Purchases: 3 more
-購入回数：あと4回=No. of Purchases: 4 more
-購入回数：あと5回=No. of Purchases: 5 more
-購入回数：あと6回=No. of Purchases: 6 more
-購入回数：あと7回=No. of Purchases: 7 more
-購入回数：あと8回=No. of Purchases: 8 more
-購入回数：あと9回=No. of Purchases: 9 more
-購入回数：あと10回=No. of Purchases: 10 more
-購入回数：あと11回=No. of Purchases: 11 more
-購入回数：あと12回=No. of Purchases: 12 more
-購入回数：あと13回=No. of Purchases: 13 more
-購入回数：あと14回=No. of Purchases: 14 more
-購入回数：あと15回=No. of Purchases: 15 more
-購入回数：あと16回=No. of Purchases: 16 more
-購入回数：あと17回=No. of Purchases: 17 more
-購入回数：あと18回=No. of Purchases: 18 more
-購入回数：あと19回=No. of Purchases: 19 more
-購入回数：あと20回=No. of Purchases: 20 more
+購入回数：あと0回=No. of Purchases: 0 left
+購入回数：あと1回=No. of Purchases: 1 left
+購入回数：あと1回=No. of Purchases: 1 left
+購入回数：あと2回=No. of Purchases: 2 left
+購入回数：あと3回=No. of Purchases: 3 left
+購入回数：あと4回=No. of Purchases: 4 left
+購入回数：あと5回=No. of Purchases: 5 left
+購入回数：あと6回=No. of Purchases: 6 left
+購入回数：あと7回=No. of Purchases: 7 left
+購入回数：あと8回=No. of Purchases: 8 left
+購入回数：あと9回=No. of Purchases: 9 left
+購入回数：あと10回=No. of Purchases: 10 left
+購入回数：あと11回=No. of Purchases: 11 left
+購入回数：あと12回=No. of Purchases: 12 left
+購入回数：あと13回=No. of Purchases: 13 left
+購入回数：あと14回=No. of Purchases: 14 left
+購入回数：あと15回=No. of Purchases: 15 left
+購入回数：あと16回=No. of Purchases: 16 left
+購入回数：あと17回=No. of Purchases: 17 left
+購入回数：あと18回=No. of Purchases: 18 left
+購入回数：あと19回=No. of Purchases: 19 left
+購入回数：あと20回=No. of Purchases: 20 left
 
 -----
 [Gacha Pull]
@@ -131,7 +131,7 @@ Occurence
 既にLv.20以上のため使用できません=Style is already Lv.20 or higher
 既にLv.10以上のため使用できません=Style is already Lv.10 or higher
 
-使用可能回数：1 回=Usable No. of times: 1 times
+使用可能回数：1 回=Usable No. of times: 1 time
 使用可能回数：2 回=Usable No. of times: 2 times
 使用可能回数：3 回=Usable No. of times: 3 times
 使用可能回数：4 回=Usable No. of times: 4 times

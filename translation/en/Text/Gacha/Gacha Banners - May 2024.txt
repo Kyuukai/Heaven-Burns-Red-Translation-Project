@@ -15,6 +15,8 @@
 霓裳羽衣ノ舞・霹靂=Rainbow-robed Feathered Dance, A Bolt From the Sky
 優しい雷光が 全体の雷属性スキル攻撃力を上げ\n敵に地を砕く 知性依存の迅雷を放つ=A gentle lightning bolt raises the attack power of the entire lightning attribute skill, and releases an intelligence-dependent lightning bolt that shatters the earth against the enemy.
 二律背反スパークピッキング=Dichotomous Spark Picking
+この弦音はいつか永遠を数える…=These string tones will one day count eternity...
+----------------
 ゴールデンウィークセレクション ステップアップガチャ開催！\nSSスタイルは選出された10スタイルのみ！\nSTEP4はSSスタイルから1体以上確定！=Golden Week Selection Step Up Gacha will be held! Only 10 SS styles can be selected!
 2024/05/17 10:59まで開催=Held until 2024/05/17 10:59
 ---
@@ -26,6 +28,7 @@ SS1体以上確定=At least 1 SS confirmed
 氷華、千射万箭=Senjamanya Hyouka
 全体の氷属性スキル攻撃力 氷属性クリティカルダメージを上げ\n敵全体に氷属性のレーザーを照射 追加ターン中は消費SPが半減=Increases overall ice attribute skill attack power ice attribute critical damage and fires ice attribute lasers at all enemies. SP consumption is halved during the additional turn.
 ロリータフルバースト=Lolita Full Burst
+ロリータ・フルバーストモード！=Lolita full burst mode!
 ------
 2024/06/01 03:59まで開催=Held until 06/01/2024 03:59
 SSスタイルは全48部隊員の基本衣装！\n50連まで引くと、SSキャラが1体確定する\nガチャチケットを獲得できます。=SS style is the basic costume of all 48 troop members! If you draw up to 50 rounds, you will get a gacha ticket that will confirm one SS character.

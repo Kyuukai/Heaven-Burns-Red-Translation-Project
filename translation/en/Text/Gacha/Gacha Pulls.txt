@@ -9,6 +9,9 @@ Aina Mizuhara
 ***********************
 Akari Date
 ネガティブエース=Negative Ace
+DP攻撃が得意な BREAKERスタイル\n\n【サービス・エース】\n　敵を叩きつけて攻撃 [対DP+30%]\n　さらに オーバードライブゲージが上昇=BREAKER style with good DP attack\n\n[Service Ace] Strike the enemy by slamming them [+30% vs. DP], plus the overdrive gauge is increased.
+サービス・エース=Service Ace
+----------
 ***********************
 Carole Reaper
 
@@ -77,6 +80,8 @@ Maria de Angelis
 くれないのシスター=The Sisters of the Redeemer
 聖なる光で 前衛のDPを回復\nさらに 自身のトークンを上昇=Recovers the vanguard's DP with holy light\nAdditionally increases own tokens.
 パニッシュメント=Punishment
+前衛の回復と自身の強化ができる HEALERスタイル\n\n【パニッシュメント】\n　聖なる光で 前衛のDPを回復\n　さらに 自身のトークンを上昇させる=HEALER style that can heal the vanguard and strengthen itself\n\n[Punishment] Heals the DP of the vanguard with holy light, and also raises her own token.
+
 ---------------
 ***********************
 Megumi Aikawa
@@ -96,6 +101,8 @@ Misato Nikaido
 最年少名人=Youngest Master
 回転する盾を 全体に叩きつけ\nさらに 自身のスキル攻撃力を上げる=Slams everyone with a rotating shield\nAdditionally increases own skill attack power
 ハネ殺し=Honey Killer
+自身を強化し攻撃もできる ATTACKERスタイル\n\n【ハネ殺し】\n　回転する盾を 全体に叩きつけ\n　さらに 自身のスキル攻撃力を上げる=ATTACKER style, which strengthens itself and can also attack\n\nThe spinning shield will hit the entire body, and also increase the attack power of its own skills.
+------------
 ***********************
 Miya Kiryu
 
@@ -130,8 +137,10 @@ Satomi Kura
 
 ***********************
 Seika Higuchi
-どのような数値を弾き出すかな、楽しみで仕方がない=I can't wait to see what kind of numbers they come up with.
 生者のホメオスタシス=Homeostasis of the Living
+どのような数値を弾き出すかな、楽しみで仕方がない=I can't wait to see what kind of numbers they come up with.
+雷属性強化フィールドを展開する BUFFERスタイル\n\n【トリック・カノン】\n　雷属性強化フィールドを展開し\n　電撃で敵を両断 さらにランダムで弱体効果を付加する=Deploys a lightning attribute reinforcement field BUFFER style\n\n[Trick Canon]\nDeploys a lightning attribute reinforcement field\nCuts the enemy in half with electricity and adds a random weakening effect
+--------------
 ***********************
 Shiki Hanamura
 
@@ -140,8 +149,11 @@ Sumomo Minase
 
 ***********************
 Seira Sakuraba
+クリスタルの導き=Crystal Guidance
+DP回復で味方をサポートする HEALERスタイル\n\n【リカバー】\n　聖なる光で 前衛のDPを回復する\n　長期バトルや探検には欠かせないスキル=Supporting allies with DP recovery HEALER style\n\nRecovers DP of the vanguard with holy light, an indispensable skill for long-term battles and expeditions
+-------
 
-------------
+***************
 Tama Kunimi
 
 ***********************

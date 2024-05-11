@@ -56,4 +56,4 @@ Board 9
 イベントストーリーを6本クリアする=Clear 6 Event Stories
 スコアアタックで130,000点以上達成する=Achieve 130,000 points or more in Score Attack
 部隊の戦力を13,000以上にする=Make a Style's Combat Power 13,000 or more
-全スタイルの総合戦力を35,000,000以上にする=Make the overall strength of all styles to 35,000,000 or more
+全スタイルの総合戦力を35,000,000以上にする=Reach Combat Power of all Styles combined to 35,000,000 or more

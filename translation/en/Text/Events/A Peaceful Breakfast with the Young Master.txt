@@ -7,22 +7,22 @@
 
 いくらか体力が回復した柳は、丸山と共に再び地上を目指す。\n救助部隊の捜索が続く中、\n柳・丸山の進む先には避けられない戦いが待っていた。=Yanagi, whose recovered some strength, heads out to reach the upper levels with Maruyama.\nWhile the rescue team keeps on looking for them, an inevitable battle awaits Yanagi and Maruyama.
 
-推奨戦力：=Recommended Strength:
-推奨戦力：5,800=Recommended Strength: 5,800
+推奨戦力：=Recommended Combat Power:
+推奨戦力：5,800=Recommended Combat Power: 5,800
 [難易度 : B]ジャイアントアイ=[Difficulty: B] Giant Eye
-推奨戦力：7,500=Recommended Strength: 7,500
+推奨戦力：7,500=Recommended Combat Power: 7,500
 [難易度 : A]ジャイアントアイ=[Difficulty: A] Giant Eye
-推奨戦力：9,500=Recommended Strength: 9,500
+推奨戦力：9,500=Recommended Combat Power: 9,500
 [難易度 : S]ジャイアントアイ=[Difficulty: S] Giant Eye
-推奨戦力：10,500=Recommended Strength: 10,500
+推奨戦力：10,500=Recommended Combat Power: 10,500
 [難易度 : S+]ジャイアントアイ=[Difficulty: SS] Giant Eye
-推奨戦力：11,500=Recommended Strength: 11,500
+推奨戦力：11,500=Recommended Combat Power: 11,500
 [難易度 : SS]ジャイアントアイ=[Difficulty: SS] Giant Eye
-推奨戦力：12,500=Recommended Strength: 12,500
+推奨戦力：12,500=Recommended Combat Power: 12,500
 [難易度 : X I]ジャイアントアイ=[Difficulty: X I] Giant Eye
-推奨戦力：13,500=Recommended Strength: 13,500
+推奨戦力：13,500=Recommended Combat Power: 13,500
 [難易度 : X II]ジャイアントアイ=[Difficulty: X II] Giant Eye
-推奨戦力：14,000=Recommended Strength: 14,000
+推奨戦力：14,000=Recommended Combat Power: 14,000
 [難易度 : X III]ジャイアントアイ=[Difficulty: X III] Giant Eye
 
 [難易度 : B]ジャイアントアイに挑戦します。\n使用するアイテムを選択してください。=[Difficulty: B] Challenge Giant Eye.\nPlease select the item to use.

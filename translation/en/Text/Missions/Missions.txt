@@ -5,6 +5,8 @@
 初心者ミッション=Beginner's Mission
 マンスリーミッション=Monthly Mission
 期間限定=Limited Time
+キャンペーン情報=Campaign Information
+<style\=RubyPrefixTag></style>\nミッションから、期間限定タブをチェック！=<style\=RubyPrefixTag></style>\nCheck out the Limited Time tab from the Missions!
 このアイテムは所持上限を超えるため受け取れません=You cannot receive this item because it exceeds your possession limit.
 以下の報酬を受け取りました=The following rewards were received
 入手済=<size\=22>Acquired</size>
@@ -99,7 +101,18 @@ Cumulative Total
 プレイヤーランクを13にする=Player rank to 13
 プレイヤーランクを14にする=Player rank to 14
 プレイヤーランクを15にする=Player rank to 15
----------
+メインストーリー 第一章Day1をクリアする=Clear Main Story Chapter 1 Day 
+メインストーリー 第一章Day2をクリアする=Clear Main Story Chapter 1 Day 2
+メインストーリー 第一章Day3をクリアする=Clear Main Story Chapter 1 Day 3
+メインストーリー 第一章Day4をクリアする=Clear Main Story Chapter 1 Day 4
+メインストーリー 第一章Day5をクリアする=Clear Main Story Chapter 1 Day 5
+メインストーリー 第一章Day6をクリアする=Clear Main Story Chapter 1 Day 6
+メインストーリー 第一章Day7をクリアする=Clear Main Story Chapter 1 Day 7
+メインストーリー 第一章Day8をクリアする=Clear Main Story Chapter 1 Day 8
+メインストーリー 第一章Day9をクリアする=Clear Main Story Chapter 1 Day 9
+メインストーリー 第一章Day10をクリアする=Clear Main Story Chapter 1 Day 10
+メインストーリー 第一章Day11をクリアする=Clear Main Story Chapter 1 Day 11
+
 Self-Challenge
 【初心者強化応援ミッション】第一章Day11をクリアする（5/22）=[Mission to Support Beginners' Enhancement] Clear Chapter 1, Day 11 (5/22)
 【初心者強化応援ミッション】第一章Day11をクリアする（4/22）=[Mission to Support Beginners' Reinforcement] Clear Chapter 1, Day 11 (4/22)
@@ -166,7 +179,7 @@ Beginner's Mission
 茅森月歌をLv.10にする=Make Ruka Kayamori Lv.10
 メインストーリー 第一章Day3をクリア=Clear Main Story Chapter 1 Day 3
 動画を見る=Watch the video
-「ヘブバンの遊び方」動画を見る=Watch the "How to Play Hebban" video
+「ヘブバンの遊び方」動画を見る=Watch the "How to Play HBR" video
 進捗報酬=Progress Reward
 アリーナの初級Lv.3（打）をクリア=Clear the Arena's Beginner Level Lv.3 (Hit)
 ボード1 初心者ミッション  1/7=Board 1 Beginner Mission 1/7

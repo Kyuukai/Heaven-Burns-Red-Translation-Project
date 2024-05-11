@@ -33,7 +33,7 @@ Erika Aoi
 奇跡の盾で 自身を2回ダメージ無効にし \n全体攻撃も含め 敵の攻撃を自身に集中させる=Use a miraculous shield to nullify damage twice and taunts enemy attacks, including area of effect attacks.
 
 アイドルスマイル=Idol Smile
-炎を纏わせた盾を 全体に叩きつける\n敵の弱点をついたとき威力が少し上がり かつ [破壊率大]=Slams the enemy with a shield covered in flames\nThe power increases slightly when hitting the enemy's weak point [High Destruction Rate].
+炎を纏わせた盾を 全体に叩きつける\n敵の弱点をついたとき威力が少し上がり かつ [破壊率大]=Slams enemies with a shield covered in flames\nThe power increases slightly when hitting the enemy's weak point [High Destruction Rate].
 
 プロヴォーク=Provoke
 自身のDPを回復(120%まで上限突破可)\nさらに 敵の攻撃を自身に集中させる=Recovers your DP (up to 120%) and taunts enemy attacks.
@@ -41,6 +41,8 @@ Erika Aoi
 シールドレイ=Shield Ray
 敵にエネルギー弾を放ちつつ\n自身のDPを小回復する=Slightly recovers own DP while firing energy bullets at one enemy.
 
+シールドトルネード=Shield Tornado
+回転する盾を 全体に叩きつけ\nダメージに応じて自身のDPを回復する=Slams a rotating shield at everyone\nRecovers own DP according to damage dealt
 --------------------------
 Fubuki Mikoto
 

@@ -15,7 +15,7 @@ HARDをSランク以上でクリア=Clear HARD with S Rank or higher
 
 
 [Songs]
-ありふれたBattle Song～いつも戦闘は面倒だ～=Commonplace Battle Song～Combat is Always a Pain～
+ありふれたBattle Song～いつも戦闘は面倒だ～=Arifureta Battle Song～Itsumo Sento wa Mendoda～
 きみを忘れても=Kimi wo Wasurete Mo
 さよならの速度=Sayonara no Sokudo
 死にゆく季節でぼくは=Shiniyuku Kisetsu de Boku wa
@@ -49,6 +49,8 @@ War Alive～時にはやぶれかぶれに～=War Alive ～Tokini wa Yabure Kabu
 『進めちびっ子大作戦Ｕ１４０』\nクリアで解放されます=Unlocked after clearing \n 『Operation Mini Squad U140』
 『That day's Friend』\nクリアで解放されます=Unlocked after clearing \n 『That day's Friend』
 『君に読む憧れ』\nクリアで解放されます=Unlocked after clearing \n 『I Want to Read to You』
+『Beautiful the Blood』\nクリアで解放されます=Unlocked after clearing \n 『Beautiful the Blood』
+『A Little Tear, Forgotten Memories』\nクリアで解放されます=Unlocked after clearing \n 『A Little Tear, Forgotten Memories』
 第二章 特定のDayクリアで解放されます=Unlocked after clearing \n Chapter 2 Specific Day
 第三章 特定のDayクリアで解放されます=Unlocked after clearing \n Chapter 3 Specific Day
 第四章 前編 特定のDayクリアで解放されます=Unlocked after clearing \n Chapter 4 Part 1 Specific Day

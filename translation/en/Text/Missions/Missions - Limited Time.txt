@@ -37,9 +37,9 @@
 【強化育成CP】アクセサリを1回合成する=[Strengthening and Training CP] Synthesize an accessory once.
 【強化育成CP】アクセサリを3回合成する=[Strengthening and Training CP] Synthesize accessories three times.
 【強化育成CP】アクセサリを2回合成する=[Strengthening and Training CP] Synthesize accessories twice.
-【強化育成CP】[幻影]アラクネラインAを1回クリアする=[[Reinforcement Training CP] Clear [Phantom] Arachne Line A once.
-【強化育成CP】[幻影]アラクネラインAを3回クリアする=[[Reinforcement Training CP] Clear [Phantom] Arachne Line A 2 times.
-【強化育成CP】[幻影]アラクネラインAを5回クリアする=[[Reinforcement Training CP] Clear [Phantom] Arachne Line A 5 times.
-【強化育成CP】[幻影]アラクネラインAを7回クリアする=[[Reinforcement Training CP] Clear the [Phantom] Arachne Line A 7 times.
+【強化育成CP】[幻影]アラクネラインAを1回クリアする=[Reinforcement Training CP] Clear [Phantom] Arachne Line A once.
+【強化育成CP】[幻影]アラクネラインAを3回クリアする=[Reinforcement Training CP] Clear [Phantom] Arachne Line A 2 times.
+【強化育成CP】[幻影]アラクネラインAを5回クリアする=[Reinforcement Training CP] Clear [Phantom] Arachne Line A 5 times.
+【強化育成CP】[幻影]アラクネラインAを7回クリアする=[Reinforcement Training CP] Clear the [Phantom] Arachne Line A 7 times.
 【強化育成CP】[幻影]アラクネラインAを10回クリアする=[Strengthening and Training CP] Clear [Phantom] Arachne Line A 10 times.
 【強化育成CP】時計塔 9階をクリアする=[Strengthening and Training CP] Clear the 9th floor of the Clock Tower.
