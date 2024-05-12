@@ -85,7 +85,7 @@ Muua Ohshima
 
 <style\=RubyPrefixTag></style>\n特技って程じゃないけど、とにかく走るのが好きなんだ。\r\nランニング中に見かけたら声をかけてね。=<style\=RubyPrefixTag></style>\nIt's not like I'm especially skilled, but I like running. \nIf you catch me during a run, call out to me.
 
-<style\=RubyPrefixTag></style>\n大島六宇亜<space\=-153.01px><voffset\=1em><size\=50%><cspace\=0px>おおしまむうあ</cspace></size></voffset><space\=26.99999px><style\=RubySuffixTag></style>\nが仲間になった！=<style\=RubyPrefixTag></style>\nMuua Ohshima joined the group!
+<style\=RubyPrefixTag></style>\n大島六宇亜<space\=-153.01px><voffset\=1em><size\=50%><cspace\=0px>おおしまむうあ</cspace></size></voffset><space\=26.99999px><style\=RubySuffixTag></style>\nが仲間になった！=<style\=RubyPrefixTag></style>\nMuua Ohshima joined the group !
 
 ************************
 Inori Natsume
@@ -147,6 +147,8 @@ Maki Kurosawa
 気合いに関しちゃあ、誰にも負けん。そこんとこ夜露死苦！=If I'm in the mood for it, I won't lose to nobody. \nAnyway, nice to beat you!
 
 <style\=RubyPrefixTag></style>\n気合いに関しちゃあ、誰にも負けん。そこんとこ夜露死苦！\r\n=<style\=RubyPrefixTag></style>\nIf I'm in the mood for it, I won't lose to nobody. \nAnyway, nice to beat you!
+
+<style\=RubyPrefixTag></style>\n黒沢真希\nが仲間になった！=<style\=RubyPrefixTag></style>\nMaki Kurosawa joined the group !
 
 ************************
 Makiko Asami
