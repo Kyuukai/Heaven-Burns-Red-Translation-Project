@@ -75,6 +75,19 @@ Ichiko Ohshima
 <style\=RubyPrefixTag></style>\n大島一千子<space\=-153.01px><voffset\=1em><size\=50%><cspace\=0px>おおしまいちこ</cspace></size></voffset><space\=26.99999px><style\=RubySuffixTag></style>\nが仲間になった！=<style\=RubyPrefixTag></style>\nIchiko Ohshima \njoined the group !
 
 ************************
+Muua Ohshima
+
+あたし、{３１Ｅ:さんいちいー}の{大島六宇亜:おおしまむうあ}っていうんだよ。考えるより先に体が動いちゃうタイプだけど、よろしくね。=I'm 31E's Muua Ohshima. I'm the kind of girl whos body moves \nbefore I think, I guess, nice to meet you.
+
+<style\=RubyPrefixTag></style>\nあたし、３１Ｅ<space\=-141.632px><voffset\=1em><size\=50%><cspace\=0px>さんいちいー</cspace></size></voffset><space\=1.054009px><style\=RubySuffixTag></style>の大島六宇亜<space\=-200.837px><voffset\=1em><size\=50%><cspace\=0px>おおしまむうあ</cspace></size></voffset><space\=36.78899px><style\=RubySuffixTag></style>っていうんだよ。考えるより\r\n先に体が動いちゃうタイプだけど、よろしくね。=<style\=RubyPrefixTag></style>\nI'm 31E's Muua Ohshima. I'm the kind of girl whos body moves \nbefore I think, I guess, nice to meet you.
+
+特技って程じゃないけど、とにかく走るのが好きなんだ。ランニング中に見かけたら声をかけてね。=It's not like I'm especially skilled, but I like running. \nIf you catch me during a run, call out to me.
+
+<style\=RubyPrefixTag></style>\n特技って程じゃないけど、とにかく走るのが好きなんだ。\r\nランニング中に見かけたら声をかけてね。=<style\=RubyPrefixTag></style>\nIt's not like I'm especially skilled, but I like running. \nIf you catch me during a run, call out to me.
+
+<style\=RubyPrefixTag></style>\n大島六宇亜<space\=-153.01px><voffset\=1em><size\=50%><cspace\=0px>おおしまむうあ</cspace></size></voffset><space\=26.99999px><style\=RubySuffixTag></style>\nが仲間になった！=<style\=RubyPrefixTag></style>\nMuua Ohshima joined the group!
+
+************************
 Inori Natsume
 
 …{夏目祈:なつめいのり}だ。=… I'm Inori Natsume.
@@ -126,6 +139,14 @@ Kozue Hiiragi
 
 ************************
 Maki Kurosawa
+
+うちは{３１Ｆ:さんいちえふ}の{黒沢真希:くろさわまき}ちゅーもんじゃ。\n廣島暴走連合・{金星騎士:びーなすないつ}の二代目総長しとる。=They call me Maki Kurosawa, okay? \nI'm the second-generation president of Hiroshima's Joyriders, the Venus Knights. 
+
+<style\=RubyPrefixTag></style>\nうちは３１Ｆ<space\=-141.632px><voffset\=1em><size\=50%><cspace\=0px>さんいちえふ</cspace></size></voffset><space\=1.054009px><style\=RubySuffixTag></style>の黒沢真希<space\=-165.367px><voffset\=1em><size\=50%><cspace\=0px>くろさわまき</cspace></size></voffset><space\=24.78899px><style\=RubySuffixTag></style>ちゅーもんじゃ。\n廣島暴走連合・金星騎士<space\=-177.102px><voffset\=1em><size\=50%><cspace\=0px>びーなすないつ</cspace></size></voffset><space\=13.05401px><style\=RubySuffixTag></style>の二代目総長しとる。=<style\=RubyPrefixTag></style>\nThey call me Maki Kurosawa, okay? \nI'm the second-generation president of Hiroshima's Joyriders, the Venus Knights. 
+
+気合いに関しちゃあ、誰にも負けん。そこんとこ夜露死苦！=If I'm in the mood for it, I won't lose to nobody. \nAnyway, nice to beat you!
+
+<style\=RubyPrefixTag></style>\n気合いに関しちゃあ、誰にも負けん。そこんとこ夜露死苦！\r\n=<style\=RubyPrefixTag></style>\nIf I'm in the mood for it, I won't lose to nobody. \nAnyway, nice to beat you!
 
 ************************
 Makiko Asami
@@ -282,7 +303,9 @@ Yotsuha Ohshima
 
 ************************
 Yuina Shirakawa
+
 ************************
 Yuki Izumi
+
 ************************
 Yuri Nakamura
