@@ -1,4 +1,4 @@
-﻿メニュー=Menu
+メニュー=Menu
 ガチャ=Gacha
 設定=Settings
 着せ替えショップ=Style Store

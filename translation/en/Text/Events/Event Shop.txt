@@ -1,4 +1,4 @@
-﻿アーカイブ=Archive
+アーカイブ=Archive
 交換所ラインナップ=Exchange Lineup
 交換する=Exchange
 交換済=Exchanged
@@ -12,5 +12,4 @@
 -------------------
 ※すでに所持しているスタイルを交換するとピースに変換されます。=※If you exchange for a Style you already own, \nit will be converted to a Piece.
 現在、交換できる商品がありません。=Currently, there are no goods that can be exchanged.
---------------------
 ※交換したクォーツはギフトに付与されます=※The Exchanged Quartz will be sent to the Gift Box

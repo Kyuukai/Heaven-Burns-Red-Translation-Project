@@ -112,3 +112,13 @@
 <style\=RubyPrefix></style>受け取ったギフトを使って ガチャを引いてみましょう=<style\=RubyPrefix></style>Use the gift you received to pull off a gacha!
 <style\=RubyPrefix></style>メンバーは 物語中のバトルでレベルアップします\n育成したいチームを 事前に組んでおきましょう=<style\=RubyPrefix></style><size\=24>Members will level up through battles during the story,\nso be sure to set up the team you want to train before you start.</size>
 <style\=RubyPrefix></style>準備を整えたら ここから\nヘブンバーンズレッドの物語をはじめましょう=<style\=RubyPrefix></style><size\=30>Here you can start the story of\nHeaven Burns Red whenever you are ready</size>
+
+[After chapter 1]
+【限界突破の器】が解放されました=[LimitBreak vessel] has been unlocked
+【記憶の庭】メモリーストーリーが解放されました=[Garden of Memories] Memory Stories have been unlocked
+<style\=RubyPrefix></style>記憶の庭にいるメンバーに話しかけ\n【記憶の修復】を行えるようになりました=<style\=RubyPrefix></style>You can talk to the members in the Garden of Memories. \n[Memory Restoration] can now be performed.
+記憶を修復して【メモリーストーリー】を見ると【ソウル】を入手できます。=After Memory Restoration is performed, \nyou can view [memory stories], which will grant [Soul].
+各種【アクセサリ】や【育成素材】を利用することで、部隊をより強化していきましょう。=Using various [accessories] and [training materials], \nlet's strengthen squad members.
+<style\=RubyPrefixTag></style>\n各種【アクセサリ】や【育成素材】を利用することで、部\r\n隊をより強化していきましょう。=<style\=RubyPrefixTag></style>\nUsing various [accessories] and [training materials], \nlet's strengthen squad members.
+<style\=RubyPrefix></style>ここから先も 部隊を強化しながら\n新たな物語を 進めていきましょう=<style\=RubyPrefix></style>From here on, let's advance the story \nwhile strengthening squad members.
+プリズムバトルLv.2が解放されました=Prism Battle Lv.2 is now open
