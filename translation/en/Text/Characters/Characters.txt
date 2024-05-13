@@ -52,7 +52,7 @@ Names:
 [菅原千恵]=[Chie Sugawara]
 [菅原 千恵]=[Chie Sugawara]
 ---------------------
-松岡 チロル=<size\=85%>Chiroru Matsuoka</size>
+松岡 チロル=<size\=70%>Chiroru Matsuoka</size>
 松岡チロル=Chiroru Matsuoka
 [松岡チロル]=[Chiroru Matsuoka]
 [松岡 チロル]=[Chiroru Matsuoka]
@@ -192,7 +192,7 @@ Names:
 [柳美音]=[Mion Yanagi]
 [柳 美音]=[Mion Yanagi]
 ----------------------------
-大島 三野里=<size\=90%>Minori Ohshima</size>
+大島 三野里=<size\=85%>Minori Ohshima</size>
 大島三野里=Minori Ohshima
 [大島三野里]=[Minori Ohshima]
 [大島 三野里]=[Minori Ohshima]
@@ -320,7 +320,7 @@ Names:
 [李 映夏]=[Yingxia Li]
 
 -------------------------
-大島 四ツ葉=<size\=85%>Yotsuha Ohshima</size>
+大島 四ツ葉=<size\=70%>Yotsuha Ohshima</size>
 大島四ツ葉=Yotsuha Ohshima
 [大島四ツ葉]=[Yotsuha Ohshima]
 [大島 四ツ葉]=[Yotsuha Ohshima]
