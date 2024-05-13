@@ -11,3 +11,4 @@ SNSキャンペーンの達成報酬をお送りします =We will send you the 
 以下のギフトは未受け取りです。=The following gifts have not been received
 以下のギフトを受け取りました。=You have received the following gift(s)
 受け取り可能なものはありません=None available for pickup
+以下のギフトは所持上限を超えるため受け取れません。=The following gifts could not be received because they exceed the held limit.

@@ -2,7 +2,11 @@
 
 
 Adelheid Kanzaki
-
+少女の休息=Girl's Rest
+花言葉は希望と思い出…=The language of flowers is hope and memories...
+----
+旋風=Whirlwind
+風圧で全体を斬り刻む\n[破壊率大]=Wind pressure slashes the whole area\n[Destruction rate is high]
 ***********************
 Aina Mizuhara
 
@@ -10,8 +14,8 @@ Aina Mizuhara
 Akari Date
 ネガティブエース=Negative Ace
 DP攻撃が得意な BREAKERスタイル\n\n【サービス・エース】\n　敵を叩きつけて攻撃 [対DP+30%]\n　さらに オーバードライブゲージが上昇=BREAKER style with good DP attack\n\n[Service Ace] Strike the enemy by slamming them [+30% vs. DP], plus the overdrive gauge is increased.
+---
 サービス・エース=Service Ace
-----------
 ***********************
 Carole Reaper
 

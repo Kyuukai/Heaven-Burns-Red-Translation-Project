@@ -227,6 +227,7 @@ Names:
 [大島 六宇亜]=[Muua Ohshima]
 
 <style\=RubyPrefixTag></style>\n大島<space\=-84.36201px><voffset\=1em><size\=50%><cspace\=0px>おおしま</cspace></size></voffset><space\=-2.175994px><style\=RubySuffixTag></style> 六宇亜<space\=-94.36201px><voffset\=1em><size\=50%><cspace\=0px>むうあ</cspace></size></voffset><space\=29.27401px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nMuua Ohshima
+<style\=RubyPrefixTag></style>\n大島<space\=-78.36201px><voffset\=1em><size\=50%><cspace\=0px>おおしま</cspace></size></voffset><space\=3.824006px><style\=RubySuffixTag></style> 六宇亜<space\=-89.86201px><voffset\=1em><size\=50%><cspace\=0px>むうあ</cspace></size></voffset><space\=33.77401px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nMuua Ohshima
 -----------------
 七瀬=Nanase
 七瀬 七海=<size\=88%>Nanase Nanami</size>
@@ -251,6 +252,7 @@ Names:
 [茅森 月歌]=[Ruka Kayamori]
 
 <style\=RubyPrefixTag></style>\n茅森<space\=-84.36201px><voffset\=1em><size\=50%><cspace\=0px>かやもり</cspace></size></voffset><space\=-2.175994px><style\=RubySuffixTag></style> 月歌<space\=-62.912px><voffset\=1em><size\=50%><cspace\=0px>るか</cspace></size></voffset><space\=19.274px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nRuka Kayamori
+<style\=RubyPrefixTag></style>\n茅森<space\=-78.36201px><voffset\=1em><size\=50%><cspace\=0px>かやもり</cspace></size></voffset><space\=3.824006px><style\=RubySuffixTag></style> 月歌<space\=-59.912px><voffset\=1em><size\=50%><cspace\=0px>るか</cspace></size></voffset><space\=22.274px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nRuka Kayamori
 ----------------------
 手塚 咲=<size\=86%>Saki Tezuka</size>
 手塚咲=Saki Tezuka
@@ -268,6 +270,7 @@ Names:
 [樋口 聖華]=[Seika Higuchi]
 
 <style\=RubyPrefixTag></style>\n樋口<space\=-69.137px><voffset\=1em><size\=50%><cspace\=0px>ひぐち</cspace></size></voffset><space\=13.049px><style\=RubySuffixTag></style> 聖華<space\=-69.137px><voffset\=1em><size\=50%><cspace\=0px>せいか</cspace></size></voffset><space\=13.049px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nSeika Higuchi
+<style\=RubyPrefixTag></style>\n樋口<space\=-73.637px><voffset\=1em><size\=50%><cspace\=0px>ひぐち</cspace></size></voffset><space\=8.549002px><style\=RubySuffixTag></style> 聖華<space\=-73.637px><voffset\=1em><size\=50%><cspace\=0px>せいか</cspace></size></voffset><space\=8.549002px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nSeika Higuchi
 -----------------------
 華村 詩紀=<size\=85%>Shiki Hanamura</size>
 華村詩紀=Shiki Hanamura

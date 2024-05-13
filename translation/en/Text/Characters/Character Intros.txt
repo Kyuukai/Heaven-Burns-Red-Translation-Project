@@ -3,6 +3,14 @@
 
 Adelheid Kanzaki
 ************************
+初めましてでゴザル！　拙者は{３１Ｃ:さんいちしー}の{神崎:かんざき}アーデルハイド！　忍者でゴザル！=Nice to meet you!　I am Kanzaki Adelheid of {31C:Sanichishi}!　I'm a ninja!
+<style\=RubyPrefixTag></style>\n初めましてでゴザル！　拙者は３１Ｃ<space\=-141.632px><voffset\=1em><size\=50%><cspace\=0px>さんいちしー</cspace></size></voffset><space\=1.054009px><style\=RubySuffixTag></style>の神崎<space\=-94.422px><voffset\=1em><size\=50%><cspace\=0px>かんざき</cspace></size></voffset><space\=0.793999px><style\=RubySuffixTag></style>アーデルハイ\r\nド！　忍者でゴザル！=<style\=RubyPrefixTag></style>\nNice to meet you! I am Kanzaki Adelheid of 31C!\nI am a ninja!
+
+<style\=RubyPrefixTag></style>\n初めましてでゴザル！　拙者は３１Ｃ<space\=-111.5472px><voffset\=1em><size\=50%><cspace\=0px>さんいちしー</cspace></size></voffset><space\=-0.01359999px><style\=RubySuffixTag></style>の神崎<space\=-75.5322px><voffset\=1em><size\=50%><cspace\=0px>かんざき</cspace></size></voffset><space\=-0.008602734px><style\=RubySuffixTag></style>アーデルハイド！　忍者でゴザル！=<style\=RubyPrefixTag></style>\nNice to meet you! I am Kanzaki Adelheid of 31C!\nI am a ninja!
+
+忍者なのにドイツ出身という、設定が渋滞したキャラでゴザルよ！=I am a character with a complicated background.\nEven though I'm a ninja, I'm from Germany!
+
+<style\=RubyPrefixTag></style>\n神崎<space\=-72.01px><voffset\=1em><size\=50%><cspace\=0px>かんざき</cspace></size></voffset><space\=0px><style\=RubySuffixTag></style>アーデルハイド\nが仲間になった！=<style\=RubyPrefixTag></style>\nAdelheid Kanzaki has joined the group!
 Aina Mizuhara
 
 ************************
@@ -13,8 +21,6 @@ Akari Date
 あ…{３１Ｄ:さんいちでぃー}の{伊達朱里:だてあかり}です…。=Ah...I'm 31D's Akari Date....
 
 <style\=RubyPrefixTag></style>\nあ…３１Ｄ<space\=-153.367px><voffset\=1em><size\=50%><cspace\=0px>さんいちでぃー</cspace></size></voffset><space\=-10.68101px><style\=RubySuffixTag></style>の伊達朱里<space\=-153.627px><voffset\=1em><size\=50%><cspace\=0px>だてあかり</cspace></size></voffset><space\=36.529px><style\=RubySuffixTag></style>です…。=<style\=RubyPrefixTag></style>\nAh... I'm Akari Date from 31D...
-
-<style\=RubyPrefixTag></style>\n伊達朱里\nが仲間になった！=<style\=RubyPrefixTag></style>\nAkari Date joined the group !
 
 <style\=RubyPrefixTag></style>\n伊達朱里<space\=-117.01px><voffset\=1em><size\=50%><cspace\=0px>だてあかり</cspace></size></voffset><space\=26.99999px><style\=RubySuffixTag></style>\nが仲間になった！=<style\=RubyPrefixTag></style>\nAkari Date joined the group !
 
@@ -28,11 +34,11 @@ Charlotta Skopovskaya
 
 <style\=RubyPrefixTag></style>\nロシアのモスクワ支部から派遣されてきた３１Ｘ<space\=-165.102px><voffset\=1em><size\=50%><cspace\=0px>さんいちえっくす</cspace></size></voffset><space\=-22.41599px><style\=RubySuffixTag></style>のシャル\r\nロッタ・スコポフスカヤです。=I came here after I was dispatched from the \nRussian Moscow branch. I'm 31X's Charlotta Skopovskaya.
 
-なぜか…いつも…ひトりｲきノこりﾏｽ…。=Why... always... Do I alone survive...
+なぜか…いつも…ひトりｲきノこりﾏｽ…。=Why is it... always... only me who survives...
 
-<style\=RubyPrefixTag></style>\nなぜか…いつも…ひトりｲきノこりﾏｽ…。=<style\=RubyPrefixTag></style>\nWhy... always... Do I alone survive...
+<style\=RubyPrefixTag></style>\nなぜか…いつも…ひトりｲきノこりﾏｽ…。=<style\=RubyPrefixTag></style>\nWhy is it... always... only me who survives...
 
-<style\=RubyPrefixTag></style>\nシャルロッタ・スコポフスカヤ\nが仲間になった！=<style\=RubyPrefixTag></style>\nCharlotta Skopovskaya joined the group !
+<style\=RubyPrefixTag></style>\nシャルロッタ・スコポフスカヤ\nが仲間になった！=<style\=RubyPrefixTag></style>\nCharlotta Skopovskaya has joined the group!
 
 ************************
 Chie Sugawara

@@ -9,5 +9,5 @@
 [First activation]
 イベントを開始=Start the Event
 メダル\n3倍=3x Medals
-残り あと2日=2 Days remaining
+残り あと2日=2 Days Left
 ピックアップ=Pick up
