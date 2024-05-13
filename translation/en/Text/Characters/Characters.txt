@@ -39,7 +39,7 @@ Names:
 [キャロル・リーパー]=[Carole Reaper]
 [キャロル リーパー]=[Carole Reaper]
 -------------
-シャルロッタ・スコポフスカヤ=<line-height\=0.9em><voffset\=0em><size\=80%>Charlotta</size></voffset><space\=-0>\n<size\=80%>Skopovskaya</cspace></size>
+シャルロッタ・スコポフスカヤ=<size\=55%>Charlotta Skopovskaya</size>
 シャルロッタ スコポフスカヤ=Charlotta Skopovskaya
 シャルロッタスコポフスカヤ=Charlotta Skopovskaya
 [シャルロッタ・スコポフスカヤ]=[Charlotta Skopovskaya]
@@ -84,7 +84,7 @@ Names:
 [水瀬いちご]=[Ichigo Minase]
 [水瀬 いちご]=[Ichigo Minase]
 -------------------------
-山脇・ボン・イヴァール=<size\=85%>Ivar Bon Yamawaki</size>
+山脇・ボン・イヴァール=<size\=65%>Ivar Bon Yamawaki</size>
 山脇ボン・イヴァール=Ivar Bon Yamawaki
 山脇ボンイヴァール=Ivar Bon Yamawaki
 山脇 ボン イヴァール=Ivar Bon Yamawaki
