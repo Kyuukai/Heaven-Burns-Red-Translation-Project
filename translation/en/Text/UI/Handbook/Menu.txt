@@ -7,7 +7,7 @@
 シックスセンス=6th Sense
 部隊=Squad
 スタイル=Styles
-ギフト=Gift
+ギフト=Gift box
 持ち物=Inventory
 お知らせ=Notice
 ランク=Rank

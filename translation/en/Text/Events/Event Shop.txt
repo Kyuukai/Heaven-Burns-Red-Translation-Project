@@ -13,5 +13,5 @@
 ※すでに所持しているスタイルを交換するとピースに変換されます。=※If you exchange for a Style you already own, \nit will be converted to a Piece.
 現在、交換できる商品がありません。=Currently, there are no goods that can be exchanged.
 -------------------
-※交換したクォーツはギフトに付与されます=※The Exchanged Quartz will be sent to Gift
+※交換したクォーツはギフトに付与されます=※The Exchanged Quartz will be sent to the Gift box
 -------------------
