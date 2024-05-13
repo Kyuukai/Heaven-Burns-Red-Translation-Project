@@ -10,7 +10,8 @@
 前回プレイ=Previous Play
 熟練度アップ！=Increase your Skill Level !
 -------------------
-※すでに所持しているスタイルを交換するとピースに変換されます。=※If you replace a Style you already own, it will be converted to a Piece.
-現在、交換できる商品がありません。=Currently, there is no product that can be replaced.
---------------------
+※すでに所持しているスタイルを交換するとピースに変換されます。=※If you exchange for a Style you already own, \nit will be converted to a Piece.
+現在、交換できる商品がありません。=Currently, there are no goods that can be exchanged.
+-------------------
 ※交換したクォーツはギフトに付与されます=※The Exchanged Quartz will be sent to Gift
+-------------------
