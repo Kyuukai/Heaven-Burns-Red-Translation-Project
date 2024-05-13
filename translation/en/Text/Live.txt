@@ -31,7 +31,7 @@ War Alive～時にはやぶれかぶれに～=War Alive ～Tokini wa Yabure Kabu
 真っ赤に咲く燃えるような情熱が=Makka ni Saku Moeru Yona Jonetsu ga
 
 [Condition]
-『小さき帝と穏やかな朝食』\nクリアで解放されます=Unlocked after clearing \n『The Little Emperor and the Calm Breakfast』
+『小さき帝と穏やかな朝食』\nクリアで解放されます=Unlocked after clearing \n『A Peaceful Breakfast with the Young Master』
 『大島屋物語』\nクリアで解放されます=Unlocked after clearing \n『Ohshima Family Story』
 『Peace of Cradle』\nクリアで解放されます=Unlocked after clearing \n『Peace of Cradle』
 『新春！３１Ａ無人島サバイバル生活～時々ゲームオーバー～』\nクリアで解放されます=Unlocked after clearing \n 『New Year ! 31A Deserted Island Survival Life ～Sometimes Game Over～』
