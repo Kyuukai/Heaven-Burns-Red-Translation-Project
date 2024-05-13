@@ -1,13 +1,13 @@
-﻿メニュー=Menu
+メニュー=Menu
 ガチャ=Gacha
 設定=Settings
 着せ替えショップ=Style Store
 着せ替え=Customizations
 名簿=Register
 シックスセンス=6th Sense
-部隊=Squad
+部隊=Unit
 スタイル=Styles
-ギフト=Gift box
+ギフト=Gift Box
 持ち物=Inventory
 お知らせ=Notice
 ランク=Rank

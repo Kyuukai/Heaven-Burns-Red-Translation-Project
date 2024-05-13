@@ -84,7 +84,7 @@
 [Formation]
 ・編成制限ダイアログ=Organization Restrictions Dialog
 ※編成がストーリーと乖離する場合お知らせします=*We will let you know if the composition deviates from the story.
-・ダンジョンでバトル終了時に部隊の並び順を保存する=Save the order of troops at the end of battle in dungeons
+・ダンジョンでバトル終了時に部隊の並び順を保存する=Save the order of Units at the end of battle in dungeons
 ・メンバー6を選択=Select Member 6
 ・メンバー5を選択=Select Member 5
 ・メンバー4を選択=Select Member 4

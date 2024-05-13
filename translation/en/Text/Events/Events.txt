@@ -1,4 +1,4 @@
-﻿[Golden Week]
+[Golden Week]
 ※ログインボーナスは、毎日4:00にリセットされます。=*Login bonuses will be reset daily at 4:00.
 ゴールデンウィーク スペシャルログインボーナスの報酬獲得=Earn rewards for Golden Week Special Login Bonus
 
@@ -6,9 +6,8 @@
 [Start Dash]
 スタートダッシュログインボーナスの報酬獲得=Earn rewards for Start Dash Log-in Bonus
 -----------------------
-
 [First activation]
-イベントを開始=Start the event
-メダル\n3倍=3x medals
-残り あと2日=2 days remaining
-ピックアップ=pick up
+イベントを開始=Start the Event
+メダル\n3倍=3x Medals
+残り あと2日=2 Days remaining
+ピックアップ=Pick up

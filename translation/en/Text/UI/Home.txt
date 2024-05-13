@@ -1,7 +1,7 @@
 ﻿強化 / 育成=Enhancement / Training
 コンテンツ=Contents
 メインストーリー=Main Story
-イベント=Events
+イベント=Event
 復刻=Reissue
 アーツバトル=Arts Battle
 ギャラリー=Gallery
@@ -12,7 +12,7 @@
 最新のショップ=Go to the Latest Shop
 アリーナ=Arena
 最新のフリータイムへ=Go to the latest Free Time
-
+ショップ=Shop
 
 -----
 これから始まる長い運命を辿っていくために、時には寄り道も必要だ。=Sometimes we need to take a detour to follow the long\ndestiny that is about to begin.
