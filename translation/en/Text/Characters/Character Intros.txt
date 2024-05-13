@@ -10,9 +10,11 @@ Akari Date
 
 どうせ、わたしなんて…すぐやられる…死んじゃう…もう嫌だ…帰りたい…でも帰るところなんてない…。=I'm going to die... I want to go home... but I have nowhere to go...
 
-あ…{３１Ｄ:さんいちでぃー}の{伊達朱里:だてあかり}です…。=Ah...I'm {31D: Sanichi Dey}'s {Akari Date: Date Akari}....
+あ…{３１Ｄ:さんいちでぃー}の{伊達朱里:だてあかり}です…。=Ah...I'm 31D's Akari Date....
 
 <style\=RubyPrefixTag></style>\nあ…３１Ｄ<space\=-153.367px><voffset\=1em><size\=50%><cspace\=0px>さんいちでぃー</cspace></size></voffset><space\=-10.68101px><style\=RubySuffixTag></style>の伊達朱里<space\=-153.627px><voffset\=1em><size\=50%><cspace\=0px>だてあかり</cspace></size></voffset><space\=36.529px><style\=RubySuffixTag></style>です…。=<style\=RubyPrefixTag></style>\nAh... I'm Akari Date from 31D...
+
+<style\=RubyPrefixTag></style>\n伊達朱里\nが仲間になった！=<style\=RubyPrefixTag></style>\nAkari Date joined the group !
 
 <style\=RubyPrefixTag></style>\n伊達朱里<space\=-117.01px><voffset\=1em><size\=50%><cspace\=0px>だてあかり</cspace></size></voffset><space\=26.99999px><style\=RubySuffixTag></style>\nが仲間になった！=<style\=RubyPrefixTag></style>\nAkari Date joined the group !
 
@@ -61,6 +63,8 @@ Ichigo Minase
 
 <style\=RubyPrefixTag></style>\nはっ…あんまり調子に乗んじゃねーぞ。少しでも長生きし\r\nたかったらな。=<style\=RubyPrefixTag></style>\nHuh... I don't usually go with the flow. \nBut I would like to have a little longer life.
 
+<style\=RubyPrefixTag></style>\nみなせいちご\nが仲間になった！=<style\=RubyPrefixTag></style>\nIchigo Minase joined the group !
+
 <style\=RubyPrefixTag></style>\n水瀬<space\=-63.01px><voffset\=1em><size\=50%><cspace\=0px>みなせ</cspace></size></voffset><space\=9.000004px><style\=RubySuffixTag></style>いちご\nが仲間になった！=<style\=RubyPrefixTag></style>\nIchigo Minase joined the group !
 
 ************************
@@ -71,6 +75,8 @@ Ichiko Ohshima
 <style\=RubyPrefixTag></style>\n３１Ｅ<space\=-141.632px><voffset\=1em><size\=50%><cspace\=0px>さんいちいー</cspace></size></voffset><space\=1.054009px><style\=RubySuffixTag></style>の大島一千子<space\=-200.837px><voffset\=1em><size\=50%><cspace\=0px>おおしまいちこ</cspace></size></voffset><space\=36.78899px><style\=RubySuffixTag></style>です。よろしくお願いします。=<style\=RubyPrefixTag></style>\nI'm 31E's Ichiko Ohshima. It's great to meet you!
 
 成り上がりを目指して、勉強！　勉強！=The goal is to become excellent; study! Study!
+
+<style\=RubyPrefixTag></style>\n大島一千子\nが仲間になった！=<style\=RubyPrefixTag></style>\nIchiko Ohshima joined the group !
 
 <style\=RubyPrefixTag></style>\n大島一千子<space\=-153.01px><voffset\=1em><size\=50%><cspace\=0px>おおしまいちこ</cspace></size></voffset><space\=26.99999px><style\=RubySuffixTag></style>\nが仲間になった！=<style\=RubyPrefixTag></style>\nIchiko Ohshima \njoined the group !
 
@@ -84,6 +90,8 @@ Muua Ohshima
 特技って程じゃないけど、とにかく走るのが好きなんだ。ランニング中に見かけたら声をかけてね。=It's not like I'm especially skilled, but I like running. \nIf you catch me during a run, call out to me.
 
 <style\=RubyPrefixTag></style>\n特技って程じゃないけど、とにかく走るのが好きなんだ。\r\nランニング中に見かけたら声をかけてね。=<style\=RubyPrefixTag></style>\nIt's not like I'm especially skilled, but I like running. \nIf you catch me during a run, call out to me.
+
+<style\=RubyPrefixTag></style>\n大島六宇亜\nが仲間になった！=<style\=RubyPrefixTag></style>\nMuua Ohshima joined the group !
 
 <style\=RubyPrefixTag></style>\n大島六宇亜<space\=-153.01px><voffset\=1em><size\=50%><cspace\=0px>おおしまむうあ</cspace></size></voffset><space\=26.99999px><style\=RubySuffixTag></style>\nが仲間になった！=<style\=RubyPrefixTag></style>\nMuua Ohshima joined the group !
 
@@ -121,9 +129,11 @@ Ivar Bon Yamawaki
 
 <style\=RubyPrefixTag></style>\n私は天才科学者の山脇<space\=-94.422px><voffset\=1em><size\=50%><cspace\=0px>やまわき</cspace></size></voffset><space\=0.793999px><style\=RubySuffixTag></style>・ボン・イヴァール。いずれこの世\r\n界を滅ぼす女よ…ふっふっふ…。=<style\=RubyPrefixTag></style>\nI am genius scientist Ivar Bon Yamawaki. \nEventually, I'll be the woman who destroys this world ... Muahaha ...
 
-{３１Ｃ:さんいちしー}の部隊長もしているわ。ふっふっふっふ…。=By the way, I'm also 31C's squad leader. Muahahahaha ...
+{３１Ｃ:さんいちしー}の部隊長もしているわ。ふっふっふっふ…。=By the way, I'm also 31C's unit leader. Muahahahaha ...
 
-<style\=RubyPrefixTag></style>\n３１Ｃ<space\=-141.632px><voffset\=1em><size\=50%><cspace\=0px>さんいちしー</cspace></size></voffset><space\=1.054009px><style\=RubySuffixTag></style>の部隊長もしているわ。ふっふっふっふ…。=<style\=RubyPrefixTag></style>\nBy the way, I'm also 31C's squad leader. Muahahahaha ...
+<style\=RubyPrefixTag></style>\n３１Ｃ<space\=-141.632px><voffset\=1em><size\=50%><cspace\=0px>さんいちしー</cspace></size></voffset><space\=1.054009px><style\=RubySuffixTag></style>の部隊長もしているわ。ふっふっふっふ…。=<style\=RubyPrefixTag></style>\nBy the way, I'm also 31C's unit leader. Muahahahaha ...
+
+<style\=RubyPrefixTag></style>\やまわき・ボン・イヴァール\nが仲間になった！=<style\=RubyPrefixTag></style>\nIvar Bon Yamawaki joined the group !
 
 <style\=RubyPrefixTag></style>\n山脇<space\=-72.01px><voffset\=1em><size\=50%><cspace\=0px>やまわき</cspace></size></voffset><space\=0px><style\=RubySuffixTag></style>・ボン・イヴァール\nが仲間になった！=Ivar Bon Yamawaki joined the group !
 
@@ -185,15 +195,17 @@ Miko Tenne
 ************************
 Mion Yanagi
 
-私は{３１Ｆ:さんいちえふ}の{柳美音:やなぎみおん}。部隊長ですが、同部隊の丸山奏多様に仕える執事。=I am 31F's Mion Yanagi. I'm the squad leader while simultaneously \nbeing squad member Kanata Maruyama's butler.
+私は{３１Ｆ:さんいちえふ}の{柳美音:やなぎみおん}。部隊長ですが、同部隊の丸山奏多様に仕える執事。=I am 31F's Mion Yanagi. I'm the unit leader while simultaneously \nbeing unit member Kanata Maruyama's butler.
 
-<style\=RubyPrefixTag></style>\n私は３１Ｆ<space\=-141.632px><voffset\=1em><size\=50%><cspace\=0px>さんいちえふ</cspace></size></voffset><space\=1.054009px><style\=RubySuffixTag></style>の柳美音<space\=-141.632px><voffset\=1em><size\=50%><cspace\=0px>やなぎみおん</cspace></size></voffset><space\=1.054009px><style\=RubySuffixTag></style>。部隊長ですが、同部隊の丸山奏多様\r\nに仕える執事。=<style\=RubyPrefixTag></style>\nI am 31F's Mion Yanagi. I'm the squad leader while simultaneously \nbeing squad member Kanata Maruyama's butler.
+<style\=RubyPrefixTag></style>\n私は３１Ｆ<space\=-141.632px><voffset\=1em><size\=50%><cspace\=0px>さんいちえふ</cspace></size></voffset><space\=1.054009px><style\=RubySuffixTag></style>の柳美音<space\=-141.632px><voffset\=1em><size\=50%><cspace\=0px>やなぎみおん</cspace></size></voffset><space\=1.054009px><style\=RubySuffixTag></style>。部隊長ですが、同部隊の丸山奏多様\r\nに仕える執事。=<style\=RubyPrefixTag></style>\nI am 31F's Mion Yanagi. I'm the unit leader while simultaneously \nbeing unit member Kanata Maruyama's butler.
 
 あべこべに映るでしょうが、軍は冷静な判断をしたものです。私は強い。=It seems counterintuitive, but the army made a rational decision. Frankly, I'm strong.
 
 <style\=RubyPrefixTag></style>\nあべこべに映るでしょうが、軍は冷静な判断をしたもので\r\nす。私は強い。=<style\=RubyPrefixTag></style>\nIt seems counterintuitive, \nbut the army made a rational decision. Frankly, I'm strong.
 
-<style\=RubyPrefixTag></style>\n柳美音\nが仲間になった！=<style\=RubyPrefixTag></style>\nMari Satsuki \njoined the group !
+<style\=RubyPrefixTag></style>\n柳美音\nが仲間になった！=<style\=RubyPrefixTag></style>\nYanagi Mion \njoined the group !
+
+<style\=RubyPrefixTag></style>\n柳美音<space\=-108.01px><voffset\=1em><size\=50%><cspace\=0px>やなぎみおん</cspace></size></voffset><space\=0px><style\=RubySuffixTag></style>\nが仲間になった！=<style\=RubyPrefixTag></style>\nMion Yanagi\njoined the group!
 
 ************************
 Minori Ohshima
@@ -215,6 +227,8 @@ Misato Nikaido
 碁盤は宇宙だ。その上を無尽に駆ってきたこの私にとってキャンサーなど、ゴミ同然だ。無に帰しよう。=The Go board is the universe. To me, who has driven\nendlessly on top of that, Cancer is nothing but trash.\nLet's return to nothing.
 
 <style\=RubyPrefixTag></style>\n３１Ｄ<space\=-120.5472px><voffset\=1em><size\=50%><cspace\=0px>さんいちでぃー</cspace></size></voffset><space\=-9.0136px><style\=RubySuffixTag></style>の二階堂三郷<space\=-165.5572px><voffset\=1em><size\=50%><cspace\=0px>にかいどうみさと</cspace></size></voffset><space\=17.98639px><style\=RubySuffixTag></style>だ。よろしく頼もう。=<style\=RubyPrefixTag></style>\nI'm Misato Nikaido from 31D. Please take care of me.
+
+<style\=RubyPrefixTag></style>\n二階堂三郷\nが仲間になった！=<style\=RubyPrefixTag></style>\nMisato Nikaido \njoined the group !
 
 <style\=RubyPrefixTag></style>\n二階堂三郷<space\=-162.01px><voffset\=1em><size\=50%><cspace\=0px>にかいどうみさと</cspace></size></voffset><space\=18px><style\=RubySuffixTag></style>\nが仲間になった！=<style\=RubyPrefixTag></style>\nMisato Nikaido\njoined the group !
 
@@ -242,6 +256,8 @@ Niina Ohshima
 
 読者モデルだった私はこの体が資本…怪我だけはしないよう、頑張ります。=As a model in print, my body is a temple... \nI'll try my best, but no matter I can't get injured.
 
+<style\=RubyPrefixTag></style>\n大島二以奈\nが仲間になった！=<style\=RubyPrefixTag></style>\nNiina Ohshima joined the group !
+
 <style\=RubyPrefixTag></style>\n大島二以奈<space\=-153.01px><voffset\=1em><size\=50%><cspace\=0px>おおしまにいな</cspace></size></voffset><space\=26.99999px><style\=RubySuffixTag></style>\nが仲間になった！=<style\=RubyPrefixTag></style>\nNiina Ohshima joined the group !
 ************************
 Risa Murofushi
@@ -259,6 +275,7 @@ Satomi Kura
 Seika Higuchi
 
 どのような数値を弾き出すかな、楽しみで仕方がない=I can't wait to see what kind of numbers they come up with.
+
 <style\=RubyPrefixTag></style>\n樋口聖華\nが仲間になった！=<style\=RubyPrefixTag></style>\nSeika Higuchi joined the group !
 ************************
 Shiki Hanamura
@@ -272,6 +289,9 @@ Seira Sakuraba
 …私は{３１Ｃ:さんいちしー}の{桜庭星羅:さくらばせいら}、占星術師です。=...I am {Sakuraba Seira: Sakuraba Seira}, an astrologer from {31C: Sanichi-shi}.
 <style\=RubyPrefixTag></style>\n…私は３１Ｃ<space\=-141.632px><voffset\=1em><size\=50%><cspace\=0px>さんいちしー</cspace></size></voffset><space\=1.054009px><style\=RubySuffixTag></style>の桜庭星羅<space\=-177.102px><voffset\=1em><size\=50%><cspace\=0px>さくらばせいら</cspace></size></voffset><space\=13.05401px><style\=RubySuffixTag></style>、占星術師です。=<style\=RubyPrefixTag></style>\n...I am Sakuraba Seira, an astrologer from 31C.
 …当たるも八卦当たらぬも八卦、占いとはそういうものです。=…Whether it’s true or not, it’s eight trigrams,\nand that’s what fortune-telling is all about.
+
+<style\=RubyPrefixTag></style>\n桜庭星羅\nが仲間になった！=<style\=RubyPrefixTag></style>\nSeira Sakuraba joined the group !
+
 <style\=RubyPrefixTag></style>\n桜庭星羅<space\=-135.01px><voffset\=1em><size\=50%><cspace\=0px>さくらばせいら</cspace></size></voffset><space\=8.999992px><style\=RubySuffixTag></style>\nが仲間になった！=<style\=RubyPrefixTag></style>\nSeira Sakuraba joined the group !
 ************************
 Tama Kunimi
@@ -297,6 +317,8 @@ Yingxia Li
 {３１Ａ:さんいちえー}の部隊長だと？　はっ…いずれうぬの立場を揺るがすほどの存在となろう。=31A's captain? Huh... \nher existance will soon become strong enough to give me tremors.
 
 <style\=RubyPrefixTag></style>\n３１Ａ<space\=-141.632px><voffset\=1em><size\=50%><cspace\=0px>さんいちえー</cspace></size></voffset><space\=1.054009px><style\=RubySuffixTag></style>の部隊長だと？　はっ…いずれうぬの立場を揺るが\r\nすほどの存在となろう。=<style\=RubyPrefixTag></style>\n31A's captain? Huh... \nher existance will soon become strong enough to give me tremors.
+
+<style\=RubyPrefixTag></style>\n李映夏\nが仲間になった！=<style\=RubyPrefixTag></style>\nYingxia Li joined the group !
 
 <style\=RubyPrefixTag></style>\n李映夏<space\=-108.01px><voffset\=1em><size\=50%><cspace\=0px>りーゆんしあ</cspace></size></voffset><space\=0px><style\=RubySuffixTag></style>\nが仲間になった！=<style\=RubyPrefixTag></style>\nYingxia Li joined the group !
 

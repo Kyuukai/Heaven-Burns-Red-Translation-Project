@@ -53,12 +53,13 @@ View変更=View Change
 保存/シェア=Save/Share
 シーン設定=Scene Settings
 -----------------------
-ジオラマにイラストやステッカー、テキストを\n配置できる新機能が追加されました。\nより自由になったジオラマを楽しみましょう。=A new feature has been added that allows you to place illustrations, stickers, and text on the diorama. \nLet's enjoy the more free diorama.
-<style\=RubyPrefixTag></style>\nジオラマにイラストやステッカー、テキストを\n配置できる新機能が追加されました。\nより自由になったジオラマを楽しみましょう。=<style\=RubyPrefixTag></style>\nA new feature has been added that allows you to place illustrations, stickers, and text on the diorama. \nLet's enjoy the more free diorama.
+ジオラマにイラストやステッカー、テキストを\n配置できる新機能が追加されました。\nより自由になったジオラマを楽しみましょう。=\nA new feature has been added allowing you to apply \nillustrations, stickers, and text on the Diorama. \nLet's enjoy the broader Diorama options.
+<style\=RubyPrefixTag></style>\nジオラマにイラストやステッカー、テキストを\n配置できる新機能が追加されました。\nより自由になったジオラマを楽しみましょう。=<style\=RubyPrefixTag></style>\nA new feature has been added allowing you to apply \nillustrations, stickers, and text on the Diorama. \nLet's enjoy the broader Diorama options.
 ---------------------
 保存する=Save
 保存しない=Discard
 <style\=RubyPrefixTag></style>\nジオラマが保存されていません。\n保存しますか？=<style\=RubyPrefixTag></style>\nThe Diorama is not saved. \nDo you want to save?
+<style\=RubyPrefixTag></style>\nジオラマを上書き保存しますか？=<style\=RubyPrefixTag></style>\nDo you overwrite and save the Diorama?
 --------------------
 ホームに戻る=Return to Home
 <style\=RubyPrefixTag></style>\nホームに戻りますか？\n<color\=#ff9d9d>ジオラマの変更は破棄されます</color>=<style\=RubyPrefixTag></style>\nDo you want to go back to Home ?\n<color\=#ff9d9d>Diorama changes will be discarded</color>

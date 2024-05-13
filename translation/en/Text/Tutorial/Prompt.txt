@@ -34,7 +34,7 @@
 <style\=RubyPrefix></style>攻撃をして まずは<cspace\=0.2em>1</cspace>段階目の\n青いゲージ（<cspace\=0.2em>DP</cspace>）を削りきりましょう=<style\=RubyPrefix></style><size\=24>Let's attack and cut off the blue gauge (DP) in the 1st stage.</size>
 <style\=RubyPrefix></style><cspace\=0.2em>1</cspace>段階目のゲージ（<cspace\=0.2em>DP</cspace>）を削り切ると\n敵はブレイク状態になり <cspace\=0.2em>1</cspace>ターンダウンします=<style\=RubyPrefix></style><size\=24>When the gauge of the first stage (DP) is cut off\nthe enemy enters a break state and turns down.</size>
 <style\=RubyPrefix></style>このボタンで バトルスピードを変更できます=<style\=RubyPrefix></style><size\=28>This button lets you to change the battle speed.</size>
-<style\=RubyPrefix></style>部隊は 前衛と後衛にわかれて戦います\n<cspace\=0.2em>DP</cspace>の少ないメンバーを後衛に下げて 敵からのダメージを避けましょう=<style\=RubyPrefix></style><size\=29>The troops are divided into vanguard and rear guard.\nMove members with low DP to the rear guard to avoid damage from enemies.</size>
+<style\=RubyPrefix></style>部隊は 前衛と後衛にわかれて戦います\n<cspace\=0.2em>DP</cspace>の少ないメンバーを後衛に下げて 敵からのダメージを避けましょう=<style\=RubyPrefix></style><size\=29>Units are divided into vanguard and rear guard.\nMove members with low DP to the rear guard to avoid damage from enemies.</size>
 <style\=RubyPrefix></style>メンバーを順に選択すると 並び順を変えられます=<style\=RubyPrefix></style><size\=28>You can change the order of the members by\nselecting them in the order you want.</size>
 <style\=RubyPrefix></style>ターンの開始時 <cspace\=0.2em>SP</cspace>は<cspace\=0.2em>2</cspace>ずつ回復します\n<cspace\=0.2em>SP</cspace>を使って スキルを発動してみましょう=<style\=RubyPrefix></style><size\=26>At the start of the turn, SP will recover one by one.</size>
 <style\=RubyPrefix></style>ブレイク状態の敵に攻撃すると\n与えられるダメージが 徐々に増えていきます=<style\=RubyPrefix></style><size\=32>The damage dealt to an enemy in a\nbroken state will gradually increase.</size>
@@ -62,7 +62,7 @@
 強化でスキルなどを覚えると、装備スタイルを変えても引きつづき使用できます。=<space\=-0.7372px><voffset\=0.4em><cspace\=0px><size\=89%>When skills and other skills are learned through\nreinforcement, they can continue to be used even\nif the equipment style is changed.</size></cspace></size></voffset>
 ただし、一部スタイル専用の能力もあるので注意しましょう。=Note, however, that some abilities are exclusive\Nto certain styles.
 ----------------------------------------
-<style\=RubyPrefix></style>様々なスタイルを強化して\nより強い部隊を目指していきましょう=<style\=RubyPrefix></style><size\=30>Let's strengthen various styles\nto achieve stronger troops!</size>
+<style\=RubyPrefix></style>様々なスタイルを強化して\nより強い部隊を目指していきましょう=<style\=RubyPrefix></style><size\=30>Let's strengthen various styles\nto achieve stronger Units!</size>
 -------------------------
 ガチャで【スタイル】を入手できます。=You can get [Styles] in gacha.
 【スタイル】入手と同時に、新メンバーが加わることもあります。=New members may be added when a [Style] is obtained.
@@ -70,11 +70,11 @@
 -----------------------------
 <style\=RubyPrefix></style>まずはガチャを引いてみましょう=<style\=RubyPrefix></style>Let's start by pulling a gacha.
 <style\=RubyPrefix></style>【スタイル】を入手しました\n入れ替えることで 戦力を強化できます=<style\=RubyPrefix></style><size\=29>We've got a new [style] that we can\n swap in and out to strengthen our forces.</size>
-<style\=RubyPrefix></style>新しく手に入れたスタイルで 部隊編成をしてみましょう=<style\=RubyPrefix></style>Let's form our troops in our newly acquired style.
-<style\=RubyPrefix></style>おすすめ編成をすると 強力なスタイルを優先して\n部隊を組むことができます=<style\=RubyPrefix></style><size\=30>The recommended formation allows you to\nprioritize the most powerful styles for your troops.</size>
-<style\=RubyPrefix></style>おすすめ編成によって 強力な部隊が編成されました=<style\=RubyPrefix></style><size\=30>A powerful force has been assembled according\n to the recommended specifications</size>
+<style\=RubyPrefix></style>新しく手に入れたスタイルで 部隊編成をしてみましょう=<style\=RubyPrefix></style>Let's form our Units in our newly acquired style.
+<style\=RubyPrefix></style>おすすめ編成をすると 強力なスタイルを優先して\n部隊を組むことができます=<style\=RubyPrefix></style><size\=30>The recommended formation allows you to\nprioritize the most powerful styles for your Units.</size>
+<style\=RubyPrefix></style>おすすめ編成によって 強力な部隊が編成されました=<style\=RubyPrefix></style><size\=30>A powerful Unit has been assembled according\n to the recommended specifications</size>
 ------------------------------
-<style\=RubyPrefix></style>アイテムを使っての強化は 部隊画面から行えます=<style\=RubyPrefix></style><size\=85%>Strengthening using items can be done from the unit screen</size>
+<style\=RubyPrefix></style>アイテムを使っての強化は 部隊画面から行えます=<style\=RubyPrefix></style><size\=85%>Strengthening using items can be done from the Unit screen</size>
 <style\=RubyPrefix></style>強化アイテムはここから使用できます\nメンバーを強化した上で アリーナでの戦いに臨みましょう=<style\=RubyPrefix></style>You can use items here to strengthen your\nteam members before battling in the arena
 <style\=RubyPrefix></style>アリーナで得られる<cspace\=0.2em>GP</cspace>は 基地内で通貨として使えます\n自由時間のうちに 獲得しておきましょう=<style\=RubyPrefix></style><size\=85%>GP earned in the arena can be used as currency within the base,\nMake sure to earn it during your free time</size>
 

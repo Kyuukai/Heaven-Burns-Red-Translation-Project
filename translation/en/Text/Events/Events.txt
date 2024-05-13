@@ -6,3 +6,8 @@
 [Start Dash]
 スタートダッシュログインボーナスの報酬獲得=Earn rewards for Start Dash Log-in Bonus
 -----------------------
+[First activation]
+イベントを開始=Start the Event
+メダル\n3倍=3x Medals
+残り あと2日=2 Days remaining
+ピックアップ=Pick up

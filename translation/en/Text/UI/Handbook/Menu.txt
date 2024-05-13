@@ -5,9 +5,9 @@
 着せ替え=Customizations
 名簿=Register
 シックスセンス=6th Sense
-部隊=Squad
+部隊=Unit
 スタイル=Styles
-ギフト=Gift
+ギフト=Gift Box
 持ち物=Inventory
 お知らせ=Notice
 ランク=Rank

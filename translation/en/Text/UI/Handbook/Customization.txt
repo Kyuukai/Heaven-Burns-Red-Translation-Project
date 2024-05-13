@@ -1,9 +1,9 @@
 ピンク=Pink
-[31X]部隊ロゴ=[31X] Squad Logo
+[31X]部隊ロゴ=[31X] Unit Logo
 イエロー=Yellow
-[31C]部隊ロゴ=[31C] Squad Logo
+[31C]部隊ロゴ=[31C] Unit Logo
 グリーン=Green
-[31A]部隊ロゴ=[31A] Squad Logo
+[31A]部隊ロゴ=[31A] Unit Logo
 ブルー=Blue
 オレンジ=Orange
 ブラックゴールド=Black Gold

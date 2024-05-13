@@ -31,6 +31,6 @@ SS1体以上確定=At least 1 SS confirmed
 ロリータ・フルバーストモード！=Lolita full burst mode!
 ------
 2024/06/01 03:59まで開催=Held until 06/01/2024 03:59
-SSスタイルは全48部隊員の基本衣装！\n50連まで引くと、SSキャラが1体確定する\nガチャチケットを獲得できます。=SS style is the basic costume of all 48 troop members! If you draw up to 50 rounds, you will get a gacha ticket that will confirm one SS character.
+SSスタイルは全48部隊員の基本衣装！\n50連まで引くと、SSキャラが1体確定する\nガチャチケットを獲得できます。=SS style is the basic costume of all 48 Style members! If you draw up to 50 rounds, you will get a gacha ticket that will confirm one SS character.
 スタートダッシュガチャチケットで\nスタイルをGETしよう！=Get your style with Start Dash Gacha Tickets!
 2024/05/17 05:00まで開催=Held until 05:00, 2024/05/17

@@ -4,7 +4,7 @@
  第３１Ａ部隊、通称３１Ａ（さんいちえー）\n斬り込み隊として戦場へ駆けつけるエース部隊。= Unit 31A, also known as 31A (San-Ichie A), an ace unit that rushes to the battlefield as a cutthroat squad.
 
 [31B]
- 第３１Ｂ部隊、通称３１Ｂ（さんいちびー）\n部隊有数の守備力を誇る部隊。苦しい戦場の中でも活路を見出し戦う。= Unit 31B, commonly known as 31B (San-ichi B), is one of the most defensive units in the unit. It fights to find a way out of a difficult battlefield.
+ 第３１Ｂ部隊、通称３１Ｂ（さんいちびー）\n部隊有数の守備力を誇る部隊。苦しい戦場の中でも活路を見出し戦う。= Unit 31B, commonly known as 31B (San-ichi B), is one of the most defensive unit. It fights to find a way out of a difficult battlefield.
 
 
 

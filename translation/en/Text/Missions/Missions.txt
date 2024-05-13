@@ -230,8 +230,6 @@ Monthly Mission
 ----
 第四章後編 Day3をクリア=Clear Chapter 4 Pt.2 Day 3
 --
-Day<size\=78>00</size><color\=#F6E5E5FF>(月)</color>=Day<size\=78>00</size><color\=#F6E5E5FF>(Monday)</color>
---
 side : 逢川=Side: Aikawa
 side : 茅森=Side: Kayamori
 --

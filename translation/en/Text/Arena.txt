@@ -3,7 +3,7 @@
 戦闘対象=Target:
 初心者向けの練習を用意しました。\n皆さんならなんなく攻略することができるでしょう。=<size\=85%>We have prepared exercises for beginners. We are sure that you will be able to conquer this course without any difficulty.</size>
 部隊編成=<size\=130%>Organize\nMembers</size>
-省電力周回=<size\=115%>Power-Saving\nLaps</size>
+省電力周回=<size\=115%>Power-Saving\nRuns</size>
 初回のみ+150GP !=First time only +150GP!
 省電力モード<size\=26>（バックグラウンドでも有効になります）</size>=Power Save Mode<size\=26>(works in the background)</size>
 もう一度プレイする=Play Again
@@ -14,8 +14,24 @@
 GPを獲得しました=GP obtained
 
 [Dialogue]
+こんにちは、茅森さん。=Hello, Kayamori.
+訓練に来たのですか？=Did you come to train?
+起動準備するので少々お待ちください。=Please wait a moment while we setup the training device.
 訓練を選択してください。=Please select your training.
 お疲れ様でした。=Thank you for your hard work.
 
 [Challenges]
-初級 Lv.1=Elementary Lv.1
+初級 Lv.1=Beginner Lv.1
+初級 Lv.2=Beginner Lv.2
+初級 Lv.3（斬）=Beginner Lv.3 (Slash)
+初級 Lv.3（突）=Beginner Lv.3 (Pierce)
+初級 Lv.3（打）=Beginner Lv.3 (Blunt)
+
+[Auto Arena]
+オートプレイ最大=Autoplay Max Timer
+前回クリアデータで省電力周回を行いますか？\n（バックグラウンドでも有効になります）=Do you want to perform power-saving runs using the last cleared data?\n(Also enabled in the background)
+<style\=RubyPrefixTag></style>\n行くぞ！！=<style\=RubyPrefixTag></style>\nLet's go ! !
+自動周回を完了する=End Autoplay
+残り時間=Time Left
+勝利数=Runs Completed
+省電力周回中...=<size\=130%>Autorun in progress...</size>

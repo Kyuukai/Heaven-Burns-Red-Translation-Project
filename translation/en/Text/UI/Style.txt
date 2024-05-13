@@ -110,13 +110,13 @@ CLv.が上限に達してないため使用できません=<size\=90%>Not availa
 おすすめ装備を実行しますか？=Do you want to run the recommended equipment?
 ----------------
 一括編成=Batch Organization
-前回クリア部隊=Previously cleared units
+前回クリア部隊=Previously cleared Units
 ストーリー状況と乖離しています=Deviates from story situation
 フロントキャラを1人以上編成する必要があります=At least one front character must be organized
 出撃=Sortie
 アクセサリ装備=Accessory Equipment
 ブースター装備=Booster Equipment
-スキル設定=Skill Setup
+スキル設定=Skill Setting
 
 おすすめ編成=<size\=95%>Recommended Formation</size>
 おすすめ装備=<size\=95%>Recommended Equipment</size>
@@ -134,12 +134,12 @@ CLv.が上限に達してないため使用できません=<size\=90%>Not availa
 <style\=RubyPrefixTag></style>\n編集中の内容を破棄し、選択前の状態に戻ります\nよろしいですか？=<style\=RubyPrefixTag></style>\nDiscard the edited content and return to the pre-selection state.
 ----------
 
-編成コピー=<size\=90%>Copy Squad</size>
-コピーする部隊=Copy Squad
-編成内容をコピーする先を選択してください。=Select the Squad to override.
+編成コピー=<size\=90%>Copy Unit</size>
+コピーする部隊=Copy Unit
+編成内容をコピーする先を選択してください。=Select the Unit to override.
 一部の装備は、売却などで不足しているため装備されません=Some equipment will not be equipped due to shortage of equipment.
 一部のスキルは、スキル枠が不足しているため装備されません=Some skills will not be equipped due to lack of Skill Slots.
-前回クリアした部隊で上書きしますか？=Do you want to overwrite the current Squad with the previously cleared Squad?
+前回クリアした部隊で上書きしますか？=Do you want to overwrite the current Unit with the previously cleared Unit?
 -----------
 余剰のスタイルピースを変換\n交換所=Convert surplus style pieces\n<size\=22>(Exchange)</size>
 万能スタイルピース（Rank A）=Versatile Style Piece (Rank A)
@@ -151,7 +151,7 @@ Rank Aのスタイルの万能強化素材です=It is an all-purpose enhancemen
 ※専用ピースから消費されます　専用ピースが足りない場合、万能ピースが消費されます=If there are not enough dedicated pieces, universal pieces will be consumed.
 全能力 <color\=#91EAF2>+1％</color>=Full Capacity <color\=#91EAF2>+1％</color>
 キャラLv上限（100→<color\=#91EAF2>101</color>）= Character Lv. Limit (100→<color\=#91EAF2>101</color>）
-限界突破（0→<color\=#91EAF2>1</color>)=Breakthrough (0→)<color\=#91EAF2>1</color>)
+限界突破（0→<color\=#91EAF2>1</color>)=Breakthrough (0→)<color\=#91EAF2>1</color>
 結果=<space\=-23.0px><voffset\=0em><cspace\=0px><size\=26>Result</size></cspace></size></voffset>
 不足しています=Insufficient
 必要ピース数　10=<size\=28>Pieces Required: 10</size>
