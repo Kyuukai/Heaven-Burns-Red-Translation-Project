@@ -1,29 +1,9 @@
 ﻿[Purchases]
-購入回数：あと0回=No. of Purchases: 0 left
-購入回数：あと1回=No. of Purchases: 1 left
-購入回数：あと1回=No. of Purchases: 1 left
-購入回数：あと2回=No. of Purchases: 2 left
-購入回数：あと3回=No. of Purchases: 3 left
-購入回数：あと4回=No. of Purchases: 4 left
-購入回数：あと5回=No. of Purchases: 5 left
-購入回数：あと6回=No. of Purchases: 6 left
-購入回数：あと7回=No. of Purchases: 7 left
-購入回数：あと8回=No. of Purchases: 8 left
-購入回数：あと9回=No. of Purchases: 9 left
-購入回数：あと10回=No. of Purchases: 10 left
-購入回数：あと11回=No. of Purchases: 11 left
-購入回数：あと12回=No. of Purchases: 12 left
-購入回数：あと13回=No. of Purchases: 13 left
-購入回数：あと14回=No. of Purchases: 14 left
-購入回数：あと15回=No. of Purchases: 15 left
-購入回数：あと16回=No. of Purchases: 16 left
-購入回数：あと17回=No. of Purchases: 17 left
-購入回数：あと18回=No. of Purchases: 18 left
-購入回数：あと19回=No. of Purchases: 19 left
-購入回数：あと20回=No. of Purchases: 20 left
+r:"^購入回数：あと(\d+)回$"=No. of Purchases: $1 left
 
 -----
 [Gacha Pull]
+
 <size\=38>0回</size><size\=24> 引く</size>=<size\=38>0x</size><size\=26>  Pull</size>
 <size\=38>1回</size><size\=24> 引く</size>=<size\=38>1x</size><size\=26>  Pull</size>
 <size\=38>2回</size><size\=24> 引く</size>=<size\=38>2x</size><size\=26>  Pull</size>
@@ -59,112 +39,28 @@
 8回引く=<size\=38>8x</size><size\=32>  Pull</size>
 9回引く=<size\=38>9x</size><size\=32>  Pull</size>
 10回引く=<size\=38>10x</size><size\=32>  Pull</size>
+r:"^([0-9]+)回引$
 ----------------
-残り0=0 left
-残り1=1 left
-残り2=2 left
-残り3=3 left
-残り4=4 left
-残り5=5 left
-残り6=6 left
-残り7=7 left
-残り8=8 left
-残り9=9 left
-残り10=10 left
-残り11=11 left
-残り12=12 left
-残り13=13 left
-残り14=14 left
-残り15=15 left
+r:"^残り(\d+)$"=$1 left
 ------------
 Occurence
-あと0回=0 more times
 あと1回=1 more time
-あと2回=2 more times
-あと3回=3 more times
-あと4回=4 more times
-あと5回=5 more times
-あと6回=6 more times
-あと7回=7 more times
-あと8回=8 more times
-あと9回=9 more times
-あと10回=10 more times
-あと11回=11 more times
-あと12回=12 more times
-あと13回=13 more times
-あと14回=14 more times
-あと15回=15 more times
-あと16回=16 more times
-あと17回=17 more times
-あと18回=18 more times
-あと19回=19 more times
-あと20回=20 more times
-あと21回=21 more times
-あと22回=22 more times
-あと23回=23 more times
-あと24回=24 more times
-あと25回=25 more times
-あと26回=26 more times
-あと27回=27 more times
-あと28回=28 more times
-あと29回=29 more times
-あと30回=30 more times
+r:"^あと([0-9]+)回$"=$1 more times
 --
-0 回=0 times
-1 回=1 time
-2 回=2 times
-3 回=3 times
-4 回=4 times
-5 回=5 times
+1回=1 more time
+r:"^([0-9]+) 回$"=$1 times
 
 [Style]
 既にSLv.が上限のため使用できません=Style is already maximum Level
 既にCLv.が上限のため使用できません=Style is already maximum Level
-既にLv.100以上のため使用できません=Style is already Lv.100 or higher
-既にLv.90以上のため使用できません=Style is already Lv.90 or higher
-既にLv.80以上のため使用できません=Style is already Lv.80 or higher
-既にLv.70以上のため使用できません=Style is already Lv.70 or higher
-既にLv.60以上のため使用できません=Style is already Lv.60 or higher
-既にLv.50以上のため使用できません=Style is already Lv.50 or higher
-既にLv.40以上のため使用できません=Style is already Lv.40 or higher
-既にLv.30以上のため使用できません=Style is already Lv.30 or higher
-既にLv.20以上のため使用できません=Style is already Lv.20 or higher
-既にLv.10以上のため使用できません=Style is already Lv.10 or higher
-
-使用可能回数：1 回=Usable No. of times: 1 time
-使用可能回数：2 回=Usable No. of times: 2 times
-使用可能回数：3 回=Usable No. of times: 3 times
-使用可能回数：4 回=Usable No. of times: 4 times
-使用可能回数：5 回=Usable No. of times: 5 times
-
+r:"^既にLv.([0-9]+)以上のため使用できません$"=Style is already Lv.$1 or higher
+--
+r:"^使用可能回数：(\d+) 回$"=Usable No. of times: $1 times
 ----
-習得可能Lv.40=Learnable Lv.40
-習得可能Lv.41=Learnable Lv.41
-習得可能Lv.42=Learnable Lv.42
-習得可能Lv.43=Learnable Lv.43
-習得可能Lv.44=Learnable Lv.44
-習得可能Lv.45=Learnable Lv.45
-習得可能Lv.46=Learnable Lv.46
-習得可能Lv.47=Learnable Lv.47
-習得可能Lv.48=Learnable Lv.48
-習得可能Lv.49=Learnable Lv.49
-習得可能Lv.50=Learnable Lv.50
-習得可能Lv.51=Learnable Lv.51
-習得可能Lv.52=Learnable Lv.52
-習得可能Lv.53=Learnable Lv.53
-習得可能Lv.54=Learnable Lv.54
-習得可能Lv.55=Learnable Lv.55
-習得可能Lv.56=Learnable Lv.56
-習得可能Lv.57=Learnable Lv.57
-習得可能Lv.58=Learnable Lv.58
-習得可能Lv.59=Learnable Lv.59
-習得可能Lv.60=Learnable Lv.60
+r:"^習得可能Lv\.(\d+)$"=Learnable Lv.$1
+---
 
 [Story]
 <style\=RubyPrefixTag></style>\n第一章 Day1から再開しますか？=<style\=RubyPrefixTag></style>\nWould you like to resume from Chapter 1 Day 1?
-<style\=RubyPrefixTag></style>\n第一章 Day2から再開しますか？=<style\=RubyPrefixTag></style>\nWould you like to resume from Chapter 1 Day 2?
-<style\=RubyPrefixTag></style>\n第一章 Day3から再開しますか？=<style\=RubyPrefixTag></style>\nWould you like to resume from Chapter 1 Day 3?
-<style\=RubyPrefixTag></style>\n第一章 Day4から再開しますか？=<style\=RubyPrefixTag></style>\nWould you like to resume from Chapter 1 Day 4?
-<style\=RubyPrefixTag></style>\n第一章 Day5から再開しますか？=<style\=RubyPrefixTag></style>\nWould you like to resume from Chapter 1 Day 5?
-<style\=RubyPrefixTag></style>\n第一章 Day6から再開しますか？=<style\=RubyPrefixTag></style>\nWould you like to resume from Chapter 1 Day 6?
-<style\=RubyPrefixTag></style>\n第一章 Day7から再開しますか？=<style\=RubyPrefixTag></style>\nWould you like to resume from Chapter 1 Day 7?
+<style\=RubyPrefixTag></style>\n第一章 Day1から再開しますか？=<style\=RubyPrefixTag></style>\nWould you like to resume from Chapter 1 Day 1?
+r:"^<style\=RubyPrefixTag></style>\n第一章 Day([0-9]+)$から再開しますか？"=\nWould you like to resume from Chapter 1 Day $1?

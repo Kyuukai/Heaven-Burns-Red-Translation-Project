@@ -1,6 +1,5 @@
 ﻿現在のライフストーン所持数=Current Lifestones Held
 現在のクォーツ所持数=Current Quartz Held
-0個=0 pcs.
 または=or
 ライフ回復数=Number of Lives Recovered
 ライフを回復します=Restore Life
