@@ -107,7 +107,7 @@ S以上1体確定10連ガチャチケット=10-Pull S or Above Gacha Ticket
 【この星に紡ぐ一手】\n記憶の庭のイベントダンジョン「入間」に入場できるチケットです=【A Hand Weaving to this Star】\nA ticket that allows you to enter the Event Dungeon「Iruma」in the Garden of Memories.
 
 第五回イベントダンジョンチケット=5th Event Dungeon Ticket
-【進めちびっ子大作戦Ｕ１４０】\n記憶の庭のイベントダンジョン「廃棄研究所」に入場できるチケットです=【Operation Mini Squad U140】 \nA ticket that allows you to enter the Event Dungeon「Abandonned Laboratory」in the Garden of Memories.
+【進めちびっ子大作戦Ｕ１４０】\n記憶の庭のイベントダンジョン「廃棄研究所」に入場できるチケットです=【Operation Mini Unit U140】 \nA ticket that allows you to enter the Event Dungeon「Abandonned Laboratory」in the Garden of Memories.
 
 第六回イベントダンジョンチケット=6th Event Dungeon Ticket
 【A Little Tear, Forgotten Memories】\n記憶の庭のイベントダンジョン「浅草」に入場できるチケットです=【A Little Tear, Forgotten Memories】\nA ticket that allows you to enter the Event Dungeon「Asakusa」in the Garden of Memories.
@@ -136,7 +136,7 @@ S以上1体確定10連ガチャチケット=10-Pull S or Above Gacha Ticket
 交換所メダル=Exchange Medals
 ストーリーイベント「Requiem for the Blue」交換所で使用できるメダルです=These Medals can be used at the story event「Requiem for the Blue」exchange.
 ストーリーイベント「この星に紡ぐ一手」交換所で使用できるメダルです=These Medals can be used at the story event「A Hand Weaving to this Star」exchange.
-ストーリーイベント「進めちびっ子大作戦Ｕ１４０」交換所で使用できるメダルです=These Medals can be used at the story event「Operation Mini Squad U140」exchange.
+ストーリーイベント「進めちびっ子大作戦Ｕ１４０」交換所で使用できるメダルです=These Medals can be used at the story event「Operation Mini Unit U140」exchange.
 ストーリーイベント「A Little Tear, Forgotten Memories」交換所で使用できるメダルです=These Medals can be used at the story event「A Little Tear, Forgotten Memories」exchange.
 ストーリーイベント「That day's Friend」交換所で使用できるメダルです=These Medals can be used at the story event「That day's Friend」exchange.
 ストーリーイベント「セラフ剣刀武術祭」交換所で使用できるメダルです=These Medals can be used at the story event「Seraph's Sword Martial Arts Festival」exchange.

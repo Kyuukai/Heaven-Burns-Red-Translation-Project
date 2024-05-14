@@ -47,8 +47,8 @@
 到着！=We're here!
 知らない店もまだまだありそう。=Seems like there are still many stores that we \ndon't know.
 <style\=RubyPrefixTag></style>\n知らない店もまだまだありそう。=<style\=RubyPrefixTag></style>\nSeems like there are still many stores that we \ndon't know.
-一緒に回ってたんじゃ、日が暮れちまう。手分けして部隊に役立つものを探そうぜ。=We'll lose daylight if we keep going around together. Let's split up and find something useful for the squad.
-<style\=RubyPrefixTag></style>\n一緒に回ってたんじゃ、日が暮れちまう。手分けして部隊\r\nに役立つものを探そうぜ。=<style\=RubyPrefixTag></style>\nWe'll lose daylight if we keep going around together. \nLet's split up and find something useful for the squad.
+一緒に回ってたんじゃ、日が暮れちまう。手分けして部隊に役立つものを探そうぜ。=We'll lose daylight if we keep going around together. Let's split up and find something useful for the Unit.
+<style\=RubyPrefixTag></style>\n一緒に回ってたんじゃ、日が暮れちまう。手分けして部隊\r\nに役立つものを探そうぜ。=<style\=RubyPrefixTag></style>\nWe'll lose daylight if we keep going around together. \nLet's split up and find something useful for the Unit.
 いいね！　そうしよう。=Sounds good! Let's do that.
 とりあえず雑貨屋を見てみるか…。=Let's check out the general store for now...
 フレーバー通り=Flavor Road
@@ -297,8 +297,8 @@ B1　フロア名前 =B1 floor name
 悪いことは起きてたのね…。=Looks like something terrible has happened...
 それをこいつは、見捨てろって言うのよ！！=And she is telling me to just abandon her!!
 <style\=RubyPrefixTag></style>\nそれをこいつは、見捨てろって言うのよ！！=<style\=RubyPrefixTag></style>\nAnd she is telling me to just abandon her!!
-言ってません！！　今のわたしたちの戦力で捜索を行うより、セラフ部隊の先輩たちの力に頼ったほうがいいという判断です！=I did not!! I'm just saying that we should rely on the \nsenior squad, than conducting a search with our current \nstrength!
-<style\=RubyPrefixTag></style>\n言ってません！！　今のわたしたちの戦力で捜索を行うよ\r\nり、セラフ部隊の先輩たちの力に頼ったほうがいいという\r\n判断です！=<style\=RubyPrefixTag></style>\nI did not!! I'm just saying that we should rely on the \nsenior squad, than conducting a search with our current \nstrength!
+言ってません！！　今のわたしたちの戦力で捜索を行うより、セラフ部隊の先輩たちの力に頼ったほうがいいという判断です！=I did not!! I'm just saying that we should rely on the \nsenior Unit, than conducting a search with our current \nstrength!
+<style\=RubyPrefixTag></style>\n言ってません！！　今のわたしたちの戦力で捜索を行うよ\r\nり、セラフ部隊の先輩たちの力に頼ったほうがいいという\r\n判断です！=<style\=RubyPrefixTag></style>\nI did not!! I'm just saying that we should rely on the \nsenior Unit, than conducting a search with our current \nstrength!
 その先輩たちも、まったく動き出せていないのよ！？=And those seniors haven't made any move at all!!
 それは大変だ。あたしら３１Ａも力を貸すよ。=That's a problem. We'll lend a hand.
 <style\=RubyPrefixTag></style>\nそれは大変だ。あたしら３１Ａも力を貸すよ。=<style\=RubyPrefixTag></style>\nThat's a problem. We'll lend a hand.
@@ -450,8 +450,8 @@ B1　フロア名前 =B1 floor name
 <style\=RubyPrefixTag></style>\n今日はもう諦めろってことかよ！？=<style\=RubyPrefixTag></style>\nAre you telling me to give up for today!?
 そうだよ。これ以上潜るのは危険だ。=That's right. It is dangerous to go any deeper.
 ユッキーが言ったんじゃないか！　ぶんちゃんは、記憶が更新されないから危険だって！！=You're the one who is saying that Bun-chan is in danger \nbecause her memories doesn't update!
-先輩の部隊も動き始めている頃だ。=It's about time for my senior squad to start moving too.
-<style\=RubyPrefixTag></style>\n先輩の部隊も動き始めている頃だ。=<style\=RubyPrefixTag></style>\nIt's about time for my senior squad to start moving too.
+先輩の部隊も動き始めている頃だ。=It's about time for my senior Unit to start moving too.
+<style\=RubyPrefixTag></style>\n先輩の部隊も動き始めている頃だ。=<style\=RubyPrefixTag></style>\nIt's about time for my senior Unit to start moving too.
 まったく、見かけないじゃないか…！！=We haven't seen them at all, though...!!
 これだけ広いんだ。熱くなるな。=This is such a big place. Don't get too heated.
 それに、山脇が追いついている可能性がある。=Besides, there's a possibility that Yamawaki already \ncatching up with her.
@@ -493,8 +493,8 @@ B1　フロア名前 =B1 floor name
 [Tenne]
 よう、天然ちゃん。=Yo, Tennen-chan. (Tennen means natural airhead)
 <style\=RubyPrefixTag></style>\n天然ではないわーー！！　天音だ！！\nこの頭脳明晰にして稀代の魔術師に対してなんたる愚弄！！=<style\=RubyPrefixTag></style>\nI'm not Tennen!! My name is Tenne!! What a mockery to \nthis clear-headed and extraordinary sorcerer!
-３１Ａ、斬り込み隊の部隊長ですが何か？=I AM the captain of the assault squad, 31A. What's up?
-<style\=RubyPrefixTag></style>\n３１Ａ、斬り込み隊の部隊長ですが何か？=<style\=RubyPrefixTag></style>\nI AM the captain of the assault squad, 31A. What's up?
+３１Ａ、斬り込み隊の部隊長ですが何か？=I AM the captain of the assault Unit, 31A. What's up?
+<style\=RubyPrefixTag></style>\n３１Ａ、斬り込み隊の部隊長ですが何か？=<style\=RubyPrefixTag></style>\nI AM the captain of the assault Unit, 31A. What's up?
 ただの同期ではないか！　少しでも偉いと思ったか！=We are from the same year! You think you're above us \nor what!!
 Ａなぶん、ちょっと偉い。=We are an A. So, a little up there.
 くっそ！　腹立つ！=Damn it! How annoying!
@@ -629,8 +629,8 @@ B1　フロア名前 =B1 floor name
 <style\=RubyPrefixTag></style>\nさっき食ったばっかだわ。どれだけ寝る寸前にカロリー摂\r\nらせるんだよ。=<style\=RubyPrefixTag></style>\nI just ate one. Just how much calories do you want me to \ntake in before sleeping.
 そんなカロリー簡単に消費するぐらい訓練でしごかれてるような気がするけど、まー、特にお腹は空いてないし、寝るかー。=I feel like I've been training so hard that I could easily \nburn off those calories. But well, I'm not that hungry, \nso I'll go to bed.
 <style\=RubyPrefixTag></style>\nそんなカロリー簡単に消費するぐらい訓練でしごかれてる\r\nような気がするけど、まー、特にお腹は空いてないし、寝\r\nるかー。=<style\=RubyPrefixTag></style>\nI feel like I've been training so hard that I could easily \nburn off those calories. But well, I'm not that hungry, \nso I'll go to bed.
-翌朝から、先輩の部隊が救助に出るそうだ。=Seems like, the senior squad are going to rescue them next morning.
-<style\=RubyPrefixTag></style>\n翌朝から、先輩の部隊が救助に出るそうだ。=<style\=RubyPrefixTag></style>\nSeems like, the senior squad are going to rescue them \nnext morning.
+翌朝から、先輩の部隊が救助に出るそうだ。=Seems like, the senior Unit are going to rescue them next morning.
+<style\=RubyPrefixTag></style>\n翌朝から、先輩の部隊が救助に出るそうだ。=<style\=RubyPrefixTag></style>\nSeems like, the senior Unit are going to rescue them \nnext morning.
 ほう。耳よりな情報だねぇ。=Hoo. That's a good news.
 <style\=RubyPrefixTag></style>\nほう。耳よりな情報だねぇ。=<style\=RubyPrefixTag></style>\nHoo. That's a good news.
 それでも、行くか？=Even so, still want to go?
