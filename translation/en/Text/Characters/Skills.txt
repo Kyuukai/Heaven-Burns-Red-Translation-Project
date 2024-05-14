@@ -1,7 +1,10 @@
 ﻿General
 オーバードライブ中 スキル攻撃力+10%=Skill attack power +10% while in Overdrive
-後衛時 前衛のスキル攻撃に 確率で追撃=When in the rear guard, there is a chance to follow up\nwith the skill attack of the front guard
 [Auto] 追撃=[Auto] Pursuit
+後衛時 前衛のスキル攻撃に 確率で追撃=When in the rear guard, there's a chance to follow up\nwith the vanguard's skill attack
+-----
+[Auto] 闇の波動=[Auto] Wave of Darkness
+味方全体の闇属性スキル攻撃力を\n常時+10%=Dark attribute skill attack power of all allies\nAlways +10%
 ----------------
 
 Adelheid Kanzaki

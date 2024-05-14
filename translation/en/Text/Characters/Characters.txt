@@ -14,10 +14,12 @@
 Names:
 ----------------
 
-神崎 アーデルハイド=<size\=85%>Adelheid Kanzaki</size>
+神崎 アーデルハイド=<size\=75%>Adelheid Kanzaki</size>
 神崎アーデルハイド=Adelheid Kanzaki
 [神崎アーデルハイド]=[Adelheid Kanzaki]
 [神崎 アーデルハイド]=[Adelheid Kanzaki]
+
+<style\=RubyPrefixTag></style>\n神崎<space\=-84.36201px><voffset\=1em><size\=50%><cspace\=0px>かんざき</cspace></size></voffset><space\=-2.175994px><style\=RubySuffixTag></style> アーデルハイド<space\=-145.817px><voffset\=1em><size\=50%><cspace\=0px></cspace></size></voffset><space\=143.629px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nAdelheid Kanzaki
 -----------------------
 瑞原 あいな=<size\=85%>Aina Mizuhara</size>
 瑞原あいな=Aina Mizuhara

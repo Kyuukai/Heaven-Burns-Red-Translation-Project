@@ -1,11 +1,12 @@
 はじめから=Start
 プリズムバトル=Prism Battle
 宝石プリズム=Jewel Prism
+<style\=RubyPrefixTag></style>\n現在開催されておりません=<style\=RubyPrefixTag></style>\nCurrently Not Held
 -------------
-スコアアタック=Score Attack
 開始する=Start
 イベントストーリーの強敵が\nスコアアタックに登場！\n高難易度やミッションをクリアして\nS以上確定ガチャチケットや\nジェネライズ素材をGETしよう=A powerful enemy from the event story appears in Score Attack !\nClear high difficulty levels and missions to get Materials and S Rank or above Gacha Tickets
 ---------------
+[Title]
 ダンジョン=Dungeon
 オーブボス=Orb Boss
 超上級者ミッション=Super Advanced Mission
@@ -13,10 +14,33 @@
 記憶の庭へ=Garden of Memories
 オススメコンテンツ=Recommended Content
 恒星掃戦線=Solraker Front
+異時層=Divergence
+スコアアタック=ScoreAttack
 
+[LimitBreaking Vessel]
 限界突破の器=LimitBreaking Vessel
 ミッションへ=Missions Tab
 限界突破の器に溜まった力を消費してSSスタイルを限界突破することができます。\n限界突破2段階目までは100%消費、3段階目以降は200%消費して限界突破が可能です。=You can use the power accumulated in the Limit Breaking Vessel to break through the SS style. \nIt is possible to LimitBreak by consuming 100% up to the 2nd stage, and 200% from the 3rd stage onwards.
 限界突破へ=Go to LimitBreaking Vessel
 
+[Divergence]
+毎週月曜4:00更新で取得=Acquired every Monday at 4:00.
+初回報酬=First Reward
+最速クリアターン=Fastest Clear Turn
+更新まであと23日=23 days before update
+メダル所持数=Medals Held
+フィーラー=Feeler
+デススラッグ=DeathSlug
+第一章Day12=Chapter 1 Day 12
+ロータリー\nモール=Rotary\nMole
+第二章Day19=Chapter 2 Day 19
+レッド\nクリムゾン=Red\nCrimson
+第三章Day14=Chapter 3 Day 14
+第四章 前編Day12=Chapter 4 Pt.1 Day 12
+フラットハンド=FlatHand
+第三章Day21=Chapter 3 Day 21
+アルティメット\nフィーラー=Ultimate\nFeeler
+第四章 前編Day6=Chapter 4 Pt.1 Day 6
+
+[Recommended Content]
 宝石で【★6アクセサリ】を錬成しよう！\n特に【通常攻撃に元素属性を付加】するブレスや【DPを激増】させるピアスは必需品だ！=Let's make [★ 6 Accessories] jewelry!\nIn particular, bonuses that [adds elemental attributes to normal attacks] and earrings that [DP increased dramatically] are recommended!

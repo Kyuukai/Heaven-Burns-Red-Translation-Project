@@ -54,6 +54,12 @@
 ・データ引き継ぎ=Data Transfer
 データ引き継ぎを設定する=Set up data transfer
 
+データ送信中=Send Data
+データを引き継ぐ=Retrieve Data
+引き継ぎ前に必ず詳細をご確認下さい。=Please make sure to check the details before transferring.
+データ引き継ぎ詳細=<size\=80%>Data Transfer details</size>
+異なるプラットフォーム間で引き継ぎを行う場合、\n有償クォーツは引き継がず元のプラットフォームに残りますのでご注意ください。\n※同プラットフォームでの引き継ぎの場合はそのまま引き継がれます=When transferring between different platforms,\nPlease note that paid quartz will not be transferred and will remain on the original platform. \n※If transferred on the same platform, the transfer will be carried over as is.
+
 [Controls]
 キーボード＆マウス=Keyboard & Mouse
 ・キーコンフィグ=Key Configuration
@@ -148,3 +154,4 @@
 ・オーバードライブ発動=Overdrive Sctivated
 ・オートバトルの有効/解除=Enable/Disable Auto-Battle
 ・行動開始=Start of Action
+<style\=RubyPrefixTag></style>\nタイトルに戻りますか？\n※一部進行状況が保存されない可能性があります=<style\=RubyPrefixTag></style>\nDo you want to return to Title Screen ?\n※Some progress may not be saved.

@@ -1,3 +1,4 @@
+[Miscellaneous]
 結果発表=Result Announcement
 ムービー=Movie
 スコア報酬=Score Reward
@@ -57,4 +58,6 @@ War Alive～時にはやぶれかぶれに～=War Alive ～Tokini wa Yabure Kabu
 第四章 後編 特定のDayクリアで解放されます=Unlocked after clearing \n Chapter 4 Part 2 Specific Day
 第五章 前編 特定のDayクリアで解放されます=Unlocked after clearing \n Chapter 5 Part 1 Specific Day
 
+[Unlock Popup]
 <style\=RubyPrefixTag></style>\n『Popcorn N' Roses』\nスター42以上で解放できます。\n解放しますか？=<style\=RubyPrefixTag></style>\n『Popcorn N' Roses』Can be unlocked with 42 stars or above. \nDo you want to unlock it?
+<style\=RubyPrefixTag></style>\n『How's everything』\nスター45以上で解放できます。\n解放しますか？=<style\=RubyPrefixTag></style>\n『How's everything』Can be unlocked with 42 stars or above. \nDo you want to unlock it?

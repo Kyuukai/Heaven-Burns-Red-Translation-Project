@@ -4,9 +4,15 @@
 Adelheid Kanzaki
 少女の休息=Girl's Rest
 花言葉は希望と思い出…=The language of flowers is hope and memories...
+弱点をついたときに真価を発揮する BLASTERスタイル\n\n【神崎流忍術・散華】\n　自身の闇属性スキル攻撃力を上げ 闇の斬撃を放つ [破壊率大]\n　敵の弱点をついたとき 威力上昇かつ [破壊率特大]=<size\=30>BLASTER style that shows its true value when it exploits a weak point.\n\n[Kanzaki-style Ninjutsu: Scattering Flowers]\nRaises the attack of dark attribute skills and unleashes a dark slash (high destruction rate).\nWhen the enemy's weak point is hit, the power is increased (very high destruction rate).</size>
+----
+神崎流忍術・散華=Kanzaki-style Ninjutsu: Scattering Flowers
+----
+寝ても醒めても=Whether I Sleep or Wakeup
 ----
 旋風=Whirlwind
 風圧で全体を斬り刻む\n[破壊率大]=Wind pressure slashes the whole area\n[Destruction rate is high]
+
 ***********************
 Aina Mizuhara
 
