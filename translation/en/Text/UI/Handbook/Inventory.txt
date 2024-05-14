@@ -32,7 +32,7 @@
 使用済=No Longer Used
 未所持=Not Owned
 所持済=Already Owned
-所持状況=Possession Status
+所持状況=Owned Status
 非ロック中=Unlocked
 ロック中=Locked
 ロック=Lock

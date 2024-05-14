@@ -11,7 +11,10 @@
 スタイル強化=Style Enhancement
 詳細=Details
 <space\=-28.372px><voffset\=-0.1em><cspace\=0px><size\=28>
-能力=<size\=28>Stats</size>
+
+[Stats]
+能力=<space\=-10px><voffset\=0em><cspace\=0px><size\=28>Stats</size></cspace></size></voffset>
+<size\=28>Stats</size>
 最大Lv.=Max Lv.
 能力強化I=<size\=25>Capacity Enhancement I</size>
 能力強化II=<size\=25>Capacity Enhancement II</size>
@@ -88,7 +91,7 @@ CLv.が上限に達してないため使用できません=<size\=90%>Not availa
 状態異常耐性=Ailment Resistance
 耐性=Resistance
 絆 Lv.=Bond Lv.
-装備を反映=Reflects equipment
+装備を反映=Apply Equipment
 一括選択=<size\=23>Batch Selection</size>
 幻惑=Control
 ウイルス=Virus

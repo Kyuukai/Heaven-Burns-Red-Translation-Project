@@ -8,7 +8,6 @@
 加入する=Subscribe
 商品がありません=There are no products available.
 
-
 ****************************
 General
 ---------

@@ -10,6 +10,7 @@
 異なるOSまたは同じOSの異なるアカウントへの引き継ぎの場合、必ず事前にお客さまご自身でプレミアムパス/ライトパスの解約をお願いします。
 プレミアムパス/ライトパスに複数/重複加入が行われた場合、特典を重複して受け取ることはできません。=By doing data transfer, you can transfer your saved data from another device.
 You need to set up the data transfer from the in-game menu on the original device in advance. \nPlease note that when you perform a data transfer, any saved data on this device will be overwritten and updated from the transferred device\nIf you wish to transfer to a different OS or a different account on the same OS, please make sure to cancel your Premium Pass or Light Pass by yourself in advance.\nIf you have multiple or duplicate your Premium Pass or Light Pass Subscriptions, you will not be able to receive the benefits in duplicate.
+
 引継ぎID未設定/紛失=Forgot Transfer ID
 セーブデータ修復=Restore Saves
 キャッシュクリア=Clear Cache

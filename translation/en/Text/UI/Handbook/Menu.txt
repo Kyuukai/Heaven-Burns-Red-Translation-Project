@@ -11,5 +11,5 @@
 持ち物=Inventory
 お知らせ=Notice
 ランク=Rank
-ゲームを終了する=Exit Game
+ゲームを終了する=<size\=95%>Exit Game</size>
 帰還する=Homecoming
