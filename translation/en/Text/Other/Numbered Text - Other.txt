@@ -2,9 +2,10 @@
 r:"^部隊([0-9]+)$"=Unit $1
 ----
 
-[Arena / Live Recommended Combat Power]
-r:"^推奨戦力：(\d{1,3}(,\d{3}))$"=Recommended Combat Power : $1
-r:"^推奨戦力 : (\d{1,3}(,\d{3}))$"=Recommended Combat Power : $1
+[Arena / Live Recommended CP]
+推奨戦力：=Recommended CP:
+r:"^推奨戦力：(\d{1,3}(,\d{3}))$"=Recommended CP : $1
+r:"^推奨戦力 : (\d{1,3}(,\d{3}))$"=Recommended CP : $1
 ----
 [Score]
 r:"^(\d{1,3}(,\d{3}))$達成"=$1 Achieved

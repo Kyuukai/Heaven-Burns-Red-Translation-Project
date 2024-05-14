@@ -1,5 +1,5 @@
 七海からのアドバイス=Advice from Nanami
-推奨戦力=<size\=90%>Recommended Combat Power:</size>
+推奨戦力=<size\=90%>Recommended CP:</size>
 戦闘対象=Target:
 初心者向けの練習を用意しました。\n皆さんならなんなく攻略することができるでしょう。=<size\=85%>We have prepared exercises for beginners. We are sure that you will be able to conquer this course without any difficulty.</size>
 部隊編成=<size\=130%>Organize\nMembers</size>
