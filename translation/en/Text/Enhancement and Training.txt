@@ -2,6 +2,8 @@
 プリズムバトル=Prism Battle
 宝石プリズム=Jewel Prism
 <style\=RubyPrefixTag></style>\n現在開催されておりません=<style\=RubyPrefixTag></style>\nCurrently Not Held
+踏破率=ClearRate
+最大到達階=<size\=95%>Highest Floor Reached</size>
 -------------
 開始する=Start
 イベントストーリーの強敵が\nスコアアタックに登場！\n高難易度やミッションをクリアして\nS以上確定ガチャチケットや\nジェネライズ素材をGETしよう=A powerful enemy from the event story appears in Score Attack !\nClear high difficulty levels and missions to get Materials and S Rank or above Gacha Tickets
@@ -42,5 +44,13 @@
 アルティメット\nフィーラー=Ultimate\nFeeler
 第四章 前編Day6=Chapter 4 Pt.1 Day 6
 
+[Clock Tower]
+最高到達階=Highest Floor Reached
+次回ハイスコア報酬=Next Reward
+エリア別スコア=Score by Area
+HELL攻略エリア=HELL Strategy Area
+NORMAL攻略エリア=NORMAL Strategy Area
+
 [Recommended Content]
 宝石で【★6アクセサリ】を錬成しよう！\n特に【通常攻撃に元素属性を付加】するブレスや【DPを激増】させるピアスは必需品だ！=Let's make [★ 6 Accessories] jewelry!\nIn particular, bonuses that [adds elemental attributes to normal attacks] and earrings that [DP increased dramatically] are recommended!
+新宝石プリズムバトルで宝石【アレキサンドライト】をゲット！\n新しいアクセサリを錬成しよう=Get Jewel [Alexandrite] in the new Jewel Prism battle !\nYou can make new accessories

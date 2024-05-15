@@ -13,6 +13,7 @@
 アリーナ=Arena
 最新のフリータイムへ=Go to the latest Free Time
 ショップ=Shop
+メモリーストーリー一覧=Memory Story List
 
 -----
 これから始まる長い運命を辿っていくために、時には寄り道も必要だ。=Sometimes we need to take a detour to follow the long\ndestiny that is about to begin.
@@ -20,7 +21,6 @@
 もし道に迷ったら、ここに戻っておいで。いってらっしゃい。=If you get lost, come back here. Have a good day.
 <style\=RubyPrefixTag></style>\nホームに戻りますか？=<style\=RubyPrefixTag></style>\nDo you want to return to Home?
 調べる=Investigate
-
 
 [Story Progress]
 Prologue\n - プロローグ -=Prologue
