@@ -70,16 +70,26 @@ S以上1体確定10連ガチャチケット=10-Pull S or Above Gacha Ticket
 シュワルツシルト核（突性）=Schwarzschild Core (Pierce)
 シュワルツシルト核（打性）=Schwarzschild Core (Blunt)
 ノルドシュトロム結晶=Nordstorm Crystal
+ノルドシュトロム結晶 ×=Nordstorm Crystal ×
 キャンサーから入手できるスタイル強化用の素材です=A Style-enhancing material obtained from Cancer.
 
 宝珠（斬性）=Jewel (Slash)
+宝珠（斬性） ×=Jewel (Slash) ×
 宝珠（突性）=Jewel (Pierce)
+宝珠（突性） ×=Jewel (Pierce) ×
 宝珠（打性）=Jewel (Blunt)
+宝珠（打性） ×=Jewel (Blunt) ×
 宝珠（氷性）=Jewel (Ice)
+宝珠（氷性） ×=Jewel (Ice) ×
 宝珠（火性）=Jewel (Fire)
+宝珠（火性） ×=Jewel (Fire) ×
 宝珠（雷性）=Jewel (Thunder)
+宝珠（雷性） ×=Jewel (Thunder) ×
 宝珠（光性）=Jewel (Light)
+宝珠（光性） ×=Jewel (Light) ×
 宝珠（闇性）=Jewel (Dark)
+宝珠（闇性） ×=Jewel (Dark) ×
+
 宝珠の迷宮で入手できるスタイル強化用の素材です=A Style-enhancing material obtained from the Jewel Labyrinth.
 
 碧琥珀の雫=Blue Amber Drop
