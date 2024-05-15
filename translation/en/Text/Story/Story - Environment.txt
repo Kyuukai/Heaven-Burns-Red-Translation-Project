@@ -12,7 +12,7 @@
 カタログ=Catalog
 
 [Location]
-時計塔=Clock Tower
+時計塔=ClockTower
 学園基地=Campus
 学舎=School
 宿舎=Lodging House
