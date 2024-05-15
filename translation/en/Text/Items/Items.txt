@@ -178,7 +178,3 @@ SS確定ガチャのカケラ(イベント応援)=<size\=22>Guaranteed SS Gacha 
 プリズムバトル（Lv.2以降）=Prism Battle (Lv.2 or later)
 プリズムバトル（Lv.5以降）=Prism Battle (Lv.5 or later)
 プリズムバトル（Lv.8以降）=Prism Battle (Lv.8 or later)
-
-宝珠の迷宮=Jewel Labyrinth
-強化の回廊=Corridor of Reinforcement
-宝石プリズムバトル=Jewel Prism Battle

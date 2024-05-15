@@ -1,6 +1,4 @@
 はじめから=Start
-プリズムバトル=Prism Battle
-宝石プリズム=Jewel Prism
 <style\=RubyPrefixTag></style>\n現在開催されておりません=<style\=RubyPrefixTag></style>\nCurrently Not Held
 踏破率=ClearRate
 最大到達階=<size\=95%>Highest Floor Reached</size>
@@ -18,6 +16,11 @@
 恒星掃戦線=Solraker Front
 異時層=Divergence
 スコアアタック=ScoreAttack
+宝珠の迷宮=Labyrinth of Growth
+強化の回廊=Corridor of Reinforcement
+宝石プリズムバトル=Jewel Prism Battle
+プリズムバトル=Prism Battle
+宝石プリズム=Jewel Prism
 
 [LimitBreaking Vessel]
 限界突破の器=LimitBreaking Vessel
