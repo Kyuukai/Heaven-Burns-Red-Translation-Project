@@ -286,6 +286,20 @@ Seika Higuchi
 ************************
 Shiki Hanamura
 
+CV : 中村桜 =CV: Sakura Nakamura
+
+アバンチュールコンダクター=Avanture Conductor
+
+{３１Ｆ:さんいちえふ}の{華村詩紀:はなむらしき}だ。指揮者なのに、指揮される側になろうとはな。=I'm 31F's Shiki Hanamura. I'm a conductor, but I'm going to be the commander.
+
+<style\=RubyPrefixTag></style>\n３１Ｆ<space\=-141.632px><voffset\=1em><size\=50%><cspace\=0px>さんいちえふ</cspace></size></voffset><space\=1.054009px><style\=RubySuffixTag></style>の華村詩紀<space\=-165.367px><voffset\=1em><size\=50%><cspace\=0px>はなむらしき</cspace></size></voffset><space\=24.78899px><style\=RubySuffixTag></style>だ。指揮者なのに、指揮される側になろ\r\nうとはな。=<style\=RubyPrefixTag></style>\nI'm 31F's Shiki Hanamura. I'm a conductor, but I'm going to be the commander.
+
+だが戦場というステージで、一番セラフを上手く奏でるのはこの私だ。=However, on the stage like battlefield, I am the best at making Seraphs perform.
+
+<style\=RubyPrefixTag></style>\nだが戦場というステージで、一番セラフを上手く奏でるの\r\nはこの私だ。=<style\=RubyPrefixTag></style>\nHowever, on the stage like battlefield, I am the best at making Seraphs perform.
+
+<style\=RubyPrefixTag></style>\n華村詩紀<space\=-126.01px><voffset\=1em><size\=50%><cspace\=0px>はなむらしき</cspace></size></voffset><space\=17.99999px><style\=RubySuffixTag></style>\nが仲間になった！=<style\=RubyPrefixTag></style>\nShiki Hanamura joined the group !
+
 ************************
 Sumomo Minase
 
