@@ -206,6 +206,7 @@ Monthly Mission
 バトルを80回クリアする（アリーナ・時の修練場を除く）=Clear 80 battles (except Arena and Hyperbolic Time Chamber)
 バトルを90回クリアする（アリーナ・時の修練場を除く）=Clear 90 battles (except Arena and Hyperbolic Time Chamber)
 バトルを100回クリアする（アリーナ・時の修練場を除く）=Clear 100 battles (except Arena and Hyperbolic Time Chamber)
+宝珠の迷宮 B50をクリア=Clear the Labyrinth of Growth B50
 1日ログインする=Log in for 1 day
 2日ログインする=Log in for 2 days
 4日ログインする=Log in for 4 days
