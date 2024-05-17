@@ -1,9 +1,9 @@
 ﻿最大ダメージ更新！=Maximum damage update!
 SP回復+2=SP Recovery +2
 その他=Miscellaneous
-ゲージ1段階以上=Gauge 1 level or higher
-ゲージ2段階以上=Gauge 2 steps or higher
-ゲージ3段階=Gauge 3 levels
+ゲージ1段階以上=Gauge level 1 or higher
+ゲージ2段階以上=Gauge level 2 or higher
+ゲージ3段階=Gauge level 3
 発動しない=Not triggered
 
 -----
