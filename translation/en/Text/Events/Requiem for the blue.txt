@@ -1,4 +1,4 @@
-﻿
+
 [Prologue]
 [Grave]
 
@@ -524,8 +524,8 @@
 わかってるけどよ…全部自分だけで何とかしようとしてるあいつを見てるとイライラすんだよっ。=I know, but... I just get annoyed when I see her trying \nto do everything by herself.
 姉さん…。=Sis...
 …ん？　あっ、蒼井そろそろ帰るみたいにゃ！=...Hmm? Ah, Aoi seems to be leaving soon, nya!
-やっとかよ…あいつ一時間くらいやってたんじゃないか…？　流石にあんなの毎日続けてたら体が持たねぇぞ。=Finally... She's been at it for about an hour, right...? \nIf she does this every day, her body won't be able to \nhandle it.
-<style\=RubyPrefixTag></style>\nやっとかよ…あいつ一時間くらいやってたんじゃないか…？\r\n流石にあんなの毎日続けてたら体が持たねぇぞ。=<style\=RubyPrefixTag></style>\nFinally... She's been at it for about an hour, right...? \nIf she does this every day, her body won't be able to \nhandle it.
+やっとかよ…あいつ一時間くらいやってたんじゃないか…？　流石にあんなの毎日続けてたら体が持たねぇぞ。=Finally... She's been at it for about an hour, right...? \nIf she does this every day, her body won't last.
+<style\=RubyPrefixTag></style>\nやっとかよ…あいつ一時間くらいやってたんじゃないか…？\r\n流石にあんなの毎日続けてたら体が持たねぇぞ。=<style\=RubyPrefixTag></style>\nFinally... She's been at it for about an hour, right...? \nIf she does this every day, her body won't last.
 蒼井はすももたちよりも２世代も前からセラフ隊員だったにゃ。体力はそこそこあるんじゃないかにゃ？=Aoi has been a Seraph unit for two generations before us, nya. \nShe must have a lot of stamina, nya.
 はぁ…そんなの当てにしてたらいつかガタが来るぜ…。=Hah... If she keep doing that, she'll collapse one day...
 それじゃあたしらも帰るか…って、はぁ！？　あいつ、まだ続けようとしてるぞ！=Well, we should go back too... Wait, she's still trying \nto do it again!
@@ -798,9 +798,9 @@
 それに見た目も…あまり可愛いとは言えないかも…。=And... I don't think it looks cute...
 <style\=RubyPrefixTag></style>\nそれに見た目も…あまり可愛いとは言えないかも…。=<style\=RubyPrefixTag></style>\nAnd... I don't think it looks cute...
 （めちゃくちゃしょんぼりし始めたぞあいつ！　何があったっていうんだよ！）=(She's getting really depressed! What the hell is \ngoing on!?)
-皆さん喜んでくれるといいな…。でも、お守りだなんてちょっと重すぎ…？=I hope everyone will be happy... But isn't it a \nbit much to give a good-luck charm...?
-いいえ！　蒼井たちは常に死と隣り合わせ。お守りくらい普通、普通！=No, it isn't! We always facing death. A good-luck \ncharm is normal, it's normal!
-蒼井の奴…もしかしてあたしらにお守りを…？=That Aoi... Is she going to make a good-luck charm \nfor us...?
+皆さん喜んでくれるといいな…。でも、お守りだなんてちょっと重すぎ…？=I hope everyone will be happy... But isn't it a \nbit much to give a lucky charm...?
+いいえ！　蒼井たちは常に死と隣り合わせ。お守りくらい普通、普通！=No, it isn't! We always facing death. A lucky \ncharm is normal, it's normal!
+蒼井の奴…もしかしてあたしらにお守りを…？=That Aoi... Is she going to make a lucky charm \nfor us...?
 （あっぶねっ…！　さすが部隊長というべきか耳がいいな！）=(That was close...! As expected from a captain, she \nhas a good ear!)
 <style\=RubyPrefixTag></style>\n（あっぶねっ…！　さすが部隊長というべきか耳がいいな！）\r\n=<style\=RubyPrefixTag></style>\n(That was close...! As expected from a captain, she \nhas a good ear!)\r\n
 蒼井の気のせいですかね…。もしかして…幽霊！？　柊木さんの影響でまさか蒼井まで…。=Is it Aoi's imagination...? Could it be... A ghost! \nDon't tell me that Hiiragi-san's influence even \nreached Aoi...
@@ -814,7 +814,7 @@
 やった！　糸が通せたっ！=I did it! I got it in!
 <style\=RubyPrefixTag></style>\nやった！　糸が通せたっ！=<style\=RubyPrefixTag></style>\nI did it! I got it in!
 （楽しそうな顔してんじゃねぇか）=(She look like she's having fun)
-（あたしらのために苦手な裁縫でお守りなんか作って…。器用なのか不器用なのかわかんねぇ奴だな）=(Making a good-luck charm for us with sewing, which \nshe's not very good at... Is she clumsy or not, I don't \nreally know...)
+（あたしらのために苦手な裁縫でお守りなんか作って…。器用なのか不器用なのかわかんねぇ奴だな）=(Making a lucky charm for us with sewing, which \nshe's not very good at... Is she clumsy or not, I don't \nreally know...)
 （でも、蒼井なりにあたしらのことを想ってくれてる証なのかもしれねぇな）=(But maybe it's a sign that she's thinking about \nus in her own way.)
 本当に喜んでもらえるか不安になってきた…。=I'm starting to worry if they'll really be happy \nabout it...
 特にいちごさんとか、怒ったりしないかな…『こんな布切れいらねぇよ』とか…。=I wonder if Ichigo-san, in particular, will get angry... \nand say "I don't need this piece of cloth!"...
@@ -842,8 +842,8 @@
 （でも何か…）=(But for some reason...)
 <style\=RubyPrefixTag></style>\n（でも何か…）=<style\=RubyPrefixTag></style>\n(But for some reason...)
 嬉しいな。=I'm happy.
-（ちょっとだけ、ほんのちょっとだけお守りが楽しみ…かもしれない。ちょっとだけだけどな）=(I'm looking forward to the good-luck charm just a \nlittle bit...I guess. Just a little bit though...)
-<style\=RubyPrefixTag></style>\n（ちょっとだけ、ほんのちょっとだけお守りが楽しみ…かも\r\nしれない。ちょっとだけだけどな）=<style\=RubyPrefixTag></style>\n(I'm looking forward to the good-luck charm just a \nlittle bit...I guess. Just a little bit though...)
+（ちょっとだけ、ほんのちょっとだけお守りが楽しみ…かもしれない。ちょっとだけだけどな）=(I'm looking forward to the lucky charm just a \nlittle bit...I guess. Just a little bit though...)
+<style\=RubyPrefixTag></style>\n（ちょっとだけ、ほんのちょっとだけお守りが楽しみ…かも\r\nしれない。ちょっとだけだけどな）=<style\=RubyPrefixTag></style>\n(I'm looking forward to the lucky charm just a \nlittle bit...I guess. Just a little bit though...)
 
 [Holding hands]
 
@@ -867,3 +867,472 @@
 <style\=RubyPrefixTag></style>\n（少し、寝る…か…）=<style\=RubyPrefixTag></style>\n(Guess I'll sleep...for a bit...)
 
 [---DAY 3---]
+
+久々にすげぇ深く眠れたな…。=It's been a while since I slept so soundly...
+そのせいかやけに体が軽い…。=Because of that, my body feels so light...
+脳を休めるってのも大事なのかもな。そんなことも久しく忘れていたぜ…。=I guess it's important for the brain to rest. I haven't \nthought about it for a long time...
+機械みたいに非情に仕事に徹してきたからな…。=I've been working like a machine after all...
+<style\=RubyPrefixTag></style>\n機械みたいに非情に仕事に徹してきたからな…。=<style\=RubyPrefixTag></style>\nI've been working like a machine after all...
+なんか、人間に戻ったみてーだ。=Somehow, I feel like a human being again.
+<style\=RubyPrefixTag></style>\nなんか、人間に戻ったみてーだ。=<style\=RubyPrefixTag></style>\nSomehow, I feel like a human being again.
+うーん、いい朝だーーーー！！=Nnggh, what a nice morning!
+くそっ…ダメだ…。ニヤけちまう…。=Damn... Not good... I can't stop smiling...
+姉さん、顔がおかしいにゃ。=Sis, your face is funny, nya.
+<style\=RubyPrefixTag></style>\n姉さん、顔がおかしいにゃ。=<style\=RubyPrefixTag></style>\nSis, your face is funny, nya.
+今日くらいは浮かれてもいいだろ？　蒼井からプレゼントをもらった特別な日なんだからよ。=Can't I at least be excited today? It's a special day \nwhen Aoi gave us a gift after all.
+その気持ちはわかるにゃ。すももも嬉しいにゃ。=I understand how you feel, nya. I'm also happy, nya.
+しかもプレゼントがお守りって。蒼井らしいプレゼントだよな。=What's more, the gift is a lucky charm. It's very \nAoi-like, isn't it?
+あたしもあいつに何かお返し、してぇな…。=I also want to give something back...
+あたしは誰かに借りを作るとか嫌なんだよ。だからお返しするだけで…。=I just don't like being indebted to anyone. So I just \nwant to pay her back...
+無理に言い訳をする必要はないのにゃ。=You don't have to make excuses, nya..
+プレゼントをもらったから、プレゼントを返すだけにゃ。=Giving something back after receiving something is \nnormal, nya...
+<style\=RubyPrefixTag></style>\nプレゼントをもらったから、プレゼントを返すだけにゃ。\r\n=<style\=RubyPrefixTag></style>\nGiving something back after receiving something is \nnormal, nya...\r\n
+でもプレゼントするって言ったって、何をプレゼントしたらいいんだ？=But if I were to give her a gift, what should I give her?
+蒼井なら、何をあげても喜ぶにゃ。=Aoi will be happy no matter what you get her, nya..
+やっぱり可愛い感じのがいいよな…。あいつ可愛い顔してるし、多分そういうの似合うだろうし。=Something cute would be nice.... She has a cute face \nand would probably look good with something like that.
+<style\=RubyPrefixTag></style>\nやっぱり可愛い感じのがいいよな…。あいつ可愛い顔して\r\nるし、多分そういうの似合うだろうし。=<style\=RubyPrefixTag></style>\nSomething cute would be nice.... She has a cute face \nand would probably look good with something like that.
+今の姉さんが可愛いにゃ。まるで乙女なのにゃ。=Sis, you're so cute right now. Just like a maiden, nya..
+うっせー。これでも乙女のつもりだ。=Shut up! Even so, I still think of myself as a maiden.
+殺し屋だけどにゃ。=You're an assassin, though.
+<style\=RubyPrefixTag></style>\n殺し屋だけどにゃ。=<style\=RubyPrefixTag></style>\nYou're an assassin, though.
+女の子が好きそうな可愛いもの…。=Something cute that a girl would like...
+<style\=RubyPrefixTag></style>\n女の子が好きそうな可愛いもの…。=<style\=RubyPrefixTag></style>\nSomething cute that a girl would like...
+…シュシュ？　シュシュとかいいんじゃないか！？=...Scrunchie?　A scrunchie would be nice, don't you think!?
+<style\=RubyPrefixTag></style>\n…シュシュ？　シュシュとかいいんじゃないか！？=<style\=RubyPrefixTag></style>\n...Scrunchie?　A scrunchie would be nice, don't you think!?
+あいつが手にシュシュ付けてたら可愛くないか？　いや、絶対可愛い…と思う。=Wouldn't it be cute if she wore a scrunchie on her \nwrist?　No, definitely cute... I think.
+姉さん、やはり乙女にゃー…。=Sis, you're a maiden after all...
+素材は…アイビーでどうだ？=How about...we made it out of Ivy?
+花言葉は呪いにゃ。=Its language of flowers is a curse, nya..
+<style\=RubyPrefixTag></style>\n花言葉は呪いにゃ。=<style\=RubyPrefixTag></style>\nIts language of flowers is a curse, nya..
+違うっつったろ！　アイビーの花言葉は友情、不滅だ。=I told you it's not! Ivy's language of flowers is \nfriendship and immortality.
+<style\=RubyPrefixTag></style>\n違うっつったろ！　アイビーの花言葉は友情、不滅だ。=<style\=RubyPrefixTag></style>\nI told you it's not! Ivy's language of flowers is \nfriendship and immortality.
+蒼井に贈るのに、ピッタリの花言葉にゃ。=Perfect for Aoi, nya..
+ああ、可愛いし、お守りにもなりそうだ。=Yeah, it's cute and it can also be used as a lucky charm.
+<style\=RubyPrefixTag></style>\nああ、可愛いし、お守りにもなりそうだ。=<style\=RubyPrefixTag></style>\nYeah, it's cute and it can also be used as a lucky charm.
+折角だから、他の３１Ｂのみんなも誘ったらどうかにゃ。=Since this is a good opportunity, why don't we invite \nthe other 31B members, nya?
+そーだな。そうすっか。=Yeah. Let's do that.
+
+[Looking for 31B]
+[Kozue]
+
+さてと、他の連中はどこにいんのかな。=Let's see, where are the others?
+31Bのメンバーに協力を依頼しよう！=Ask 31B members to cooperate!
+おい、柊木。あのさ…。=Oi, Hiiragi. Listen...
+お金なら持ってないですっ！=I don't have any money!
+かつあげじゃねぇよ！　ちょっと頼みたいことがあってな。=This isn't an extortion! I've got a favor to ask you.
+<style\=RubyPrefixTag></style>\nかつあげじゃねぇよ！　ちょっと頼みたいことがあってな。\r\n=<style\=RubyPrefixTag></style>\nThis isn't an extortion! I've got a favor to ask you.\r\n
+ひぃぃっ…。な、なんでしょう…？=Eeek... W-What is it...?
+さっき蒼井からお守りをもらっただろ？　そのお返しにあたしらでお守り代わりのシュシュを作って蒼井にプレゼントしようかと思ってな。=Aoi gave you a lucky charm earlier, right? In return, \nI thought we could make a scrunchie as a lucky charm \nand give it to Aoi.
+あたしたちで隊長のを…ですか？=We make one for the captain...you mean?
+そうだ。あいつ、自分のお守りは作ってないと思うからよ。あたしらで蒼井のお守りを作るんだ。=That's right. Since I don't think she makes her own \nlucky charm. We'll make Aoi's lucky charm together.
+<style\=RubyPrefixTag></style>\nそうだ。あいつ、自分のお守りは作ってないと思うからよ。\r\nあたしらで蒼井のお守りを作るんだ。=<style\=RubyPrefixTag></style>\nThat's right. Since I don't think she makes her own \nlucky charm. We'll make Aoi's lucky charm together.
+とってもいいと思います！　あたしたちも協力しますっ！=I think that's a great idea! We'll help you, too!
+<style\=RubyPrefixTag></style>\nとってもいいと思います！　あたしたちも協力しますっ！\r\n=<style\=RubyPrefixTag></style>\nI think that's a great idea! We'll help you, too!\r\n
+あたしたち？=We?
+皆も手伝ってくれるよね？　よかったっ。じゃあ皆で頑張ろうねっ！=You'll help us too, right? I'm glad. Let's do our best!
+<style\=RubyPrefixTag></style>\nこえーだけだ！　そいつらはいらねぇ！！=<style\=RubyPrefixTag></style>\nThat's just scary! We don't need them!
+
+[Megumin]
+
+とっとと見つけるにゃ。=Let's find them, nya.
+<style\=RubyPrefixTag></style>\nとっとと見つけるにゃ。=<style\=RubyPrefixTag></style>\nLet's find them, nya.
+うちになんか用か？=What do you need from me?
+お前、部隊長と仲が悪いふりして、結構いいんじゃねぇか。=You act like you don't get along with your captain, \nbut aren't you actually get along well with her?
+<style\=RubyPrefixTag></style>\nお前、部隊長と仲が悪いふりして、結構いいんじゃねぇか。\r\n=<style\=RubyPrefixTag></style>\nYou act like you don't get along with your captain, \nbut aren't you actually get along well with her?\r\n
+は！？　なに抜かしとんねん！！　あいつと仲ええわけないやん！　あくまでもライバル関係や！！=Hah!? What are you talkin' about!! There's no way I \nget along with her! Our relationship always been a \nrivalry!!
+そういう関係こそが、絆なんじゃねぇか？　あたしはそう思うぜ。=Isn't that kind of relationship also a bond? At least \nthat's what I think.
+そんな今更『実はええキャラでした』みたいなセリフ吐くなや！　脚本家がついとんのか？　思うやろ！=Don't give me that "she's actually a nice person" vibe \nnow! I'll start thinking that the scriptwriter just \ngave up.
+<style\=RubyPrefixTag></style>\nそんな今更『実はええキャラでした』みたいなセリフ吐く\r\nなや！　脚本家がついとんのか？　思うやろ！=<style\=RubyPrefixTag></style>\nDon't give me that "she's actually a nice person" vibe \nnow! I'll start thinking that the scriptwriter just \ngave up.
+ほんとーだぜ。柄でもねーこと言っちまった。忘れてくれ…。=Indeed. I've said something that doesn't fit my \ncharacter at all. Forget it...
+<style\=RubyPrefixTag></style>\nほんとーだぜ。柄でもねーこと言っちまった。忘れてくれ\r\n…。=<style\=RubyPrefixTag></style>\nIndeed. I've said something that doesn't fit my \ncharacter at all. Forget it...
+
+[Higumin]
+
+樋口、今時間あるか？=Higuchi, you got a minute?
+<style\=RubyPrefixTag></style>\n樋口、今時間あるか？=<style\=RubyPrefixTag></style>\nHiguchi, you got a minute?
+どのような用かな。=What can I do for you?
+<style\=RubyPrefixTag></style>\nどのような用かな。=<style\=RubyPrefixTag></style>\nWhat can I do for you?
+蒼井からもらったお守りのお返しにシュシュを皆で作ろうと思ってさ。協力してくんねーかな。=I was thinking of making a scrunchie in return for \nthe lucky charm Aoi gave us. Won't you help me?
+<style\=RubyPrefixTag></style>\n蒼井からもらったお守りのお返しにシュシュを皆で作ろう\r\nと思ってさ。協力してくんねーかな。=<style\=RubyPrefixTag></style>\nI was thinking of making a scrunchie in return for \nthe lucky charm Aoi gave us. Won't you help me?
+なぜ？=Why?
+あたしらのために頑張って作ってくれたんだぞ？　手ぐらい貸せよ。=She worked hard to make it for us, you know? You \nshould at least lend a hand.
+<style\=RubyPrefixTag></style>\nあたしらのために頑張って作ってくれたんだぞ？　手ぐら\r\nい貸せよ。=<style\=RubyPrefixTag></style>\nShe worked hard to make it for us, you know? You \nshould at least lend a hand.
+お前そんなキャラだったか？=Were you this kind of person?
+<style\=RubyPrefixTag></style>\nお前そんなキャラだったか？=<style\=RubyPrefixTag></style>\nWere you this kind of person?
+うっせー、わかってるよ、柄じゃねーことぐらい！=Shut up, I know it's out of character!
+ふ…まあ、いいだろう。ただひとつ条件がある。=Heh... Well, fine. But, I have one condition.
+なんだ…？=What is it...?
+私が手伝う代わりに臨死体験の被験者となって欲しいんだ。死を間近にした者の感想を聞きたい！=In exchange for my help, I want you to be the subject \nof a near-death experience. I want to hear what a \nnear-death experience feels like!
+<style\=RubyPrefixTag></style>\n断るっ！！=<style\=RubyPrefixTag></style>\nI refuse!!
+ならば協力は出来ない。またな。=Then I can't help you. See you later.
+いやちょっと待て！　その件については保留って形ならどうだ…？=No, wait a minute! How about putting that on hold \nfor now...?
+<style\=RubyPrefixTag></style>\nいやちょっと待て！　その件については保留って形ならど\r\nうだ…？=<style\=RubyPrefixTag></style>\nNo, wait a minute! How about putting that on hold \nfor now...?
+いいだろう。必ず果たしてもらうぞ…楽しみにしている、ふふふ。=Fine. I'll make sure you pay... I'm looking forward to it.
+中ボスのキャンサー並みに恐ぇよ、お前…。=You're as scary as the mid-boss Cancer...
+
+[Yukki]
+
+あとひとりにゃ。=Just one more to go, nya.
+<style\=RubyPrefixTag></style>\nあとひとりにゃ。=<style\=RubyPrefixTag></style>\nJust one more to go, nya.
+さて、さっさと見つけちまおうぜ。=Well, let's find her quickly.
+<style\=RubyPrefixTag></style>\nさて、さっさと見つけちまおうぜ。=<style\=RubyPrefixTag></style>\nWell, let's find her quickly.
+ん？　珍しいな、他部隊の奴に話しかけられるなんて。=Hmm? How rare, getting talked to by someone from \nanother unit.
+<style\=RubyPrefixTag></style>\nん？　珍しいな、他部隊の奴に話しかけられるなんて。=<style\=RubyPrefixTag></style>\nHmm? How rare, getting talked to by someone from \nanother unit.
+いや、なんかお前らの結束力ってさすがだなって言いたくて。=I just wanted to say that I'm impressed with the \nunity of your unit.
+うちの結束力ぅ？　言うほどかぁ？=Our unity? Are we as united as you say?
+端から見てると、古くからの付き合いみたいに見えるぜ？=From the outside, it looks like you've known each \nother for a long time.
+<style\=RubyPrefixTag></style>\n端から見てると、古くからの付き合いみたいに見えるぜ？\r\n=<style\=RubyPrefixTag></style>\nFrom the outside, it looks like you've known each \nother for a long time.\r\n
+同期だろ？　あんたらと同じで出会ったばかりだよ。けど、月歌のおかげで濃厚な時間は過ごしてきてるかもな。=We've enlisted at the same time, right? We just met, \njust like you guys. But thanks to Ruka, we might have \nspent some quality time together.
+あたしには、あんたのおかげに映るけどな。=To me, it looks like it's all thanks to you.
+<style\=RubyPrefixTag></style>\nあたしには、あんたのおかげに映るけどな。=<style\=RubyPrefixTag></style>\nTo me, it looks like it's all thanks to you.
+マジで？　そう見えてるなら、報われる思いだぜ…。=Really? Well, if that's how you see it, then \neverything feels worth it...
+<style\=RubyPrefixTag></style>\nふれあい通りに行く=<style\=RubyPrefixTag></style>\nGo to Fureai Street
+
+[Byakko]
+
+よお、ビャッコ。ちょっと頼みたいことがあるんだ。=Yoo, Byakko. I have something to ask.
+ヴァウゥ？=*Growl?*
+蒼井からお守りをもらっただろ？　だからよ、お守り代わりのシュシュを皆で作ってお返ししようかって思ってんだ。=Aoi gave you a lucky charm, right? So, I'm thinking \nof making a scrunchie to give back to her.
+おめーも協力してくれないか？=Will you help me?
+ヴァウッ！=*Roar!*
+<style\=RubyPrefixTag></style>\nヴァウッ！=<style\=RubyPrefixTag></style>\n*Roar!*
+いいのか？=Are you sure?
+ヴァウゥッ！=*Roar!*
+そうか！　ありがとよ！=Really!? Thanks!
+<style\=RubyPrefixTag></style>\nそうか！　ありがとよ！=<style\=RubyPrefixTag></style>\nReally!? Thanks!
+ビャッコは蒼井と仲良いもんな。最高のシュシュ、あいつにプレゼントしてやろうぜ！=Byakko is close to Aoi after all. Let's give her \nthe best scrunchie as a present!
+ヴァウゥゥッ！！=*Growl!*
+それで、シュシュとやらは何で作る気だ？=So, what are you going to make that scrunchie with?
+<style\=RubyPrefixTag></style>\nそれで、シュシュとやらは何で作る気だ？=<style\=RubyPrefixTag></style>\nSo, what are you going to make that scrunchie with?
+アイビーで作ろうと思ってる。=I'm thinking of making it out of Ivy.
+アイビー…？=Ivy...?
+ツル性の植物なんだ。花言葉は、友情と不滅。お守りにはぴったりの花言葉だろ？=It's a vine kind of plant. The language of flowers \nis friendship and immortality. Perfect for a lucky \ncharm, right?
+<style\=RubyPrefixTag></style>\nツル性の植物なんだ。花言葉は、友情と不滅。お守りには\r\nぴったりの花言葉だろ？=<style\=RubyPrefixTag></style>\nIt's a vine kind of plant. The language of flowers \nis friendship and immortality. Perfect for a lucky \ncharm, right?
+割とロマンティックなんだな。=You're unexpectedly romantic.
+<style\=RubyPrefixTag></style>\n割とロマンティックなんだな。=<style\=RubyPrefixTag></style>\nYou're unexpectedly romantic.
+うるせぇ！=Shut up!
+だけど、ここら辺には生えてないんだ。=But it doesn't grow around here.
+なら他の人に聞いてみるのはどうかにゃ？　誰かアイビーが生えてる場所を知ってるかもしれないにゃ。=Why don't we ask someone? Maybe someone knows where \nivy grows, nya..
+<style\=RubyPrefixTag></style>\nなら他の人に聞いてみるのはどうかにゃ？　誰かアイビー\r\nが生えてる場所を知ってるかもしれないにゃ。=<style\=RubyPrefixTag></style>\nWhy don't we ask someone? Maybe someone knows where \nivy grows, nya..
+そうだな。聞き込みしてみっか。=You're right. Let's ask around.
+お？　お前も手伝ってくれるのか。助かるぜ。=Oh? You're going to help too? That's a great help.
+アイビーの生育地を知っている人を探そう！=Find someone who knows the where Ivy grows!
+
+[Irocchi]
+
+アイビーって植物を探してるんだが、どこかで見たことないか？=I'm looking for a plant called Ivy. Have you seen \nit anywhere?
+<style\=RubyPrefixTag></style>\nアイビーって植物を探してるんだが、どこかで見たことな\r\nいか？=<style\=RubyPrefixTag></style>\nI'm looking for a plant called Ivy. Have you seen \nit anywhere?
+それはどんな色をしてるんすカ？=What color does it have?
+<style\=RubyPrefixTag></style>\nそれはどんな色をしてるんすカ？=<style\=RubyPrefixTag></style>\nWhat color does it have?
+緑色の葉っぱで、フチが白いツタだ。=It has green leaf with a white ivy around the edge.
+緑色ってどんな風に見えるのか、わからないでぃス。植物ならなんでもいいなら知ってるっスよ？=I don't know what green looks like. If you don't \nmind any kind of plant, then I know few.
+いや、アイビーがいいんだよ。=No, I prefer Ivy.
+ナービィ広場=Narvy Square
+学舎前=In front of the school building
+
+[Lolita paisen]
+
+アイビーって植物、どこかで生えてなかったか？=Have you seen a plant called ivy growing somewhere?
+残念ですけど、見た覚えがありませんわ。何に使うんですの？=Unfortunately, I don't recall seeing it. What do you \nuse it for?
+<style\=RubyPrefixTag></style>\n残念ですけど、見た覚えがありませんわ。何に使うんです\r\nの？=<style\=RubyPrefixTag></style>\nUnfortunately, I don't recall seeing it. What do you \nuse it for?
+ちょっと、お守りにしようと思ってんだ。=I'm thinking of making it into a lucky charm.
+<style\=RubyPrefixTag></style>\nちょっと、お守りにしようと思ってんだ。=<style\=RubyPrefixTag></style>\nI'm thinking of making it into a lucky charm.
+でしたら、デイジーなどいかが？　とても可愛い花ですし、基地の中にも咲いていますわ。=Then, how about a daisy? They're very pretty, and \nwe have some around the base.
+<style\=RubyPrefixTag></style>\nでしたら、デイジーなどいかが？　とても可愛い花ですし、\r\n基地の中にも咲いていますわ。=<style\=RubyPrefixTag></style>\nThen, how about a daisy? They're very pretty, and \nwe have some around the base.
+
+[Ruka]
+
+なぁ、アイビーって植物を…。=Hey, do you know a plant called...
+いや何でもない。=No, nevermind.
+<style\=RubyPrefixTag></style>\nいや何でもない。=<style\=RubyPrefixTag></style>\nNo, nevermind.
+<style\=RubyPrefixTag></style>\nそこは訊いてよ！=<style\=RubyPrefixTag></style>\nKeep asking!
+<style\=RubyPrefixTag></style>\n知ってるかもしれないじゃん！\n結果知らないけどさ！！=<style\=RubyPrefixTag></style>\nI might know where it is! In the end, \nI don't know though!
+はぁ…そりゃいちいちどこに何が生えてるとか覚えてるわけないよな…。=Haah... I guess people don't remember where every \nsingle thing grows...
+<style\=RubyPrefixTag></style>\nはぁ…そりゃいちいちどこに何が生えてるとか覚えてるわ\r\nけないよな…。=<style\=RubyPrefixTag></style>\nHaah... I guess people don't remember where every \nsingle thing grows...
+くそっ…どうすりゃいいんだよ…。=Damn it... What should we do...
+
+[Nanamin]
+
+いちごさん、どうかしましたか。=Ichigo-san, is something wrong?
+<style\=RubyPrefixTag></style>\nいちごさん、どうかしましたか。=<style\=RubyPrefixTag></style>\nIchigo-san, is something wrong?
+あぁ？　いや、ちょっと困りごとがあってな。=Aah? Well, I'm in a bit of trouble.
+<style\=RubyPrefixTag></style>\nあぁ？　いや、ちょっと困りごとがあってな。=<style\=RubyPrefixTag></style>\nAah? Well, I'm in a bit of trouble.
+私は皆さんをサポートする士官です。お困りでしたらご相談に乗ります。=I am an officer who supports you all. If you need \nhelp, I'm here for you.
+いや…アイビーって植物を探してるんだけどよ。どこに生えてるかわからねぇんだ。=I'm looking for a plant named Ivy. But, I don't \nknow where it grows.
+アイビーでしたら有明に生えていたと思います。=If it's ivy, I think it grows in Ariake.
+はぁ！？　有明！？=Haah!? Ariake!?
+<style\=RubyPrefixTag></style>\nはぁ！？　有明！？=<style\=RubyPrefixTag></style>\nHaah!? Ariake!?
+はい、私の記憶に間違いがなければ。=Yes, if my memories doesn't fail me.
+な、何でそんなこと覚えてやがるんだ…。でも助かったぜ、ありがとよ。=W-why would you remember something like that...? \nBut you helped us, thank you.
+感謝ついでに、今からあたしらを有明に行かせてくれねぇか？=While we're at it, can you also let us go to Ariake now?
+<style\=RubyPrefixTag></style>\n感謝ついでに、今からあたしらを有明に行かせてくれねぇ\r\nか？=<style\=RubyPrefixTag></style>\nWhile we're at it, can you also let us go to Ariake now?
+それは許可出来ません。明日は作戦がありますから。=I can't allow that. We have an operation tomorrow.
+<style\=RubyPrefixTag></style>\nそれは許可出来ません。明日は作戦がありますから。=<style\=RubyPrefixTag></style>\nI can't allow that. We have an operation tomorrow.
+知ってるよ。だから、今必要なんだよ。=I know that. That's why we need it right now.
+<style\=RubyPrefixTag></style>\n知ってるよ。だから、今必要なんだよ。=<style\=RubyPrefixTag></style>\nI know that. That's why we need it right now.
+今、あたしらの部隊はやっとひとつになろうとしてるんだ…。有明に行くのはその総まとめになると言ってもいい。=Right now, our unit is finally coming together as one. \nYou could say that going to Ariake will complete it all.
+そうですか。ですが…。=I see. But...
+頼む！　有明に行かせてくれ！　そうしたら、部隊としてさらに強くなれる！=Please! Let us go to Ariake! That way we can be \neven stronger as a unit!
+<style\=RubyPrefixTag></style>\n頼む！　有明に行かせてくれ！　そうしたら、部隊として\r\nさらに強くなれる！=<style\=RubyPrefixTag></style>\nPlease! Let us go to Ariake! That way we can be \neven stronger as a unit!
+そこまで…。=If you're saying that much...
+<style\=RubyPrefixTag></style>\nそこまで…。=<style\=RubyPrefixTag></style>\nIf you're saying that much...
+…わかりました。少々お待ちください。=...I understand. Please wait a moment.
+司令官に出撃を申請しました。緊急性、必要性を考慮する、とのことです。特例ですが、今から有明へ向かうことを許可します。=I asked the Commander for a sortie. She said that she would \nconsider the urgency and necessity of the situation. It's a \nspecial case, but she authorizes you to go to Ariake now.
+本当か！=Seriously!?
+はい。準備が出来次第、ヘリポートに集合してください。=Yes. Please gather at the heliport as soon as you're \nready.
+<style\=RubyPrefixTag></style>\nはい。準備が出来次第、ヘリポートに集合してください。\r\n=<style\=RubyPrefixTag></style>\nYes. Please gather at the heliport as soon as you're \nready.\r\n
+わかった。マジで恩に着る。=Got it. I'm seriously in your debt.
+ですが、ひとつ条件があります。=But there is one condition.
+<style\=RubyPrefixTag></style>\nですが、ひとつ条件があります。=<style\=RubyPrefixTag></style>\nBut there is one condition.
+もし危険な敵が出現したら直ちに帰還することです。この命令には絶対遵守でお願いします。=If any dangerous enemies appear, you must return \nimmediately. You must obey this order.
+わかった、約束する。=Okay, I promise.
+すももたちにはＲＩＮＮＥでヘリポートに集まるように連絡したし。=I've contacted Sumomo and the others via RINNE to \nmeet at the heliport.
+基地の外に出るんだからそれなりに準備しねぇとな。=We're going outside the base, so we have to prepare \naccordingly.
+<style\=RubyPrefixTag></style>\n基地の外に出るんだからそれなりに準備しねぇとな。=<style\=RubyPrefixTag></style>\nWe're going outside the base, so we have to prepare \naccordingly.
+準備を整えてヘリポートに向かおう！=Get ready and head to heliport!
+<style\=RubyPrefixTag></style>\n向かわない=<style\=RubyPrefixTag></style>\nNot yet
+<style\=RubyPrefixTag></style>\n向かう=<style\=RubyPrefixTag></style>\nGo
+<style\=RubyPrefixTag></style>\nヘリポートに向かう？=<style\=RubyPrefixTag></style>\nHead to the heliport?
+<style\=RubyPrefixTag></style>\n３１Ｂのメンバーで探索を開始します=<style\=RubyPrefixTag></style>\nStart searching with 31B members
+天の慈悲=Heavenly mercy
+コンセントレーション=Outlet
+キャノンボール=Cannon ball
+
+[Exploration]
+
+なんつーか、すげぇ静かだな…。=It's so quiet...
+夜だからというのもありますが、この静けさは少し不気味な感じがしますね…。=I know it's nighttime, but this silence is eerie...
+<style\=RubyPrefixTag></style>\n夜だからというのもありますが、この静けさは少し不気味\r\nな感じがしますね…。=<style\=RubyPrefixTag></style>\nI know it's nighttime, but this silence is eerie...
+何かお前が言うとすげー意味深に聞こえんだけど…。=When you're the one who said it, it sounds really \nscary...
+気にしないでくださいっ。皆さんに悪さはしないようなので。ねっ？=Don't worry about it. They won't do you any harm. \nRight?
+<style\=RubyPrefixTag></style>\n気にしないでくださいっ。皆さんに悪さはしないようなの\r\nで。ねっ？=<style\=RubyPrefixTag></style>\nDon't worry about it. They won't do you any harm. \nRight?
+<style\=RubyPrefixTag></style>\nどこ見て喋ってんだてめー！\nあたしらはこっちだぞ！=<style\=RubyPrefixTag></style>\nWhere the fuck are you looking at!? \nWe're over here!
+気にしててもしょうがないにゃ。今はとりあえず目的を達成するにゃ。=Just ignore it, nya.. Let's just achieve our goal, nya..
+<style\=RubyPrefixTag></style>\n気になるわ！=<style\=RubyPrefixTag></style>\nIt's bothering me!
+皆で作ったお守り、隊長喜んでくれますかね。=I wonder if captain will be happy with the lucky \ncharm we made together.
+<style\=RubyPrefixTag></style>\n皆で作ったお守り、隊長喜んでくれますかね。=<style\=RubyPrefixTag></style>\nI wonder if captain will be happy with the lucky \ncharm we made together.
+蒼井なら何でも喜ぶ。単純な奴だからな。=Aoi will be happy with anything. She's just that \nsimple.
+お前蒼井を何だと思ってるんだよ…。=What kind of person do you think Aoi is...
+ほら、さっさと行くにゃー。=Come on, let's get going, nya..
+有明=Ariake
+有明・夜=Ariake / Night
+ねぇ、アイビーを見なかったかな？\n……そっか。ありがとう。=Hey, have you seen any Ivy? ...I see. Thank you.
+誰に話してるにゃ…。=Who are you talking to, nya...
+雑魚しかいねぇみてーだな。=Looks like there's only weaklings here.
+何か落ちているな。=Something is on the ground.
+静かすぎて逆に\nやばそうな雰囲気にゃ…。=It's so quiet that it's starting to feel creepy, nya...
+ここのキャンサー、弱すぎだにゃ。=Cancer around here is too weak, nya...
+<style\=RubyPrefixTag></style>\nここのキャンサー、弱すぎだにゃ。=<style\=RubyPrefixTag></style>\nCancer around here is too weak, nya...
+す、すももさんっ。気を緩めたら危ないですよ？=S-Sumomo-san. Don't let your guard down, it's dangerous.
+でも、確かに拍子抜けだな。ヤバそうだったのは雰囲気だけだ。=But it's really a letdown. The only thing that looked \nbad was the atmosphere.
+<style\=RubyPrefixTag></style>\nでも、確かに拍子抜けだな。ヤバそうだったのは雰囲気だ\r\nけだ。=<style\=RubyPrefixTag></style>\nBut it's really a letdown. The only thing that looked \nbad was the atmosphere.
+<style\=RubyPrefixTag></style>\nヴァウヴァウッ！=<style\=RubyPrefixTag></style>\n*Roar!*
+ビャッコまで遊んじゃってる…！？=Even Byakko is playing around...!?
+<style\=RubyPrefixTag></style>\nビャッコまで遊んじゃってる…！？=<style\=RubyPrefixTag></style>\nEven Byakko is playing around...!?
+ヴァウゥッ…。=*Growl*...
+<style\=RubyPrefixTag></style>\nヴァウゥッ…。=<style\=RubyPrefixTag></style>\n*Growl*...
+
+[BOSS]
+
+…ん？　おっ、あの地面からはみ出してるのアイビーじゃねえか？=...Hmm? Hey, isn't that Ivy sticking out of the ground?
+待て。それ以上は進まないほうがいい。=Wait. You better not go any further.
+<style\=RubyPrefixTag></style>\n待て。それ以上は進まないほうがいい。=<style\=RubyPrefixTag></style>\nWait. You better not go any further.
+なんでだよ。探してたもんが見つかったんだぞ？=Why not? We found what we were looking for.
+<style\=RubyPrefixTag></style>\nいちごさん、９時方向にキャンサーがいます！=<style\=RubyPrefixTag></style>\nIchigo-san, there's Cancer at 9 o'clock!
+あん？　どうせ雑魚だろ…。=Huh? It's probably just a weakling...
+姉さん、雑魚キャンサーじゃないにゃ…。=Sis, it's not a weakling, nya....
+は！？　な、何だよあのでけぇキャンサー…。=Hah!? W-what's with that big Cancer...
+<style\=RubyPrefixTag></style>\nは！？　な、何だよあのでけぇキャンサー…。=<style\=RubyPrefixTag></style>\nHah!? W-what's with that big Cancer...
+面白い。死を体験するのに相応しい相手じゃないか。=Interesting. Isn't it a worthy opponent to experience \ndeath with?
+ま、待ってください！　一度下がって様子を見ましょう！=P-Please wait! Let's step back and regroup!
+<style\=RubyPrefixTag></style>\nま、待ってください！　一度下がって様子を見ましょう！\r\n=<style\=RubyPrefixTag></style>\nP-Please wait! Let's step back and regroup!\r\n
+くそっ！　あんなでかいキャンサーがいるなんて聞いてねぇぞ！=Damn it! I didn't hear that there will be a big cancer \naround here!
+<style\=RubyPrefixTag></style>\nくそっ！　あんなでかいキャンサーがいるなんて聞いてねぇ\r\nぞ！=<style\=RubyPrefixTag></style>\nDamn it! I didn't hear that there will be a big cancer \naround here!
+さすがに準備が整ってないにゃ…。=I don't think we're ready for this, nya....
+<style\=RubyPrefixTag></style>\nさすがに準備が整ってないにゃ…。=<style\=RubyPrefixTag></style>\nI don't think we're ready for this, nya....
+あーもうっ、何でこんなことになるんだよ！　目の前にアイビーがあるってのによ！=Arrgh, how did this happen!? Ivy is right in front \nof us!
+<style\=RubyPrefixTag></style>\nあーもうっ、何でこんなことになるんだよ！　目の前にア\r\nイビーがあるってのによ！=<style\=RubyPrefixTag></style>\nArrgh, how did this happen!? Ivy is right in front \nof us!
+あの…通信が。=Um... incoming transmission.
+３１Ｂ、聞こえますか。=31B, can you hear me?
+あー、聞こえてるよっ！=Yeah, we can hear you!
+<style\=RubyPrefixTag></style>\nあー、聞こえてるよっ！=<style\=RubyPrefixTag></style>\nYeah, we can hear you!
+皆さんがいる場所に強力なキャンサーが出現したことを確認しました。直ちに撤退してください。=We confirmed that a powerful Cancer has appeared at your location. Please retreat immediately.
+撤退、ですか…。仕方ないですよね…。=Retreat... It can't be helped...
+<style\=RubyPrefixTag></style>\n撤退、ですか…。仕方ないですよね…。=<style\=RubyPrefixTag></style>\nRetreat... It can't be helped...
+そうにゃ。蒼井のためって言っても全員死んでしまったら元も子もないにゃ。=That's right, nya.. Even if it's for Aoi's sake, \nit's pointless if we all die here, nya..
+このままここで死ぬのも一興だがな。=It would be fun to die here though.
+<style\=RubyPrefixTag></style>\n命は大事にしましょう！！=<style\=RubyPrefixTag></style>\nLet's cherish our lives!!
+わかりました。３１Ｂ、直ちに撤退を…。=Got it, 31B will retreat immediate-...
+<style\=RubyPrefixTag></style>\nわかりました。３１Ｂ、直ちに撤退を…。=<style\=RubyPrefixTag></style>\nGot it, 31B will retreat immediate-...
+…駄目だ。=...No.
+駄目だ！　このままじゃ戻れねぇ！=No! We can't just go back like this!
+<style\=RubyPrefixTag></style>\n駄目だ！　このままじゃ戻れねぇ！=<style\=RubyPrefixTag></style>\nNo! We can't just go back like this!
+で、でも…。=B-but...
+お前らはこのまま帰っていいのか？　あたしらのためにお守りを作ってくれたあいつにもらいっぱなしでいいのか？=Are you okay with going back like this? Are you okay \nwith just receiving a lucky charm that she worked hard \nfor us?
+あたしは嫌だぜ。蒼井のために皆でお守りを作るって決めたんだ。あいつだけ持っていない、蒼井自身のお守りを…。=I'm not. We all decided to make lucky charm for Aoi. \nShe's the only one who doesn't have a charm of her own...
+<style\=RubyPrefixTag></style>\nあたしは嫌だぜ。蒼井のために皆でお守りを作るって決め\r\nたんだ。あいつだけ持っていない、蒼井自身のお守りを…。\r\n=<style\=RubyPrefixTag></style>\nI'm not. We all decided to make lucky charm for Aoi. \nShe's the only one who doesn't have a charm of her own...\r\n
+だからあたしはここに残る。どんなに危険でも、死にそうでも、あたしは蒼井にもらったもんを返すまでは帰れねぇ。=That's why I'm staying here. No matter how dangerous \nit is, no matter how close to death I am, I can't go \nback until I return what Aoi gave me.
+<style\=RubyPrefixTag></style>\nだからあたしはここに残る。どんなに危険でも、死にそう\r\nでも、あたしは蒼井にもらったもんを返すまでは帰れねぇ。\r\n=<style\=RubyPrefixTag></style>\nThat's why I'm staying here. No matter how dangerous \nit is, no matter how close to death I am, I can't go \nback until I return what Aoi gave me.\r\n
+命令には絶対遵守と伝えたはずですよ。=I told you to obey your orders.
+これは、蒼井と一緒に前に進むための大切な贈り物なんだよ！=This is an important gift to move forward with Aoi!
+<style\=RubyPrefixTag></style>\nこれは、蒼井と一緒に前に進むための大切な贈り物なんだ\r\nよ！=<style\=RubyPrefixTag></style>\nThis is an important gift to move forward with Aoi!
+…すももも残るにゃ。=...I will also stay, nya.
+<style\=RubyPrefixTag></style>\n…すももも残るにゃ。=<style\=RubyPrefixTag></style>\n...I will also stay, nya.
+声が聞こえます…正しい、と。なら、あたしも残ります。=I hear a voice... "It's correct", it said. Then, I'll \nstay too.
+本当、厄介な奴らだ。私も残ってやるか。=What a troublesome bunch. I'll stay too.
+はぁ…結局全員残るのかよ。=Haah... In the end, we're all staying, huh?
+七瀬、そういうことだ。それじゃっ。=Nanase, that's how it is. Well then.
+ま…。=Wa-...
+やってしまったにゃ？=Now you've done it, nya.
+まぁ大丈夫だろ。あたしらが無事に帰りさえすれば。=Well, it'll be fine. As long as we get back safely.
+でも、このままじゃ無駄死にしちまう。だから作戦を立てるぞ。=But if we don't do something, we'll die in vain. \nSo let's make a strategy.
+<style\=RubyPrefixTag></style>\nでも、このままじゃ無駄死にしちまう。だから作戦を立て\r\nるぞ。=<style\=RubyPrefixTag></style>\nBut if we don't do something, we'll die in vain. \nSo let's make a strategy.
+作戦…？=A strategy...?
+蒼井みてぇに上手く出来るかわからねぇけどな。=I don't know if I can do it as well as Aoi.
+姉さんに任せるにゃ。=I'll leave it to you, sis.
+<style\=RubyPrefixTag></style>\n姉さんに任せるにゃ。=<style\=RubyPrefixTag></style>\nI'll leave it to you, sis.
+まずビャッコが敵を引き付ける。それに引っかかったキャンサーを左右から、あたしと樋口で撃つ。=First, Byakko will attract the enemy. Then, Higuchi \nand I will shoot at the cancer from both sides.
+<style\=RubyPrefixTag></style>\nまずビャッコが敵を引き付ける。それに引っかかったキャ\r\nンサーを左右から、あたしと樋口で撃つ。=<style\=RubyPrefixTag></style>\nFirst, Byakko will attract the enemy. Then, Higuchi \nand I will shoot at the cancer from both sides.
+いきなり違う方向からの攻撃で混乱するだろうから、そこにすももと柊木が強襲。さらにビャッコとあたしらで追撃だ。=Sudden attack from a different direction will confuse \nthem, so Sumomo and Hiiragi will attack them. Then, \nwe and Byakko will follow.
+なるほど。=I see.
+ふむ。少なからず勝機は見えるな。=Hmmm. I can see at least a small chance of victory.
+<style\=RubyPrefixTag></style>\nよし！　いくぜ、３１Ｂ！=<style\=RubyPrefixTag></style>\nOkay! Let's go, 31B!
+<style\=RubyPrefixTag></style>\nにゃ！=<style\=RubyPrefixTag></style>\nNya!
+<style\=RubyPrefixTag></style>\n了解だ=<style\=RubyPrefixTag></style>\nRoger that.
+ヴァゥゥ！！=*Roar*!!
+はぁー、勝った！！！=Yaay, we won!!!
+実にいい死の危機を感じられたな。=That was a really good near-death experience.
+お前嬉しそうに言ってるけどマジで死にそうだったからな。=You sounds so happy about it, but we were really \nclose to dying, okay?
+<style\=RubyPrefixTag></style>\nお前嬉しそうに言ってるけどマジで死にそうだったからな。\r\n=<style\=RubyPrefixTag></style>\nYou sounds so happy about it, but we were really \nclose to dying, okay?\r\n
+こんなに結束したのは初めてだったにゃ。=I've never seen us united like this before, nya.
+とりあえずこれで蒼井のお守りは作れそうだな。=Now we can make Aoi's lucky charm.
+って喜びたいところだが、帰ったらもれなく七瀬と司令官からの説教が待ってんだよな…。=I'd like to be happy about that, but Nanase and the \ncommander are going to scold us when we get back...
+忘れてたにゃ…。=I forgot about that, nya....
+なぁ樋口、怒られない方法ねぇか？　頭いいんだろ。なんか妙案出せよ。=Hey, Higuchi, is there any way to avoid a scolding? \nYou're smart, right? Come up with a bright idea.
+全員で死ぬ。それで解決だ。=We all die. That's the solution.
+<style\=RubyPrefixTag></style>\n殺し屋よりイカれてやがるーーー！！=<style\=RubyPrefixTag></style>\nYou are crazier than an assassin!!
+もうここは潔く怒られましょう…。=Let's all just accept the scolding...
+ヴァウ……。=*Growl*...
+<style\=RubyPrefixTag></style>\nヴァウ……。=<style\=RubyPrefixTag></style>\n*Growl*...
+まぁ、目的は果たせたんだし怒られるくらいくそ食らえだよな。=Well, we got what we came for, so getting a bit \nof a scolding doesn't matter, right?
+<style\=RubyPrefixTag></style>\nまぁ、目的は果たせたんだし怒られるくらいくそ食らえだ\r\nよな。=<style\=RubyPrefixTag></style>\nWell, we got what we came for, so getting a bit \nof a scolding doesn't matter, right?
+司令官、怒ったらボスクラスのキャンサーより怖いって有名にゃ。=The Commander is famous for being scarier than a \nboss-class cancer when she's angry, nya...
+マジか？=Are you serious?
+大マジにゃ。=Mega serious.
+<style\=RubyPrefixTag></style>\n大マジにゃ。=<style\=RubyPrefixTag></style>\nMega serious.
+あたしちょっと寄り道して帰るわ。じゃっ。=I'm going to take a little detour. See ya.
+ちょっと待つにゃー！=Please wait, nya!
+ひとりで逃げるなんて許しませんっ！=I won't let you run away by yourself!
+<style\=RubyPrefixTag></style>\nひとりで逃げるなんて許しませんっ！=<style\=RubyPrefixTag></style>\nI won't let you run away by yourself!
+死ぬ時は皆一緒だ。=If we die, we all die together.
+<style\=RubyPrefixTag></style>\n死ぬ時は皆一緒だ。=<style\=RubyPrefixTag></style>\nIf we die, we all die together.
+ヴァウッ！！=*ROAR*!!
+
+[Climax]
+
+<style\=RubyPrefixTag></style>\nあたしらは、これからだったんだ。=<style\=RubyPrefixTag></style>\nWe were just getting started.
+<style\=RubyPrefixTag></style>\nお守りで繋がって、お互いを認め合って、\n３１Ｂはこれから強くなっていくんだ。=<style\=RubyPrefixTag></style>\nConnected by our charms, recognizing each other, \nand 31B will become stronger.
+<style\=RubyPrefixTag></style>\nそう思っていた。=<style\=RubyPrefixTag></style>\nThat was what I thought.
+<style\=RubyPrefixTag></style>\nそんな未来を、信じていた。=<style\=RubyPrefixTag></style>\nI believed in that future.
+<style\=RubyPrefixTag></style>\nなのに…。=<style\=RubyPrefixTag></style>\nAnd yet...
+目を開けるのにゃ。=Open your eyes, nya..
+司令部！　大至急救護班を回してくれ！　急げ！　急いでくれ！=HQ! Get a medic around here ASAP! Hurry up! Please \nhurry up!
+…蒼井！=...Aoi!
+前は…だれもまもれなかった…。=I couldn't protect anyone before...
+<style\=RubyPrefixTag></style>\n前は…だれもまもれなかった…。=<style\=RubyPrefixTag></style>\nI couldn't protect anyone before...
+無理に喋らなくていいから…！=You don't have to force yourself to talk..!
+こんどはまもれましたか…。=Was I able to protect everyone this time...?
+<style\=RubyPrefixTag></style>\nこんどはまもれましたか…。=<style\=RubyPrefixTag></style>\nWas I able to protect everyone this time...?
+ああ、あたしら生きてる…蒼井、あんたのおかげで…。=Yeah, we're alive... It's thanks to you, Aoi...
+やった…。=Hooray...
+全員無事だよ…だからあんたも今から治療受けて…それでまた元気になれっからさ…。=Everyone is safe... That's why you'll get treatment \nsoon... and then you'll be up and fine again...
+あたしら、もうわがまま言ったり迷惑かけたりしないからさ…。=We won't be selfish or cause you any more trouble...
+ちゃんと命令も聞くにゃ…。=We will obey your orders, nya....
+本当はあんたのこと好きだったんだ…。=The truth is, we really liked you...
+<style\=RubyPrefixTag></style>\n本当はあんたのこと好きだったんだ…。=<style\=RubyPrefixTag></style>\nThe truth is, we really liked you...
+シュシュも心を込めて作ったんだにゃ…。=We put all our hearts into making that scrunchie \ntoo, nya....
+だから、あんたと一緒に…これからも…いさせてくれよ…。=That's why, let us stay with you... from now on...
+<style\=RubyPrefixTag></style>\nだから、あんたと一緒に…これからも…いさせてくれよ…。\r\n=<style\=RubyPrefixTag></style>\nThat's why, let us stay with you... from now on...\r\n
+いさせてほしいにゃぁ…。=Please let us, nya....
+<style\=RubyPrefixTag></style>\nいさせてほしいにゃぁ…。=<style\=RubyPrefixTag></style>\nPlease let us, nya....
+…な、頼むよ。=...Hey, I beg you...
+お願いにゃ…。=Please, nya....
+…はい…。=...Yes... 
+…ずっと…。=I'll...always...
+…います…よ…。=Stay with... you...
+
+[Climax 2]
+
+救護班Ａ=Rescue team A
+離れてください、急を要します。=Please step away. This is emergency.
+救護班Ｂ=Rescue team B
+バイタルの確認と意識レベルのチェック急いで。=Checking vital signs and level of consciousness.
+<style\=RubyPrefixTag></style>\nバイタルの確認と意識レベルのチェック急いで。=<style\=RubyPrefixTag></style>\nChecking vital signs and level of consciousness.
+救護班Ｃ=Rescue team C
+呼吸音微弱。緊急搬送を。=Faint respiratory. Get her to the emergency transport.
+おい…待ってくれ…！　蒼井を、連れて行かないでくれ…！=Oi... Wait...! Please don't take Aoi away...!
+あたしはまだ…蒼井に言えてねぇことが沢山あんだよ…！　いっぱいいっぱい…あんだよ…！=There's still... so much I haven't told her...! \nSo...many things...!
+<style\=RubyPrefixTag></style>\nあたしはまだ…蒼井に言えてねぇことが沢山あんだよ…！\r\nいっぱいいっぱい…あんだよ…！=<style\=RubyPrefixTag></style>\nThere's still... so much I haven't told her...! \nSo...many things...!
+この手だって、もう離さないって決めたんだ…！　あたしがお前を守るって…決めたんだよ！=I've decided that I won't let go of this hand anymore..! \nI've decided that I'm going to protect you!
+<style\=RubyPrefixTag></style>\nこの手だって、もう離さないって決めたんだ…！　あたし\r\nがお前を守るって…決めたんだよ！=<style\=RubyPrefixTag></style>\nI've decided that I won't let go of this hand anymore..! \nI've decided that I'm going to protect you!
+あたし…結局何も出来ねぇで…お前に守られちまって…。=In the end... I couldn't do anything. I was protected \nby you instead...
+情けねぇままじゃねーか、あたし…。=I'm still pathetic, aren't I...
+なぁ蒼井…。あたし、蒼井のために何かしてやれたかな…？=Hey, Aoi... Did I ever do anything for you...?
+<style\=RubyPrefixTag></style>\nなぁ蒼井…。あたし、蒼井のために何かしてやれたかな…？\r\n=<style\=RubyPrefixTag></style>\nHey, Aoi... Did I ever do anything for you...?\r\n
+不安で不安で堪らねーよ…！　答えてくれよぉ！=I can't help but worry about it...! Please answer me!
+お前の手、ちゃんと握ってやれてたかな…。=Did I held your hand properly...?
+あたしはさ、あんたの温もりに救われたんだ。=You know, I was saved by your warmth.
+あんたの手を握ってたらさ、あたしも眠れるようになったんだよ…！　ふつーの人間みてーに！=When I held your hand, I could fall asleep...! Just \nlike a normal human being!
+もらってばっかだった…。=All I did was receive something from you...
+だから、ちゃんとお前にも何か与えられていたかな…？=That's why, have I ever given anything back to you...?
+少しでも気持ち、伝わっていたかな…？=Did my feelings reach you, even a little...?
+それがわからなくて不安なんだよ…！　不安でどうしようもないんだよ…！！=I don't know, that's why I'm anxious...! I'm so anxious, \nI can't help it...!
+だから答えてくれよ…蒼井…。=So please answer me... Aoi...
+なあ…蒼井…。=Hey... Aoi...
+頼むよっ…蒼井…！=I'm begging you... Aoi...!
+離れてください。=Please step back.
+やめろぉ！！　この手を引き離すなぁ！！　やっちまうぞ、てめぇーーら！！=Stop it!! Don't pull this hand away!! I'll kill you \nall!!
+<style\=RubyPrefixTag></style>\nやめろぉ！！　この手を引き離すなぁ！！　やっちまうぞ、\r\nてめぇーーら！！=<style\=RubyPrefixTag></style>\nStop it!! Don't pull this hand away!! I'll kill you \nall!!
+錯乱状態ですね。仕方ありません。=You're hysteric. Can't be helped.
+くそ…。=Damn it...
+蒼井…行くな…。=Aoi... Don't go...
+<style\=RubyPrefixTag></style>\n蒼井…行くな…。=<style\=RubyPrefixTag></style>\nAoi... Don't go...
+居るはずだったろ…。=You were supposed to be with us...
+<style\=RubyPrefixTag></style>\n居るはずだったろ…。=<style\=RubyPrefixTag></style>\nYou were supposed to be with us...
+ずっと…。=Always...
+これからも…。=Together...
+…一緒に。=...From now on.
+蒼井ぃーーーー…！！=AOI!!!!
+<style\=RubyPrefixTag></style>\n蒼井ぃーーーー…！！=<style\=RubyPrefixTag></style>\nAOI!!!!
+
+[Back to present]
+
+あたしらの気持ち、あとちょっとばかし届かなかったかな…。=Maybe our feelings just didn't quite get through...
+もっと丹精込めて作れば、届いたのかもな…。=If we had made it with more care, maybe it would \nhave reached you...
+<style\=RubyPrefixTag></style>\nもっと丹精込めて作れば、届いたのかもな…。=<style\=RubyPrefixTag></style>\nIf we had made it with more care, maybe it would \nhave reached you...
+蒼井はいつもあたしらを守ろうと頑張ってくれたんだ…。=Aoi always tried her best to protect us...
+何であの時あたしは何もしてやれなかったんだ…くそっ…。=Why didn't I do anything for her back then... Damn it...
+もしかしたらあたしらが強くしちまったから、あいつは死んじまったのかな…。=Maybe she died because we made her stronger...
+<style\=RubyPrefixTag></style>\nもしかしたらあたしらが強くしちまったから、あいつは死\r\nんじまったのかな…。=<style\=RubyPrefixTag></style>\nMaybe she died because we made her stronger...
+あたしらのせいであいつは…。=Because of us, she...
+でも、あたしらはあいつに前を向いて欲しかった…。=But we wanted her to look forward...
+過去に縛られず、自分の意思でこれからは生きて欲しかった。ただそれだけだったのによ…。=We wanted her to live by her own will from now on, \nunbound by the past. That's all we wanted...
+<style\=RubyPrefixTag></style>\n過去に縛られず、自分の意思でこれからは生きて欲しかっ\r\nた。ただそれだけだったのによ…。=<style\=RubyPrefixTag></style>\nWe wanted her to live by her own will from now on, \nunbound by the past. That's all we wanted...
+どうしてこうも上手くいかねぇんだろうなぁ…。=Why can't things ever work out...
+<style\=RubyPrefixTag></style>\nどうしてこうも上手くいかねぇんだろうなぁ…。=<style\=RubyPrefixTag></style>\nWhy can't things ever work out...
+…いっけねっ。何泣いてるんだあたしは。=...Not good. What the hell am I crying for.
+<style\=RubyPrefixTag></style>\n…いっけねっ。何泣いてるんだあたしは。=<style\=RubyPrefixTag></style>\n...Not good. What the hell am I crying for.
+おい、何だよ。手握ってくれようとしてんのか？　そんな体じゃ無理があるだろ、それは。=Oi, what is it? Are you trying to hold my hand? It's \nimpossible with that body.
+…お前本当変なナービィだな。=...You're a strange Narvy, you know that?
+でも、ありがとな。=But thanks.
+ちょっとすっきりしたぜ。=I feel a bit better now.
+<style\=RubyPrefixTag></style>\nちょっとすっきりしたぜ。=<style\=RubyPrefixTag></style>\nI feel a bit better now.
+今日はお前だったからいいけどよ、こんな泣いてる姿蒼井には絶対見せらんねぇな…。=I'm glad it was only you today, but I could never \nlet Aoi see me crying like this...
+もう、心配させたくねぇからな。=I don't want to worry her anymore.
+そのシュシュ、お前にやるよ。話に付き合ってくれた礼だ。=I'll give the scrunchie to you. As a thank you for \nlistening to me.
+…なぁ、ナービィ。=...Hey, Narvy.
+いつかはさ、あたしも死ぬだろ？　人間、永遠に生きられるわけじゃねぇんだからさ。=I'm going to die one day, right? Human can't live \nforever, after all.
+でもその時が来るまであたしは、精一杯この世界を守ってみようと思うよ。=But until that time comes, I will try to protect \nthis world as best as I can.
+<style\=RubyPrefixTag></style>\nでもその時が来るまであたしは、精一杯この世界を守って\r\nみようと思うよ。=<style\=RubyPrefixTag></style>\nBut until that time comes, I will try to protect \nthis world as best as I can.
+蒼井が守りたいと思ったこの世界を。=This world that Aoi wanted to protect.
+
