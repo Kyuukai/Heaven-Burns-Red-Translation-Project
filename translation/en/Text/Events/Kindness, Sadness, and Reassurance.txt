@@ -980,7 +980,7 @@ B1　フロア名前 =B1 floor name
 そうですね。ふう…。=Yeah. Phew...
 あいつは、昔遊んでた頃、敵役に使っていたぬいぐるみにそっくりな小型キャンサーを見つけて、ここに迷い込んだんだ…。=She found a small cancer that looked exactly like a \nstuffed animal she used to play with back in the day, \nand got lost in here...
 <style\=RubyPrefixTag></style>\nあいつは、昔遊んでた頃、敵役に使っていたぬいぐるみに\r\nそっくりな小型キャンサーを見つけて、ここに迷い込んだ\r\nんだ…。=<style\=RubyPrefixTag></style>\nShe found a small cancer that looked exactly like a \nstuffed animal she used to play with back in the day, \nand got lost in here...
-その後、あの馬鹿でかいキャンサーが徘徊しているのに気づいて…無闇に動くことも出来ず、ここに留まるしかなかった…電子軍人手帳の電波も届かないし…。=Then I noticed that big-ass cancer wandering around... \nWe couldn't move recklessly, so we had to stay here...\nHandbook's signal also won't reach here...
+その後、あの馬鹿でかいキャンサーが徘徊しているのに気づいて…無闇に動くことも出来ず、ここに留まるしかなかった…電子軍人手帳の電波も届かないし…。=Then I noticed that big-ass cancer wandering around... \nWe couldn't move recklessly, so we had to stay here...\nE-pad's signal also won't reach here...
 あいつの相手をしてくれた小型キャンサーが、ひとを傷つけられるほどの力がなくて…ちょうどよかったよ…。=That small cancer was not strong enough to hurt people...\nSo, that's just perfect...
 あ…！！　奴が逃げるでゲス…！　待つでゲスよ…！！=Ah...!! It got away, gesu...! Wait for me, gesu...!!
 待ちな！　もう追わなくていいよ！！=Oi, hold it! You don't have to chase it anymore!!
@@ -1119,8 +1119,8 @@ B1　フロア名前 =B1 floor name
 もちろん、そんな…贅沢は言いません。駄目元でいいです。お願いします。=Of course, I won't demand such a thing. It's okay if \nit fails. I'm begging you.
 <style\=RubyPrefixTag></style>\nもちろん、そんな…贅沢は言いません。駄目元でいいです。\r\nお願いします。=<style\=RubyPrefixTag></style>\nOf course, I won't demand such a thing. It's okay if \nit fails. I'm begging you.
 とりあえずレトロなタブレットのバッテリーが死んでいないことを祈ろう。=Let's just hope the battery in this retro tablet \nisn't dead.
-端末をハックするにはケーブルで物理的にデンチョに繋ぐしかねーぞ。探してきてくれないか。=The only way to hack a terminal is to physically \nconnect it to the Handbook with a cable. \nCan I ask you to search for it?
-<style\=RubyPrefixTag></style>\n端末をハックするにはケーブルで物理的にデンチョに繋ぐ\r\nしかねーぞ。探してきてくれないか。=<style\=RubyPrefixTag></style>\nThe only way to hack a terminal is to physically \nconnect it to the Handbook with a cable. \nCan I ask you to search for it?
+端末をハックするにはケーブルで物理的にデンチョに繋ぐしかねーぞ。探してきてくれないか。=The only way to hack a terminal is to physically \nconnect it to the E-pad with a cable. \nCan I ask you to search for it?
+<style\=RubyPrefixTag></style>\n端末をハックするにはケーブルで物理的にデンチョに繋ぐ\r\nしかねーぞ。探してきてくれないか。=<style\=RubyPrefixTag></style>\nThe only way to hack a terminal is to physically \nconnect it to the E-pad with a cable. \nCan I ask you to search for it?
 任せろ。=Leave it to us.
 <style\=RubyPrefixTag></style>\n任せろ。=<style\=RubyPrefixTag></style>\nLeave it to us.
 
