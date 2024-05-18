@@ -3,13 +3,13 @@
 設定=Settings
 着せ替えショップ=Style Store
 着せ替え=Customizations
-名簿=Register
+名簿=List
 シックスセンス=6th Sense
 部隊=Unit
-スタイル=Styles
+スタイル=Style
 ギフト=Gift Box
-持ち物=Inventory
+持ち物=Belongings
 お知らせ=Notice
 ランク=Rank
 ゲームを終了する=<size\=95%>Exit Game</size>
-帰還する=Homecoming
+帰還する=Back to Home
