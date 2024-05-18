@@ -8,7 +8,7 @@
 <style\=RubyPrefixTag></style>\nブーイングする=<style\=RubyPrefixTag></style>\nBoo-ing
 <style\=RubyPrefixTag></style>\n学力テスト…=<style\=RubyPrefixTag></style>\nAcademic test ...
 
-[Option - Booo booo~]
+[Option - Booo booo~] 
 
 えーー、ぶーーぶーー。=Eeh... Boo-Boo...
 <style\=RubyPrefixTag></style>\nえーー、ぶーーぶーー。=<style\=RubyPrefixTag></style>\nEeh... Boo-Boo...
@@ -515,7 +515,7 @@
 まさかですよねぇ。=No way, right~
 おるわ！！=There is!!
 <style\=RubyPrefixTag></style>\nおるわ！！=<style\=RubyPrefixTag></style>\nThere is!!
-え…めぐみん勝ってないの？=Eh ... isn't Megumi win?
+え…めぐみん勝ってないの？=Eh... Megumin can't win?
 <style\=RubyPrefixTag></style>\nえ…めぐみん勝ってないの？=<style\=RubyPrefixTag></style>\nEh... Megumin can't win?
 まるでうちが３１Ａの足引っ張っとるみたいやないか！！=It's like I'm the one who is holding 31A back!
 <style\=RubyPrefixTag></style>\nまるでうちが３１Ａの足引っ張っとるみたいやないか！！\r\n=<style\=RubyPrefixTag></style>\nIt's like I'm the one who is holding 31A back!\r\n
