@@ -183,8 +183,8 @@
 <style\=RubyPrefixTag></style>\nあたしはコロッケ食ってねーけどな。=<style\=RubyPrefixTag></style>\nI didn't eat any croquettes, though.
 ふー、満腹、満腹、と…。=Phew, I'm stuffed... 
 <style\=RubyPrefixTag></style>\nふー、満腹、満腹、と…。=<style\=RubyPrefixTag></style>\nPhew, I'm stuffed... 
-食後なのに、何難しい顔してデンチョいじってるの？=What are you fiddling with that Handbook, looking \nso serious after eating?
-<style\=RubyPrefixTag></style>\n食後なのに、何難しい顔してデンチョいじってるの？=<style\=RubyPrefixTag></style>\nWhat are you fiddling with that Handbook, looking \nso serious after eating?
+食後なのに、何難しい顔してデンチョいじってるの？=What are you fiddling with that E-pad, looking \nso serious after eating?
+<style\=RubyPrefixTag></style>\n食後なのに、何難しい顔してデンチョいじってるの？=<style\=RubyPrefixTag></style>\nWhat are you fiddling with that E-pad, looking \nso serious after eating?
 だって、謎だらけじゃねーかよ、これ。=I mean, this thing is full of mysteries, you know?
 <style\=RubyPrefixTag></style>\nだって、謎だらけじゃねーかよ、これ。=<style\=RubyPrefixTag></style>\nI mean, this thing is full of mysteries, you know?
 ケータイみたいなもんじゃないの？=Isn't it just like a cellphone?
@@ -365,7 +365,7 @@
 さて、殺しの時間か…いっちょ派手にやってやるぞい…。=Well then, is it killing time? I'll do it with a bang...
 はっ、殺人鬼かなんや知らんけど、お手並み拝見やっ！=Hah, I don't care if you're a serial killer or what, \nLet's see what ya got!
 <style\=RubyPrefixTag></style>\nはっ、殺人鬼かなんや知らんけど、お手並み拝見やっ！=<style\=RubyPrefixTag></style>\nHah, I don't care if you're a serial killer or what, \nLet's see what ya got!
-では、みなさん改めて、電子軍人手帳をかざし、セラフィムコードを唱えてください！=Alright everyone, please hold your Handbook, and \nchant your seraphim code!
+では、みなさん改めて、電子軍人手帳をかざし、セラフィムコードを唱えてください！=Alright everyone, please hold your E-pad, and \nchant your seraphim code!
 
 [Training 1]
 
@@ -470,7 +470,7 @@
 目に物見せてやりましょう！！=Let's show them up!!
 <style\=RubyPrefixTag></style>\n目に物見せてやりましょう！！=<style\=RubyPrefixTag></style>\nLet's show them up!!
 ほんと頼むぜ…。=I'm really counting on you, okay...?
-では、電子軍人手帳をかざし、セラフィムコードを唱えてください！=Well then, please hold your Handbook, and chant your \nseraphim code!
+では、電子軍人手帳をかざし、セラフィムコードを唱えてください！=Well then, please hold your E-pad, and chant your \nseraphim code!
 東城さんのスキルは、かなり有効な支援スキルよ。=Tojo-san's skill is a very effective support skill.
 <style\=RubyPrefixTag></style>\n東城さんのスキルは、かなり有効な支援スキルよ。=<style\=RubyPrefixTag></style>\nTojo-san's skill is a very effective support skill.
 <style\=RubyPrefixTag></style>\n茅森さんのスキルと一緒に使うことで、敵に大ダメージを\r\n与えられるわ。=<style\=RubyPrefixTag></style>\nWhen being used with Kayamori-san's skill, you can \ninflict much larger damage.
