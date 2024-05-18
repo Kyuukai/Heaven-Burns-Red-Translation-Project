@@ -47,6 +47,57 @@
 アルティメット\nフィーラー=Ultimate\nFeeler
 第四章 前編Day6=Chapter 4 Pt.1 Day 6
 
+[Jewel Prism]
+[{{A}}]ヴェイルドデスO=[{{A}}] Wield Death O
+[{{A}}]ヴェイルドデスO : Lv.8=[{{A}}] Wield Death O: Lv.8
+[{{A}}]ヴェイルドデスO : Lv.9=[{{A}}] Wield Death O: Lv.9
+[{{A}}]ヴェイルドデスO : Lv.10=[{{A}}] Wield Death O: Lv.10
+[{{A}}]ヴェイルドデスO : Lv.12=[{{A}}] Wield Death O: Lv.12
+[{{A}}]ヴェイルドデスO : Lv.11=[{{A}}] Wield Death O: Lv.11
+[{{A}}]ヴェイルドデスO : Lv.13=[{{A}}] Wield Death O: Lv.13
+[{{B}}]ヴェイルドデスOに挑戦します。\n{{A}}=[{{B}}] Challenge Wield Death O. {{A}}
+
+[{{A}}]シェルプロテクシオン=[{{A}}] Shell Protection
+[{{A}}]シェルプロテクシオン : Lv.8=[{{A}}] Shell Protection: Lv.8
+[{{A}}]シェルプロテクシオン : Lv.9=[{{A}}] Shell Protection: Lv.9
+[{{A}}]シェルプロテクシオン : Lv.10=[{{A}}] Shell Protection: Lv.10
+[{{A}}]シェルプロテクシオン : Lv.11=[{{A}}] Shell Protection: Lv.11
+[{{A}}]シェルプロテクシオン : Lv.12=[{{A}}] Shell Protection: Lv.12
+[{{A}}]シェルプロテクシオン : Lv.13=[{{A}}] Shell Protection: Lv.13
+[{{B}}]シェルプロテクシオンに挑戦します。\n{{A}}=[{{B}}] Challenge Shell Protection. {{A}}
+
+[{{A}}]パイルゴーレムT=[{{A}}] Pile Golem T
+[{{A}}]パイルゴーレムT : Lv.8=[{{A}}] Pile Golem T: Lv.8
+[{{A}}]パイルゴーレムT : Lv.9=[{{A}}] Pile Golem T: Lv.9
+[{{A}}]パイルゴーレムT : Lv.10=[{{A}}] Pile Golem T: Lv.10
+[{{A}}]パイルゴーレムT : Lv.11=[{{A}}] Pile Golem T: Lv.11
+[{{A}}]パイルゴーレムT : Lv.12=[{{A}}] Pile Golem T: Lv.12
+[{{A}}]パイルゴーレムT : Lv.13=[{{A}}] Pile Golem T: Lv.13
+[{{B}}]パイルゴーレムTに挑戦します。\n{{A}}=[{{B}}] Challenge Pyle Golem T. {{A}}
+
+[{{A}}]アラクネラインA=[{{A}}] Arachneline A
+[{{A}}]アラクネラインA : Lv.13=[{{A}}] Arachneline A: Lv.13
+[{{A}}]アラクネラインA : Lv.14=[{{A}}] Arachneline A: Lv.14
+[{{A}}]アラクネラインA : Lv.15=[{{A}}] Arachneline A: Lv.15
+[{{A}}]アラクネラインA : Lv.16=[{{A}}] Arachneline A: Lv.16
+[{{B}}]アラクネラインAに挑戦します。\n{{A}}=[{{B}}] Challenge Arachneline A. {{A}}
+
+[{{A}}]ヘイルホース=[{{A}}] HaleHorse
+[{{A}}]ヘイルホース : Lv.9=[{{A}}] HaleHorse: Lv.8
+[{{A}}]ヘイルホース : Lv.8=[{{A}}] HaleHorse: Lv.9
+[{{A}}]ヘイルホース : Lv.10=[{{A}}] HaleHorse: Lv.10
+[{{A}}]ヘイルホース : Lv.11=[{{A}}] HaleHorse: Lv.11
+[{{A}}]ヘイルホース : Lv.12=[{{A}}] HaleHorse: Lv.12
+[{{A}}]ヘイルホース : Lv.13=[{{A}}] HaleHorse: Lv.13
+
+[{{A}}]ベルクノッカー=[{{A}}] BellKnocker
+[{{A}}]ベルクノッカー : Lv.8=[{{A}}] Belknocker: Lv.8
+[{{A}}]ベルクノッカー : Lv.9=[{{A}}] Belknocker: Lv.9
+[{{A}}]ベルクノッカー : Lv.10=[{{A}}] Belknocker: Lv.10
+[{{A}}]ベルクノッカー : Lv.11=[{{A}}] Belknocker: Lv.11
+[{{A}}]ベルクノッカー : Lv.12=[{{A}}] Belknocker: Lv.12
+[{{A}}]ベルクノッカー : Lv.13=[{{A}}] Belknocker: Lv.13
+
 [Clock Tower]
 最高到達階=Highest Floor Reached
 次回ハイスコア報酬=Next Reward
