@@ -1,1 +1,20 @@
-﻿
+﻿[Miscellaneous]
+まで開催=Held until
+使用するアイテムを選択してください。=Select an item to use.
+
+[Attributes]
+（斬）= (Slash)
+（突）= (Pierce)
+（打）= (Blunt)
+（斬性）= (Slash)
+（突性）= (Pierce)
+（打性）= (Blunt)
+（氷性）= (Ice)
+（火性）= (Fire)
+（雷性）= (Thunder)
+（光性）= (Light)
+（闇性）= (Dark)
+
+[Jewel Prism Boss]
+幻影=Illusion
+（確率）=(Probability)
