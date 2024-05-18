@@ -7,18 +7,24 @@
 期間限定=Limited Time
 キャンペーン情報=Campaign Information
 <style\=RubyPrefixTag></style>\nミッションから、期間限定タブをチェック！=<style\=RubyPrefixTag></style>\nCheck out the Limited Time tab from the Missions!
-このアイテムは所持上限を超えるため受け取れません=You cannot receive this item because it exceeds your possession limit.
-以下の報酬を受け取りました=The following rewards were received
+このアイテムは所持上限を超えるため受け取れません=You cannot obtain this item because it exceeds your possession limit.
+以下の報酬を受け取りました=The following rewards were obtained
 入手済=<size\=22>Acquired</size>
------------
-Daily
+
+[Daily]
+
 ライフを3消費する=Consume 3 life
 ライフを2消費する=Consume 2 life
 ライフを1消費する=Consume 1 life
-全てのデイリーミッションをクリアする=Complete all daily missions
+全てのデイリーミッションをクリアする=Complete all Daily Missions
+デイリーミッション 0/4=Daily Missions 0/4
+デイリーミッション 1/4=Daily Missions 1/4
+デイリーミッション 2/4=Daily Missions 2/4
+デイリーミッション 3/4=Daily Missions 3/4
+デイリーミッション 4/4=Daily Missions 4/4
 
-----
-Weekly
+[Weekly]
+
 アクセサリを1回錬成する=Refine an accessory once
 バトルを30回クリアする（アリーナ・時の修練場を除く）=Clear 30 battles (excluding Arena/Hyperbolic Time Chamber)
 アリーナ・時の修練場を500回クリアする=Clear the Arena and Hyperbolic Time Chamber 500 times.
@@ -27,8 +33,9 @@ Weekly
 ウィークリーミッション 2/4=Weekly Mission 2/4
 ウィークリーミッション 3/4=Weekly Mission 3/4
 ウィークリーミッション 4/4=Weekly Mission 4/4
-----
-Cumulative Total
+
+[Cumulative Total]
+
 データ引き継ぎ設定を行う=Set up data transfer settings
 スタイルを2回強化する=Enhance style 2 times
 スタイルを3回強化する=Enhance style 3 times
@@ -113,7 +120,8 @@ Cumulative Total
 メインストーリー 第一章Day10をクリアする=Clear Main Story Chapter 1 Day 10
 メインストーリー 第一章Day11をクリアする=Clear Main Story Chapter 1 Day 11
 
-Self-Challenge
+[Self-Challenge]
+
 【初心者強化応援ミッション】第一章Day11をクリアする（5/22）=[Mission to Support Beginners' Enhancement] Clear Chapter 1, Day 11 (5/22)
 【初心者強化応援ミッション】第一章Day11をクリアする（4/22）=[Mission to Support Beginners' Reinforcement] Clear Chapter 1, Day 11 (4/22)
 【初心者強化応援ミッション】第一章Day11をクリアする（3/22）=[Mission to Support Beginners' Reinforcement] Clear Chapter 1, Day 11 (3/22)
@@ -167,8 +175,8 @@ Self-Challenge
 オーブボス アモンBをクリアする=Clear the orb boss Amon B.
 オーブボス アモンWをクリアする=Clear the orb boss Amon W.
 
----------------
-Beginner's Mission
+[Beginner Missions]
+
 ボード1　初心者ミッション =Board 1 Beginner Mission 
 ボード2　初心者ミッション =Board 2 Beginner Mission 
 ボード3　初心者ミッション =Board 3 Beginner Mission 
@@ -184,8 +192,8 @@ Beginner's Mission
 アリーナの初級Lv.3（打）をクリア=Clear the Arena's Beginner Level Lv.3 (Hit)
 ボード1 初心者ミッション  1/7=Board 1 Beginner Mission 1/7
 
----------------
-Monthly Mission
+[Monthly Missions]
+
 毎月１日4時リセット=Reset on the 1st day of every month at 4:00 p.m.
 ライトパス=Light Pass
 初月無料=1st Month Free
@@ -220,13 +228,11 @@ Monthly Mission
 18日ログインする=Log in for 18 days
 22日ログインする=Log in for 22 days
 24日ログインする=Log in for 24 days
---------------------
 
 スタイルを8種類獲得する=Obtain 8 different styles
 累計1日ログインする=Log in for a cumulative total of 1 day
 初心者強化応援ミッション 0/22=Beginners' reinforcement support mission 0/22
 ボード1 初心者ミッション  0/7=Board 1 Beginner Mission 0/7
-デイリーミッション 0/4=Daily Mission 0/4
 第一章 Day7をクリア=Chapter 1 Day7 is cleared.
 ----
 第四章後編 Day3をクリア=Clear Chapter 4 Pt.2 Day 3

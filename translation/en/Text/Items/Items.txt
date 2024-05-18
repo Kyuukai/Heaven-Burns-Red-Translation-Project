@@ -2,8 +2,8 @@
 --------------------------
 クォーツ=Quartz
 クォーツ ×=Quartz x
-クォーツを獲得しました=Quartz obtained.
-バトルレポートⅠを獲得しました=Battle Report I obtained.
+クォーツを獲得しました=Quartz Obtained
+バトルレポートⅠを獲得しました=Battle Report I Obtained
 --------------------------
 Inventory
 --------------------------
@@ -35,7 +35,7 @@ S以上確定チケットガチャで使用できます\n※有効期限付き=C
 アーカイブイベントのメダルコンテンツ解放に必要なアイテムです=Unlocks Event Prism for archived Event Stories
 --------------------------
 既に所持している場合、スタイルはピースに変換されます=If already in possession, the style will be converted to a piece
-所持上限を超えた分は取得できません=The amount exceeding the possession limit will not be acquired.
+所持上限を超えた分は取得できません=The amount exceeding the possession limit will not be obtained.
 --------------------------
 Materials
 --------------------------
@@ -54,41 +54,17 @@ Materials
 スタートダッシュガチャチケット=Start Dash Gacha Ticket
 S以上1体確定10連ガチャチケット=10-Pull S or Above Gacha Ticket
 
-プレリオン溶液（斬性）=Plerion Solution (Slash)
-プレリオン溶液（突性）=Plerion Solution (Pierce)
-プレリオン溶液（打性）=Plerion Solution (Blunt)
-星屑の砂（斬性）=Stardust Sand (Slash)
-星屑の砂（突性）=Stardust Sand (Pierce)
-星屑の砂（打性）=Stardust Sand (Blunt)
-融極鉱（斬性）=Fusion Ore (Slash)
-融極鉱（突性）=Fusion Ore (Pierce)
-融極鉱（打性）=Fusion Ore (Blunt)
-ノヴァ原水（斬性）=Nova Raw Water (Slash)
-ノヴァ原水（突性）=Nova Raw Water (Pierce)
-ノヴァ原水（打性）=Nova Raw Water (Blunt)
-シュワルツシルト核（斬性）=Schwarzschild Core (Slash)
-シュワルツシルト核（突性）=Schwarzschild Core (Pierce)
-シュワルツシルト核（打性）=Schwarzschild Core (Blunt)
+プレリオン溶液{{A}}=Plerion Solution{{A}}
+星屑の砂{{A}}=Stardust Sand{{A}}
+融極鉱{{A}}=Fusion Ore{{A}}
+ノヴァ原水{{A}}=Nova Raw Water{{A}}
+シュワルツシルト核{{A}}=Schwarzschild Core{{A}}
 ノルドシュトロム結晶=Nordstorm Crystal
 ノルドシュトロム結晶 ×=Nordstorm Crystal ×
 キャンサーから入手できるスタイル強化用の素材です=A Style-enhancing material obtained from Cancer.
 
-宝珠（斬性）=Jewel (Slash)
-宝珠（斬性） ×=Jewel (Slash) ×
-宝珠（突性）=Jewel (Pierce)
-宝珠（突性） ×=Jewel (Pierce) ×
-宝珠（打性）=Jewel (Blunt)
-宝珠（打性） ×=Jewel (Blunt) ×
-宝珠（氷性）=Jewel (Ice)
-宝珠（氷性） ×=Jewel (Ice) ×
-宝珠（火性）=Jewel (Fire)
-宝珠（火性） ×=Jewel (Fire) ×
-宝珠（雷性）=Jewel (Thunder)
-宝珠（雷性） ×=Jewel (Thunder) ×
-宝珠（光性）=Jewel (Light)
-宝珠（光性） ×=Jewel (Light) ×
-宝珠（闇性）=Jewel (Dark)
-宝珠（闇性） ×=Jewel (Dark) ×
+宝珠{{A}}=Jewel{{A}}
+宝珠{{A}} ×=Jewel{{A}} ×
 
 宝珠の迷宮で入手できるスタイル強化用の素材です=A Style-enhancing material obtained from the Jewel Labyrinth.
 
@@ -127,11 +103,17 @@ S以上1体確定10連ガチャチケット=10-Pull S or Above Gacha Ticket
 スタイルを才能開花させるためのアイテムです=An item that will help you develop your style.
 
 ルビー=Ruby
+ルビーを獲得しました=Ruby Obtained
 サファイア=Sapphire
+サファイアを獲得しました=Sapphire Obtained
 トパーズ=Topaz
+トパーズを獲得しました=Topaz Obtained
 パール=Pearl
+パールを獲得しました=Pearl Obtained
 オニキス=Onyx
+オニキスを獲得しました=Onyx Obtained
 アレキサンドライト=Alexandrite
+アレキサンドライトを獲得しました=Alexandrite Obtained
 錬成に使うアイテムです=An item used for Crafting.
 
 ダイヤモンド=Diamond
