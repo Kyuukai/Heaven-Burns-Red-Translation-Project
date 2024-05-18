@@ -22,11 +22,11 @@
 プリズムバトル=Prism Battle
 宝石プリズム=Jewel Prism
 
-[LimitBreaking Vessel]
-限界突破の器=LimitBreaking Vessel
+[Limit Break Vessel]
+限界突破の器=Limit Break Vessel
 ミッションへ=Missions Tab
-限界突破の器に溜まった力を消費してSSスタイルを限界突破することができます。\n限界突破2段階目までは100%消費、3段階目以降は200%消費して限界突破が可能です。=You can use the power accumulated in the Limit Breaking Vessel to break through the SS style. \nIt is possible to LimitBreak by consuming 100% up to the 2nd stage, and 200% from the 3rd stage onwards.
-限界突破へ=Go to LimitBreaking Vessel
+限界突破の器に溜まった力を消費してSSスタイルを限界突破することができます。\n限界突破2段階目までは100%消費、3段階目以降は200%消費して限界突破が可能です。=You can use the power accumulated in the Limit Break Vessel to break through the SS style. \nIt is possible to Limit Break by consuming 100% up to the 2nd stage, and 200% from the 3rd stage onwards.
+限界突破へ=Go to Limit Break Vessel
 
 [Divergence]
 毎週月曜4:00更新で取得=Acquired every Monday at 4:00.

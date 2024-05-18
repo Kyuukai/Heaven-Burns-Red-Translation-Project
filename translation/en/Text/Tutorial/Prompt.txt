@@ -114,7 +114,7 @@
 <style\=RubyPrefix></style>準備を整えたら ここから\nヘブンバーンズレッドの物語をはじめましょう=<style\=RubyPrefix></style><size\=30>Here you can start the story of\nHeaven Burns Red whenever you are ready</size>
 
 [After chapter 1]
-【限界突破の器】が解放されました=[LimitBreak vessel] has been unlocked
+【限界突破の器】が解放されました=[Limit Break Vessel] has been unlocked
 【記憶の庭】メモリーストーリーが解放されました=[Garden of Memories] Memory Stories have been unlocked
 <style\=RubyPrefix></style>記憶の庭にいるメンバーに話しかけ\n【記憶の修復】を行えるようになりました=<style\=RubyPrefix></style>You can talk to the members in the Garden of Memories. \n[Memory Restoration] can now be performed.
 記憶を修復して【メモリーストーリー】を見ると【ソウル】を入手できます。=After Memory Restoration is performed, \nyou can view [memory stories], which will grant [Soul].
