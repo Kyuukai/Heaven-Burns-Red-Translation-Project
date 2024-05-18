@@ -9,6 +9,8 @@
 通常ガチャ=Regular Gacha
 チケットガチャ=Ticket Gacha
 交換Pt=<size\=15>Exchange Points</size>
+ピックアップ開催中=Pick-up is underway
+ピックアップガチャ開催中=Pick-up Gacha is underway
 クォーツ300個を使用してガチャを1回引きますか?=Do you use 300 Quartz to draw once?
 クォーツ3000個を使用してガチャを10回引きますか?=Do you use 3000 Quartz to draw 10 times?
 S以上1体確定10連ガチャチケット1枚を使用してガチャを10回引きますか?=Do you want to pull 10 times using one Guaranteed S or Above Ticket?
