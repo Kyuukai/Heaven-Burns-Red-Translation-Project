@@ -52,6 +52,14 @@ Erika Aoi
 ************************
 Fubuki Mikoto
 
+あたしは{３１Ｄ:さんいちでぃー}の命に吹雪と書いて、{命吹雪:みことふぶき}。=In Japanese, my name is written "blizzard in life". \nI'm31D's Fubuki Mikoto.
+
+<style\=RubyPrefixTag></style>\nあたしは３１Ｄ<space\=-153.367px><voffset\=1em><size\=50%><cspace\=0px>さんいちでぃー</cspace></size></voffset><space\=-10.68101px><style\=RubySuffixTag></style>の命に吹雪と書いて、命吹雪<space\=-141.632px><voffset\=1em><size\=50%><cspace\=0px>みことふぶき</cspace></size></voffset><space\=1.054009px><style\=RubySuffixTag></style>。=<style\=RubyPrefixTag></style>\nIn Japanese, my name is written life and blizzard. \nI'm31D's Fubuki Mikoto.
+
+世界一危険な音楽を愛するあたしにとって、人類ピンチのこの絶望的状況はすでに最高だよ…。=For me, who loves the world's most dangerous music, \nthe desparate situation of humanity is already the best...
+
+<style\=RubyPrefixTag></style>\n世界一危険な音楽を愛するあたしにとって、人類ピンチの\r\nこの絶望的状況はすでに最高だよ…。=<style\=RubyPrefixTag></style>\nFor me, who loves the world's most dangerous music, \nthe desparate situation of humanity is already the best...
+
 ************************
 Hisako Fuchida
 
