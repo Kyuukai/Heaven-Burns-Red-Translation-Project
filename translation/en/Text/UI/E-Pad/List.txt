@@ -1,0 +1,26 @@
+[List Menu]
+イメージ=Image
+絆Lv.=<size\=70%>Bond Lv.</size>
+部隊戦力=Unit CP
+
+[Character Menu]
+プロフィール=Profile
+ボイス=Voice
+身長=Body Height
+
+[Voice]
+解放数　14/14=Unlocked 14/14
+セラフィムコード=Seraphim Code
+DPダメージボイス=DP Damage Voice
+HPダメージボイス=HP Damage Voice
+勝利ボイス=Victory Voice
+ギリギリ勝利ボイス=Barely Victory Voice
+敗北ボイス=Defeat Voice
+レベルアップボイス=Level-up Voice
+レベルマックスボイス=Level Max Voice
+アビリティ強化ボイス=Ability Enhanced Voice
+スキル解放ボイス=Skill Release Voice
+限界突破ボイス=Limit Break Voice
+ライブ クリア時ボイス=Live Clear Voice
+ライブ フルコンボ達成時ボイス=Live Full Combo Voice
+ライブ 失敗時ボイス=Live Fail Voice

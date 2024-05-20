@@ -2,10 +2,10 @@
 売却=Sell
 アリーナ\n探検（メインストーリー）=Arena\nExploration (Main Story)
 殻石=Shell Stone
-ピース=Pieces
+ピース=Piece
 成長素材=Growth
-チップ=Chips
-ブースター=Boosters
+チップ=Chip
+ブースター=Booster
 変換=<size\=28>Convert</size>
 合成=Synthesize
 アクセサリを所持していません=No accessories in possession
@@ -44,7 +44,7 @@
 元素属性=Elemental Attribute
 クリティカル率=Critical Rate
 効果アップ=Increased Effect
-専用ピースのみ=Dedicated piece only
+専用ピースのみ=Exclusive piece only
 ロール=Roll
 レアリティ=Rarity
 並べ替え=Sort
