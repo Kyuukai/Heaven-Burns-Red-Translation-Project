@@ -60,6 +60,25 @@ Exhange Amount
 交換回数　14/15=Number of Exchanges 14/15
 交換回数　15/15=Number of Exchanges 15/15
 ------------------------
+交換回数　0/17=Number of Exchanges 0/17
+交換回数　1/17=Number of Exchanges 1/17
+交換回数　2/17=Number of Exchanges 2/17
+交換回数　3/17=Number of Exchanges 3/17
+交換回数　4/17=Number of Exchanges 4/17
+交換回数　5/17=Number of Exchanges 5/17
+交換回数　6/17=Number of Exchanges 6/17
+交換回数　7/17=Number of Exchanges 7/17
+交換回数　8/17=Number of Exchanges 8/17
+交換回数　9/17=Number of Exchanges 9/17
+交換回数　10/17=Number of Exchanges 10/17
+交換回数　11/17=Number of Exchanges 11/17
+交換回数　12/17=Number of Exchanges 12/17
+交換回数　13/17=Number of Exchanges 13/17
+交換回数　14/17=Number of Exchanges 14/17
+交換回数　15/17=Number of Exchanges 15/17
+交換回数　16/17=Number of Exchanges 16/17
+交換回数　17/17=Number of Exchanges 17/17
+------------------------
 交換回数　無制限=Unlimited
 交換回数　2147483647/0=Number of Exchanges 2147483647/0
 ***********************************
