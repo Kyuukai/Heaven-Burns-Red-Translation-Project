@@ -125,6 +125,11 @@ S以上1体確定10連ガチャチケット=10-Pull S or Above Gacha Ticket
 夢の泪=Tears of Dreams
 異時層のステータスブーストに使うアイテムです=This item is used for status boosting in Alternate Time.
 
+[Clock Tower]
+時計塔で入手できるスキル(専用)進化用の素材です=Skill (Exclusive) evolution material obtained at Clock Tower
+
+[Event]
+
 交換所メダル=Exchange Medals
 ストーリーイベント「Requiem for the Blue」交換所で使用できるメダルです=These Medals can be used at the story event「Requiem for the Blue」exchange.
 ストーリーイベント「この星に紡ぐ一手」交換所で使用できるメダルです=These Medals can be used at the story event「A Hand Weaving to this Star」exchange.
