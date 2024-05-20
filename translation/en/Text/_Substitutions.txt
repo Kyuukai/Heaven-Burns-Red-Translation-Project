@@ -1,4 +1,8 @@
-﻿[Miscellaneous]
+﻿[Characters]
+[星火燎原]=[Starfire Field] 
+星火燎原=Starfire Field
+
+[Miscellaneous]
 まで開催=Held until
 使用するアイテムを選択してください。=Select an item to use.
 
@@ -9,8 +13,8 @@
 （斬性）= (Slash)
 （突性）= (Pierce)
 （打性）= (Blunt)
-（氷性）= (Ice)
 （火性）= (Fire)
+（氷性）= (Ice)
 （雷性）= (Thunder)
 （光性）= (Light)
 （闇性）= (Dark)
@@ -18,3 +22,6 @@
 [Jewel Prism Boss]
 幻影=Illusion
 （確率）=(Probability)
+
+[Belongings]
+ダークマター=Dark Matter
