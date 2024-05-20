@@ -20,3 +20,4 @@ SP回復+2=SP Recovery +2
 雷スキル攻撃力上昇=Lightning Skill ATK Bonus
 破壊率上昇量増加=Destructive Rate amount increased
 ODゲージ上昇量増加=OD Gauge amount increased
+スキルダメージアップ=Skill ATK increased
