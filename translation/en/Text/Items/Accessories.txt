@@ -1,13 +1,92 @@
-﻿奥義のリング=Mystery Ring
+﻿[Ring]
+
+奥義のリング=Mystery Ring
+DP攻撃に特化して デザインされている\n力 +11 /  器用さ +49=Increase Strength by +11 / Agility by +49. Specialized in DP Damage.
+
 神秘のリング=Mysterious Ring
-炎のリング+3=Flame Ring +3
+HP攻撃に特化して デザインされている\n力 +49 /  器用さ +11=Increase Strength by +49 / Agility by +11. Specialized in HP Damage.
+
+炎のリング+3=Fire Ring +1
+自身の火属性のスキル攻撃力 +5％\n力, 器用さ +37=Own Fire Skills Potency +5%, Increase Agility by +37
+炎のリング+3=Fire Ring +2
+自身の火属性のスキル攻撃力 +7％\n力, 器用さ +37=Own Fire Skills Potency +7%, Increase Agility by +37
+炎のリング+3=Fire Ring +3
+自身の火属性のスキル攻撃力 +8％\n力, 器用さ +37=Own Fire Skills Potency +8%, Increase Agility by +37
+炎のリング+4=Fire Ring +4
+自身の火属性のスキル攻撃力 +10％\n力, 器用さ +37=Own Fire Skills Potency +10%, Increase Agility by +37
+
+氷のリング+1=Ice Ring +1
+自身の氷属性のスキル攻撃力 +5％\n力, 器用さ +37=Own Ice Skills Potency +5%, Increase Agility by +37
+氷のリング+2=Ice Ring +2
+自身の氷属性のスキル攻撃力 +7％\n力, 器用さ +37=Own Ice Skills Potency +7%, Increase Agility by +37
+氷のリング+3=Ice Ring +3
+自身の氷属性のスキル攻撃力 +8％\n力, 器用さ +37=Own Ice Skills Potency +8%, Increase Agility by +37
+氷のリング+4=Ice Ring +4
+自身の氷属性のスキル攻撃力 +10％\n力, 器用さ +37=Own Ice Skills Potency +10%, Increase Agility by +37
+
+雷のリング+1=Thunder Ring +1
+自身の雷属性のスキル攻撃力 +5％\n力, 器用さ +37=Own Thunder Skills Potency +5%, Increase Agility by +37
+雷のリング+2=Thunder Ring +2
+自身の雷属性のスキル攻撃力 +7％\n力, 器用さ +37=Own Thunder Skills Potency +7%, Increase Agility by +37
+雷のリング+3=Thunder Ring +3
+自身の雷属性のスキル攻撃力 +8％\n力, 器用さ +37=Own Thunder Skills Potency +8%, Increase Agility by +37
+雷のリング+4=Thunder Ring +4
+自身の雷属性のスキル攻撃力 +10％\n力, 器用さ +37=Own Thunder Skills Potency +10%, Increase Agility by +37
+
+光のリング+1=Light Ring +1
+自身の光属性のスキル攻撃力 +5％\n力, 器用さ +37=Own Light Skills Potency +5%, Increase Agility by +37
+光のリング+2=Light Ring +2
+自身の光属性のスキル攻撃力 +7％\n力, 器用さ +37=Own Light Skills Potency +7%, Increase Agility by +37
+光のリング+3=Light Ring +3
+自身の光属性のスキル攻撃力 +8％\n力, 器用さ +37=Own Light Skills Potency +8%, Increase Agility by +37
+光のリング+4=Light Ring +4
+自身の光属性のスキル攻撃力 +10％\n力, 器用さ +37=Own Light Skills Potency +10%, Increase Agility by +37
+
+闇のリング+1=Dark Ring +1
+自身の闇属性のスキル攻撃力 +5％\n力, 器用さ +37=Own Dark Skills Potency +5%, Increase Agility by +37
+闇のリング+2=Dark Ring +2
+自身の闇属性のスキル攻撃力 +7％\n力, 器用さ +37=Own Dark Skills Potency +7%, Increase Agility by +37
+闇のリング+3=Dark Ring +3
+自身の闇属性のスキル攻撃力 +8％\n力, 器用さ +37=Own Dark Skills Potency +8%, Increase Agility by +37
+闇のリング+4=Dark Ring +4
+自身の闇属性のスキル攻撃力 +10％\n力, 器用さ +37=Own Dark Skills Potency +10%, Increase Agility by +37
+
+[Bracelet]
 ブラストピアス+2=Blast Earrings +2
-雷撃のブレス+2=Bracelets of Thunder +2
+
+炎撃のブレス=Fire Bracelet
+炎撃のブレス+1=Fire Bracelet +1
+炎撃のブレス+2=Fire Bracelet +2
+炎撃のブレス+3=Fire Bracelet +3
+炎撃のブレス+4=Fire Bracelet +4
+
+氷撃のブレス+=Ice Bracelet
+氷撃のブレス+1=Ice Bracelet +1
+氷撃のブレス+2=Ice Bracelet +2
+氷撃のブレス+3=Ice Bracelet +3
+氷撃のブレス+4=Ice Bracelet +4
+
+雷撃のブレス=Thunder Bracelet
+雷撃のブレス+1=Thunder Bracelet +1
+雷撃のブレス+2=Thunder Bracelet +2
+雷撃のブレス+3=Thunder Bracelet +3
+雷撃のブレス+4=Thunder Bracelet +4
+
+光撃のブレス=Light Bracelet
+光撃のブレス+1=Light Bracelet +1
+光撃のブレス+2=Light Bracelet +2
+光撃のブレス+3=Light Bracelet +3
+光撃のブレス+4=Light Bracelet +4
+
+闇撃のブレス=Dark Bracelet
+闇撃のブレス+1=Dark Bracelet +1
+闇撃のブレス+2=Dark Bracelet +2
+闇撃のブレス+3=Dark Bracelet +3
+闇撃のブレス+4=Dark Bracelet +4
+
 熟練度=Skill Progression
 
-自身の火属性のスキル攻撃力 +8％\n力, 器用さ +37=Own Fire Skills Potency +8%, Increase Agility by +37
-DP攻撃に特化して デザインされている\n力 +11 /  器用さ +49=Increase Strength by +11 / Agility by +49. Specialized in DP Damage.
-HP攻撃に特化して デザインされている\n力 +49 /  器用さ +11=Increase Strength by +49 / Agility by +11. Specialized in HP Damage.
+[Chain]
 
 祝福のチェーン=Chain of Blessing
 なにかいいことがありそうだ\n運 +48=Looks like something good is going to happen\nLuck +48
@@ -15,6 +94,8 @@ HP攻撃に特化して デザインされている\n力 +49 /  器用さ +11=In
 不思議な力を感じる\n初期SP +3=I feel a mysterious power\nInitial SP +3
 火の加護のチェーン=Chain of Fire Protection
 火属性スキルのスキル回数 +1 / Healerの初期SP +3=Fire Ultimate Skill Limit +1 / Healer SP +3
+
+[Orb]
 
 駆動のオーブ=Driving Orb
 スキルの力が込められた不思議な宝玉\n「ドライブゲイン」を覚える=Lを覚える=A mysterious jewel imbued with the skill "Drive Gain"
@@ -25,6 +106,45 @@ HP攻撃に特化して デザインされている\n力 +49 /  器用さ +11=In
 防護のオーブ=Protection Orb
 スキルの力が込められた不思議な宝玉\n「プロテクション」を覚える=A mysterious jewel imbued with the skill "Protection"
 
--------------
-Inventory Accessory
+[Charm]
+
+体力のチャーム=Constitution Charm
+体力のチャーム+1=Constitution Charm +1
+体力のチャーム+2=Constitution Charm +2
+体力のチャーム+3=Constitution Charm +3
+健康になれそうだ\n体力 +6=Constitution +6
+健康になれそうだ\n体力 +9=Constitution +9
+健康になれそうだ\n体力 +12=Constitution +12
+健康になれそうだ\n体力 +15=Constitution +15
+
+精神のチャーム=Spirit Charm
+精神のチャーム+1=Spirit Charm +1
+精神のチャーム+2=Spirit Charm +2
+精神のチャーム+3=Spirit Charm +3
+心が落ち着きそうだ\n精神 +6=Spirit +6
+心が落ち着きそうだ\n精神 +9=Spirit +9
+心が落ち着きそうだ\n精神 +12=Spirit +12
+心が落ち着きそうだ\n精神 +15=Spirit +15
+
+知性のチャーム=Wisdom Charm
+知性のチャーム+1=Wisdom Charm +1
+知性のチャーム+2=Wisdom Charm +2
+知性のチャーム+3=Wisdom Charm +3
+テストの点が良くなりそうだ\n知性 +6=Wisdom +6
+テストの点が良くなりそうだ\n知性 +9=Wisdom +9
+テストの点が良くなりそうだ\n知性 +12=Wisdom +12
+テストの点が良くなりそうだ\n知性 +15=Wisdom +15
+
+[How to get]
+
+錬成=Forging
+
+炎の回廊=Fire Corridor
+氷の回廊=Ice Corridor
+雷の回廊=Thunder Corridor
+光の回廊=Light Corridor
+闇の回廊=Dark Corridor
+
+プリズムバトル：Lv.6\nプリズムバトル：Lv.7\nプリズムバトル：Lv.8=Prism Battle: Lv.6 \nPrism Battle: Lv.7\nPrism Battle: Lv.8
+
 プリズムバトル：Lv.9\nプリズムバトル：Lv.10=Prism Battle: Lv.9 \nPrism Battle: Lv.10
