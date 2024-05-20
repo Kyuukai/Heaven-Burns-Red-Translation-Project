@@ -1,6 +1,6 @@
-﻿一括受け取り=Receive All
+﻿[Gift Box]
+一括受け取り=Receive All
 受け取り=Receive
-受け取り履歴=Receive History
 ※受信日時から30日経過すると自動で消去されます。\n　一括受け取りは有効期間が短い順から受け取ります。\n　一度に受け取れるギフトは最大100件までです。=*After 30 days from the time of receipt, entries will be deleted\nautomatically. Batch receipt is ordered by the shortest validity\nperiod. Up to 100 gifts can be received at once.
 ギフトボックス=Presents
 SNSキャンペーンの達成報酬をお送りします =We will send you the reward for the achievement of your SNS campaign. 
@@ -12,3 +12,10 @@ SNSキャンペーンの達成報酬をお送りします =We will send you the 
 以下のギフトを受け取りました。=You have received the following gift(s)
 受け取り可能なものはありません=None available for pickup
 以下のギフトは所持上限を超えるため受け取れません。=The following gifts could not be received because they exceed the held limit.
+
+[History]
+受け取り履歴=History
+スコアアタック報酬 =Score Attack Reward
+ライブモード ハイスコア報酬 =Live Highscore Reward
+メモリーストーリークリア報酬 =Memory Story Clear Reward 
+【友達招待CP】友達がクリア条件を達成しました =[Friend Invitation CP] A friend has achieved the clear condition.

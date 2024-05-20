@@ -10,7 +10,12 @@
 限界突破=<size\=17>Breakthrough</size>
 スタイル強化=Style Enhancement
 詳細=Details
-<space\=-28.372px><voffset\=-0.1em><cspace\=0px><size\=28>
+絞り込み：ON=Filter: ON
+入手=Acquired
+限界突破数=Limit Break
+強化数=Enhancement
+未開花=Unflowered
+開花済=Flowering done
 
 [Stats]
 能力=<space\=-10px><voffset\=0em><cspace\=0px><size\=28>Stats</size></cspace></size></voffset>
@@ -69,9 +74,6 @@ Lv上限まで強化します=Enhanced to the maximum Lv.
 強化教本（Lv.30）=Strengthening Instruction Book (Lv.30)
 使用\n=Use\n
 スタイルレポート=Style Report
-バトルレポートⅢ=Battle Report III
-バトルレポートⅡ=Battle Report II
-バトルレポートⅠ=Battle Report I
 CLv.が上限に達してないため使用できません=<size\=90%>Not available because Char Lv. has not reached the upper limit</size>
 強化教本（Lv.40）=Strengthening Instruction Book (Lv.40)
 強化教本（Lv.50）=Strengthening Instruction Book (Lv.50)

@@ -14,7 +14,7 @@
 最新のフリータイムへ=Go to the latest Free Time
 ショップ=Shop
 メモリーストーリー一覧=Memory Story List
-
+交流=Communication
 -----
 これから始まる長い運命を辿っていくために、時には寄り道も必要だ。=Sometimes we need to take a detour to follow the long\ndestiny that is about to begin.
 ボクに何か手伝えることはあるかな？=Is there anything I can do to help?
@@ -30,7 +30,7 @@ Epilogue\n<size\=32>- エピローグ -</size>=Epilogue
 [Story]
 続きから=Continue
 過去をたどる=Trace the Past
-交流/メモリーストーリー=Interaction/Memory Story
+交流/メモリーストーリー=Communication
 
 [Locked Prompt]
 <style\=RubyPrefixTag></style>\n第一章クリアで解放されます=<style\=RubyPrefixTag></style>\nIt will be unlocked after clearing the first chapter.
@@ -46,7 +46,6 @@ Epilogue\n<size\=32>- エピローグ -</size>=Epilogue
 時間帯選択=Timezone Selection
 特殊効果：=Special Effects :
 途中から=From the Middle
-交流=Bond Story
 
 プレイヤーランクExpを獲得しました=Earned Player Rank EXP
 交換所メダルを獲得しました=Earned Exchange Medals
