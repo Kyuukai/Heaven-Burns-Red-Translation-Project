@@ -1,0 +1,15 @@
+バトルレポートⅠ=Battle Report I
+経験値を少し得られるアイテムです=Grants a small amount of experience
+
+バトルレポートⅡ=Battle Report II
+経験値をかなり得られるアイテムです=It's an item that gives you quite a bit of experience points
+
+煌めきのポリッシュⅠ=Sparkling Polish I
+アクセサリ合成で経験値を少し得られる素材です=Grants a small amount of experience when using Synthesis
+
+Lv.20までレベルを上げるアイテムです=Raises your level to Lv. 20
+
+バトルレポートⅢ=Battle Report III
+
+ショップ（記憶の庭）=Shop (Garden of Memories)
+ショップ（記憶の庭）など=Shop (Garden of Memories)
