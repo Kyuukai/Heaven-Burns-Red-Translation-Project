@@ -174,15 +174,15 @@
 <style\=RubyPrefixTag></style>\nなんでそんなこと企んでる奴がセラフ部隊にいるんだよ。\r\n=<style\=RubyPrefixTag></style>\nWhy is there someone who is planning such a thing in \nthe seraph unit?\r\n
 <style\=RubyPrefixTag></style>\n山脇率いる悪の軍団の手下。\n悪のハサミ<space\=-183.826px><voffset\=1em><size\=50%><cspace\=0px>ヴァイス・ヴァーミリオン</cspace></size></voffset><space\=-15.316px><style\=RubySuffixTag></style>は忠誠の証。=<style\=RubyPrefixTag></style>\nServant of the evil army led by Yamawaki. \nEvil pincers (Weiss Vermilion) are the sign of loyalty.<style\=RubySuffixTag></style>
 <style\=RubyPrefixTag></style>\n豊後　弥生=<style\=RubyPrefixTag></style>\nBungo Yayoi
-山脇様の手にかかれば三日と持たないでゲスよ、けっひっひっひ！=In the hands of Yamawaki-sama, it won't take more than \nthree days, gesu. Kekekeke!
-<style\=RubyPrefixTag></style>\n山脇様の手にかかれば三日と持たないでゲスよ、けっひっ\r\nひっひ！=<style\=RubyPrefixTag></style>\nIn the hands of Yamawaki-sama, it won't take more than \nthree days, gesu. Kekekeke!
+山脇様の手にかかれば三日と持たないでゲスよ、けっひっひっひ！=In the hands of Yamawaki-sama, it won't take more than \nthree days-gesu. Kekekeke!
+<style\=RubyPrefixTag></style>\n山脇様の手にかかれば三日と持たないでゲスよ、けっひっ\r\nひっひ！=<style\=RubyPrefixTag></style>\nIn the hands of Yamawaki-sama, it won't take more than \nthree days-gesu. Kekekeke!
 まるで、絵に描いたようなしもべキャラだな…。=You're just like a servant character straight out of \na manga...
 ほら、あなたたちも例の自己紹介してやんなさい。=Come on, you guys. Go introduce yourselves just like me.
 <style\=RubyPrefixTag></style>\nほら、あなたたちも例の自己紹介してやんなさい。=<style\=RubyPrefixTag></style>\nCome on, you guys. Go introduce yourselves just like me.
 <style\=RubyPrefixTag></style>\n忍ぶことなきニンジャ少女。\n忍者への強い憧れから数々の忍術を会得する。=<style\=RubyPrefixTag></style>\nA ninja girl who doesn't conceal herself. \nAcquired numerous ninja techniques out of a strong yearning to become a ninja.
 <style\=RubyPrefixTag></style>\n神崎　アーデルハイド=<style\=RubyPrefixTag></style>\nKanzaki Adelheid
-アーデルハイドはそういうキャラではないでゴザル。=I'm not such character, gozaru.
-<style\=RubyPrefixTag></style>\nアーデルハイドはそういうキャラではないでゴザル。=<style\=RubyPrefixTag></style>\nI'm not such character, gozaru.
+アーデルハイドはそういうキャラではないでゴザル。=I'm not such character, de-gozaru.
+<style\=RubyPrefixTag></style>\nアーデルハイドはそういうキャラではないでゴザル。=<style\=RubyPrefixTag></style>\nI'm not such character, de-gozaru.
 <style\=RubyPrefixTag></style>\n星の導きから未来を見通す占星術師。\nただし的中率は５３％。=<style\=RubyPrefixTag></style>\nAstrologer who sees the future through the \nguidance of the stars. \nHowever, the accuracy rate is 53%.
 <style\=RubyPrefixTag></style>\n桜庭　星羅=<style\=RubyPrefixTag></style>\nSakuraba Seira
 …無理矢理連れてこられたっていいますか。=... I was brought here by force, you could say.
@@ -196,13 +196,13 @@
 楽しそうだからついてきただけです♪=I just came here because it looks fun ♪
 <style\=RubyPrefixTag></style>\n楽しそうだからついてきただけです♪=<style\=RubyPrefixTag></style>\nI just came here because it looks fun ♪
 でも悔しいって感情は一致してたろ！！=But I thought we all shared the feeling of frustration!?
-そうでゲスよ！=That's right, gesu!
-まったくないでゴザル。=Not at all, gozaru.
+そうでゲスよ！=That's right-gesu!
+まったくないでゴザル。=Not at all, de-gozaru.
 …強制参加というからついてきたまでですが。=...I only came along because you said it was mandatory.
 実験の続きをしたい。=I want to continue the experiment.
 <style\=RubyPrefixTag></style>\n実験の続きをしたい。=<style\=RubyPrefixTag></style>\nI want to continue my experiment.
 えー！=Eeeh!
-なんていうことでゲスか！！=What a surprise, gesu!!
+なんていうことでゲスか！！=What a surprise-gesu!!
 ぐだぐだですね！！=What a mess!!
 
 [------------Option Kayamori of 31A-------------]
@@ -219,16 +219,16 @@
 え、なんで？=Eh? Why?
 私たちにとって、あなたたちはライバル…倒すべき敵だからよ！　ふっふっふっふ…。=To us, you are rivals... opponent to be defeated! \nFufufufu...
 <style\=RubyPrefixTag></style>\n私たちにとって、あなたたちはライバル…倒すべき敵だか\r\nらよ！　ふっふっふっふ…。=<style\=RubyPrefixTag></style>\nTo us, you are rivals... enemies to be defeated! \nFufufufu...
-そうでゲスよ、けっひっひっひ！=Yes, gesu. Kekekeke!
-<style\=RubyPrefixTag></style>\nそうでゲスよ、けっひっひっひ！=<style\=RubyPrefixTag></style>\nYes, gesu. Kekekeke!
+そうでゲスよ、けっひっひっひ！=Yes-gesu. Kekekeke!
+<style\=RubyPrefixTag></style>\nそうでゲスよ、けっひっひっひ！=<style\=RubyPrefixTag></style>\nYes-gesu. Kekekeke!
 いきなり敵認定かー、なんか新鮮っ！=Labeled as an enemy right off the bat? That's new and \nrefreshing
 <style\=RubyPrefixTag></style>\nいきなり敵認定かー、なんか新鮮っ！=<style\=RubyPrefixTag></style>\nLabeled as an enemy right off the bat? That's new and \nrefreshing
 楽しくなってんじゃねーよ。なんで仲間同士なのに、敵なんだよ。=Don't enjoy it. Why are we enemies when we're supposed \nto be comrades?
 <style\=RubyPrefixTag></style>\n楽しくなってんじゃねーよ。なんで仲間同士なのに、敵な\r\nんだよ。=<style\=RubyPrefixTag></style>\nDon't enjoy it. Why are we enemies when we're supposed \nto be comrades?
 決まってるでしょ。３１期の『Ａ』にふさわしいのはあなたたちじゃないってことよ。=Isn't that obvious? You guys aren't worthy of being \nthe 'A' team of the 31st gen.
 <style\=RubyPrefixTag></style>\n決まってるでしょ。３１期の『Ａ』にふさわしいのはあな\r\nたたちじゃないってことよ。=<style\=RubyPrefixTag></style>\nIsn't that obvious? You guys aren't worthy of being \nthe 'A' team of the 31st gen.
-お門違いもいいところでゲスよ。=You're barking up the wrong tree, gesu.
-<style\=RubyPrefixTag></style>\nお門違いもいいところでゲスよ。=<style\=RubyPrefixTag></style>\nYou're barking up the wrong tree, gesu.
+お門違いもいいところでゲスよ。=You're barking up the wrong tree-gesu.
+<style\=RubyPrefixTag></style>\nお門違いもいいところでゲスよ。=<style\=RubyPrefixTag></style>\nYou're barking up the wrong tree-gesu.
 え？　『Ａ』ってことに何か意味があるの？=Eh? Is there any special meaning about the "A"?
 <style\=RubyPrefixTag></style>\nえ？　『Ａ』ってことに何か意味があるの？=<style\=RubyPrefixTag></style>\nEh? Is there any special meaning about the "A"?
 説明していなかったわね。新入隊員たちは六人一組の部隊に分けられ、任意のアルファベットを割り振られる。それは知っているわね？=I didn't explained it to you, did I? New recruits are \ndivided into team of six and assigned an arbitrary \nalphabet. You know that, right?
@@ -239,39 +239,39 @@
 <style\=RubyPrefixTag></style>\nあたしらも褒めろよ。=<style\=RubyPrefixTag></style>\nPraise us too.
 それが気に入らないのよ！　司令官、なぜ入隊してすぐ彼女たちを３１Ａとしたの！？　私には理解不能よ！！=That's what I don't like! Commander, why did you assign \nthese girls as 31A as soon as they enlisted!? I just \ndon't get it!!
 <style\=RubyPrefixTag></style>\nそれが気に入らないのよ！　司令官、なぜ入隊してすぐ彼\r\n女たちを３１Ａとしたの！？　私には理解不能よ！！=<style\=RubyPrefixTag></style>\nThat's what I don't like! Commander, why did you assign \nthese girls as 31A as soon as they enlisted!? I just \ndon't get it!!
-山脇様はあまり頭がよくないのでゲスよ。=Yamawaki-sama is not very smart, gesu.
-<style\=RubyPrefixTag></style>\n山脇様はあまり頭がよくないのでゲスよ。=<style\=RubyPrefixTag></style>\nYamawaki-sama is not very smart, gesu.
+山脇様はあまり頭がよくないのでゲスよ。=Yamawaki-sama is not very smart-gesu.
+<style\=RubyPrefixTag></style>\n山脇様はあまり頭がよくないのでゲスよ。=<style\=RubyPrefixTag></style>\nYamawaki-sama is not very smart-gesu.
 手下がそれ言っていいのか。=Is that something a servant should say?
 <style\=RubyPrefixTag></style>\n手下がそれ言っていいのか。=<style\=RubyPrefixTag></style>\nIs that something a servant should say?
 単純に、彼女たちの身体能力やポテンシャルを考慮しただけよ。それ以上の情報は開示できないし、言う必要もないわ。=I simply considered their physical abilities and potential. \nI cannot disclose any more information than that, nor do I \nneed to.
 <style\=RubyPrefixTag></style>\n単純に、彼女たちの身体能力やポテンシャルを考慮しただ\r\nけよ。それ以上の情報は開示できないし、言う必要もない\r\nわ。=<style\=RubyPrefixTag></style>\nI simply considered their physical abilities and potential. \nI cannot disclose any more information than that, nor do I \nneed to.
 この私が、彼女たちに身体的に劣ると？=Me, inferior to these girls physically?
-山脇様は天才マッドサイエンティストなんでゲスよ！？=Yamawaki-sama is the genius mad scientist, gesu know!?
-<style\=RubyPrefixTag></style>\n山脇様は天才マッドサイエンティストなんでゲスよ！？=<style\=RubyPrefixTag></style>\nYamawaki-sama is the genius mad scientist, gesu know!?
+山脇様は天才マッドサイエンティストなんでゲスよ！？=Yamawaki-sama is the genius mad scientist-gesu know!?
+<style\=RubyPrefixTag></style>\n山脇様は天才マッドサイエンティストなんでゲスよ！？=<style\=RubyPrefixTag></style>\nYamawaki-sama is the genius mad scientist-gesu know!?
 マッドサイエンティストは虚弱なイメージだわ。=Mad scientists have an image of being frail.
 すこぶる健康よ！！=I'm in excellent health!!
 うわ、ツッコまれた…関わりたくなかったのに…。=Uwah, I got retorted back...even though I didn't want \nto get involved...
 <style\=RubyPrefixTag></style>\nうわ、ツッコまれた…関わりたくなかったのに…。=<style\=RubyPrefixTag></style>\nUwah, I got retorted back...even though I didn't want \nto get involved...
 しかも、斬り込み隊の役目まで奪われるなんて…。=Moreover, they even took away the role of the Assault Unit.
-そんなの受け入れられないでゲスよ！=We can't accept that, gesu!
+そんなの受け入れられないでゲスよ！=We can't accept that-gesu!
 『Ａ』にしても斬り込み隊にしても、あくまでそれは戦力として優秀というだけの話よ。=Whether it's the "A" or the Assault Squad. It's simply \nmean their fighting power is excellent.
 あなたたち３１Ｃは、山脇、{天音:てんね}の科学の知識や桜庭の予知能力を活かして動くという重要な役目を担ってるわ。=You 31C's have the important role of operating with \nYamawaki and Tenne's scientific knowledge and Sakuraba's \nprecognition.
 <style\=RubyPrefixTag></style>\nあなたたち３１Ｃは、山脇、天音<space\=-82.687px><voffset\=1em><size\=50%><cspace\=0px>てんね</cspace></size></voffset><space\=12.529px><style\=RubySuffixTag></style>の科学の知識や桜庭の予\r\n知能力を活かして動くという重要な役目を担ってるわ。=<style\=RubyPrefixTag></style>\nYou 31C's have the important role of operating with \nYamawaki and Tenne's scientific knowledge and Sakuraba's \nprecognition.<style\=RubySuffixTag></style>
 決してあなたたちを軽く見てるわけじゃない。=I'm not taking you guys lightly by any means.
 <style\=RubyPrefixTag></style>\n決してあなたたちを軽く見てるわけじゃない。=<style\=RubyPrefixTag></style>\nI'm not taking you guys lightly by any means.
 は…さすが司令官、口が上手いわね…。=Hah...as expected of commander, you are smooth talker...
-ダマされないでゲスよ！=We won't be fooled, gesu!
+ダマされないでゲスよ！=We won't be fooled-gesu!
 お前ら、司令官にどんな口きくんだよ…大丈夫か？　うちの隊長もやばいけどさ。=What a thing to say to the commander? Are you okay? \nOur captain is equally bad though.
 <style\=RubyPrefixTag></style>\nお前ら、司令官にどんな口きくんだよ…大丈夫か？　うち\r\nの隊長もやばいけどさ。=<style\=RubyPrefixTag></style>\nWhat a thing to say to the commander? Are you okay? \nOur captain is equally bad though.
 私の…いや、私たちのプライドが許さないよ！！=My...no, OUR pride won't allow it!!
 <style\=RubyPrefixTag></style>\n私の…いや、私たちのプライドが許さないよ！！=<style\=RubyPrefixTag></style>\nMy...no, OUR pride won't allow it!!
 私の、でいい。="My" is fine.
 いや天音、みんな居るんだから、私たちで合ってるでしょ。=No Tenne, since we're all here, so "Our" is correct, right!?
-こんな司令官に喧嘩売るような話になるなんて聞いてないでゴザルよ。=I didn't hear anything about picking a fight with the \ncommander, gozaru.
+こんな司令官に喧嘩売るような話になるなんて聞いてないでゴザルよ。=I didn't hear anything about picking a fight with the \ncommander, de-gozaru.
 何が言いたいの。=What are you trying to say?
 勝負よ。=A showdown.
-勝負でゲスよ！A showdown, gesu!
-<style\=RubyPrefixTag></style>\n勝負でゲスよ！=<style\=RubyPrefixTag></style>\nA showdown, gesu!
+勝負でゲスよ！A showdown-gesu!
+<style\=RubyPrefixTag></style>\n勝負でゲスよ！=<style\=RubyPrefixTag></style>\nA showdown-gesu!
 勝負？=Showdown?
 私たち３１Ｃと３１Ａを公平に競わせてほしいの…勝つ自信あるし！！=We want to have a fair competition between 31C and 31A... \nI'm confident we'll win!!
 勝ったら？=And if you win?
@@ -282,7 +282,7 @@
 <style\=RubyPrefixTag></style>\nなんでＣがついたままなのよ！\nあなたたちがＣを付けるのよ！！\nなにただの３１になろうとしてるのよ！！=<style\=RubyPrefixTag></style>\nWhy is the C still there! \nYou guys will be the C!! \nWhat are you trying to do, just be 31!?
 いや、すっきりしていいなって。=Well, I thought it would be nice and relieving.
 <style\=RubyPrefixTag></style>\nいや、すっきりしていいなって。=<style\=RubyPrefixTag></style>\nWell, I thought it would be nice and relieving.
-<style\=RubyPrefixTag></style>\nお前らが３１Ｃになるんでゲスよ！=<style\=RubyPrefixTag></style>\nYou guys are going to be 31C, gesu!
+<style\=RubyPrefixTag></style>\nお前らが３１Ｃになるんでゲスよ！=<style\=RubyPrefixTag></style>\nYou guys are going to be 31C-gesu!
 熾烈な頭悪い対決ですね！！=It's a fierce battle of the dim-witted!!
 その通りだけど、言ってやるな。=You're right, but don't say it.
 <style\=RubyPrefixTag></style>\nその通りだけど、言ってやるな。=<style\=RubyPrefixTag></style>\nYou're right, but don't say it.
@@ -294,11 +294,11 @@
 お互いいい刺激にもなるでしょう。ねえ、七瀬？=It will be a good incentive for both parties. \nRight, Nanase?
 はい。異論はありません。=Yes. I have no objection.
 よし！！=Alright!!
-キタでゲス！=Nice, gesu!
+キタでゲス！=Nice-gesu!
 今日のところは休みなさい。勝負の内容はこちらで考えて後日通達します。=Rest up for today. We will come up with the details of \nthe showdown and notify you later.
 こりゃ楽しみね…ふっふっふ…。=So looking forward to it...fufufu...
-やってやるでゲスよ！　けっひっひっひ！=Let's do this, gesu! Kekekeke!
-<style\=RubyPrefixTag></style>\nやってやるでゲスよ！　けっひっひっひ！=<style\=RubyPrefixTag></style>\nLet's do this, gesu! Kekekeke!
+やってやるでゲスよ！　けっひっひっひ！=Let's do this-gesu! Kekekeke!
+<style\=RubyPrefixTag></style>\nやってやるでゲスよ！　けっひっひっひ！=<style\=RubyPrefixTag></style>\nLet's do this-gesu! Kekekeke!
 行くわよ、豊後！=Let's go, Bungo!
 はい！でゲス！=Yes! Gesu!
 
@@ -410,25 +410,25 @@
 
 [------------Bath-------------]
 
-もう上がりたいでゲスよ…。=I want to get out already, gesu...
+もう上がりたいでゲスよ…。=I want to get out already-gesu...
 まだ駄目よ！　１００数えるまでって言ったでしょ！=Not yet! I told you to count to 100!
 <style\=RubyPrefixTag></style>\nまだ駄目よ！　１００数えるまでって言ったでしょ！=<style\=RubyPrefixTag></style>\nNot yet! I told you to count to 100!
 （お、この声は、あのふたりだな…）=(Oh, these voices must be those two...)
 <style\=RubyPrefixTag></style>\n（お、この声は、あのふたりだな…）=<style\=RubyPrefixTag></style>\n(Oh, these voices must be those two...)
-これも試練でゲスか…。=Is this another trial, gesu...?
+これも試練でゲスか…。=Is this another trial-gesu...?
 もちろん。釜で煮込まれても、口を割らないぐらい根性を鍛え上げるためよ。=Of course. To train your willpower to the point that \nyou won't crack even if you're being boiled alive.
 <style\=RubyPrefixTag></style>\nもちろん。釜で煮込まれても、口を割らないぐらい根性を\r\n鍛え上げるためよ。=<style\=RubyPrefixTag></style>\nOf course. To train your willpower to the point that \nyou won't crack even if you're being boiled alive.
 なぜ一緒に山脇様まで付き合ってくれているのでゲスか…。=Why are you even getting in with me, Yamawaki-sama...?
 <style\=RubyPrefixTag></style>\nなぜ一緒に山脇様まで付き合ってくれているのでゲスか…。\r\n=<style\=RubyPrefixTag></style>\nWhy are you even getting in with me, Yamawaki-sama...?\r\n
 私は単純に風邪を引かないためにだよ！　まだ春先だからね！　一番風邪を引きやすい時期だから気をつけてるんだよ！=I'm just here to make sure I don't catch a cold! It's still \nearly spring, after all! It's the time of year when you're \nmost likely to catch a cold, so I'm being careful!
 <style\=RubyPrefixTag></style>\n私は単純に風邪を引かないためにだよ！　まだ春先だから\r\nね！　一番風邪を引きやすい時期だから気をつけてるんだ\r\nよ！=<style\=RubyPrefixTag></style>\nI'm just here to make sure I don't catch a cold! It's still \nearly spring, after all! It's the time of year when you're \nmost likely to catch a cold, so I'm being careful!
-さすがでゲス！　世界を滅ぼすには健康がなにより大事でゲス！=As expected, gesu! Health is the most important thing \nto conquer the world, gesu!
-<style\=RubyPrefixTag></style>\nさすがでゲス！　世界を滅ぼすには健康がなにより大事で\r\nゲス！=<style\=RubyPrefixTag></style>\nAs expected, gesu! Health is the most important thing \nto conquer the world, gesu!
+さすがでゲス！　世界を滅ぼすには健康がなにより大事でゲス！=As expected-gesu! Health is the most important thing \nto conquer the world-gesu!
+<style\=RubyPrefixTag></style>\nさすがでゲス！　世界を滅ぼすには健康がなにより大事で\r\nゲス！=<style\=RubyPrefixTag></style>\nAs expected-gesu! Health is the most important thing \nto conquer the world-gesu!
 ただ、お前は試練だよ。喋ってないで数えな！=But for you, it's a trial. Stop talking and start \ncounting!
-そうでゲス…５１、５２、５３…。=Yes, gesu... 51, 52, 53...
-９９…１００！　終わったでゲス！=99...100! I'm done, gesu!
+そうでゲス…５１、５２、５３…。=Yes-gesu... 51, 52, 53...
+９９…１００！　終わったでゲス！=99...100! I'm done-gesu!
 さすが私の使い魔。ふぅ、私も体の芯まで温まったよ。出るよ！=As expected of my servant. Whew, I'm warmed to the \ncore too. Let's get out of here!
 <style\=RubyPrefixTag></style>\nさすが私の使い魔。ふぅ、私も体の芯まで温まったよ。出\r\nるよ！=<style\=RubyPrefixTag></style>\nAs expected of my servant. Whew, I'm warmed to the \ncore too. Let's get out of here!
-はいでゲス！=Yes, gesu!
+はいでゲス！=Yes-gesu!
 （あれ？　実は優しい？）=(Hmm? Is she actually kind?)
 
