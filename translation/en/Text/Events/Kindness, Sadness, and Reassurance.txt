@@ -363,8 +363,8 @@ B1　フロア名前 =B1 floor name
 それでも仲間！？=And you still calling yourself comrades!?
 …凶兆の影が見えます。=...I can see the shadow of misfortune.
 占いなんて信じてる場合！？=Is it the time to believe in fortune-telling!?
-先輩たちのほうが適任でゴザルよ。=The seniors are more qualified, de gozaru.
-<style\=RubyPrefixTag></style>\n先輩たちのほうが適任でゴザルよ。=<style\=RubyPrefixTag></style>\nThe seniors are more qualified, de gozaru.
+先輩たちのほうが適任でゴザルよ。=The seniors are more qualified, de-gozaru.
+<style\=RubyPrefixTag></style>\n先輩たちのほうが適任でゴザルよ。=<style\=RubyPrefixTag></style>\nThe seniors are more qualified, de-gozaru.
 だからまだ誰ひとりとして動けないのよ！　今もあいつが果敢にキャンサーに挑んでいたらどうする！？　悠長にしてる場合！？=Like I said, they haven't moved at all! What if she is \nboldly challenging cancer at this very moment! \nIs it the time to just relax like this!?
 それに、勝手な行動は軍務上許されていません…。=And unauthorized actions are not permitted under \nmilitary law...
 お前は助けに行きたいのか、行きたくないのか、どっちよ！？=Do you want to rescue her, or not!?
@@ -566,18 +566,18 @@ B1　フロア名前 =B1 floor name
 [A-san]
 
 居た。アーさん。=There she is, A-san.
-それは拙者のことでゴザルか？=Do you mean me, de gozaru?
-<style\=RubyPrefixTag></style>\nそれは拙者のことでゴザルか？=<style\=RubyPrefixTag></style>\nDo you mean me, de gozaru?
-不思議な異名でゴザルな。それに佐月殿も。さては、山脇殿と豊後殿のことでゴザルな？=What a strange alias, de gozaru. Satsuki-dono also here. \nIs it about Yamawaki-dono and Bungo-dono, de gozaru?
-<style\=RubyPrefixTag></style>\n不思議な異名でゴザルな。それに佐月殿も。さては、山脇\r\n殿と豊後殿のことでゴザルな？=<style\=RubyPrefixTag></style>\nWhat a strange alias, de gozaru. Satsuki-dono also here. \nIs it about Yamawaki-dono and Bungo-dono, de gozaru?
+それは拙者のことでゴザルか？=Do you mean me, de-gozaru?
+<style\=RubyPrefixTag></style>\nそれは拙者のことでゴザルか？=<style\=RubyPrefixTag></style>\nDo you mean me, de-gozaru?
+不思議な異名でゴザルな。それに佐月殿も。さては、山脇殿と豊後殿のことでゴザルな？=What a strange alias, de-gozaru. Satsuki-dono also here. \nIs it about Yamawaki-dono and Bungo-dono, de-gozaru?
+<style\=RubyPrefixTag></style>\n不思議な異名でゴザルな。それに佐月殿も。さては、山脇\r\n殿と豊後殿のことでゴザルな？=<style\=RubyPrefixTag></style>\nWhat a strange alias, de-gozaru. Satsuki-dono also here. \nIs it about Yamawaki-dono and Bungo-dono, de-gozaru?
 はい。今こそ３１Ｃはひとつになる時。一緒に助けにいってくれませんか。=Yes. THis is the very time for 31C to be united. \nWon't you rescue them together with me?
-なりたくても部隊長がいなくては、ひとつになれないでゴザルよ。=I wanted to. But, without a captain, it's hard to be \nunited, de gozaru.
-<style\=RubyPrefixTag></style>\nなりたくても部隊長がいなくては、ひとつになれないでゴ\r\nザルよ。=<style\=RubyPrefixTag></style>\nI wanted to. But, without a captain, it's hard to be \nunited, de gozaru.
+なりたくても部隊長がいなくては、ひとつになれないでゴザルよ。=I wanted to. But, without a captain, it's hard to be \nunited, de-gozaru.
+<style\=RubyPrefixTag></style>\nなりたくても部隊長がいなくては、ひとつになれないでゴ\r\nザルよ。=<style\=RubyPrefixTag></style>\nI wanted to. But, without a captain, it's hard to be \nunited, de-gozaru.
 僭越ながらこのわたしが代わりを務めます。=It might be presumptuous of me, but I will fill in \nher position.
 <style\=RubyPrefixTag></style>\n僭越ながらこのわたしが代わりを務めます。=<style\=RubyPrefixTag></style>\nIt might be presumptuous of me, but I will fill in \nher position.
 アーさん…こうしてふらっとあたしらがやってきたように見えるだろ。=A-san...You might think that we've just wandered here \nby chance, right?
-違うでゴザルか？=Am I wrong, de gozaru?
-<style\=RubyPrefixTag></style>\n違うでゴザルか？=<style\=RubyPrefixTag></style>\nAm I wrong, de gozaru?
+違うでゴザルか？=Am I wrong, de-gozaru?
+<style\=RubyPrefixTag></style>\n違うでゴザルか？=<style\=RubyPrefixTag></style>\nAm I wrong, de-gozaru?
 基地の中を這いずり回って、ようやく見つけ出したんだよ…！　なあ、マリー？=We walked all over the base and finally managed to \nfind you...! Right, Marie?
 <style\=RubyPrefixTag></style>\n基地の中を這いずり回って、ようやく見つけ出したんだよ\r\n…！　なあ、マリー？=<style\=RubyPrefixTag></style>\nWe walked all over the base and finally managed to \nfind you...! Right, Marie?
 はい。膝が笑ってます。=Yes. My knees are about to give away.
@@ -585,13 +585,13 @@ B1　フロア名前 =B1 floor name
 佐月殿が…？=Satsuki-dono's is...?
 さすが忍者…アーさんのその忍術があれば百人力…。=As expected of ninja... As long as we have A-san's \nninjutsu, we have the strength of hundred people...
 協力してくれますか？　アーデルちゃんの力が必要なんです。=Will you help us? I need Adel-chan's strength.
-拙者、捜しものを得意とはしていないでゴザルが？=I'm not the best at searching though, de gozaru?
+拙者、捜しものを得意とはしていないでゴザルが？=I'm not the best at searching though, de-gozaru?
 え、えっと…。=U-umm...
 逆の発想だよ。=It's the other way around.
 忍者って隠れたりするの得意だろ？　ならどこに隠れているのかわかるはず！=Ninjas are good at hiding, right? Then you should know \nwhere people hides!
 そうですね。きっとイヴァールちゃんはぶんちゃんに追いついて、どこかに身を潜めてるはずですから。=Yeah. I'm sure Ivar-chan is catching up with Bun-chan and \ngot to be hiding somewhere.
 <style\=RubyPrefixTag></style>\nそうですね。きっとイヴァールちゃんはぶんちゃんに追い\r\nついて、どこかに身を潜めてるはずですから。=<style\=RubyPrefixTag></style>\nYeah. I'm sure Ivar-chan is catching up with Bun-chan and \ngot to be hiding somewhere.
-なるほど！　任せるでゴザル！　拙者が山脇殿と豊後殿を見つけてみせるでゴザルよ！=I see! Leave it to me, de gozaru! I'll find both \nYamawaki-dono and Bungo-dono, de gozaru!
+なるほど！　任せるでゴザル！　拙者が山脇殿と豊後殿を見つけてみせるでゴザルよ！=I see! Leave it to me, de-gozaru! I'll find both \nYamawaki-dono and Bungo-dono, de-gozaru!
 残すはひとりだな。=One person left.
 
 [Megumin]
@@ -665,7 +665,7 @@ B1　フロア名前 =B1 floor name
 <style\=RubyPrefixTag></style>\n13MBのアセット更新が必要です。\nダウンロードを開始しますか？=<style\=RubyPrefixTag></style>\n13MB asset update is required. Do you start downloading?
 今日こそ見つけるぞ。３１Ｃのみんなと力を合わせて！=We'll find them today. Lets join forces with everyone \nfrom 31C!
 はい、お願いします！=Yes, I'm counting on you!
-任せるでゴザルよ！=Leave it to me, de gozaru!
+任せるでゴザルよ！=Leave it to me, de-gozaru!
 やれることはやろう。=I'll do what I can.
 <style\=RubyPrefixTag></style>\nやれることはやろう。=<style\=RubyPrefixTag></style>\nI'll do what I can.
 …微力ながらお手伝いさせて頂きます。=...I will help in any way I can.
@@ -678,8 +678,8 @@ B1　フロア名前 =B1 floor name
 ここにきて地震とは…。=To think that there's an earthquake the moment we \nstep in here...
 <style\=RubyPrefixTag></style>\nここにきて地震とは…。=<style\=RubyPrefixTag></style>\nTo think that there's an earthquake the moment we \nstep in here...
 …あまりに不吉。=...too ominous.
-すごく危険でゴザルよ…。=Very dangerous, de gozaru...
-<style\=RubyPrefixTag></style>\nすごく危険でゴザルよ…。=<style\=RubyPrefixTag></style>\nVery dangerous, de gozaru...
+すごく危険でゴザルよ…。=Very dangerous, de-gozaru...
+<style\=RubyPrefixTag></style>\nすごく危険でゴザルよ…。=<style\=RubyPrefixTag></style>\nVery dangerous, de-gozaru...
 ３１Ｃだけで行きましょう…！=Let's go with just 31C...!
 仕方あるまい。=Can't be helped.
 <style\=RubyPrefixTag></style>\n仕方あるまい。=<style\=RubyPrefixTag></style>\nCan't be helped.
@@ -732,7 +732,7 @@ B1　フロア名前 =B1 floor name
 どうした！？=What's wrong!?
 足に負傷を…。=Her leg is injured...
 <style\=RubyPrefixTag></style>\n足に負傷を…。=<style\=RubyPrefixTag></style>\nHer leg is injured...
-無念でゴザル…。=I'm sorry, de gozaru...
+無念でゴザル…。=I'm sorry, de-gozaru...
 くっそ…。=Damn...
 それに３１Ａの皆さんが見当たらないです…。=Also, I don't see anyone else from the 31A...
 月歌！！　聞こえるか！！=Ruka!! Can you hear me!!
@@ -760,7 +760,7 @@ B1　フロア名前 =B1 floor name
 アーデルちゃんが負傷した以上、先輩部隊の救助を待つしかありません…。=As long as Adel-chan is injured, we have to wait \nfor the rescue from the senior unit...
 しばらく足止めか…。=I guess we're stuck here for a while, huh...
 <style\=RubyPrefixTag></style>\nしばらく足止めか…。=<style\=RubyPrefixTag></style>\nI guess we're stuck here for a while, huh...
-拙者は置いていっていいでゴザルよ…。=You can leave me behind, de gozaru...
+拙者は置いていっていいでゴザルよ…。=You can leave me behind, de-gozaru...
 そんなことは出来ません！=I can't do that!
 ここまで来ておいて、山脇殿と豊後殿を見捨てるでゴザルか！？=You have come this far, and now you are abandoning \nYamawaki-dono and Bungo-dono!?
 やはりわしらは動くべきではなかったのかもな…。=Maybe we shouldn't have gone after all...
@@ -769,7 +769,7 @@ B1　フロア名前 =B1 floor name
 <style\=RubyPrefixTag></style>\n今だって、先輩方が捜索してくれておるだろう。もしかし\r\nたら、ふたりのほうが助かって、わしらのほうがここで全\r\n滅するかもな。=<style\=RubyPrefixTag></style>\nRight now, the seniors are searching for them. \nMaybe both of them will be rescued while we're \ngoing to be annihilated here.
 あたしが背負って運ぶよ。=I'll carry her on my back.
 <style\=RubyPrefixTag></style>\nあたしが背負って運ぶよ。=<style\=RubyPrefixTag></style>\nI'll carry her on my back.
-ひとを背負って、切り抜けられるほど、ここらに居るキャンサーは甘くないでゴザルよ…。=The cancers around here are not so weak that you can \nget away while carrying someone on your back, de gozaru...
+ひとを背負って、切り抜けられるほど、ここらに居るキャンサーは甘くないでゴザルよ…。=The cancers around here are not so weak that you can \nget away while carrying someone on your back, de-gozaru...
 …ここまでもぎりぎりの戦いでしたものね。それも３１Ａの皆さんの力を借りて。=...Up to this point we've been barely scrap by too. \nAnd that too with the help of everyone at 31A.
 …その３１Ａの皆さんとも離ればなれ。=...And now we've also been separated by everyone \nelse from 31A.
 <style\=RubyPrefixTag></style>\n…その３１Ａの皆さんとも離ればなれ。=<style\=RubyPrefixTag></style>\n...And now we've also been separated by everyone \nelse from 31A.
@@ -782,8 +782,8 @@ B1　フロア名前 =B1 floor name
 では、こちらは気長に助けを待つしかないな。=Then, we'll just have to wait patiently for help.
 <style\=RubyPrefixTag></style>\nでは、こちらは気長に助けを待つしかないな。=<style\=RubyPrefixTag></style>\nThen, we'll just have to wait patiently for help.
 …どうしてこんなことに。=...How could this happen.
-不覚でゴザル…。=I'm very sorry, de gozaru...
-<style\=RubyPrefixTag></style>\n不覚でゴザル…。=<style\=RubyPrefixTag></style>\nI'm very sorry, de gozaru...
+不覚でゴザル…。=I'm very sorry, de-gozaru...
+<style\=RubyPrefixTag></style>\n不覚でゴザル…。=<style\=RubyPrefixTag></style>\nI'm very sorry, de-gozaru...
 
 [Marie Backstory]
 
@@ -857,7 +857,7 @@ B1　フロア名前 =B1 floor name
 戻りましょう…。=Let's go back to everyone...
 <style\=RubyPrefixTag></style>\n戻りましょう…。=<style\=RubyPrefixTag></style>\nLet's go back to everyone...
 なるほど…状況はわかった…。とにかく物音を立てないようにな。=I see...I understand the situation now...Anyway, don't make a noise, okay?
-喉が渇いたでゴザル…。=I'm thirsty, de gozaru...
+喉が渇いたでゴザル…。=I'm thirsty, de-gozaru...
 もう水もこれで尽きるぞ…。=We ran out of water already...
 <style\=RubyPrefixTag></style>\nもう水もこれで尽きるぞ…。=<style\=RubyPrefixTag></style>\nWe ran out of water already...
 （留まっても、進んでも駄目だなんて、どうすりゃいいんだ…）=(We can't stay around nor go ahead, what should we do...)
@@ -894,11 +894,11 @@ B1　フロア名前 =B1 floor name
 そんなこと笑顔で言うな…！！=Don't say that with a smile...!!
 <style\=RubyPrefixTag></style>\nそんなこと笑顔で言うな…！！=<style\=RubyPrefixTag></style>\nDon't say that with a smile...!!
 …私たちは仲間の命をそのように軽んじたりはしません…見損なわないでください。=...We do not take the lives of our comrades that \nlightly...Please don't think that way.
-拙者も世迷い言を口にしたことを悔いてるでゴザるよ！！　今の佐月殿はその愚かな自分を見ているようで辛いでゴザルよ！！=I regret having uttered such nonsense too, de gozaru!! \nSeeing you like this is like I was looking at my \nfoolish self, it's painful, de gozaru!!
-<style\=RubyPrefixTag></style>\n拙者も世迷い言を口にしたことを悔いてるでゴザるよ！！\r\n今の佐月殿はその愚かな自分を見ているようで辛いでゴザ\r\nルよ！！=<style\=RubyPrefixTag></style>\nI regret having uttered such nonsense too, de gozaru!! \nSeeing you like this is like I was looking at my \nfoolish self, it's painful, de gozaru!!
+拙者も世迷い言を口にしたことを悔いてるでゴザるよ！！　今の佐月殿はその愚かな自分を見ているようで辛いでゴザルよ！！=I regret having uttered such nonsense too, de-gozaru!! \nSeeing you like this is like I was looking at my \nfoolish self, it's painful, de-gozaru!!
+<style\=RubyPrefixTag></style>\n拙者も世迷い言を口にしたことを悔いてるでゴザるよ！！\r\n今の佐月殿はその愚かな自分を見ているようで辛いでゴザ\r\nルよ！！=<style\=RubyPrefixTag></style>\nI regret having uttered such nonsense too, de-gozaru!! \nSeeing you like this is like I was looking at my \nfoolish self, it's painful, de-gozaru!!
 みんなで…。=All of us...
 生きて…。=will live...
-帰るでゴザルよ…。=and return safely, de gozaru...
+帰るでゴザルよ…。=and return safely, de-gozaru...
 巫呼ちゃん…星羅ちゃん…アーデルちゃん…。=Miko-chan...Seira-chan...Adel-chan...
 <style\=RubyPrefixTag></style>\n巫呼ちゃん…星羅ちゃん…アーデルちゃん…。=<style\=RubyPrefixTag></style>\nMiko-chan...Seira-chan...Adel-chan...
 届いたか？　仲間の思い。=Did it reach you? Your friend's feelings.
@@ -908,8 +908,8 @@ B1　フロア名前 =B1 floor name
 ああ。遠距離から叩けるタイプのセラフをメインに掘削していく。残りはキャンサーに備えてくれ。=Okay, Dig out using mainly the long-ranged seraph. \nThe rest, please be ready for the cancer.
 総員セラフ構えーー！　掘削始め！！=All hands on the seraphs! Start digging!!
 む…気づかれたぞ！=Ugh...It noticed us!
-恐ろしいでかさでゴザル！！=It is frighteningly large, de gozaru!!
-<style\=RubyPrefixTag></style>\n恐ろしいでかさでゴザル！！=<style\=RubyPrefixTag></style>\nIt is frighteningly large, de gozaru!!
+恐ろしいでかさでゴザル！！=It is frighteningly large, de-gozaru!!
+<style\=RubyPrefixTag></style>\n恐ろしいでかさでゴザル！！=<style\=RubyPrefixTag></style>\nIt is frighteningly large, de-gozaru!!
 急げ…もう少しだ！！=Hurry up...Just a bit more!!
 …くっ。=...Ugh.
 <style\=RubyPrefixTag></style>\n…くっ。=<style\=RubyPrefixTag></style>\n...Ugh.
@@ -953,19 +953,19 @@ B1　フロア名前 =B1 floor name
 [Wakki & Bungo]
 
 <style\=RubyPrefixTag></style>\nピギー！=<style\=RubyPrefixTag></style>\n*Screech*
-いい加減観念するでゲスよ！=Just give up already, gesu!
-<style\=RubyPrefixTag></style>\nいい加減観念するでゲスよ！=<style\=RubyPrefixTag></style>\nJust give up already, gesu!
+いい加減観念するでゲスよ！=Just give up already-gesu!
+<style\=RubyPrefixTag></style>\nいい加減観念するでゲスよ！=<style\=RubyPrefixTag></style>\nJust give up already-gesu!
 居た…！=There they are...!
 <style\=RubyPrefixTag></style>\n居た…！=<style\=RubyPrefixTag></style>\nThere they are...!
 ふたりして、遊んでる…。=They are playing around...?
 追いついていてくれたんだ…。=So, she did catch up with her...
-なかなかこざかしい奴なのでゲスよ…！=It's quite a cunning one, gesu...!
-<style\=RubyPrefixTag></style>\nなかなかこざかしい奴なのでゲスよ…！=<style\=RubyPrefixTag></style>\nIt's quite a cunning one, gesu...!
+なかなかこざかしい奴なのでゲスよ…！=It's quite a cunning one-gesu...!
+<style\=RubyPrefixTag></style>\nなかなかこざかしい奴なのでゲスよ…！=<style\=RubyPrefixTag></style>\nIt's quite a cunning one-gesu...!
 そんな相手にいつまで手間取っているんだよ、それでもこの私の使い魔かい…？=How long does it take for you to deal with something \nlike this, and yet you call yourself my underling?
-ちゃんと仕留めて、その首を山脇様に献上するでゲスよ…！=I'm going to kill it and present it's head to \nYamawaki-sama, gesu...!
-<style\=RubyPrefixTag></style>\nちゃんと仕留めて、その首を山脇様に献上するでゲスよ…！\r\n=<style\=RubyPrefixTag></style>\nI'm going to kill it and present it's head to \nYamawaki-sama, gesu...!\r\n
-でも、ちょこまか動きすぎて…このあちきも疲れてきたでゲスよ…。=But it moves around too much...Even I'm getting \ntired, gesu...
-<style\=RubyPrefixTag></style>\nでも、ちょこまか動きすぎて…このあちきも疲れてきたで\r\nゲスよ…。=<style\=RubyPrefixTag></style>\nBut it moves around too much...Even I'm getting \ntired, gesu...
+ちゃんと仕留めて、その首を山脇様に献上するでゲスよ…！=I'm going to kill it and present it's head to \nYamawaki-sama-gesu...!
+<style\=RubyPrefixTag></style>\nちゃんと仕留めて、その首を山脇様に献上するでゲスよ…！\r\n=<style\=RubyPrefixTag></style>\nI'm going to kill it and present it's head to \nYamawaki-sama-gesu...!\r\n
+でも、ちょこまか動きすぎて…このあちきも疲れてきたでゲスよ…。=But it moves around too much...Even I'm getting \ntired-gesu...
+<style\=RubyPrefixTag></style>\nでも、ちょこまか動きすぎて…このあちきも疲れてきたで\r\nゲスよ…。=<style\=RubyPrefixTag></style>\nBut it moves around too much...Even I'm getting \ntired-gesu...
 そんな体力のなさで私の使い魔を名乗るなんて許さないよ…！=I won't allow you to call yourself my underling with \nthat kind of stamina...!
 <style\=RubyPrefixTag></style>\nそんな体力のなさで私の使い魔を名乗るなんて許さないよ\r\n…！=<style\=RubyPrefixTag></style>\nI won't allow you to call yourself my underling with \nthat kind of stamina...!
 小さなキャンサーを相手に…ごっこ遊びをしてる…。=They are playing around...with the small cancer...
@@ -980,9 +980,9 @@ B1　フロア名前 =B1 floor name
 そうですね。ふう…。=Yeah. Phew...
 あいつは、昔遊んでた頃、敵役に使っていたぬいぐるみにそっくりな小型キャンサーを見つけて、ここに迷い込んだんだ…。=She found a small cancer that looked exactly like a \nstuffed animal she used to play with back in the day, \nand got lost in here...
 <style\=RubyPrefixTag></style>\nあいつは、昔遊んでた頃、敵役に使っていたぬいぐるみに\r\nそっくりな小型キャンサーを見つけて、ここに迷い込んだ\r\nんだ…。=<style\=RubyPrefixTag></style>\nShe found a small cancer that looked exactly like a \nstuffed animal she used to play with back in the day, \nand got lost in here...
-その後、あの馬鹿でかいキャンサーが徘徊しているのに気づいて…無闇に動くことも出来ず、ここに留まるしかなかった…電子軍人手帳の電波も届かないし…。=Then I noticed that big-ass cancer wandering around... \nWe couldn't move recklessly, so we had to stay here...\nE-pad's signal also won't reach here...
+その後、あの馬鹿でかいキャンサーが徘徊しているのに気づいて…無闇に動くことも出来ず、ここに留まるしかなかった…電子軍人手帳の電波も届かないし…。=Then I noticed that big-ass cancer wandering around... \nWe couldn't move recklessly, so we had to stay here...\nE-Pad's signal also won't reach here...
 あいつの相手をしてくれた小型キャンサーが、ひとを傷つけられるほどの力がなくて…ちょうどよかったよ…。=That small cancer was not strong enough to hurt people...\nSo, that's just perfect...
-あ…！！　奴が逃げるでゲス…！　待つでゲスよ…！！=Ah...!! It got away, gesu...! Wait for me, gesu...!!
+あ…！！　奴が逃げるでゲス…！　待つでゲスよ…！！=Ah...!! It got away-gesu...! Wait for me-gesu...!!
 待ちな！　もう追わなくていいよ！！=Oi, hold it! You don't have to chase it anymore!!
 <style\=RubyPrefixTag></style>\n待ちな！　もう追わなくていいよ！！=<style\=RubyPrefixTag></style>\nOi, hold it! You don't have to chase it anymore!!
 とにかく今は、水と、食料を…！=Anyway, here water and food...!
@@ -991,12 +991,12 @@ B1　フロア名前 =B1 floor name
 <style\=RubyPrefixTag></style>\nああ、久々だよ…。=<style\=RubyPrefixTag></style>\nYeah, it's been a while...
 おい、使い魔、お前も休んでいいぞ！　戦い疲れただろ！=Oi, underling, you should take a break too! \nYou must be tired, right!?
 <style\=RubyPrefixTag></style>\nおい、使い魔、お前も休んでいいぞ！　戦い疲れただろ！\r\n=<style\=RubyPrefixTag></style>\nOi, underling, you should take a break too! \nYou must be tired, right!?\r\n
-山脇様からの試練が、ようやく終わるというのでゲスか…。=So the trials from Yamawaki-sama are finally over, gesu...?
-<style\=RubyPrefixTag></style>\n山脇様からの試練が、ようやく終わるというのでゲスか…。\r\n=<style\=RubyPrefixTag></style>\nSo the trials from Yamawaki-sama are finally over, gesu...?\r\n
+山脇様からの試練が、ようやく終わるというのでゲスか…。=So the trials from Yamawaki-sama are finally over-gesu...?
+<style\=RubyPrefixTag></style>\n山脇様からの試練が、ようやく終わるというのでゲスか…。\r\n=<style\=RubyPrefixTag></style>\nSo the trials from Yamawaki-sama are finally over-gesu...?\r\n
 そうだ終わりだよ！　さあ、飲んで、食いな！=That's right, it's over! Here, drink and eat this!
-ありがたいでゲス…今回の試練は辛かったでゲス…。=I appreciate it, gesu...The trials this time around is \nhard, gesu...
-潤うでゲス…美味しいでゲス…。=So refreshing, gesu...So tasty, gesu...
-<style\=RubyPrefixTag></style>\n潤うでゲス…美味しいでゲス…。=<style\=RubyPrefixTag></style>\nSo refreshing, gesu...So tasty, gesu...
+ありがたいでゲス…今回の試練は辛かったでゲス…。=I appreciate it-gesu...The trials this time around is \nhard-gesu...
+潤うでゲス…美味しいでゲス…。=So refreshing-gesu...So tasty-gesu...
+<style\=RubyPrefixTag></style>\n潤うでゲス…美味しいでゲス…。=<style\=RubyPrefixTag></style>\nSo refreshing-gesu...So tasty-gesu...
 遅くなって悪かった…。=Sorry it took so long...
 でも無事で…本当によかった…。=But I'm so glad... you both are safe...
 
@@ -1112,15 +1112,15 @@ B1　フロア名前 =B1 floor name
 それを成功させちまうのが、ユッキーのすごいところじゃん？=Being able to make it work is what's great about \nYukki, isn't it?
 <style\=RubyPrefixTag></style>\nそれを成功させちまうのが、ユッキーのすごいところじゃ\r\nん？=<style\=RubyPrefixTag></style>\nBeing able to make it work is what's great about \nYukki, isn't it?
 普通に失敗もあるわ。=There's also a time where I fail.
-<style\=RubyPrefixTag></style>\n普通に失敗もあるわ。=<style\=RubyPrefixTag></style>\nThere's also a time where I fail.
+<style\=RubyPrefixTag></style>\n普通に失敗もあるわ。=<style\=RubyPrefixTag></style>\nThere's also a time when I fail.
 失敗したら、ごめん。ユッキーが土下座する。=If it failed, sorry. Yukki will prostrate.
 <style\=RubyPrefixTag></style>\n失敗したら、ごめん。ユッキーが土下座する。=<style\=RubyPrefixTag></style>\nIf it failed, sorry. Yukki will prostrate.
 なんでだよ。理不尽が過ぎるわ。=Why should I? That's too unreasonable.
 もちろん、そんな…贅沢は言いません。駄目元でいいです。お願いします。=Of course, I won't demand such a thing. It's okay if \nit fails. I'm begging you.
 <style\=RubyPrefixTag></style>\nもちろん、そんな…贅沢は言いません。駄目元でいいです。\r\nお願いします。=<style\=RubyPrefixTag></style>\nOf course, I won't demand such a thing. It's okay if \nit fails. I'm begging you.
 とりあえずレトロなタブレットのバッテリーが死んでいないことを祈ろう。=Let's just hope the battery in this retro tablet \nisn't dead.
-端末をハックするにはケーブルで物理的にデンチョに繋ぐしかねーぞ。探してきてくれないか。=The only way to hack a terminal is to physically \nconnect it to the E-pad with a cable. \nCan I ask you to search for it?
-<style\=RubyPrefixTag></style>\n端末をハックするにはケーブルで物理的にデンチョに繋ぐ\r\nしかねーぞ。探してきてくれないか。=<style\=RubyPrefixTag></style>\nThe only way to hack a terminal is to physically \nconnect it to the E-pad with a cable. \nCan I ask you to search for it?
+端末をハックするにはケーブルで物理的にデンチョに繋ぐしかねーぞ。探してきてくれないか。=The only way to hack a terminal is to physically \nconnect it to the E-Pad with a cable. \nCan I ask you to search for it?
+<style\=RubyPrefixTag></style>\n端末をハックするにはケーブルで物理的にデンチョに繋ぐ\r\nしかねーぞ。探してきてくれないか。=<style\=RubyPrefixTag></style>\nThe only way to hack a terminal is to physically \nconnect it to the E-Pad with a cable. \nCan I ask you to search for it?
 任せろ。=Leave it to us.
 <style\=RubyPrefixTag></style>\n任せろ。=<style\=RubyPrefixTag></style>\nLeave it to us.
 
@@ -1159,8 +1159,8 @@ B1　フロア名前 =B1 floor name
 <style\=RubyPrefixTag></style>\nもしくは大量のキャンサーが卵から孵化するカット入れて\r\n悲劇は終わらないエンド。=<style\=RubyPrefixTag></style>\nOr an ending cutscene of a large number of cancers \nhatching from the eggs and the tragedy never ends.
 前者のほうがいい。=I prefer the original.
 <style\=RubyPrefixTag></style>\n前者のほうがいい。=<style\=RubyPrefixTag></style>\nI prefer the original.
-軽い捻挫でゴザったよ！　助かったでゴザル！=It was a minor sprain, de gozaru! \nYou saved me, de gozaru!
-<style\=RubyPrefixTag></style>\n軽い捻挫でゴザったよ！　助かったでゴザル！=<style\=RubyPrefixTag></style>\nIt was a minor sprain, de gozaru! \nYou saved me, de gozaru!
+軽い捻挫でゴザったよ！　助かったでゴザル！=It was a minor sprain, de-gozaru! \nYou saved me, de-gozaru!
+<style\=RubyPrefixTag></style>\n軽い捻挫でゴザったよ！　助かったでゴザル！=<style\=RubyPrefixTag></style>\nIt was a minor sprain, de-gozaru! \nYou saved me, de-gozaru!
 よく粘り抜きましたね。助け合うのは当然のことです！=You did a great job of sticking with it. \nIt's only natural that we help each other!
 <style\=RubyPrefixTag></style>\nフレーバー通りに行く=<style\=RubyPrefixTag></style>\nGo to the flavor street
 ありました！　これです。=Found it! This one.
