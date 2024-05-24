@@ -154,7 +154,7 @@
 よし、腹ごなしにアリーナで頑張っちゃうぞ！=Alright, I'll do my best in the arena to help the \ndisgestion!
 <style\=RubyPrefixTag></style>\nよし、腹ごなしにアリーナで頑張っちゃうぞ！=<style\=RubyPrefixTag></style>\nAlright, I'll do my best in the arena to help the \ndisgestion!
 …ということで。\n以上が編み出したフォーメーションよ。=...So, these are the formations I have created.
-山脇様、さすがでゲス！=As expected of Yamawaki-sama, gesu!
+山脇様、さすがでゲス！=As expected of Yamawaki-sama, de-gesu!
 …今日の訓練で試してみるよ！=...Let's try this on today's training!
 これで必勝でゴザル！！=This is a sure-win, gozaru!!
 …くだらん。=...What a nonsense.
