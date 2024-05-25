@@ -1,0 +1,2205 @@
+# General
+
+[Auto] 閃光=Flash
+ターン開始時に前衛にいると\n自身のSP+1=When in frontline at turn start\ngain SP+1
+
+[Auto] 雷の波動=Lightning surge
+味方全体の雷属性スキル攻撃力を\n常時+10%=Every allies' lightning attack skill has constant +10% power
+
+[Auto] 雷の強威=Thunder's might
+行動開始時に前衛にいると\n自身の雷属性のスキル攻撃力+25%=When acting from frontline\nboost own lightning skill attack by +25%
+
+[Auto] 吉報=Good news
+ターン開始時 前衛にいると\n確率で 自身のSP+3=Chance to gain SP+3 at frontline at turn start
+
+[Auto] 星空=Starry sky
+行動開始時 前衛にいると\nチームのクリティカル率+10%=When acting from frontline\nincrease team's critical rate by +10%
+
+[Auto] 英雄の凱歌=Hero's anthem
+行動開始時 前衛にいると\nチームのスキル攻撃力+10%=When acting from frontline\nboost team's skill attack by +10%
+
+リカバー=Recover
+聖なる光で\n前衛のDPを回復する=Heal frontline's DP with holy light
+
+[Auto] 堅忍=Fortitude
+敵行動開始時に前衛 & DP破損状態で\n自身の防御力+50%=Increase own defense by +50% when enemy starts action in frontline & DP is damaged
+
+[Auto] 勇猛=Valiant
+行動開始時に前衛 & DP100%以上のとき\n自身のスキル攻撃力+30%=Boost own skill attack by +30% when starting action in frontline & DP is above 100%
+
+[Auto] 烈風=Fierce wind
+バトル開始時 前衛にいると\n自身のスキル攻撃力+30%(1ターン)=Boost own skill attack by +30% for 1 turn when starting battle in frontline
+
+[Auto] 決心=Determination
+行動開始時に前衛 & SP15以上のとき\n自身のスキル攻撃力+30%=Boost own skill attack by +30% when starting action in frontline & SP is above 15
+
+[Auto] 火の強威=Fire's might
+行動開始時に前衛にいると\n自身の火属性のスキル攻撃力+25%=Boost own fire skill attack by +25% when starting action in frontline
+
+クールダウン=Cool down
+自身の集中力を高め\nスキル攻撃力を大きく上げる=Greatly increase own skill attack by focusing
+
+[Auto] 疾風=Swift wind
+バトル開始時 前衛にいると\nスキル攻撃力+15%(3ターン)=Increase skill attack by +15% for 3 turns when starting battle in frontline
+
+[Auto] 闇の波動=Dark surge
+味方全体の闇属性スキル攻撃力を\n常時+10%=Every allies' dark attack skill has constant +10% power
+
+[Auto] 火の波動=Fire surge
+味方全体の火属性スキル攻撃力を\n常時+10%=Every allies' fire attack skill has constant +10% power
+
+[Auto] 弱化=Weaken
+行動開始時に前衛にいると\n敵の防御力-10%=Reduce enemy's defense by -10% when starting action in frontline
+
+[Auto] 野生の勘=Wild instinct
+行動開始時 前衛にいると\n確率で スキル攻撃力+30%=Chance to increase skill attack by +30% when starting action in frontline
+
+[Auto] 威嚇の叫び=Intimidating shout
+バトル開始時 前衛にいると\n高確率で敵をスタン=High chance to stun enemies when starting battle in frontline
+
+[Auto] 機敏=Agility
+バトル開始時 前衛にいると\n自身のSP+2=Gain SP+2 when starting battle in frontline
+
+[Auto] 気転=Quick turn
+自身がかけた\nスキル攻撃力アップの効果量+25%=Increase the effect of own skill attack boost by +25%
+
+[Auto] 光の波動=Light surge
+味方全体の光属性スキル攻撃力を\n常時+10%=Every allies' light attack skill has constant +10% power
+
+フィルエンハンス=Phyl enhance
+全体の潜在力を覚醒させ\nスキル攻撃力を上げる=Awaken everyone's potential to increase skill attack
+
+エンハンス=Enhance
+前衛の力を引き出し\nスキル攻撃力を上げる=Draw out the frontline's power to increase skill attack
+
+[Auto] 好機=Opportunity
+ターン開始時に前衛 & SPが3以下のとき\n自身のSP+1=Gain SP+1 when in frontline at turn start & SP is 3 or less
+
+[Auto] 決意=Resolve
+行動開始時に前衛 & SP10以上のとき\n自身のスキル攻撃力+15%=Boost own skill attack by +15% when starting action in frontline & SP is above 10
+
+[Auto] 光の強威=Light's might
+行動開始時に前衛にいると\n自身の光属性のスキル攻撃力+25%=Boost own light skill attack by +25% when starting action in frontline
+
+[Auto] 狂乱の型=Frenzied form
+バトル開始時 前衛にいると\n自身の連撃数(大ダメージ)+3(1回)=Increase own multi-strike count (high damage) by +3 (once) when starting battle in frontline
+
+[Auto] 俊敏=Swiftness
+バトル開始時 前衛にいると\n自身のSP+5=Gain SP+5 when starting battle in frontline
+
+[Auto] 恵風=Graceful wind
+自身がかけた\n回復スキルの効果量+20%=Increase the effect of own healing skills by +20%
+
+[Auto] 雷の采配=Thunder's command
+行動開始時に前衛 & DP80%以上のとき\n前衛の雷属性のスキル攻撃力+18%=Boost frontline's lightning skill attack by +18% when starting action in frontline & DP is above 80%
+
+[Auto] 友愛=Fellowship
+ターン開始時 前衛にいると\n後衛のDP+10%=Increase rear guard's DP by +10% when in frontline at turn start
+
+[Auto] 博愛の心=Benevolent heart
+ターン開始時 前衛にいると\n前衛のDP+10%=Increase frontline's DP by +10% when in frontline at turn start
+
+[Auto] 向上心=Ambition
+ターン開始時 前衛にいると\nオーバードライブゲージ+5%=Increase overdrive gauge by +5% when in frontline at turn start
+
+[Auto] 高揚=Elation
+行動開始時 前衛にいると\nトークン1つにつき 攻撃力+5%=Increase attack by +5% per token when starting action in frontline
+
+プロヴォーク=Provoke
+自身のDPを回復(120%まで上限突破可)\nさらに 敵の攻撃を自身に集中させる=Recover own DP (up to 120%)\nand focus enemy attacks on self
+
+[Auto] 勇気=Courage
+行動開始時に前衛 & DP50%以上のとき\n自身のスキル攻撃力+15%=Boost own skill attack by +15% when starting action in frontline & DP is above 50%
+
+[Auto] 気合=Fighting spirit
+ターン開始時 前衛にいると\nDP50%以下のとき自身のDP+15%=Increase own DP by +15% when in frontline at turn start & DP is below 50%
+
+[Auto] 咆吼=Roar
+バトル開始時 前衛にいると\nオーバードライブゲージ+10%=Increase overdrive gauge by +10% when starting battle in frontline
+
+[Auto] 氷の強威=Ice's might
+行動開始時に前衛にいると\n自身の氷属性のスキル攻撃力+25%=Boost own ice skill attack by +25% when starting action in frontline
+
+[Auto] 警衛=Guard
+バトル開始時 前衛にいると\n自身の防御力+25%(3ターン)=Increase own defense by +25% for 3 turns when starting battle in frontline
+
+[Auto] 専心=Concentration
+オーバードライブ開始時 前衛にいると\n自身のスキル攻撃力+20%=Boost own skill attack by +20% when starting overdrive in frontline
+
+[Auto] 忍耐=Patience
+敵行動開始時に前衛 & DP50%以下のとき\n自身の防御力+25%=Increase own defense by +25% when enemy starts action in frontline & DP is below 50%
+
+[Auto] 侵食=Erosion
+自身がかけた\n防御力ダウンの効果量+25%=Increase the effect of own defense reduction by +25%
+
+[Auto] 洞察=Insight
+バトル開始時 前衛にいると\n自身のクリティカル率+20%(3ターン)=Increase own critical rate by +20% for 3 turns when starting battle in frontline
+
+[Auto] 闇の強威=Dark's might
+行動開始時に前衛にいると\n自身の闇属性のスキル攻撃力+25%=Boost own dark skill attack by +25% when starting action in frontline
+
+[Auto] 鮮烈=Vivid
+行動開始時に 前衛にいると\n自身のスキル攻撃時の破壊率上昇量+30%=Increase destruction rate by +30% when attacking from frontline
+
+[Auto] 壮烈=Heroic
+行動開始時に前衛 & DP80%以上のとき\n自身のスキル攻撃力+20%=Boost own skill attack by +20% when starting action in frontline & DP is above 80%
+
+[Auto] 氷の意志=Ice's will
+行動開始時に前衛にいると\n前衛の氷属性のスキル攻撃力+12%=Boost frontline's ice skill attack by +12% when starting action in frontline
+
+[Auto] 氷の波動=Ice surge
+味方全体の氷属性スキル攻撃力を\n常時+10%=Every allies' ice attack skill has constant +10% power
+
+[Auto] 鉄壁=Iron wall
+敵行動開始時 前衛にいると\nトークン1つにつき 防御力+7%=Increase defense by +7% per token when enemy starts action in frontline
+
+フィルリカバー=Phyl recover
+優しく包み込む光で\n全体のDPを中回復する=Gently envelop with light to moderately recover everyone's DP
+
+[Auto] 鋭気=Keen spirit
+行動開始時に前衛 & 敵が挑発または注目状態のとき\n自身のスキル攻撃力+30%=Boost own skill attack by +30% when starting action in frontline & enemy is taunted or targeted
+
+[Auto] 慈愛の心=Compassionate heart
+ターン開始時 前衛にいると\n味方全体のDP+7%=Increase all allies' DP by +7% when in frontline at turn start
+
+[Auto] 後閃=Backflash
+ターン開始時に後衛にいると\n自身のSP+1=Gain SP+1 when in rear guard at turn start
+
+[Auto] 先駆=Vanguard
+ターン開始時 前衛にいると\n後衛のSP+1=Gain SP+1 for rear guard when in frontline at turn start
+
+[Auto] 怒涛=Raging wave
+行動開始時 前衛にいると\n自身のクリティカルダメージ+30%=Increase own critical damage by +30% when starting action in frontline
+
+
+# Unique
+## Character
+RKayamori
+
+### Style
+The Feel of the Throne=
+
+黒曜のオーバーロード=Obsidian Overlord
+敵の闇属性防御力を下げ 暗黒の太陽で10連撃 [対HP+50%]=Lower enemy's dark defense with 10 strikes of Dark Sun [vs HP+50%]
+さらに 敵の弱点をついたとき 威力上昇 [スイッチで属性変化]=Additionally, power increases when hitting enemy's weak spot [Switch attribute on demand]
+
+炯眼の構え=Keen Stance
+刃を研ぎ澄まし 自身を心眼状態にする=Sharpen the blade, enter a state of Mind's Eye
+
+[Auto] 心眼の境地=Realm of the Mind's Eye
+行動開始時に前衛 & 自身が心眼状態のとき\n自身のスキル攻撃力+15%=When in frontline & in Mind's Eye state at turn start\nincrease own skill attack power by 15%
+
+[Auto] 万物の強威=Majesty of All Things
+行動開始時に前衛にいると\n自身のスキル攻撃力+20%=When in frontline at turn start\nincrease own skill attack power by 20%
+
+### Style
+ナイトクルーズ・エスコート=Night Cruise Escort
+
+迅雷風烈=Rapid Thunderstorm
+迅雷の力をその身に纏わせ 敵の防御力を下げ\n雷鳴の如く敵を貫く [対HP+50%]=Embrace the power of rapid thunder, lower enemy defense\nPierce enemies like thunderclap [vs HP+50%]
+
+サンダーパルス=Thunder Pulse
+雷の斬撃で 全体を斬りつける\n[対DP+30%]=Slash all with a thunder strike\n[vs DP+30%]
+
+### Style
+つかの間の安息=Brief Respite
+
+バーニングインパクト=Burning Impact
+炎の斬撃で 全体を斬りつける\n[対HP+30%]=Slash all with a flaming strike\n[vs HP+30%]
+
+[Auto] 危険な火遊び=Dangerous Fireplay
+行動開始時に前衛 & DP破損状態で\n自身の火属性のスキル攻撃力+50%=When in frontline & in DP damaged state at turn start\nincrease own fire attribute skill attack power by 50%
+
+### Style
+残響のカルディナル=Echoing Cardinal
+
+千紫万紅=Thousand Blooms
+満月を背に放つ 光の奔流で\n敵全体に12連撃 [対HP+30%]=Release a stream of light against the full moon\n12 strikes on all enemies [vs HP+30%]
+
+ノーブルウェッジ=Noble Wedge
+美しい刀捌きで 敵を斬りつける\n[破壊率大]=Beautiful swordplay to slash enemies\n[High destruction rate]
+
+### Style
+黎明のエモーショナル・ソウル=Dawn's Emotional Soul
+
+星火燎原+=Sparks Over Fields
+自身のスキル攻撃力を大きく上げ 敵単体を焼き尽くす [対HP+30%]\n31Aの隊員が3人以上のとき [対HP+50%]=Significantly increase own skill attack power, incinerate a single enemy [vs HP+30%]\nWhen there are 3 or more members from 31A [vs HP+50%]
+
+スピニングスラッシュ=Spinning Slash
+勢いよく薙ぎ払い\n全体を斬りつける=Swiftly sweep\nSlash all
+
+### Style
+閃光のサーキットバースト=Flash Circuit Burst
+
+夢幻泡影=Phantom Bubble Shadow
+軌跡を描いて宙を舞い\n敵単体に 9連撃を与える [対HP+30%]=Trace an arc in the air, dance through the sky\nDeliver 9 strikes to a single enemy [vs HP+30%]
+# Unique
+## Character
+YIzumi
+
+### Style
+君を待つ紅玉=Waiting Ruby
+
+乙女の秘め事=Maiden's Secret
+闇属性強化フィールド(大)を8ターン展開し 敵全体のバフを3つ解除する\nさらに 闇を秘めた荊棘で貫く=Deploy a large dark attribute enhancement field for 8 turns, remove 3 buffs from all enemies\nAdditionally, pierce with dark-imbued thorns
+
+仮面のワルツ=Masquerade Waltz
+敵全体に闇の砲撃を放つ [対DP+30%] このスキルでブレイクしたとき\n自身のスキル回数を1回復する(スキル回数の回復スキルを除く)=Fire a dark barrage at all enemies [vs DP+30%] When breaking with this skill\nrecover one skill use (excluding skill recovery skills)
+
+[Auto] 浄化の喝采=Applause of Purification
+自身が敵のバフを解除したとき\n全体にスキル攻撃力30%アップ(8ターン)を付与=When removing an enemy's buff\ngrant all allies a 30% skill attack power increase for 8 turns
+
+[Auto] 破砕の喝采=Applause of Shattering
+自身の攻撃で敵をブレイクしたとき\n全体にスキル攻撃力30%アップ(8ターン)を付与=When breaking an enemy with an attack\ngrant all allies a 30% skill attack power increase for 8 turns
+
+### Style
+踊るリンカネーション=Dancing Reincarnation
+
+光輝の夜明け=Dawn of Radiance
+光の全体砲撃 [対DP+50%] その後自身の攻撃力を2ターン下げる\nさらに ブレイク後の光弱点をついたとき 強ブレイク状態にする=Fire a barrage of light at all enemies [vs DP+50%] then reduce own attack power for 2 turns\nAdditionally, enter a strong break state when hitting a light weak point after a break
+
+乙女の輝き=Maiden's Radiance
+光の力を宿した砲撃を放ち\n敵を攻撃 [対DP+30%]=Fire a barrage imbued with the power of light\nAttack enemies [vs DP+30%]
+
+[Auto] 強烈=Intense
+行動開始時に 前衛にいると\n前衛のスキル攻撃時の破壊率上昇量+20%=When in frontline at turn start\nincrease the destruction rate during frontline's skill attack by 20%
+
+### Style
+KETSUの休日=KETSU's Holiday
+
+レッドオペレーション=Red Operation
+炎の力を宿した砲撃を放ち\n全体を攻撃 [対DP+30%]=Fire a barrage imbued with the power of flame\nAttack all [vs DP+30%]
+
+[Auto] 突の躍動=Thrust's Leap
+行動開始時 前衛にいると\n前衛の突属性のクリティカルダメージ+8%=When in frontline at turn start\nincrease the critical damage of frontline's thrust attribute by 8%
+
+### Style
+ナイトクルーズ・アテンダント=Night Cruise Attendant
+
+スーパーセル=Supercell
+防御力を犠牲に自身のスキル攻撃力を大きく引き出し\n敵全体に雷のビームを放つ [対DP+50%]=Sacrifice defense to greatly enhance own skill attack power\nFire a thunder beam at all enemies [vs DP+50%]
+
+スパイクサージ=Spike Surge
+広範囲に 雷の力を宿した\n砲撃を放つ [対HP+30%]=Fire a wide-range barrage imbued with the power of thunder\n[vs HP+30%]
+
+### Style
+夏椿、けうらなる夜光星=Summer Camellia, the Luminous Night Star
+
+牡丹=Peony
+防御力を犠牲に 宙に咲く花火の砲撃が\n敵に火属性ダメージを与える [対DP+50%]=Sacrifice defense, firework barrage blooms in the sky\nDeal fire attribute damage to enemies [vs DP+50%]
+
+銀蜂=Silver Bee
+冷静に狙いを定め 敵に集中砲撃 [対HP+30%]\n反動で 1ターン行動できなくなる=Calmly aim and concentrate barrage on enemies [vs HP+30%]\nRecoil makes unable to act for 1 turn
+# Unique
+## Character
+MAikawa
+
+### Style
+トワイライト・グロース=Twilight Growth
+
+ヒットチャートからの一閃=Flash from the Hit Chart
+敵の防御力と闇属性防御力を下げ(ターン永続) 闇属性で攻撃\nさらに 敵の回復力を致命的に下げる(ターン永続)=Lower enemy's defense and dark defense (permanent), attack with dark attribute\nAdditionally, critically reduce enemy's recovery power (permanent)
+
+ナイトフォール=Nightfall
+闇を宿した大剣を叩きつけて敵を攻撃\nさらに2ターン厄状態にする=Smash enemies with a great sword imbued with darkness\nAdditionally, inflict misfortune for 2 turns
+
+[Auto] サイキックハイ=Psychic High
+戦闘中【ヒットチャートからの一閃】を\n1回以上使用しているとき 自身のスキル攻撃力+50%=During battle, if 【Flash from the Hit Chart】 has been used\nat least once, increase own skill attack power by 50%
+
+### Style
+心、躍るFuel=Heart, Dancing Fuel
+
+神楽浄火・閃=Kagura Purifying Fire - Flash
+烏有の地に炎を宿し 火属性強化フィールド(大)を8ターン展開\n敵の火属性防御力を2ターン下げ 激烈な炎で焼き尽くす=Imbue the void with flame, deploy a large fire attribute enhancement field for 8 turns\nLower enemy's fire defense for 2 turns, incinerate with intense flames
+
+### Style
+一夜の夢=One Night's Dream
+
+ブレイブ・ストライク=Brave Strike
+セラフの力で光を宿し 敵全体を一刀両断\nさらに 高確率でスタンさせる=Imbue with the power of Seraph, bisect all enemies with light\nAdditionally, high chance to stun
+
+ネイキッドイレイザー=Naked Eraser
+大剣を大振りして 全体を攻撃\nさらに 脆弱状態にする=Swing the great sword widely, attack all\nAdditionally, make them vulnerable
+
+### Style
+Ikki Burst Strike=
+
+リミット・インパクト+=Limit Impact+
+限界を超えた力で 遥か空中から一撃を与え 高確率でスタン\n31Aの隊員が3人以上のとき消費SP半減=Strike from the sky with power beyond limits, high chance to stun\nWhen there are 3 or more members from 31A, SP consumption is halved
+
+フルスイング=Full Swing
+大剣を振り回し 全体を薙ぎ払う\nさらに 確率でスタンさせる=Swing the great sword around, sweep all\nAdditionally, chance to stun
+
+### Style
+Impact Stream=
+
+ハードブレード=Hard Blade
+振り上げた力で  敵を強打\nさらに 防御力を下げる=Strike enemies powerfully with a raised blade\nAdditionally, lower their defense
+
+### Style
+Plain or Wild=
+
+スタンブレード=Stun Blade
+敵を叩きつけて攻撃\nさらに 確率でスタンさせる=Smash enemies with an attack\nAdditionally, chance to stun
+
+# Unique
+## Character
+TTojo
+
+### Style
+バニーファイト・デビエーション=Bunny Fight Deviation
+
+今宵、快楽ナイトメア=Tonight, Pleasure Nightmare
+前衛の闇属性スタイルの 連撃数(小ダメージ)を3〜5回上げ\n敵全体の闇耐性を消し去り 闇耐性を下げる(ターン永続)=Increase the number of strikes (small damage) of frontline's dark attribute style by 3-5\nEradicate and lower dark resistance of all enemies (permanent)
+
+ピクシースマイル=Pixie Smile
+前衛の力を引き出し\n闇属性スキル攻撃力を上げる=Draw out the power of the frontline\nIncrease dark attribute skill attack power
+
+### Style
+シークレットサービス・サイレンス=Secret Service Silence
+
+レディ・イン・ミラージュ=Lady in Mirage
+光属性強化フィールド(大)を8ターン展開し 前衛のクリティカル率\nクリティカルダメージを上げ 敵全体に知性依存の明光なレーザーを放つ=Deploy a large light attribute enhancement field for 8 turns, increase the critical rate\nand critical damage of the frontline, fire a brilliant laser dependent on intelligence at all enemies
+
+ホーリーエンハンス=Holy Enhance
+レディ・イン・ミラージュ=
+光属性強化フィールド(大)を8ターン展開し 前衛のクリティカル率\nクリティカルダメージを上げ 敵全体に知性依存の明光なレーザーを放つ=Deploy a large light attribute enhancement field for 8 turns, increase the critical rate\nand critical damage of the frontline, fire a brilliant laser dependent on intelligence at all enemies
+
+ホーリーエンハンス=
+前衛の力を引き出し\n光属性スキル攻撃力を上げる=Draw out the power of the frontline\nIncrease light attribute skill attack power
+
+### Style
+真夏のPrayer=Midsummer's Prayer
+
+ウィッシュカムトゥルー=Wish Come True
+天高くに打ち放つ まばゆい光の導きで\n全体のスキル攻撃力を大きく上げる=Release a dazzling light high into the sky\nSignificantly increase overall skill attack power
+
+シルキーフレア=Silky Flare
+炎の銃弾を放ち\n全体を貫く=Fire a bullet of flame\nPierce through all
+
+### Style
+メメント・モリの美少女=Beautiful Girl of Memento Mori
+
+メメント・モリ+=Memento Mori+
+火属性強化フィールドを展開し 全体を炎の銃弾で貫く\nさらに 味方全体の攻撃力上昇スキル効果を上げる=Deploy a fire attribute enhancement field, pierce all with a bullet of flame\nAdditionally, increase the attack power skill effect of all allies
+
+ブレスショット=Breath Shot
+確率でSP回復し\n集中的な銃撃で 敵にダメージ=Chance to recover SP\nInflict damage on the enemy with concentrated gunfire
+
+[Auto] 灼熱の陣=Blazing Formation
+バトル開始時 前衛にいると\n火属性強化フィールド(小)を展開=At the start of battle, if in the frontline\nDeploy a small fire attribute enhancement field
+# Unique
+## Character
+KAsakura
+
+### Style
+狂悖暴戻のランダムウォーク=Chaotic Random Walk
+
+残焔=Remnant Flame
+炎の力を宿した鎌で 敵を斬り刻む\n[破壊率大]=Slash the enemy with a scythe imbued with the power of flame\n[High destruction rate]
+
+### Style
+シークレットサービス・デモリッシュ=Secret Service Demolish
+
+破壊のシニシズム=Destruction Cynicism
+自身の連撃数(大ダメージ)を3回上げ 光を纏いし刃で敵全体を攻撃\n敵の弱点をついたとき [破壊率超特大]=Increase own number of strikes (large damage) by 3, attack all enemies with a blade clad in light\nWhen hitting an enemy's weak point [Super large destruction rate]
+
+キルキルヒカル=Kill Kill Hikaru
+光の力を宿した鎌を投げつけ 全体を斬り刻む\n[破壊率大]=Throw a scythe imbued with the power of light, slash through all\n[High destruction rate]
+
+### Style
+スカーレット・リベリオン=Scarlet Rebellion
+
+劫火絢爛=Blazing Splendor
+樹海をも焼き尽くす 狂気の斬撃で\n敵全体に10連撃 [破壊率特大]=Incinerate even the sea of trees with a mad slash\nStrike all enemies 10 times [Extra large destruction rate]
+
+フューリーインパルス=Fury Impulse
+渾身の力で鎌を投げつけ 全体を斬り刻む\n反動で 1ターン行動できなくなる=Throw the scythe with all your might, slash through all\nRecoil makes you unable to act for 1 turn
+
+[Auto] 技巧=Technique
+行動開始時 前衛にいると\n自身のクリティカル率+30%=At the start of action, if in the frontline\nIncrease own critical rate by 30%
+
+### Style
+最前線のブルワーク=Frontline Bulwark
+
+狂乱舞=Frenzied Dance
+振り上げた力で 敵を斬り刻む\n[破壊率大]=Slash the enemy with raised power\n[High destruction rate]
+
+### Style
+紅蓮月華のKillrazor=Crimson Moon's Killrazor
+
+ブラッディ・ダンス=Bloody Dance
+あらゆる方向からの10連撃 [破壊率大]\n反動で 2ターン行動できなくなる=Strike from all directions 10 times [High destruction rate]\nRecoil makes you unable to act for 2 turns
+
+ワイルドスロー=Wild Throw
+鎌を投げつけ 全体を斬り刻む\n[破壊率大]=Throw the scythe, slash through all\n[High destruction rate]
+
+### Style
+Laugh or Cry=
+
+乱舞=Wild Dance
+鎌を振り回して 連撃する\n[破壊率大]=Swing the scythe around, strike repeatedly\n[High destruction rate]
+# Unique
+## Character
+TKunimi
+
+### Style
+トワイライト・メモリーズ=Twilight Memories
+
+オープン・ザ・ロード=Open the Road
+溢れる力で 味方単体を心眼状態にしクリティカル率を上げる\nさらにクリティカルダメージを大きく上げる=Empower an ally with Mind's Eye, increasing their critical rate\nand significantly boosting critical damage
+
+デヴォーション=Devotion
+後衛のスキル攻撃力を大きく引き出す\nその後 自身の攻撃力を2ターン下げる=Greatly enhance the rear guard's skill attack power\nthen reduce own attack power for 2 turns
+
+[Auto] 万物の波動=Wave of All Things
+味方全体のスキル攻撃力を\n常時+8%=Constantly increase all allies' skill attack power by +8%
+
+### Style
+幻想のコーラル=Fantasy Coral
+
+カレイド・レインシャワー=Kaleido Rainshower
+降り注ぐ輝きで 全体のDPを中回復し 3ターン継続DP回復状態\n自身以外の光属性スタイルのSPが3上昇する=Shower in brilliance to moderately recover everyone's DP and continue recovering for 3 turns\nIncrease SP by 3 for all light attribute styles except self
+
+プリズムアタック=Prism Attack
+光の力を宿した刃で\n敵を斬り裂く=Slash the enemy with a blade imbued with the power of light
+
+### Style
+激突！！エア・ベース=Clash!! Air Base
+
+二律背反スパークピッキング=Antithetical Spark Picking
+優しい雷光が 全体の雷属性スキル攻撃力を上げ\n敵に地を砕く 知性依存の迅雷を放つ=Gentle lightning boosts all allies' thunder attribute skill attack power\nand unleashes a crushing, intellect-dependent thunderbolt on the enemy
+
+きらめきのエール=Sparkling Cheer
+光輝の導きで 前衛のDPを回復し\nさらに 闘志を2ターン引き出す=Guided by radiance, recover the vanguard's DP\nand further draw out their fighting spirit for 2 turns
+
+### Style
+無邪気なデザイア=Innocent Desire
+
+ヒーリング=Healing
+癒しの光で包み込み\n前衛を3ターン継続DP回復状態にする=Envelop in healing light\nkeeping the vanguard in a DP recovery state for 3 turns
+
+### Style
+魔法の国のエレメンタル=Magical Country's Elemental
+
+リバイブ・ヴェール=Revive Veil
+不思議な力を身に纏い 癒しの光を放出\n全体のDPを中回復し スキル攻撃力も上げる=Wrap in mysterious power and emit healing light\nmoderately recover everyone's DP and also increase skill attack power
+
+フレイムテンペスト=Flame Tempest
+炎の力を宿した刃で\n敵を斬り刻む=Slash the enemy with a blade imbued with the power of flame
+
+### Style
+気合一閃エンジェルセイラー=Fighter's Flash Angel Sailor
+
+リザレクト・ライト=Resurrect Light
+奇跡の光で 前衛のDPを復活\nさらに 特大回復する=Revive the vanguard's DP with miraculous light\nand perform a major recovery
+
+闘気斬=Fighting Spirit Slash
+確率でSP回復し\n闘気の刃で 全体を斬り刻む=Recover SP by chance\nand slash through all with a blade of fighting spirit
+
+
+# Unique
+## Character
+EAoi
+
+
+### Style
+キララ・究極のアイドル=Kirara: The Ultimate Idol
+
+
+ダンスインザブルー=Dance in the Blue
+歓声を糧に 味方全体にデバフ無効(1回)を付与し \n自身以外の火属性スタイルのSPが5上昇する=Using cheers as fuel, grant debuff immunity (once) to all allies \nand increase SP by 5 for all fire styles except self
+
+アイドルスマイル=Idol Smile
+炎を纏わせた盾を 全体に叩きつける\n敵の弱点をついたとき威力が少し上がり かつ [破壊率大]=Slam a flame-enshrouded shield on all enemies\nSlightly increase power when hitting enemy's weak spot and [High Destruction Rate]
+
+[Auto] 火炎の護り=Flame Protection
+バトル開始時 火属性スタイルが3体以上のとき\n味方全体の防御力+50%(4ターン/重複不可)=At battle start, if there are 3 or more fire styles,\nincrease all allies' defense by 50% (4 turns/non-stackable)
+
+### Style
+トドケ・Miracle=Deliver: Miracle
+
+
+青春色のシュプール=Youthful Trail
+集束させたエネルギーで敵を貫き 体力依存の雷撃で爆発させる\nトークン数に応じて威力上昇=Penetrate enemies with focused energy and explode with a vitality-dependent lightning strike\nIncrease power depending on the number of tokens
+
+ご注文を伺います=Taking Your Order
+自身の防御力を高め 敵の攻撃を自身に集中させる\nさらに 自身のトークンを上昇=Boost own defense and draw enemy attacks to self\nAdditionally, increase own tokens
+
+[Auto] 護りの真髄=Essence of Protection
+敵から攻撃を受けると\nトークンを1上昇=When attacked by an enemy,\nincrease tokens by 1
+
+### Style
+ココロ・Inspire=Kokoro: Inspire
+
+
+エンジェルズ・ウィング=Angel's Wing
+奇跡の盾で 自身を2回ダメージ無効にし \n全体攻撃も含め 敵の攻撃を自身に集中させる=With a miraculous shield, make self immune to damage twice \nand draw all attacks, including area attacks, to self
+
+シールドトルネード=Shield Tornado
+回転する盾を 全体に叩きつけ\nダメージに応じて自身のDPを回復する=Slam a spinning shield on all enemies\nRecover own DP depending on the damage dealt
+
+[Auto] くじけぬ心=Unyielding Heart
+ターン開始時 前衛 & ブレイク状態のとき\n自身のDPを復活(出撃ごとに1回)=At turn start, if in the frontline & in break state,\nrevive own DP (once per sortie)
+
+### Style
+戦場の花散らし=Scattering Flowers on the Battlefield
+
+
+シールドレイ=Shield Ray
+敵にエネルギー弾を放ちつつ\n自身のDPを小回復する=Fire energy bullets at the enemy\nwhile slightly recovering own DP
+# Unique
+## Character
+IMinase
+
+
+### Style
+君の瞳にコロしてる=Captivated by Your Eyes
+
+
+狂騒のヨスガ=Wild Delirium
+自身の連撃数(大ダメージ)を3回上げ 敵全体を焼滅 [対HP+50％]\n反動で 2ターン行動できなくなる=Increase own combo count (high damage) by 3 and annihilate all enemies [Against HP+50%]\nBecome unable to act for 2 turns due to recoil
+
+セルフパッション=Self Passion
+感覚を研ぎ澄まし 自身のスキル攻撃力を大きく上げ\nさらに 次の攻撃の連撃数(小ダメージ)を5回上げる=Sharpen senses and greatly increase own skill attack power\nAdditionally, increase the combo count (low damage) of the next attack by 5
+
+[Auto] 火炎の極意=Secrets of the Flame
+バトル開始時 火属性スタイルが3体以上のとき\n味方全体の火属性スキル攻撃力+30%(重複不可)=At battle start, if there are 3 or more fire styles,\nincrease all allies' fire attribute skill attack power by 30% (non-stackable)
+
+### Style
+あなたのために=For You
+
+
+天の慈悲=Heaven's Mercy
+雷の力を宿した銃弾で\n全体を貫く[対HP+30%]=Pierce all with bullets imbued with the power of lightning [Against HP+30%]
+
+[Auto] 突の威圧=Thrust Intimidation
+行動開始時に前衛にいると\n敵の突属性の防御力-10%=When in the frontline at action start,\nreduce enemy's thrust attribute defense by 10%
+
+### Style
+嬉々迫るフォール・イン・ラヴ=Joyously Falling in Love
+
+
+スパークル・トライショット+=Sparkle Tri-Shot+
+自身の雷属性スキル攻撃力を上げ 雷の銃弾で敵を攻撃 [対HP+30%]\n挑発または注目状態の敵がいるとき [対HP+50%]=Increase own lightning attribute skill attack power and attack enemies with lightning bullets [Against HP+30%]\nWhen there are taunted or focused enemies [Against HP+50%]
+
+キラーショット=Killer Shot
+狙いを定めて 強力な銃弾を放つ\n[対HP+30%]=Take aim and fire a powerful bullet\n[Against HP+30%]
+
+[Auto] 雷鳴の陣=Thunder Formation
+バトル開始時 前衛にいると\n雷属性強化フィールド(小)を展開=At battle start, if in the frontline,\ndeploy a small lightning attribute enhancement field
+
+### Style
+戦場の華火=Fireworks on the Battlefield
+
+
+キャノンボール=Cannonball
+全体に銃撃する\n[対HP+30%]=Fire at all enemies\n[Against HP+30%]
+# Unique
+## Character
+SMinase
+
+
+### Style
+類は友を呼ぶ=Birds of a Feather
+
+
+ねこじゃらし=Cat's Cradle
+挑発して 敵の攻撃を自身に集中させる\nさらに 自身の雷属性スキル攻撃力を上げる=Taunt to draw enemy attacks to self\nAdditionally, increase own lightning attribute skill attack power
+
+### Style
+茹だるアサシン=Boiling Assassin
+
+
+ヘイルストーム=Hailstorm
+中空から繰り出す 氷の刃で\n敵全体を斬り裂く [対HP+50%]=Slash all enemies with ice blades from midair [Against HP+50%]
+
+ランブルシャーク=Rumble Shark
+渾身の力で 敵を斬り裂く\n[対HP+30%]=Slash enemies with all one's might\n[Against HP+30%]
+
+### Style
+残光=Afterglow
+
+
+スパークル・トライエッジ+=Sparkle Tri-Edge+
+自身の雷属性スキル攻撃力を上げ 雷の刃で敵を攻撃 [対DP+30%]\n挑発または注目状態の敵がいるとき [対DP+50%]=Increase own lightning attribute skill attack power and attack enemies with lightning blades [Against DP+30%]\nWhen there are taunted or focused enemies [Against DP+50%]
+
+風斬りの刃=Wind-Slicing Blade
+闘気の刃を放ち 全体を斬り刻む\n[対DP+30%]=Release a blade of fighting spirit to slash all enemies\n[Against DP+30%]
+
+### Style
+積乱雲=Stacked Clouds
+
+
+残心撃=Residual Mind Strike
+鋭利な真空波で 敵を斬り刻む\nさらに 自身のスキル攻撃力を上げる=Slash enemies with sharp vacuum waves\nAdditionally, increase own skill attack power
+
+### Style
+戦場の焔焔=Blazing Battlefield
+
+
+残影=Afterimage
+敵を斬りつける\n[対DP+30%]=Slash at enemies\n[Against DP+30%]
+# Unique
+## Character
+SHiguchi
+
+
+### Style
+青春の発露=Expression of Youth
+
+
+ファンタズム=Phantasm
+広範囲に 炎の力を宿した砲撃を放つ\nさらに 確率でSPを回復する=Fire a wide-range bombardment imbued with the power of flames\nAdditionally, recover SP by chance
+
+[Auto] 火の慧眼=Fire Insight
+行動開始時 前衛にいると\n前衛の火属性のクリティカル率+20%=When in the frontline at action start,\nincrease the frontline's fire attribute critical rate by 20%
+
+### Style
+宙の探究、星の眩耀=Exploration of the Heavens, Dazzle of the Stars
+
+
+アブソリュートフェノメノン=Absolute Phenomenon
+星の輝きが味方単体を導き スキル攻撃力を大きく上げ\nクリティカル率 クリティカルダメージを上げ DPも回復させる=The brilliance of the stars guides a single ally, greatly increasing skill attack power\nRaises critical rate, critical damage, and also recovers DP
+
+### Style
+或る少女の物語=A Certain Girl's Story
+
+
+リサイクル=Recycle
+集中的に狙いを定め 砲撃を放ち\nダメージに応じて自身のDPを回復する=Concentrate, take aim, and fire\nRecover own DP depending on the damage dealt
+
+### Style
+生者のホメオスタシス=Homeostasis of the Living
+
+
+トリック・カノン=Trick Cannon
+雷属性強化フィールドを展開し\n電撃で敵を両断 ランダムで弱体効果=Deploy a lightning attribute enhancement field\nBisect enemies with electric shocks, randomly applying debuffs
+
+ドーピング=Doping
+前衛のスキル攻撃力を\n防御力を犠牲に 大きく引き出す=Significantly draw out the frontline's skill attack power\nat the expense of defense
+# Unique
+## Character
+KHiiragi
+
+
+### Style
+ホップ・ステップ・スリップ！=Hop, Step, Slip!
+
+
+スペシャルオーダー！=Special Order!
+とっておきのメニューで オーバードライブゲージを上昇させ\nさらに 味方全体の士気レベルを2上昇させる(最大レベル10)=Raise the overdrive gauge with a special menu\nAdditionally, increase the morale level of all allies by 2 (max level 10)
+
+一途なスマイル=Devoted Smile
+味方単体を奮い立たせ\nクリティカル率とクリティカルダメージを上げる=Inspire a single ally\nIncrease critical rate and critical damage
+
+[Auto] みなぎる士気=Surging Morale
+ターン開始時に前衛＆士気レベルが6以上のとき\n自身のSP+1=At turn start, if in the frontline & morale level is 6 or above,\ngain SP+1
+
+### Style
+終劇のナイトフォール=Endgame Nightfall
+
+
+フリージング・スペル=Freezing Spell
+霊能の力を解放させて 敵を脆弱状態にし\n冷気を纏いし刃で斬り刻む=Unleash psychic power to weaken enemies\nSlash them with a blade clad in cold
+
+カースサイス=Curse Scythe
+鎌を振り回して連撃\nさらに 2ターン厄状態にする=Swing a scythe in a flurry of strikes\nAdditionally, inflict misfortune for 2 turns
+
+### Style
+蒼きノクターン=Azure Nocturne
+
+
+クレール・ド・リュンヌ+=Clair de Lune+
+まばゆい月光で 自身以外のSPを5上昇(SP30まで上限突破可)し\nスキル攻撃力を上げ さらに 全体のデバフスキル効果を上げる=With dazzling moonlight, increase SP by 5 for all except self (can exceed up to SP30)\nIncrease skill attack power and enhance all debuff skill effects
+
+ミストスラッシュ=Mist Slash
+鎌を投げつけ 全体を斬り刻み\n霊能の力で強攻撃を封じる=Throw a scythe to slash all enemies\nSeal strong attacks with psychic power
+
+### Style
+在りし日の雑踏=Bustle of Bygone Days
+
+
+ミストイングレイブ=Mist Ingrave
+鋭利な刃で 敵を斬り刻み\nさらに 雷属性防御力を下げる=Slash enemies with a sharp blade\nAdditionally, reduce lightning attribute defense
+
+[Auto] 雷の意志=Will of Thunder
+行動開始時に前衛にいると\n前衛の雷属性のスキル攻撃力+12%=When in the frontline at action start,\nincrease the frontline's lightning attribute skill attack power by 12%
+
+### Style
+戦場の聳動=Surge of the Battlefield
+
+
+ミストサイス=Mist Scythe
+鎌で連撃し\n霊能の力で強攻撃を封じる=Strike repeatedly with a scythe\nSeal strong attacks with psychic power
+# Unique
+## Character
+Byakko
+
+
+### Style
+のもけいしさや=Modeling Excellence
+
+
+破壊の女王=Queen of Destruction
+迸る稲妻を纏い 敵に雷の砲弾を放つ [破壊率大]\n敵の弱点をついたとき威力が少し上がり かつ [破壊率超特大]=Enveloped in bursting lightning, fire thunder cannonballs at the enemy [High Destruction Rate]\nSlightly increase power when hitting enemy's weak spot and [Ultra High Destruction Rate]
+
+ヒロイックプラウド=Heroic Proud
+自身の防御力を犠牲に 雷の力を宿した両爪で\n全体を斬りつける [破壊率大]=Sacrifice own defense to slash all with both claws imbued with the power of lightning [High Destruction Rate]
+### Style
+リラックスサイン=Relax Sign
+
+イノセンス=Innocence
+イノセンス=Sacrifice defense to channel all strength\nSlash all enemies with both claws=
+
+[Auto] 氷の威圧=Ice Intimidation
+行動開始時に前衛にいると\n敵の氷属性の防御力-12%=When in the frontline at action start\nreduce enemy's ice attribute defense by 12%=
+
+### Style
+レイジング・ビースト=Raging Beast
+
+ビースト・プリズン=Beast Prison
+防御力を犠牲に セラフを覚醒させ\n鎖の11連撃で 敵を引き裂く [破壊率大]=Sacrifice defense to awaken Seraph\nTear enemies apart with 11 chained strikes [High Destruction Rate]=
+
+レイジングクロー=Raging Claw
+片爪に 渾身の力を込め\n勢いよく振り下ろす [破壊率大]=Channel all strength into one claw\nFiercely strike down [High Destruction Rate]=
+
+### Style
+戦場の哮り=Roar of the Battlefield
+
+スラッシュクロー=Slash Claw
+両爪で全体を斬りつける\n[破壊率大]=Slash all enemies with both claws\n[High Destruction Rate]=
+
+
+# Unique
+## Character
+Yamawaki
+
+
+### Style
+Daydream Believer=
+
+
+醒めたる思い=Waking Thoughts
+初回使用時 全体の雷属性スキル攻撃力を上げ\n雷の力を宿した回転刃で敵全体に10連撃 [対HP+50%]=First use increases all allies' lightning skill attack power\nUnleashes 10 spinning blade strikes imbued with lightning power on all enemies [vs HP+50%]=
+
+夢の際=Edge of Dreams
+自身以外の味方単体をバックアップして SPを6上昇する=Supports a single ally other than self, increasing SP by 6=
+
+[Auto] 五月雨=May Showers
+バトル開始時 前衛にいると\n自身の連撃数(小ダメージ)+5(1回)=When in the frontline at battle start\nincreases own number of minor damage strikes by 5 (once)=
+
+### Style
+山脇様、ご乱心=Lord Yamawaki, in Frenzy
+
+
+イチコロスマイル=One-Shot Smile
+精神を集中させて 自身の防御力を高め\nさらに 次の攻撃の連撃数(小ダメージ)を5回上げる=Focuses mentally to increase own defense\nand increases the number of strikes (minor damage) for the next attack by 5=
+
+[Auto] 斬の威圧=Slash Intimidation
+行動開始時に前衛にいると\n敵の斬属性の防御力-10%=When acting from the frontline\nreduces enemy's slash defense by 10%=
+
+### Style
+Holy Knight=
+
+
+レイジング・レインディア=Raging Reindeer
+輝くオーロラの光が 全体の光属性スキル攻撃力を上げ\n光を纏いし刃で 全体を斬り刻む=The shining aurora light increases all allies' light skill attack power\nand slices through all enemies with a blade clad in light=
+
+デディケイトギフト=Dedicate Gift
+自身の防御力を犠牲に \n味方単体のスキル攻撃力を 大きく引き出す=Sacrifices own defense to greatly enhance a single ally's skill attack power=
+
+### Style
+Ebon Knight=
+
+
+絶対零度+=Absolute Zero+
+自身のスキル攻撃力を大きく上げ 氷の刃で敵を強撃 [対HP+30%]\n31Cの隊員が3人以上のとき [対HP+50%]=Greatly increases own skill attack power and strikes enemies hard with an ice blade [vs HP+30%]\nWhen there are 3 or more members of 31C [vs HP+50%]=
+
+アイススラッシュ=Ice Slash
+氷の力を宿した鎌で 全体を斬り刻む\n[対HP+30%]=Cuts through all enemies with a scythe imbued with the power of ice\n[vs HP+30%]=
+
+### Style
+魔王の帰還=Return of the Demon Lord
+
+
+キリングエッジ=Killing Edge
+鋭利な刃で 敵を斬り刻む [対HP+30%]\nさらに 自身のスキル攻撃力を上げる=Slashes enemies with a sharp blade [vs HP+30%]\nand further increases own skill attack power=
+
+### Style
+我が道を行く=My Own Path
+
+
+キラーサイス=Killer Scythe
+鎌を振り回して 連撃する\n[対HP+30%]=Swings the scythe to strike repeatedly\n[vs HP+30%]=
+# Unique
+## Character
+SSakuraba
+
+
+### Style
+今日のあなたの運勢は？=What's Your Fortune Today?=
+
+
+シャインテラー=Shine Teller
+光の力を宿した回転する盾を全体に叩きつけ\nさらに 攻撃力を下げる=Slams a rotating shield imbued with the power of light against all enemies\nand further reduces their attack power=
+
+### Style
+対決！！エア・ステージ=Showdown!! Air Stage
+
+
+フローズン・スペクタクル=Frozen Spectacle
+深淵を見通す瞳を開眼し 全体の氷属性スキル攻撃力を上げ\nさらに 防御力を2ターン高める=Opens eyes that peer into the abyss to increase all allies' ice skill attack power\nand further increases defense for 2 turns=
+
+コールドウェイヴ=Cold Wave
+冷気を纏わせた盾を\n全体に叩きつける=Slams a shield cloaked in cold air\nagainst all enemies=
+
+### Style
+星の海、たゆたうフォーチュンテラー=Sea of Stars, Drifting Fortune Teller
+
+
+星屑の航路=Stardust Route
+きらめく星々に祈りを捧げ\n全体のクリティカル率を3ターン上げる=Offers prayers to the twinkling stars\nand increases all allies' critical rate for 3 turns=
+
+ポラリスの輝き=Polaris' Glow
+高圧エネルギー弾を放ちつつ\nさらに 敵の攻撃を自身に集中させる=Fires high-pressure energy bullets\nand further draws enemy attacks to self=
+# Unique
+## Character
+MTenne
+
+
+### Style
+至高のひととき=Supreme Moment
+
+
+ウィッチ・オブ・カーマイン=Witch of Carmine
+無数の魔導書を展開し 2ターンの間敵の光属性防御力を下げ\n脆弱状態にする さらに 自身に追加ターン=Deploys numerous grimoires to reduce enemy's light defense for 2 turns\nand induces a vulnerable state, also grants self an extra turn=
+
+奇跡の療術=Miraculous Healing
+癒やしの光で味方単体のDPを中回復\n(120%まで上限突破可)=Heals a single ally's DP moderately with healing light\n(can exceed up to 120% of the limit)=
+
+[Auto] クイックリキャスト=Quick Recast
+追加ターン中のとき\n自身の消費SPが−2=During an extra turn\nreduces own SP consumption by 2=
+
+### Style
+山脇様の手下：マジカルにゃん=Lord Yamawaki's Minion: Magical Nyan
+
+
+にゃんこ大魔法=Nyanco Great Magic
+敵の氷属性防御力を2ターン下げ 知性依存の氷の閃光を放つ\n防御力ダウン状態の敵がいるとき 消費SPが半減=Reduces enemy's ice defense for 2 turns and unleashes an intelligence-dependent flash of ice\nHalves SP consumption when the enemy is in a defense-down state=
+
+衝撃零度=Impact Zero
+氷の力を宿した銃弾で\n敵を貫く=Pierces enemies with bullets imbued with the power of ice=
+
+### Style
+夢浮橋辿る赤=Red Traversing the Dreaming Bridge
+
+
+魔莢=Magic Bullet
+魔弾の力で 全体を銃撃\nさらに 確率でスタンさせる=Shoots all enemies with the power of a magic bullet\nand has a chance to stun=
+
+### Style
+エクスペリメンタルなキミ=Experimental You
+
+
+デストロイ=Destroy
+防御力を下げる魔法陣を展開し\n大魔術6連で 全体に知性依存の攻撃=Deploys a magic circle that lowers defense\nand attacks all enemies with 6 major magic strikes dependent on intelligence=
+
+ルーンバースト=Rune Burst
+魔弾の力で 全体を銃撃\nさらに 自身のクリティカル率を上げる=Shoots all enemies with the power of a magic bullet\nand further increases own critical rate=
+
+### Style
+悠久渇望の魔術師=Eternal Thirsty Magician
+
+
+ウィザードショット=Wizard Shot
+銃で敵を狙撃する\nさらに 防御力を下げる=Snipes an enemy with a gun\nand further reduces their defense=
+# Unique
+## Character
+YBungo
+
+
+### Style
+お花見怪人クシダンゴ=Flower Viewing Monster Kushidango
+
+
+三色団子乱れ撃ち=Tri-Color Dango Barrage
+敵全体のバフを3つ解除し 三色団子の雷撃 [対DP+30%]\n初回使用時 威力が上昇し かつ [対DP+50%]=Removes 3 buffs from all enemies and strikes with tri-color dango lightning [vs DP+30%]\nPower increases on first use and [vs DP+50%]=
+
+ー◯◯◯=ー◯◯◯
+狙いを定めて 銃弾を放ちつつ SPを10回復\n運が悪いと敵の防御力が3ターン上がる=Aims and fires bullets while recovering 10 SP\nBad luck increases enemy's defense for 3 turns=
+
+### Style
+Happy Legion=
+
+
+セイクリッド・クワイア=Sacred Choir
+防御力を犠牲に 光のエネルギーを放つ [対DP+30%]\n初回使用時 威力が上昇し かつ [対DP+50%]=Sacrifices defense to unleash light energy [vs DP+30%]\nPower increases on first use and [vs DP+50%]=
+
+スターマイン=Star Mine
+全体に光の銃弾を乱射する=Randomly shoots light bullets at all enemies=
+
+### Style
+夜空のShining Star=Night Sky's Shining Star
+
+
+トリック・オア・トリート=Trick or Treat
+氷の力をセラフに宿した 強大な一撃\nただし 運が悪いと失敗する=Delivers a mighty blow imbued with the power of ice in a Seraph\nHowever, bad luck may cause it to fail=
+
+ビスコッティ=Biscotti
+全体に銃弾を乱射 [対DP+30%]\nさらに 氷属性防御力を下げる=Randomly shoots bullets at all enemies [vs DP+30%]\nand further reduces ice defense=
+
+### Style
+手のひらのパーフェクション=Perfection in the Palm
+
+
+プレッツェル=Pretzel
+全体に銃弾を乱射する\n[対DP+30%]=Randomly shoots bullets at all enemies\n[vs DP+30%]=
+
+### Style
+カニ手の使い魔=Crab Hand's Familiar
+
+
+クラッカー=Cracker
+銃で敵を狙撃する\n[対DP+30%]=Snipes an enemy with a gun\n[vs DP+30%]=
+# Unique
+## Character
+AKanzaki
+
+
+### Style
+少女の休息=Girl's Rest
+
+
+神崎流忍術・散華=Kanzaki-Style Ninjutsu: Scatter Blossoms
+自身の闇属性スキル攻撃力を上げ 闇の斬撃を放つ [破壊率大]\n敵の弱点をついたとき 威力上昇かつ [破壊率特大]=Increases own dark skill attack power and unleashes a dark slash [high destruction rate]\nWhen hitting an enemy's weak point, power increases and [very high destruction rate]=
+
+寝ても醒めても=Asleep or Awake
+闇の力を宿した鋭利な斬撃で \n全体を斬り刻む [破壊率大]=Cuts through all enemies with a sharp slash imbued with the power of darkness [high destruction rate]=
+
+### Style
+氷花のHexerei=Ice Flower Hexerei
+
+
+神崎流忍術・氷塵=Kanzaki-Style Ninjutsu: Ice Dust
+敵を凍てつかせて強攻撃を封じ 薙ぎ払う [破壊率大]\n敵の弱点をついたとき 威力上昇かつ [破壊率特大]=Freezes enemies to seal their strong attacks and mows them down [high destruction rate]\nWhen hitting an enemy's weak point, power increases and [very high destruction rate]=
+
+淡雪=Light Snow
+神経を研ぎ澄まし\n自身の氷属性スキル攻撃力を上げる=Sharpens senses\nand increases own ice skill attack power=
+
+### Style
+ごちゃまぜ忍法大乱闘=Mixed Ninjutsu Great Brawl
+
+
+滅殺影分身=Annihilation Shadow Clone
+忍術の力で影分身し 全体を斬りつける [破壊率大]\nさらに 確率で混乱させる=Creates shadow clones with the power of ninjutsu to slash all enemies [high destruction rate]\nand has a chance to confuse=
+
+一片氷心=Single Ice Heart
+氷の力を宿した鋭利な斬撃で \n敵を斬り刻む [破壊率大]=Cuts through enemies with a sharp slash imbued with the power of ice [high destruction rate]=
+
+### Style
+微光の兆し=Faint Glimmer of Light
+
+
+心意活性=Heart Intent Activation
+内なる力を解き放ち 次の攻撃の\n連撃数(大ダメージ)を2〜3回上げる=Unleashes inner power to increase the number of strikes (major damage) for the next attack by 2-3=
+
+### Style
+碧落の忍び=Azure Falling Ninja
+
+
+旋風=Whirlwind
+風圧で全体を斬り刻む\n[破壊率大]=Cuts through all enemies with wind pressure\n[high destruction rate]=
+# Unique
+## Character
+MSatsuki
+
+
+### Style
+Crying Tears=
+
+
+次の主役はあなた=You're the Next Lead
+敵に氷の閃光を放つ [対HP+30%] 行動開始時に破壊率が200%以上の\n敵がいるとき自身の連撃数(大ダメージ)を3回上昇 かつ [対HP+50%]=Strikes the enemy with a flash of ice [vs HP+30%] When there is an enemy with a destruction rate of 200% or more at the start of action, increases own number of strikes (major damage) by 3 and [vs HP+50%]=
+
+別れの朝=Morning of Farewell
+氷の力を宿した砲撃を\n全体に放つ [対HP+30%]=Fires a cannonade imbued with the power of ice\nat all enemies [vs HP+30%]=
+### Style
+アサシン忍法大繁盛=Assassin Ninjutsu Prosperity
+
+ルーイン・イリュージョン=Ruin Illusion
+ルーイン・イリュージョン=Greatly enhances the vanguard's skill attack power and increases critical rate\nOn first use, enters a state of "Mind's Eye" which also boosts critical damage=
+
+バラ撒き=Scatter Barrage
+バラ撒き=Launches a barrage attack on all enemies=
+
+### Style
+はにかむ、心かき集め=Bashful, Heart's Gathering
+
+[Auto] 突の意志=Will of the Thrust
+[Auto] 突の意志=When starting action in the vanguard\nIncreases the vanguard's piercing skill attack power by 10%=
+
+### Style
+甘美のMuzzle=Sweet Muzzle
+
+ダイヤモンド・ダスト=Diamond Dust
+ダイヤモンド・ダスト=Deploys an ice attribute enhancement field\nand bombards all enemies with ice bullets=
+
+ゲインカノン=Gain Cannon
+ゲインカノン=Launches a concentrated barrage\nand additionally has a chance to recover SP=
+
+[Auto] 凍れる陣=Frozen Formation
+[Auto] 凍れる陣=At battle start, if in the vanguard\nDeploys a minor ice attribute enhancement field=
+
+
+# Unique
+## Character
+YShirakawa
+
+### Style
+真夏のジャンダルム=Midsummer Gendarme
+
+シーサイドベルセルク=Seaside Berserk
+自身の闇属性クリティカルダメージを上げ 敵全体に闇の閃光を放つ\n追加ターン中は [対HP+50%]=Increase own dark attribute critical damage and unleash a flash of darkness on all enemies\nDuring additional turn, [vs HP+50%]
+
+赤面スティグマ=Blushing Stigma
+自身の闇属性スキル攻撃力を上げ\nさらに 追加ターン=Increase own dark attribute skill attack power\nFurthermore, additional turn
+
+### Style
+君がいるだけで=Just By Being Here
+
+ブレイブソウル=Brave Soul
+光の力を宿した剣撃で\n全体を斬り刻む [対HP+30%]=Slash through all with a sword imbued with the power of light [vs HP+30%]
+
+### Style
+Infernal Sanctuary=
+
+ライトニングジャッジメント=Lightning Judgment
+強き意志の力が 空間を斬り裂く雷の刃となり\n敵全体に12連撃 [破壊率特大]=The power of a strong will turns into a blade of lightning that rips through space\n12 consecutive strikes on all enemies [Destruction rate: Very Large]
+
+雷鳴=Thunderclap
+雷の力を宿した剣撃で\n敵を斬り刻む [破壊率大]=Slash enemies with a sword charged with the power of thunder [Destruction rate: Large]
+
+### Style
+Awakening Iris=
+
+セイントフォール=Saint Fall
+天に掲げた剣に祈りを捧げ 神々しき光で\n裁きの一撃を放つ [対HP+50%]=Offer prayers to the sword raised to the heavens and strike a divine blow of judgment with holy light [vs HP+50%]
+
+粛正=Rectification
+華麗な剣撃で 全体を斬り裂き\nさらに 確率でSPを回復する=Slash through all with a splendid sword strike\nAdditionally, chance to recover SP
+
+### Style
+Sign=
+
+導きの号令=Guiding Command
+前衛を鼓舞し スキル攻撃力を上げる\nさらに 自身に追加ターン=Inspire the vanguard and increase skill attack power\nFurthermore, additional turn for self
+
+### Style
+Ally=
+
+ブレイブソード=Brave Sword
+勇猛に敵を斬り刻む\n[対HP+30%]=Valiantly slash through enemies\n[vs HP+30%]
+# Unique
+## Character
+MTsukishiro
+
+### Style
+掩蔽された暇=Concealed Leisure
+
+輝神=Shining Deity
+煌々と輝く大剣で 敵全体を叩き潰す\nトークン数に応じて威力上昇 追加ターン中は [対HP+50%]=Crush all enemies with a brilliantly shining greatsword\nPower increases with the number of tokens, during additional turn [vs HP+50%]
+
+朧=Haziness
+光の力を宿した大剣で 全体を攻撃\nさらに 自身のトークンを上昇=Attack all with a greatsword imbued with the power of light\nAdditionally, increase own tokens
+
+[Auto] 戦勲=War Merit
+ダメージを与えた敵1体につき\nトークンを1上昇(追撃を除く)=For each enemy damaged\nincrease tokens by 1 (excluding follow-up attacks)
+
+### Style
+黄昏、久遠の夢=Twilight, Eternal Dream
+
+空=Sky
+自身のスキル攻撃力を上げ トークンを上昇\nさらに 追加ターン=Increase own skill attack power and raise tokens\nFurthermore, additional turn
+
+[Auto] 光の意志=Will of Light
+行動開始時に前衛にいると\n前衛の光属性のスキル攻撃力+12%=When in the frontline at the start of action\nincrease the light attribute skill attack power of the frontline by 12%
+
+### Style
+真宵晴るれば、一閃心静=When True Dawn Clears, A Flash Calms the Mind
+
+羅刹=Rakshasa
+大剣の真価を引き出し 闇の力で全体を断つ\nトークン数に応じて威力上昇=Draw out the true value of the greatsword and sever all with the power of darkness\nPower increases with the number of tokens
+
+烈=Fierce
+大剣を振り回し 全体を薙ぎ払う\n[対HP+30%]=Swing the greatsword and mow down all\n[vs HP+30%]
+
+### Style
+禅定、憂い無し=Zen Meditation, No Worries
+
+断=Sever
+敵を叩きつけて攻撃\nさらに 自身のトークンを上昇=Smash enemies with an attack\nAdditionally, increase own tokens
+# Unique
+## Character
+MKiryu
+
+### Style
+たまゆら、一夜の夢火=Fleeting, One Night's Dream Fire
+
+氷華、千射万箭=Frost Flower, Thousand Shots and Ten Thousand Arrows
+敵全体の防御力と氷属性防御力を下げ(ターン永続) 氷属性で攻撃\nさらに 敵全体の回復力を致命的に下げる(ターン永続)=Lower the defense and ice attribute defense of all enemies (turn permanent) and attack with ice attribute\nFurthermore, critically reduce the recovery power of all enemies (turn permanent)
+
+ひらり落桜=Graceful Falling Cherry Blossoms
+心を磨き澄まし 自身に桜花の矢(1回)を付与する=Polish and clear your mind, grant yourself a cherry blossom arrow (1 time)
+
+[Auto] 減退=Diminution
+自身がかけた\n防御力ダウンの効果量+10%=Increase the effect of defense reduction\napplied by self by 10%
+
+[Auto] 徒桜の一矢=Vain Cherry Blossom's Single Arrow
+バトル開始時\n自身に桜花の矢(1回)を付与する=At the start of battle\ngrant self a cherry blossom arrow (1 time)
+
+### Style
+豊楽ノ神秘=Mystery of Abundant Pleasure
+
+御稲荷神話=Myth of Inari
+2ターンの間敵の防御力を下げ 脆弱状態にし 稲妻で強襲する\n脆弱状態の敵がいるとき 消費SPが半減=Lower the enemy's defense for 2 turns, make them vulnerable, and strike with lightning\nWhen there are vulnerable enemies, SP consumption is halved
+
+天変の相=Heavenly Change Aspect
+凶兆の矢で敵を貫き 2ターン厄状態にする\nさらに 自身に追加ターン=Pierce enemies with an ominous arrow and put them in a calamity state for 2 turns\nFurthermore, additional turn for self
+
+### Style
+星林遣らずの雨=Rain Unsent by the Star Forest
+
+光芒一閃=Flash of Light
+光属性強化フィールドを展開し\nまばゆい光の矢で 敵を射抜く=Deploy a light attribute enhancement field\nPierce enemies with dazzling light arrows
+
+神妙=Divine Solemnity
+厄災をもたらす無数の矢で 全体を攻撃\nさらに 2ターン厄状態にする=Attack all with countless arrows that bring calamity\nFurthermore, put them in a calamity state for 2 turns
+
+[Auto] 厄災=Calamity
+バトル開始時 前衛にいると\n敵を厄状態(2ターン)=At the start of battle, if in the frontline\nput enemies in a calamity state (2 turns)
+
+### Style
+神祠見舞う儚さかな=Transience Visited by the Shrine
+
+薙の矢=Reaping Arrow
+無数の矢を放ち 全体を攻撃\nさらに 脆弱状態にする=Release countless arrows and attack all\nFurthermore, make them vulnerable
+
+### Style
+幽幻閑寂いとらうたし=Quietly Captivating Phantom Fantasy
+
+呪怨の矢=Curse Grudge Arrow
+敵を脆弱状態にしつつ\n狙いを定めた銃口から矢を放つ=While making the enemy vulnerable\nfire arrows from a targeted gun barrel
+# Unique
+## Character
+CSugahara
+
+### Style
+ロリータ・ストイック=Lolita Stoic
+
+ロリータフルバースト=Lolita Full Burst
+全体の氷属性スキル攻撃力 氷属性クリティカルダメージを上げ\n敵全体に氷属性のレーザーを照射 追加ターン中は消費SPが半減=Increase the ice attribute skill attack power and ice attribute critical damage of all\nIrradiate all enemies with an ice attribute laser, during additional turn SP consumption is halved
+
+おしおき=Punishment
+気合を入れて 自身のクリティカル率を上げる\nさらに 追加ターン=Boost morale and increase own critical rate\nFurthermore, additional turn
+
+[Auto] ゾルダート=Zoldaat
+ターン開始時 前衛にいると\n自身の防御力+10%=When in the frontline at turn start\nincrease own defense by 10%
+
+[Auto] エクシード=Exceed
+追加ターン中に自身がかけた\nスキル攻撃力アップの効果量+30%=During additional turn, increase the effect of\nskill attack power up applied by self by 30%
+
+### Style
+センパイの品格=Senior's Dignity
+
+[Auto] 光の躍動=Light's Leap
+行動開始時 前衛にいると\n前衛の光属性のクリティカルダメージ+10%=When in the frontline at action start\nincrease the light attribute critical damage of the frontline by 10%
+
+### Style
+亡国の純心=Pure Heart of a Ruined Nation
+
+姫君の寵愛=Princess's Favor
+天空に展開せし魔法陣より 体力依存で10連撃の闇の魔弾を放つ\n挑発または注目状態の敵がいるとき 消費SPが半減=From a magic circle deployed in the sky, unleash 10 consecutive dark magic bullets dependent on health\nWhen there are enemies in a provoked or focused state, SP consumption is halved
+
+籠の鳥=Caged Bird
+気合を入れて 自身の体力を2ターン上げる\nさらに 敵の攻撃を自身に集中させる=Boost morale and increase own health for 2 turns\nAdditionally, attract enemy attacks to self
+
+### Style
+気まぐれのアンニュイ=Whimsical Ennui
+
+ブリリアント・グローリー=Brilliant Glory
+自身のDPを回復(120%まで上限突破可)\nさらに 次の攻撃の連撃数(大ダメージ)を2〜3回上げる=Recover own DP (can exceed up to 120%)\nFurthermore, increase the number of consecutive strikes (large damage) of the next attack by 2-3
+
+### Style
+終末ロリータ白書=Apocalyptic Lolita White Paper
+
+イノセントワイルド+=Innocent Wild+
+自身の防御力を高め 敵の攻撃を自身に集中させつつ\n真価を引き出したセラフで強襲 [威力+]=Enhance own defense and attract enemy attacks while\nstriking with a Seraph that draws out true value [Power+]
+
+ディミニッシュ・レイ=Diminish Ray
+高圧エネルギー弾を放ちつつ\n攻撃力を下げる=While firing high-pressure energy bullets\nreduce attack power
+# Unique
+## Character
+HOgasawara
+
+### Style
+早暁の剣光=Dawn Sword Light
+
+朝霜=Morning Frost
+氷の力を宿した銃弾で敵全体を貫く\n反動で 2ターン行動できなくなる=Pierce all enemies with bullets imbued with the power of ice\nRecoil renders unable to act for 2 turns
+
+[Auto] 氷の采配=Ice Command
+行動開始時に前衛 & DP80%以上のとき\n前衛の氷属性のスキル攻撃力+18%=When in the frontline and DP is above 80% at action start\nincrease the ice attribute skill attack power of the frontline by 18%
+
+### Style
+希求と渇仰=Desire and Admiration
+
+夢視るデザイア=Dream-Viewing Desire
+夢幻の夜空から放つ 雷属性攻撃 [対DP+50%]\nこのスキルでブレイクしたとき 全体のSPが8上昇する=Release a lightning attack from a phantasmal night sky [vs DP+50%]\nWhen breaking with this skill, increase SP of all by 8
+
+とある衝撃=A Certain Shock
+自身の雷属性スキル攻撃力を上げ\nさらに 追加ターン=Increase own lightning attribute skill attack power\nFurthermore, additional turn
+
+### Style
+萌えよ天才剣士=Burn, Genius Swordsman
+
+メイド・イン・パンクチュア=Maid in Puncture
+己に宿る闇の力をセラフに込め 敵全体を常闇に沈める [対HP+30%]\nチャージ中は威力が上昇し かつ [対HP+50%]=Infuse the darkness within oneself into a Seraph and submerge all enemies in perpetual darkness [vs HP+30%]\nWhile charging, power increases and [vs HP+50%]
+
+メイドの嗜み=Maid's Taste
+自身をチャージ(スキルを強化)し\nさらに 追加ターン=Charge oneself (enhance skill)\nFurthermore, additional turn
+### Style
+朧月夜のバレット=Hazy Moonlit Night Bullet
+
+三日月宗近+=Crescent Moon Munenori+
+防御力を犠牲に 自身のスキル攻撃力を大きく上げ \n剣士の誇りを込めて全体を強撃 [対DP+30%]=Sacrifice defense to greatly boost own skill attack power\nStrike all with a swordsman's pride [vs DP+30%]
+
+夜雨=Night Rain
+集中的な銃撃で 敵にダメージ\nさらに 光と闇の属性防御力を下げる=Damage enemies with focused gunfire\nAdditionally, lower both light and dark attribute defenses
+
+### Style
+静寂閑雅のレスト=Silent and Elegant Rest
+
+渾身銃撃=All-out Gunfire
+強力な銃弾を放つ [対DP+30%]\nさらに オーバードライブゲージが上昇=Fire powerful bullets [vs DP+30%]\nFurthermore, Overdrive gauge increases
+
+### Style
+仄かに揺らぐファイア=Faintly Flickering Fire
+
+朧月=Hazy Moon
+全体を銃撃する\n[対DP+30%]=Gun down all enemies\n[vs DP+30%]
+# Unique
+## Character
+SKura
+
+### Style
+若女将の日々=Days of the Young Landlady
+
+最凶のおもてなし=Most Ferocious Hospitality
+闇色に輝く円形刃が 敵全体を斬り刻む [破壊率大]\n敵の弱点をついたとき威力が少し上がり かつ [破壊率超特大]=Dark-gleaming circular blades slash all enemies [High destruction rate]\nPower slightly increases when hitting enemy's weak spot, and [Ultra-high destruction rate]
+
+大切り盛り=Generous Serving
+渾身の力を込めて 敵を斬り刻む [破壊率大]\nさらに 自身の闇属性スキル攻撃力を上げる=Slash enemies with all one's might [High destruction rate]\nFurthermore, increase own dark attribute skill attack power
+
+### Style
+夜警の空=Night Watch's Sky
+
+細雪=Light Snow
+集中力を高めて 自身のスキル攻撃力を大きく上げ\nさらに 追加ターン=Greatly boost own skill attack power by sharpening focus\nFurthermore, gain an additional turn
+
+[Auto] 斬の意志=Will of the Blade
+行動開始時に前衛にいると\n前衛の斬属性のスキル攻撃力+10%=When in the frontline at action start\nincrease the slash attribute skill attack power of the frontline by 10%
+
+### Style
+此に期するは豊穣の御霊=Here Lies the Spirit of Abundance
+
+収穫祭=Harvest Festival
+防御力を犠牲に 光の斬撃で\n敵を斬り刻む [破壊率特大]=Sacrifice defense to slash enemies with a light blade [Very high destruction rate]
+
+夢十夜=Ten Nights of Dreams
+振り上げた力で 敵を斬り刻む [破壊率大]\nさらに 自身の光属性スキル攻撃力を上げる=Slash enemies with raised power [High destruction rate]\nFurthermore, increase own light attribute skill attack power
+
+[Auto] 栄光の陣=Glory Formation
+バトル開始時 前衛にいると\n光属性強化フィールド(小)を展開=When in the frontline at battle start\ndeploy a minor light attribute enhancement field
+
+### Style
+清流に坐す=Sitting by the Clear Stream
+
+地獄変=Hell's Transformation
+薙刀を投げつけ 全体を斬り刻む\n[破壊率大]=Throw a naginata to slash all enemies\n[High destruction rate]
+
+### Style
+きおい佳人=Vigorous Beauty
+
+斜陽=Declining Sun
+薙刀を振り回して連撃\n[破壊率大]=Swing the naginata for consecutive strikes\n[High destruction rate]
+
+
+# Unique
+## Character
+MNikaido
+
+### Style
+スイート・メロウタイム=Sweet Mellow Time
+
+スイーツチャージ！=Sweets Charge!
+敵にエネルギー弾を放ちつつ SPを7上昇する\nバトル開始1ターン目のみ使用可能=Fire energy bullets at the enemy while increasing SP by 7\nCan only be used on the first turn of battle
+
+### Style
+Holiday Ring a Bell=
+
+フローズン・ワルツ=Frozen Waltz
+雪夜に集いし雪だるまが 敵全体を氷雪に沈める12連撃 [対HP+50%]\nオーバードライブ中は 威力が上昇し自身の連撃数(大ダメージ)を3回上昇=Snowmen gathered on a snowy night perform a 12-hit combo that buries the enemy in snow [Against HP+50%]\nDuring Overdrive, power increases and your combo count (large damage) increases by 3
+
+北風のスバル=North Wind Subaru
+盤上を見極め\n自身の氷属性スキル攻撃力を上げる=Survey the board\nIncrease your own ice attribute skill attack power
+
+### Style
+無上の終局=Supreme End
+
+石塔の手筋+=Stone Tower Tactics+
+自身の闇属性スキル攻撃力を上げ 闇エネルギーを放つ [対HP+30%]\nオーバードライブ中は威力が上昇し かつ [対HP+50%]=Increase your own dark attribute skill attack power and release dark energy [Against HP+30%]\nDuring Overdrive, power increases and [Against HP+50%]
+
+極点の一手=Ultimate Move
+天賦の才で新たな一手に到達し 敵を攻撃\nさらに 攻撃力を下げる=Reach a new move with innate talent and attack the enemy\nAdditionally, reduce their attack power
+
+### Style
+最年少名人=Youngest Expert
+
+ハネ殺し=Feather Kill
+回転する盾を 全体に叩きつけ\nさらに 自身のスキル攻撃力を上げる=Smash a spinning shield against all enemies\nAdditionally, increase your own skill attack power
+# Unique
+## Character
+IIshii
+
+### Style
+ピュア・エモーション=Pure Emotion
+
+ファイトパッション=Fight Passion
+闇の力を宿した 知性依存の銃弾を\n全体に乱射する=Fire bullets imbued with dark power that depend on intelligence\nSpray them at all enemies
+
+### Style
+撃砕の無彩色=Colorless Shattering
+
+アクロマティックバレット=Achromatic Bullet
+闇属性強化フィールドを展開し\n全体を闇の銃弾で貫き爆発させる=Deploy a dark attribute enhancement field\nPierce and explode all enemies with dark bullets
+
+[Auto] 闇夜の陣=Dark Night Formation
+バトル開始時 前衛にいると\n闇属性強化フィールド(小)を展開=At the start of battle, if in the vanguard\nDeploy a small dark attribute enhancement field
+
+### Style
+多彩なるインスピレーション=Colorful Inspiration
+
+ヴィヴィットシュート=Vivid Shoot
+狙いを定めて 銃弾を放ちつつ\nさらに 確率でSPを回復する=Aim and shoot bullets\nAdditionally, chance to recover SP
+# Unique
+## Character
+FMikoto
+
+### Style
+Silent Reverberations=
+
+R.I.P.=
+鋭利な刃で 全体を斬りつける\nさらに 確率でスタンさせる=Slash all enemies with a sharp blade\nAdditionally, chance to stun
+
+[Auto] 斬の躍動=Slash Leap
+行動開始時 前衛にいると\n前衛の斬属性のクリティカルダメージ+8%=When action starts, if in the vanguard\nIncrease vanguard's slash attribute critical damage by 8%
+
+### Style
+終末なにする？=What to do at the end?
+
+破滅でおやすみ=Goodnight with Destruction
+茨の斬撃で敵を脆弱状態にし 赤き無数の棘が終焉に誘う\nオーバードライブ中は威力が上昇し その後厄状態にする=Make enemies vulnerable with a thorny slash, and countless red thorns lead to demise\nDuring Overdrive, power increases and then induces calamity
+
+先に逝くなよ=Don't Go First
+鋭い斬撃で 敵を斬り裂く\nさらに 闇属性防御力を下げる=Slice the enemy with a sharp slash\nAdditionally, reduce their dark attribute defense
+
+### Style
+Metal Crazy=
+
+レイジングシャウト=Raging Shout
+闘気の刃で 全体を斬り刻み\nさらに 防御力を下げる=Carve up all enemies with a blade of fighting spirit\nAdditionally, reduce their defense
+# Unique
+## Character
+RMurohushi
+
+### Style
+潜入、笑顔で技術交流会=Infiltration, Technical Exchange with a Smile
+
+叡智の賜物=Gift of Wisdom
+中空から射す一縷の光が地に伸展し 全体のDPを復活\nさらに 大回復する=A single ray of light from the sky extends to the ground, reviving everyone's DP\nAdditionally, greatly recover
+
+癒やされスマイル=Healing Smile
+癒やしの光で味方単体のDPを中回復\n(120%まで上限突破可)=Heal a single ally's DP with a soothing light\n(Can exceed up to 120%)
+
+### Style
+あまいろの花=Sweet Colored Flower
+
+儚き目覚め=Fleeting Awakening
+広範囲に 知性依存の砲撃を放つ=Fire intelligence-dependent artillery over a wide area
+
+### Style
+早くおうちに帰りましょ=Let's Go Home Soon
+
+ハートフル・ボマー=Heartful Bomber
+愛おしむ思いが 全体の闘志を2ターン引き出し\n収束させたエネルギーで 敵に知性依存の砲撃=Cherished feelings draw out everyone's fighting spirit for 2 turns\nConverge the energy for an intelligence-dependent bombardment on the enemy
+
+### Style
+痛いの痛いの飛んでけ〜♪=Pain, Pain, Fly Away♪
+
+リバースショット=Reverse Shot
+砲撃を放ちつつ\nさらに 確率でSPを回復する=Fire a bombardment\nAdditionally, chance to recover SP
+# Unique
+## Character
+ADate
+
+### Style
+Holiday Star Night=
+
+哀のスノードロップ=Mournful Snowdrop
+聖夜を彩るプレゼントが 氷晶を纏いて敵に炸裂 [対DP+50%]\nこのスキルでブレイクしたとき オーバードライブゲージを150%上昇=Gifts that color the holy night burst upon the enemy clad in ice crystals [Against DP+50%]\nWhen breaking with this skill, Overdrive gauge increases by 150%
+
+アバランチ=Avalanche
+氷の力を宿した大剣で 全体を攻撃\n[対DP+30%]=Attack all with a great sword imbued with the power of ice\n[Against DP+30%]
+
+### Style
+テニスコートの悪魔=Demon of the Tennis Court
+
+漆黒トランスサーブ=Jet Black Trans Serve
+防御力を犠牲に 自身の連撃数(大ダメージ)を3回上げ\n遥か空中から 決意を込めた闇の魔球を叩きつける [対DP+50%]=Sacrifice defense to increase your own combo count (large damage) by 3\nFrom high in the sky, smash a dark magic ball filled with determination [Against DP+50%]
+
+被害妄想=Persecution Complex
+心に秘めた負のオーラを解放し\n自身の闇属性スキル攻撃力を上げる=Release the negative aura hidden in your heart\nIncrease your own dark attribute skill attack power
+
+### Style
+マーベルアプローチ=Marvel Approach
+
+スライスショット=Slice Shot
+大剣を大振りして 全体を攻撃\n[対DP+30%]=Swing the great sword mightily to attack all\n[Against DP+30%]
+
+[Auto] 闇の意志=Will of Darkness
+行動開始時に前衛にいると\n前衛の闇属性のスキル攻撃力+12%=When action starts, if in the vanguard\nIncrease vanguard's dark attribute skill attack power by 12%
+
+### Style
+ネガティブエース=Negative Ace
+
+サービス・エース=Service Ace
+敵を叩きつけて攻撃 [対DP+30%]\nさらに オーバードライブゲージが上昇=Smash the enemy to attack [Against DP+30%]\nAdditionally, Overdrive gauge increases
+# Unique
+## Character
+AMizuhara
+
+### Style
+ラッシュ！スタブ！ツナ！=Rush! Stab! Tuna!
+
+豪快！パイレーツキャノン=Exhilarating! Pirate Cannon
+敵の数が少ないほど自身の連撃数(小ダメージ)が上昇(最大10回)\n巨大な大砲からの砲撃で 敵全体の防御力を下げ 闇属性5連撃=The fewer the enemies, the higher your own combo count (small damage) increases (up to 10 times)\nLower the defense of all enemies with a bombardment from a huge cannon and perform a 5-hit dark attribute attack
+
+ヌラルジャ=Nuralja
+敵全体の闇属性防御力を下げ 闇属性攻撃\nオーバードライブ中は消費SPが半減=Reduce the dark attribute defense of all enemies and perform a dark attribute attack\nDuring Overdrive, SP consumption is halved
+
+[Auto] キレアジ=Sharp Mackerel
+消費SP8以下のスキルを使用したとき\n自身のスキル攻撃力+100%=When using a skill with SP consumption of 8 or less\nIncrease your own skill attack power by 100%
+
+[Auto] モロイウオ=Brittle Fish
+消費SP8以下のスキルを使用したとき\n自身がかけた防御力ダウンの効果量+30%=When using a skill with SP consumption of 8 or less\nIncrease the effect of defense reduction you applied by 30%
+
+### Style
+奥深い味わいを=Profound Taste
+
+デバノデバン=Devan Devan
+氷の力を宿した大剣で 全体を攻撃=Attack all with a great sword imbued with the power of ice
+
+[Auto] 氷の躍動=Ice Leap
+行動開始時 前衛にいると\n前衛の氷属性のクリティカルダメージ+10%=When action starts, if in the vanguard\nIncrease vanguard's ice attribute critical damage by 10%
+
+### Style
+ロックアップオルカ=Lock Up Orca
+
+海のギャング=Sea Gang
+深海に差し込む光の導きで オーバードライブゲージを50%上昇\n優雅に泳ぐ2頭のシャチを敵に放つ=With the guidance of light penetrating the deep sea, increase the Overdrive gauge by 50%\nRelease two elegantly swimming orcas at the enemy
+
+大海原=The Great Ocean
+渾身の力で大剣を振り 全体を攻撃\nさらに 脆弱状態にする=Swing the great sword with all your might to attack all\nAdditionally, make them vulnerable
+
+### Style
+アビスからの誘い=Invitation from the Abyss
+
+ディープブロー=Deep Blow
+振り上げた力で 敵を強打\nさらに 脆弱状態にする=Strike the enemy powerfully with a raised force\nAdditionally, make them vulnerable
+
+### Style
+深き海の学び手=Deep Sea Scholar
+
+ラブカ・ブレード=Loveka Blade
+大剣を振り回し 全体を薙ぎ払う\nさらに 防御力を下げる=Swing the great sword around to sweep all enemies\nAdditionally, reduce their defense
+
+
+# Unique
+## Character
+Icohshima
+
+
+### Style
+Sweet Phantasy=
+
+
+とどけ！ 誓いのしるし=Deliver! The Sign of Oath=
+敵を2ターン脆弱状態にし 体力依存の白き鳩が閃火の如く敵を貫く\n挑発または注目状態の敵がいるとき 消費SPが半減=Make the enemy vulnerable for 2 turns as the white dove pierces like a flash fire based on health\nHalve SP cost when enemy is taunted or targeted=
+
+決意の夜=Night of Resolve=
+心を落ちつけて 自身の体力を2ターン上げる\nさらに 敵の攻撃を自身に集中させる=Calm your heart, boost your health for 2 turns\nAdditionally, focus enemy attacks on yourself=
+
+### Style
+同床異夢明けて=Dreams Shared, Realities Apart=
+
+
+負けるな、私=Don't Lose, Me=
+炎の力を宿した回転する盾を\n全体に叩きつける [対HP+30%]=Strike all with a spinning shield imbued with the power of fire [Against HP+30%]=
+
+### Style
+果てなき慈愛の守護者=Endless Guardian of Compassion=
+
+
+慈愛の波動=Wave of Compassion=
+慈しみの烈火が 全体の火属性スキル攻撃力を上げ\nさらに 防御力を2ターン高める=The fierce fire of mercy boosts all fire attribute skill attack power\nAdditionally, increase defense for 2 turns=
+
+滾る激情=Boiling Passion=
+炎の力を宿したエネルギー弾を放つ\nさらに 攻撃力を下げる=Release an energy bullet imbued with the power of fire\nAdditionally, reduce attack power=
+
+[Auto] 賢守=Wise Defense=
+ターン開始時 前衛にいると\n自身の防御力+30%=When in the frontline at turn start\nincrease own defense by 30%=
+
+### Style
+一千子の抱擁=Thousand Child Embrace=
+
+
+ライオンハート=Lionheart=
+自身の防御力を高め\nさらに 敵の攻撃を自身に集中させる=Boost your own defense\nAdditionally, focus enemy attacks on yourself=
+# Unique
+## Character
+NiOhshima
+
+
+### Style
+心緒、昂る温泉郷=Heartfelt, Rising Hot Spring Town=
+
+
+爽籟に舞う仁慈=Grace Dancing in the Refreshing Breeze=
+自身の光クリティカルダメージを上げ 敵全体に光芒の斬撃を降らす\n行動開始時破壊率200%以上の敵がいるとき [対HP+50%]=Increase your own light critical damage and rain light slashes on all enemies\nWhen there is an enemy with destruction rate over 200% at action start [Against HP+50%]=
+
+誘掖の途=Path of Inducement=
+光の力を宿した刃で\n敵を斬り裂く [破壊率大]=Slash the enemy with a blade imbued with the power of light [High destruction rate]=
+
+[Auto] 光の采配=Light's Command=
+行動開始時に前衛 & DP80%以上のとき\n前衛の光属性のスキル攻撃力+18%=When in the frontline & DP over 80% at action start\nincrease frontline's light attribute skill attack power by 18%=
+
+### Style
+戸惑いの波際=Confusion at the Water's Edge=
+
+
+ファーストラヴ=First Love=
+魅了する剣技で 敵を斬りつけ\nさらに 自身の破壊率上昇量を上げる=Charm with sword skills, slash the enemy\nAdditionally, increase your own destruction rate=
+
+[Auto] 火の威圧=Fire's Intimidation=
+行動開始時に前衛にいると\n敵の火属性の防御力-12%=When in the frontline at action start\nreduce enemy's fire attribute defense by 12%=
+
+### Style
+Brand New Mind=
+
+
+純愛アンビシャス+=Pure Love Ambitious+=
+笑顔を振りまき 前衛のスキル攻撃時の破壊率上昇量を上げ\n炎を纏いし刃で華麗に斬りつける [破壊率特大]=Spread smiles, increase the destruction rate during frontline's skill attacks\nSlash elegantly with a blade clad in flames [Very high destruction rate]=
+
+レヴォリューション=Revolution=
+闘気の刃を放ち 全体を斬り刻む\n[破壊率大]=Release a blade of fighting spirit, slash through all\n[High destruction rate]=
+
+### Style
+戦線キャットウォーク=Frontline Catwalk=
+
+
+桜華=Sakura Blossom=
+華麗な剣撃で 全体を斬り裂き\nダメージに応じて自身のDPを回復する=Slash all beautifully with a sword strike\nRecover your own DP according to the damage dealt=
+
+### Style
+二以奈の気品=Elegance of Niina=
+
+
+砕華=Shattered Blossom=
+敵を斬りつける[破壊率大]\nさらに 確率でSPを回復する=Slash the enemy [High destruction rate]\nAdditionally, chance to recover SP=
+# Unique
+## Character
+MiOhshima
+
+
+### Style
+Realize Your Mind=
+
+
+宙舞うハイテンション=High Tension Soaring Through the Sky=
+前衛を心眼状態にし 防御力を犠牲に\n全体に炎の波動でダメージ [対HP+30%]=Put the frontline in a clairvoyant state, sacrificing defense\nDamage all with a wave of fire [Against HP+30%]=
+
+パワークラッシュ=Power Crash=
+敵を叩きつけて攻撃 [対HP+30%]=Smash the enemy with an attack [Against HP+30%]=
+
+### Style
+韋駄天配達人=Speedy Delivery God=
+
+
+サイクロンブレード=Cyclone Blade=
+大剣を振りかざして周囲を薙ぎ払う\n反動で 1ターン行動できなくなる=Swing a great sword to mow down the surroundings\nRecoil makes you unable to act for 1 turn=
+
+### Style
+三野里の疾走=Sprint of Minori=
+
+
+ダッシュブレード=Dash Blade=
+振り上げた力で 敵を強打\n[対HP+30%]=Strike the enemy powerfully with a raised force\n[Against HP+30%]=
+# Unique
+## Character
+YoOhshima
+
+
+### Style
+ぐうたらパジャマナイト=Lazy Pajama Night=
+
+
+ポッピング・バブル=Popping Bubble=
+後衛の光属性スキル攻撃力 光属性クリティカルダメージを上げ\n後衛の光属性スタイルの 連撃数(小ダメージ)を3回上げる=Increase the rear guard's light attribute skill attack power, light attribute critical damage\nRaise the rear guard's light attribute style's number of consecutive hits (small damage) by 3=
+
+グッナイ=Good Night=
+光の力を宿した 知性依存の銃弾を敵に放つ=Release a bullet dependent on intelligence, imbued with the power of light at the enemy=
+
+[Auto] 光の応援=Light's Support=
+行動開始時に後衛 & DP80%以上のとき\n前衛の光属性のスキル攻撃力+18%=When in the rear guard & DP over 80% at action start\nincrease the frontline's light attribute skill attack power by 18%=
+
+### Style
+破られたアンニュイ=Broken Ennui=
+
+
+夢見る幻想覚醒=Dreaming Fantasy Awakening=
+焔の粒子と舞い踊り 後衛の火属性スキル攻撃力\n火属性クリティカル率 火属性クリティカルダメージを上げる=Dance with particles of flame, increase the rear guard's fire attribute skill attack power\nfire attribute critical rate, fire attribute critical damage=
+
+決戦前夜=Eve of the Decisive Battle=
+後衛の力を解放し スキル攻撃力を大きく上げる\n反動で 1ターン行動できなくなる=Unleash the rear guard's power, greatly increase skill attack power\nRecoil makes you unable to act for 1 turn=
+
+### Style
+Lollipop Break=
+
+
+キャンディ・バースト=Candy Burst=
+確率でSP回復し\n全体に銃弾を乱射する=Chance to recover SP\nSpray bullets at all=
+
+[Auto] 火の意志=Will of Fire=
+行動開始時に前衛にいると\n前衛の火属性のスキル攻撃力+12%=When in the frontline at action start\nincrease the frontline's fire attribute skill attack power by 12%=
+# Unique
+## Character
+Irohshima
+
+
+### Style
+湯上がり夢現郷=Post-Bath Dreamland=
+
+
+ほてるししむら=Hot and Boiling Shimura=
+敵全体に降り注ぐ アッツアツの温泉により\n防御力を大きく下げ さらにDP防御力を著しく下げる=Pour down on all enemies with a scalding hot spring\nGreatly reduce defense and significantly lower DP defense=
+
+露わな鋒=Bare Edge=
+鋭利な刃で 敵を斬り刻み\nさらに 確率で混乱させる=Carve the enemy with a sharp blade\nAdditionally, chance to confuse=
+
+### Style
+ピースフルフレーバー=Peaceful Flavor=
+
+
+ヴィクタープラクティス=Victor's Practice=
+鎌を振り回して連撃\nさらに 火属性防御力を下げる=Swing a scythe for consecutive strikes\nAdditionally, reduce fire attribute defense=
+
+### Style
+勝利への鍵=Key to Victory=
+
+
+魔炎閃獄門=Hellfire Flashing Gate=
+解き放たれし力で 敵の防御力を下げ\n地獄の業火で焼き尽くす=Unleash power to reduce enemy's defense\nIncinerate with the fires of hell=
+
+怒裂昂=Furious Rising=
+渾身の力で鎌を投げつけ 全体を斬り刻み\nさらに 火属性防御力を下げる=Throw a scythe with all your might, slashing all\nAdditionally, reduce fire attribute defense=
+
+### Style
+五十鈴の秘密=Isuzu's Secret=
+
+
+トラブルメーカー=Troublemaker=
+鎌を投げつけ 全体を斬り刻み\nさらに 確率で混乱させる=Throw a scythe, slashing all\nAdditionally, chance to confuse=
+# Unique
+## Character
+MuOhshima
+
+
+### Style
+早春向かい風=Early Spring Headwind=
+
+
+新しい朝が来た！=A New Morning Has Come!=
+幸運を引き寄せ 味方単体のDPを中回復しSPを3上昇する\nさらに スキル回数を1回復する(スキル回数の回復スキルを除く)=Attract good fortune, moderately recover an ally's DP and increase SP by 3\nAdditionally, recover 1 skill count (excluding skill count recovery skills)=
+
+サンシャイン=Sunshine=
+暖かな光で 全体のウイルスを回復し\nDPを小回復する=Heal all viruses with warm light\nSlightly recover DP=
+
+[Auto]後方救護=Rear Support=
+ターン開始時 後衛にいると\n味方全体のDP+7%=When in the rear guard at turn start\nincrease all allies' DP by 7%=
+
+### Style
+グルーヴィーなロール=Groovy Roll=
+
+
+生存の業=Art of Survival=
+炎の力を宿した砲撃を\n敵に放つ=Fire a cannon imbued with the power of fire at the enemy=
+
+[Auto] 火の躍動=Fire's Leap=
+行動開始時 前衛にいると\n前衛の火属性のクリティカルダメージ+10%=When in the frontline at action start\nincrease the frontline's fire attribute critical damage by 10%=
+
+### Style
+ピンチで最高=Best in a Pinch=
+
+
+快感・スプリント！=Pleasure Sprint!=
+閃光の如く疾走し 栄光の導きで 全体のDPを中回復\n(120%まで上限突破可) さらに 後衛を心眼状態にする=Sprint like a flash, guided by glory to moderately recover all DP\n(Break limit up to 120%) Additionally, put the rear guard in a clairvoyant state=
+
+トランスペイン=Trans Pain=
+全体に砲撃を放ちつつ\nさらに 確率でSPを回復する=Fire cannon at all while\nAdditionally, chance to recover SP=
+
+### Style
+疾走エクスタシー=Sprint Ecstasy=
+
+
+我忘恍惚=Self-Forgetful Ecstasy=
+聖なる光で 味方全体のDPを中回復する\n反動で 1ターン行動できなくなる=Recover all allies' DP with holy light\nRecoil makes you unable to act for 1 turn=
+
+
+# Unique
+## Character
+MYanagi
+
+
+### Style
+夜風のChill Time=Chill Time of the Night Breeze=
+
+
+ハイビーム・イルミネーション=High Beam Illumination=
+異空間より溢れ出すオーラが全体のDPを大回復\n(150%まで上限突破可)=Aura overflowing from another dimension greatly restores everyone's DP\n(can exceed up to 150% limit)=
+
+エキゾーストノート=Exhaust Note=
+狙いを定めて 銃弾を放ちつつ\nさらに 確率でSPを回復する=Aiming and firing bullets\nfurthermore, has a chance to restore SP=
+
+### Style
+Wild Rose=
+
+
+エレガンス・シェル+=Elegance Shell+=
+麗しき薔薇の歓待で全体のDPを大回復(120%まで上限突破可)\nさらに チャージ(スキルを強化)する=With the graceful hospitality of a beautiful rose, greatly restore everyone's DP (can exceed up to 120% limit)\nadditionally, Charge (enhance skills)=
+
+### Style
+滅私奉公のトラスト=Selfless Devotion Trust=
+
+
+華麗なる清掃=Brilliant Cleaning=
+全体に銃弾を乱射しつつ\nダメージに応じて自身のDPを回復する=Firing bullets wildly at everyone\nrestores own DP based on damage dealt=
+# Unique
+## Character
+KMaruyama
+
+
+### Style
+スマイリー・ブルーム=Smiley Bloom=
+
+
+回る！ぽんぽこ花吹雪=Spinning! Ponpoko Flower Blizzard=
+前衛のスキル攻撃の破壊率上昇量を上げ レッサーパンダボールを発射\n敵全体に光属性攻撃[破壊率超特大] さらに高確率で3ターン混乱させる=Increase the destruction rate of frontline skill attacks and launch a Lesser Panda Ball\nattack all enemies with a light attribute [super massive destruction rate], and highly likely to confuse them for 3 turns=
+
+春爛漫=Spring in Full Bloom=
+自身のDPを中回復(120%まで上限突破可)\nさらに チャージ(スキルを強化)する=Restore own DP moderately (can exceed up to 120% limit)\nadditionally, Charge (enhance skills)=
+
+[Auto] 充填=Auto Charge=
+ターン開始時に自身がチャージ状態のとき\n自身のSP+1=When charged at the start of the turn\nincrease own SP+1=
+
+[Auto] 旺盛=Auto Vigor=
+ターン開始時にDP101%以上のとき\n自身のSP+1=When DP is above 101% at the start of the turn\nincrease own SP+1=
+
+### Style
+木漏れ日の庭=Sunlight Through the Trees=
+
+
+主君の努め=Lord's Duty=
+防御力を犠牲に 敵に渾身の力を込めた\n砲撃を放つ [対DP+30%]=Sacrifice defense to launch a full-powered\nbombardment at the enemy [against DP+30%]=
+
+### Style
+お嬢様は端麗=The Lady is Elegant=
+
+
+シャドウインサイト=Shadow Insight=
+闇の力を宿した砲撃を放ち\n全体を攻撃 [対DP+30%]=Launch a bombardment imbued with dark power\nattack everyone [against DP+30%]=
+
+[Auto] 闇の威圧=Auto Dark Intimidation=
+行動開始時に前衛にいると\n敵の闇属性の防御力-12%=When in the frontline at the start of action\nreduce enemy's dark attribute defense by 12%=
+
+### Style
+エボリューションな感受性=Evolutionary Sensitivity=
+
+
+ヴォイドストーム+=Void Storm+=
+闇の力を纏い 敵を砲撃する [対DP+30%] チャージ中は\n威力とクリティカルダメージが上昇し かつ [対DP+50%]=Enveloped in dark power, bombard the enemy [against DP+30%], while charged\nincrease power and critical damage, and [against DP+50%]=
+
+ハイセンス・ショット=High Sense Shot=
+持ち前のセンスで精密な集中砲撃を放ち\nさらに自身をチャージ(スキルを強化)する=With innate sense, launch a precise concentrated bombardment\nfurthermore, Charge oneself (enhance skills)=
+
+### Style
+リトルハイセンス=Little High Sense=
+
+
+ラージ・カノン=Large Cannon=
+全体に砲撃する [対DP+30%]=Bombard everyone [against DP+30%]=
+# Unique
+## Character
+SHanamura
+
+
+### Style
+君のUnisono=Your Unisono=
+
+
+小鳥たちへのシンフォニー=Symphony to the Little Birds=
+心に響く旋律が 全体の闇属性スキル攻撃力を上げ\n闇を纏いし刃で 敵を斬り刻む=A melody that resonates in the heart increases everyone's dark attribute skill attack power\nand slices the enemy with a blade clad in darkness=
+
+不純なアリア=Impure Aria=
+確率でSP回復し\n鎌を投げつけ 全体を斬り刻む=Chance to restore SP\nand throw a scythe to slice everyone=
+
+### Style
+木漏れ日のソナタ=Sunlight Sonata=
+
+
+聖域のカンタータ=Sanctuary Cantata=
+神聖なる光の力で\n味方全体をチャージ(スキルを強化)する=With the power of sacred light\nCharge all allies (enhance skills)=
+# Unique
+## Character
+CMatsuoka
+
+
+### Style
+秘めたる努力=Hidden Effort=
+
+
+バックラッシュ=Backlash=
+みなぎる活力で 自身の防御力を高め\nさらに 次の攻撃の連撃数(小ダメージ)を5回上げる=Boost own defense with surging vitality\nfurthermore, increase the number of hits (small damage) in the next attack by 5=
+
+[Auto] 打の躍動=Auto Strike Leap=
+行動開始時 前衛にいると\n前衛の打属性のクリティカルダメージ+8%=When in the frontline at the start of action\nincrease frontline's strike attribute critical damage by 8%=
+
+### Style
+疾風迅速滅亡の狼煙=Swift Destruction Beacon=
+
+
+必滅！ヴェインキック+=Doom! Vein Kick+=
+自身のクリティカル率を上げ 敵全体を爆発に巻き込む10連撃 \n初回使用時 消費SPを半減する=Increase own critical rate and involve all enemies in an explosive 10-hit attack \nhalve SP cost on first use=
+
+疾黒破弾=Swift Black Breaker=
+自身の防御力を高め\n闇の力を宿した 高圧エネルギー弾を放つ [対HP+30%]=Boost own defense\nand launch a high-pressure energy bullet imbued with dark power [against HP+30%]=
+
+### Style
+天才かませ犬=Genius Decoy Dog=
+
+
+ギャザー・バッシュ=Gather Bash=
+高圧エネルギー弾を放ちつつ\nさらに 敵の攻撃を自身に集中させる=Launch a high-pressure energy bullet\nfurthermore, draw enemy attacks to oneself=
+# Unique
+## Character
+INatsume
+
+
+### Style
+薫衣香る夢見鳥=Fragrant Dreaming Bird=
+
+
+唯雅粛正=Only Elegant Discipline=
+水面の上へ優雅に降り立ち 敵全体を薙ぎ払う斬撃を放つ\nチャージ中はクリティカルダメージが上昇し かつ [対HP+50%]=Gracefully descend onto the water surface and unleash a sweeping slash on all enemies\nwhile charged, increase critical damage and [against HP+50%]=
+
+冀望=Longing=
+自身のクリティカル率を上げ\nさらに チャージ(スキルを強化)する=Increase own critical rate\nfurthermore, Charge (enhance skills)=
+
+### Style
+剣の冷徹=Cold Blade=
+
+
+夜嵐=Night Storm=
+闇を纏いし瞬速の斬撃を放つ [対HP+30%]\nチャージ中は威力が上昇し かつ [対HP+50%]=Release a swift slash clad in darkness [against HP+30%]\nwhile charged, increase power and [against HP+50%]=
+
+### Style
+彼岸の人斬り=Otherworldly Slayer=
+
+
+瞬刃=Instant Blade=
+防御力を犠牲に 刹那の刃で\n全体を斬り刻む [対HP+30%]=Sacrifice defense to instantly\nslice everyone [against HP+30%]=
+
+### Style
+天誅斬影=Heavenly Punishment Slash=
+
+
+残心=Remaining Mind=
+鋭い斬撃で 敵を斬り捨て\nさらに 自身をチャージ(スキルを強化)する=Cut down the enemy with a sharp slash\nfurthermore, Charge oneself (enhance skills)=
+# Unique
+## Character
+MKurosawa
+
+
+### Style
+ハレの日の仏恥義理=Festival Day's Obligation=
+
+
+覇道妄執我突邁進=Supreme Path Reckless Advance=
+敵を威圧で脆弱状態にして 大剣を投げ飛ばす [破壊率大]\nチャージ中は威力が上昇し かつ [破壊率特大]=Intimidate the enemy into a vulnerable state and hurl a great sword [large destruction rate]\nwhile charged, increase power and [extra large destruction rate]=
+
+武血伽魔死=Martial Blood Demon Death=
+闇の力を宿した大剣で\n全体を薙ぎ払う [破壊率大]=With a great sword imbued with dark power\nsweep through everyone [large destruction rate]=
+
+### Style
+唯我独尊=Only Self Esteem=
+
+
+喧嘩上等！！=Bring on the Fight!!=
+大剣を大振りして 全体を攻撃\nさらに 自身をチャージ(スキルを強化)する=Swing the great sword widely to attack everyone\nfurthermore, Charge oneself (enhance skills)=
+
+[Auto] 打の意志=Auto Strike Will=
+行動開始時に前衛にいると\n前衛の打属性のスキル攻撃力+10%=When in the frontline at the start of action\nincrease frontline's strike attribute skill attack power by 10%=
+
+### Style
+Highway of Angels=
+
+
+一発入魂=All-in-One Blow=
+振り上げた力で 敵を強打\n[破壊率大]=Strike the enemy with all your might\n[large destruction rate]=
+
+
+# Unique
+## Character
+CReaper
+
+
+### Style
+心の風景=Landscape of the Heart
+
+
+パニッシャー=Punisher
+振り上げた力で 敵を斬り刻む [対HP+30%]\nSPが0以上であれば使用可能=Swing with might to slash the enemy [Against HP+30%]\nCan be used if SP is above 0=
+
+### Style
+摩天楼のダークヒーロー=Skyscraper's Dark Hero
+
+
+サンダーストーム=Thunderstorm
+雷の力を宿した鎌で 全体を斬り刻む [対HP+30%]\nSPが0以上であれば使用可能=Slash all with a scythe charged with thunder's power [Against HP+30%]\nCan be used if SP is above 0=
+
+ライトニングロア=Lightning Roar
+鎌を振り回して連撃\nさらに 自身の雷属性スキル攻撃力を上げる=Swing the scythe for a combo attack\nFurther increases own lightning skill attack power=
+
+### Style
+星の継承者=Heir of the Stars
+
+
+ブラスト・スラッシュ=Blast Slash
+鎌を投げつけ 全体を斬り刻む\n[対HP+30%]=Throw the scythe to slash all\n[Against HP+30%]=
+# Unique
+## Character
+LShanhua
+
+
+### Style
+春宵ウォーアイニー=Spring Evening War Aini
+
+
+春の宵の塵に同じ=Like Dust of a Spring Evening
+敵に現在HPの15〜30%のHP割合ダメージ(最大100万)\nさらに防御力を2ターン下げる SPが0未満のときのみ使用可能=Deals damage to enemy equal to 15-30% of current HP (up to 1 million)\nFurther reduces defense for 2 turns, can only be used if SP is below 0=
+
+螳螂之斧=Mantis Axe
+闘気の刃で 全体を斬り刻み 防御力を下げる\nSPが0以上であれば使用可能=Slash all with a blade of fighting spirit, reducing defense\nCan be used if SP is above 0=
+
+[Auto] 増幅=Amplification
+自身がかけた\nスキル攻撃力アップの効果量+10%=Increases the effect of\nskill attack power boost applied by self by +10%=
+
+### Style
+いざなうつゆくさ=Inviting Dew Grass
+
+
+霓裳羽衣ノ舞・霹靂=Dance of the Feathered Robe: Thunderclap
+天女のように舞い 味方全体の雷属性クリティカル率\n雷属性クリティカルダメージが上昇 SPが0以上であれば使用可能=Dance like a celestial maiden, increasing all allies' lightning attribute critical rate\nand lightning critical damage, can be used if SP is above 0=
+
+春雷=Spring Thunder
+確率でSP回復し\n雷の力を宿した剣舞で 全体を斬り裂く=Chance to recover SP\nand slash all with a sword dance charged with lightning=
+
+### Style
+我、勇ならざるは将なきに同じ=I, Who Lack Courage, Lack Leadership
+
+
+第七計 無中生有=Seventh Strategy: Creation from Nothing
+精強な舞で味方単体のスキル攻撃力を大きく上げ\n連撃数(小ダメージ)を5回上昇 SPが0以上であれば使用可能=Greatly increase a single ally's skill attack power with a vigorous dance\nIncrease number of hits (small damage) by 5, can be used if SP is above 0=
+
+臥龍天命=Sleeping Dragon's Destiny
+前衛のスキル攻撃力を\nDPを犠牲に 大きく引き出す=Greatly enhance the frontline's skill attack power\nat the cost of DP=
+
+### Style
+武を成すは天に在り=The Making of a Warrior is in Heaven
+
+
+臥龍演舞斬=Sleeping Dragon Performance Slash
+洗練された剣舞で 敵を斬り裂き\nさらに 防御力を下げる=Slice the enemy with a refined sword dance\nfurther reducing their defense=
+# Unique
+## Character
+IRedmayne
+
+
+### Style
+碧いカーヴァンクル=Azure Carbuncle
+
+
+トゥルーペネトレーター=True Penetrator
+真実を切り拓く鋭い銃弾で 全体を貫く [対DP+30%]\nSPが0以上であれば使用可能=Pierce all with sharp bullets that carve out the truth [Against DP+30%]\nCan be used if SP is above 0=
+
+ホールドアップマインド=Hold Up Mind
+自身のクリティカル率を上げ\nさらに 次の攻撃の連撃数(大ダメージ)も2回上げる=Increase own critical rate\nand also increase the number of hits (high damage) for the next attack by 2=
+
+### Style
+ベイカー街の軌跡=Baker Street's Trajectory
+
+
+エリミネイト・ポッシブル=Eliminate Possible
+探偵のひらめきによって次のターン開始時\n対象のSPを「3」まで回復する=Recover the target's SP to '3' at the start of the next turn, thanks to a detective's intuition=
+
+### Style
+不可思議の探求者=Mysterious Seeker
+
+
+エレメンタリー・バレット=Elementary Bullet
+銃で敵を狙撃する\n[対DP+30%]=Snipe the enemy with a gun\n[Against DP+30%]=
+# Unique
+## Character
+VBalakrishnan
+
+
+### Style
+華麗なる日常=Glorious Daily Life
+
+
+ジーナーカーナー=Jina Karna
+体力依存の回転する盾を 全体に叩きつけ\nダメージに応じて自身のDPを回復する=Smash all with a rotating shield dependent on physical strength\nRecover own DP according to the damage dealt=
+
+### Style
+凛々しきドゥルガー=Valiant Durga
+
+
+狂気乱舞のカーリー=Mad Dance of Kali
+10連撃で強襲して強攻撃を封じ 3ターンの間厄状態にさせ\n攻撃力を下げる SPが0以上であれば使用可能=Assault with a 10-hit combo, sealing strong attacks and causing misfortune for 3 turns\nreducing attack power, can be used if SP is above 0=
+
+高輝の燦=Brilliant Radiance
+きらめく光が 全体のDPを中回復し\nさらに 前衛の防御力を高める SPが0以上であれば使用可能=Shimmering light moderately recovers all DP\nand further enhances the frontline's defense, can be used if SP is above 0=
+
+### Style
+未知数なヴェーダーンガ=Unpredictable Vedanga
+
+
+プリンシプルチャンダス=Principal Chandus
+自身の防御力を高めてエネルギー弾を放ち\n敵の攻撃を自身に集中させる SPが0以上であれば使用可能=Increase own defense and release an energy bullet\ndrawing enemy attacks to self, can be used if SP is above 0=
+
+[Auto] 雷の威圧=Thunder Intimidation
+行動開始時に前衛にいると\n敵の雷属性の防御力-12%=When in the frontline at the start of action\nreduce enemy's thunder attribute defense by -12%=
+
+### Style
+華麗なるアプサラス=Glorious Apsaras
+
+
+トータルサブトラクション=Total Subtraction
+回転する盾を 全体に叩きつけ\nさらに 攻撃力を下げる=Smash all with a rotating shield\nfurther reducing attack power=
+# Unique
+## Character
+MdAngelis
+
+
+### Style
+刹那の邂逅=Fleeting Encounter
+
+
+救済のレクイエム=Salvation Requiem
+味方全体の攻撃力ダウンを回復し 雷属性の攻撃で全体を薙ぎ払う\nトークン数に応じて威力上昇 SPが0以上であれば使用可能=Recover all allies' reduced attack power and sweep all with a lightning attack\nPower increases according to the number of tokens, can be used if SP is above 0=
+
+フェリチータ=Felicità
+前衛を3ターン継続DP回復状態にし\nさらに 自身のトークンが上昇=Put the vanguard in a state of continuous DP recovery for 3 turns\nand further increase own tokens=
+
+[Auto] 戦士の祝福=Warrior's Blessing
+スキルでDP回復効果を受けると\nトークンを1上昇=When receiving DP recovery effect from a skill\nincrease tokens by 1=
+
+### Style
+罪と栄光=Sin and Glory
+
+
+[Auto] 打の威圧=Strike Intimidation
+行動開始時に前衛にいると\n敵の打属性の防御力-10%=When in the frontline at the start of action\nreduce enemy's strike attribute defense by -10%=
+
+### Style
+ブラッド・レリーフ=Blood Relief
+
+
+コンヴィクション・ゼロ=Conviction Zero
+大剣に氷晶を纏わせ 敵を断罪する\nトークン数に応じて威力上昇 SPが0以上であれば使用可能=Enshroud a great sword with ice crystals to condemn the enemy\nPower increases according to the number of tokens, can be used if SP is above 0=
+
+サクリファイス=Sacrifice
+DPを犠牲に トークン数に応じた威力で 敵を叩きつけ\nさらに 自身のトークンを上昇=Strike the enemy with power dependent on the number of tokens, sacrificing DP\nand further increase own tokens=
+
+[Auto] 洗練=Refinement
+バトル開始時 前衛にいると\n自身のトークン+5=When in the vanguard at the start of battle\nincrease own tokens by +5=
+
+### Style
+くれないのシスター=Crimson Sister
+
+
+パニッシュメント=Punishment
+聖なる光で 前衛のDPを回復\nさらに 自身のトークンを上昇=Recover the vanguard's DP with holy light\nand further increase own tokens=
+# Unique
+## Character
+CSkopovskaya
+
+
+### Style
+とこしえの想い=Eternal Thoughts
+
+
+純潔のパツィルーイ=Pure Patzirui
+結晶の力で 敵全体の雷耐性を消し去り 雷耐性を下げる(ターン永続)\n脆弱状態にし 真紅の雷撃を放つ SP0以上で使用可能=Erase all enemies' thunder resistance with the power of crystals, reducing thunder resistance (permanent for the turn)\nMake vulnerable and unleash a crimson thunder strike, can be used if SP is above 0=
+
+ザヴィーシマスチ=Zavishimasti
+広範囲に砲撃を放ち\nさらに 雷属性防御力を下げる=Fire a broad barrage\nfurther reducing thunder attribute defense=
+
+[Auto] 雷の制圧=Thunder Suppression
+行動開始時に前衛 & DP80%以上のとき\n敵の雷属性の防御力-18%=When in the frontline & DP is above 80% at the start of action\nreduce enemy's thunder attribute defense by -18%=
+
+### Style
+逆境に咲く華=Blossom in Adversity
+
+
+君に咲くグラナータ=Blooming Granata for You
+敵全体の防御力と闇属性防御力を下げ 手榴弾を闇の弾丸で貫き\n爆発に巻き込む SPが0以上であれば使用可能=Lower all enemies' defense and dark attribute defense, pierce with a grenade dark bullet\nand involve in an explosion, can be used if SP is above 0=
+
+狼狽プーリァ=Confused Puria
+集中的な砲撃を放ちつつ\nさらに 確率で混乱させる=Launch an intensive barrage\nand further cause confusion with a chance=
+
+### Style
+雪華ノスタルジア=Nostalgia of Snowflakes
+
+
+コーシュカ・アルマータ=Koshka Armata
+SPを全て消費して放つ 強力な一撃\n消費SPに応じて威力上昇=Release a powerful strike by consuming all SP\nPower increases according to the consumed SP=
+
+### Style
+北風の使者=Messenger of the North Wind
+
+
+ディザスター=Disaster
+広範囲に砲撃を放ち\nさらに 確率でスタンさせる=Fire a wide-range barrage\nand further cause stun with a chance=
+
+
