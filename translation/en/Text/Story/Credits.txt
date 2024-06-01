@@ -1,2 +1,45 @@
 [Main Story]
 麻枝 准=Jun Maeda
+
+[That Day's Friend]
+企画・開発=Planning & Development
+楠木 ともり=Tomori Kusunoki
+小澤 亜李=Ari Ozawa
+山根 綺=Aya Yamane
+小路 裕夕=Shouji Yuuyu
+愛美=Aimi
+中野 さいま=Saima Nakano
+内山 茉莉=Mari Uchiyama
+中村 桜=Sakura Nakamura
+古賀 葵=Aoi Koga
+伊波 杏樹=Anju Inami
+天海 由梨奈=Yurina Amami
+Vocal:鈴木このみ / Ayumu（Serenity In Murder）=Vocal: Konomi Suzuki / Ayumu (Serenity in Murder)
+芹澤 優=Yu Serizawa
+朝倉 可憐 / カレン=Karen Asakura / Karen
+前川 涼子=Ryouko Maekawa
+大西 亜玖璃=Aguri Onishi
+小坂井 祐莉絵=Yurie Kozakai
+黒瀬 ゆうこ=Yuuko Kurose
+奥野 香耶=Kaya Okuno
+内田 秀=Shu Uchida
+瀬戸 麻沙美=Asami Seto
+蛇石 徹=Toru Hebiishi
+カレン(Ayumu[Serenity In Murder])=Karen (Ayumu[Serenity in Murder])
+朝倉可憐(Vo.鈴木このみ)=Karen Asakura (Vo. Konomi Suzuki)
+茅森月歌(Vo.XAI)=Ruka Kayamori (Vo. XAI)
+吉田 穣=Minoru Yoshida
+やなぎなぎ=Yanagi Nagi
+歌唱=Singing
+編曲=Arrangement
+作曲=Composition
+作詞=Lyrics
+「銀河旅団」=「Ginga Ryodan」
+國見タマ(CV.古賀葵)=Tama Kunimi (CV. Aoi Koga)
+東城つかさ(CV.天海由梨奈)=Tsukasa Tojo (CV. Yurina Amami)
+逢川めぐみ(CV.伊波杏樹)=Megumi Aikawa (CV. Anju Inami)
+和泉ユキ(CV.前川涼子)=Yuki Izumi (CV. Ryouko Maekawa)
+「ありふれたBattle Song～いつも戦闘は面倒だ～」=「Arifureta Battle Song ～Itsumo Sentou wa Mendou da～」
+「過眠症」=「Kaminshou」
+渡邉"nabeken"賢一=Watanabe "Nabeken" Kenichi
+須原 杏=Anzu Suhara
