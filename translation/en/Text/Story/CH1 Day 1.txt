@@ -49,6 +49,7 @@
 
 次は問答無用で寝坊させてやるよ。=Next time I'm just gonna let you oversleep, \nno doubt about it.
 <style\=RubyPrefixTag></style>\n寝てたのにできるわけないだろう？　馬鹿か？=<style\=RubyPrefixTag></style>\n How the hell could I do that while I was sleeping? \nAre you stupid?
+寝てたのにできるわけないだろう？　馬鹿か？=How the hell could I do that while I was sleeping? \nAre you stupid?
 
 なんだよ、カッチーーーン！と来ました、みたいな顔して。=Would you do that to this beautiful face? *CA-CHING!!*
 カッチーーーン！と来たんだよ。= *CA-CHING!!* You bet I would.
@@ -204,14 +205,14 @@ Early Morning 2
 そうね…。=That's right...
 そうか！　なあ、訊きたいことがあるんだ、ななみん。=Oh yeah! Hey's Nanamin, I have a question for ya!
 
-<style\=RubyPrefixTag></style>\n刀削麺は知っているよな？=<style\=RubyPrefixTag></style>\nYou know about Toshomen, right?
+<style\=RubyPrefixTag></style>\n刀削麺は知っているよな？=<style\=RubyPrefixTag></style>\nYou know about Knife-cut noodles, right?
 <style\=RubyPrefixTag></style>\nどうしてここには男が居ないんだ？=<style\=RubyPrefixTag></style>\nWhy isn't there a single man here?
 <style\=RubyPrefixTag></style>\nななみんに訊きたいことは…=<style\=RubyPrefixTag></style>\nThe thing we wanted to ask Nanamin...
 
-刀削麺は知っているよな？=You know about Toshomen, right?
+刀削麺は知っているよな？=You know about Knife-cut noodles, right?
 訊くことちゃうわ。=Absolutely wrong question.
-ああ、あの、片手に生地、片手に包丁を持って湯の沸いた鍋の前に立ち、生地を細長く鍋の中に削ぎ落としてゆでる奴ですか。=Ah, the noodles where you stand in front of a pot of boiling \nwater with the dough in one hand a knife in the other, where \nyou then you cut the dough down into long, thin strips to boil them?
-<style\=RubyPrefixTag></style>\nああ、あの、片手に生地、片手に包丁を持って湯の沸いた\r\n鍋の前に立ち、生地を細長く鍋の中に削ぎ落としてゆでる\r\n奴ですか。=<style\=RubyPrefixTag></style>\nAh, the noodles where you stand in front of a pot of boiling \nwater with the dough in one hand a knife in the other, where \nyou then you cut the dough down into long, thin strips to boil them?
+ああ、あの、片手に生地、片手に包丁を持って湯の沸いた鍋の前に立ち、生地を細長く鍋の中に削ぎ落としてゆでる奴ですか。=Ah, the noodles where you stand in front of a pot of boiling \nwater with the dough in one hand, a knife in the other, then \nyou cut the dough down into long, thin strips to boil them?
+<style\=RubyPrefixTag></style>\nああ、あの、片手に生地、片手に包丁を持って湯の沸いた\r\n鍋の前に立ち、生地を細長く鍋の中に削ぎ落としてゆでる\r\n奴ですか。=<style\=RubyPrefixTag></style>\nAh, the noodles where you stand in front of a pot of boiling \nwater with the dough in one hand, a knife in the other, then \nyou cut the dough down into long, thin strips to boil them?
 嘘やろ！？　コピペでもしたかのように、こいつと一言一句違わん説明やで！！=Ya've gotta be jokin'! She spouted that out like she was \ncopyin' it from an encyclopedia!
 はっ、それだけ知ってて当たり前ってことさ。=Heh, that must mean it's normal to know about it.
 もっと訊くべきことがあったでしょう？=That wasn't the question we were supposed to ask, right?
@@ -241,8 +242,8 @@ Early Morning 2
 和泉さん先見てくるって。=Izumi-san said that she would run on ahead.
 <style\=RubyPrefixTag></style>\n和泉さん先見てくるって。=<style\=RubyPrefixTag></style>\nIzumi-san said that she would run on ahead.
 行こ。=Let's go
-…ヘリなぁ。１部隊に１機ってことやろ？=...A helicopter, huh? It's one heli per-squad, right?
-いつになったら専用機貰えるんやろな。=Wonder when our squad'll get its own.
+…ヘリなぁ。１部隊に１機ってことやろ？=...A helicopter, huh? It's one heli per-unit, right?
+いつになったら専用機貰えるんやろな。=Wonder when our unit will get its own.
 早く入れよ。遅れるぞ。=Hurry up and head in, we're already late.
 <style\=RubyPrefixTag></style>\n学舎に入る=<style\=RubyPrefixTag></style>\nEnter the school.
 ん、右か？=Hmm, it was on the right side right?
@@ -259,7 +260,7 @@ Early Morning 2
 <style\=RubyPrefixTag></style>\nしっかり訊く=<style\=RubyPrefixTag></style>\nListen carefully.
 <style\=RubyPrefixTag></style>\n手短に頼む=<style\=RubyPrefixTag></style>\nMake it brief please.
 
-[Make it Brief]
+[--------------Option Make it Brief-----------------]
 
 
 手短に頼む！=Make it brief please!
@@ -286,8 +287,8 @@ Early Morning 2
 
 [Post Choice Merge]
 なので、デフレクタが消失したら、即退避。これは厳命よ。=Anyways, if the Deflector dissappears, retreat \nimmediately. That's a strict order.
-また、セラフの召喚によって身体能力は飛躍的に向上するわ。訓練も受けていないあなたたちが戦線で戦えるのはその恩恵があってこそよ。=Additionally, summoning Seraphs dramatically improves \nyour phsical capabilities. It's only with their \nassistence that you guys, with no training, can fight \non the front lines.
-でもメリットばかりではないわ。セラフを使い続けていると、鼻血が出ます。=However, its not all honorable merit; continous overuse \nof the Seraphs will cause nosebleeds.
+また、セラフの召喚によって身体能力は飛躍的に向上するわ。訓練も受けていないあなたたちが戦線で戦えるのはその恩恵があってこそよ。=Additionally, summoning Seraphs dramatically improves your \nphysical capabilities. It's only with their assistence \nthat you guys, can fight on the front lines without training.
+でもメリットばかりではないわ。セラフを使い続けていると、鼻血が出ます。=However, its not all honorable merit, continous overuse \nof the Seraphs will cause nosebleeds.
 そのまま戦い続けると死にます。一晩寝れば回復するので鼻血が出たら安全圏まで即時撤退しなさい。=If you decide to keep fighting, you will die. You \ncan recover after a night's sleep, so if you get a \nnosebleed you must retreat immediately.
 そして、あなたたちが守るべき人類について。=Next point is about the humanity you are supposed \nto protect.
 各地にドームと呼ばれる拠点を作り、キャンサーから隠れて生活しているわ。=They have built domes in various locations, its \nwhere they live while they hide from the Cancers.
@@ -330,8 +331,8 @@ Early Morning 2
 <style\=RubyPrefixTag></style>\nただし、基地内はアンテナがあるから問題ないけど、外に\r\n出たらそうはいかないわ。=<style\=RubyPrefixTag></style>\nThere is no problem inside the base because there are \nantennas, but it will not be the same when you go outside.
 一部のキャンサーが妨害電波を発しているせいで、昔みたいにどこでも通信が繋がるわけじゃない。なので、通信状況を意識しながら行動するように。=Because some of the cancers are emitting jamming signals, \ncommunication is not possible everywhere like it used to be. \nSo, please be aware of the communication status as you go.
 <style\=RubyPrefixTag></style>\n一部のキャンサーが妨害電波を発しているせいで、昔みた\r\nいにどこでも通信が繋がるわけじゃない。なので、通信状\r\n況を意識しながら行動するように。=<style\=RubyPrefixTag></style>\nBecause some of the cancers are emitting jamming signals, \ncommunication is not possible everywhere like it used to be. \nSo, please be aware of the communication status as you go.
-あと、たとえ基地内であっても、通信に使うエネルギーはとても貴重よ。無闇に私用に使ったら肉体労働で返してもらうからそのつもりでいなさい。=Also, even inside the base, the energy used for communication is precious. \nIf you use it for personal use without permission, you will be \nforced to do manual labor to repay it, so please keep that in mind.
-<style\=RubyPrefixTag></style>\nあと、たとえ基地内であっても、通信に使うエネルギーは\r\nとても貴重よ。無闇に私用に使ったら肉体労働で返しても\r\nらうからそのつもりでいなさい。=<style\=RubyPrefixTag></style>\nAlso, even inside the base, the energy used for communication is very precious. \nIf you use it for personal use without permission, you will be \nforced to do manual labor to repay it, so please keep that in mind.
+あと、たとえ基地内であっても、通信に使うエネルギーはとても貴重よ。無闇に私用に使ったら肉体労働で返してもらうからそのつもりでいなさい。=Also, even inside the base, the energy used is precious. If you \nuse it for personal use without permission, you will be forced \nto do manual labor to repay it, so please keep that in mind.
+<style\=RubyPrefixTag></style>\nあと、たとえ基地内であっても、通信に使うエネルギーは\r\nとても貴重よ。無闇に私用に使ったら肉体労働で返しても\r\nらうからそのつもりでいなさい。=<style\=RubyPrefixTag></style>\nAlso, even inside the base, the energy used is precious. If you \nuse it for personal use without permission, you will be forced \nto do manual labor to repay it, so please keep that in mind.
 ひぃ！！　強制労働は嫌です！！=EEK! I don't want to do forced labor!!
 そうだ！　反対！　反対！=That's right! Oppose! Oppose!
 私用で使いまくらなければ大丈夫だろ。あまり使わないのも作戦に支障をきたしそうだがな。=It's okay if you don't use it for personal use. But it \nseems like it might interfere with the operation if you \ndon't use it much either.
@@ -569,8 +570,8 @@ Early Morning 2
 <style\=RubyPrefixTag></style>\n覚えてる=<style\=RubyPrefixTag></style>\nI remember
 <style\=RubyPrefixTag></style>\nセラフィムコードは…。=<style\=RubyPrefixTag></style>\nSeraphim code...
 忘れた。=I forgot.
-電子軍人手帳に書いてあります。確認してください。=It is written in the Electronic Military Book. \nPlease check it.
-<style\=RubyPrefixTag></style>\n電子軍人手帳に書いてあります。確認してください。=<style\=RubyPrefixTag></style>\nIt is written in the Electronic Military Book. \nPlease check it.
+電子軍人手帳に書いてあります。確認してください。=It is written in the Electronic Military Handbook. \nPlease check it.
+<style\=RubyPrefixTag></style>\n電子軍人手帳に書いてあります。確認してください。=<style\=RubyPrefixTag></style>\nIt is written in the Electronic Military Handbook. \nPlease check it.
 それも忘れた。=I also forgot about that.
 <style\=RubyPrefixTag></style>\nそれも忘れた。=<style\=RubyPrefixTag></style>\nI also forgot about that.
 肌身離さず携行するようにと言われていませんでしたか？=Weren't you told to carry it with you at all times?
@@ -608,8 +609,9 @@ Early Morning 2
 電子軍人手帳に記載されているので確認してください。=It is written in the Electronic Military Book, \nplease check it.
 あたしの伝説はこれから始まる、か…。=My legend is about to begin...?
 <style\=RubyPrefixTag></style>\nあたしの伝説はこれから始まる、か…。=<style\=RubyPrefixTag></style>\nMy legend is about to begin...?
-あたしは、『{Ｈｅｌｌｏ ｗｏｒｌｄ:ハローワールド}』。=Mine is "Hello World"
-<style\=RubyPrefixTag></style>\nあたしは、『Ｈｅｌｌｏ ｗｏｒｌｄ<space\=-331.252px><voffset\=1em><size\=50%><cspace\=0px>ハローワールド</cspace></size></voffset><space\=167.204px><style\=RubySuffixTag></style>』。=<style\=RubyPrefixTag></style>\nMine is "Hello World"<style\=RubySuffixTag></style>』
+あたしは、『{Ｈｅｌｌｏ ｗｏｒｌｄ:ハローワールド}』。=Mine is "HELLO WORLD"
+<style\=RubyPrefixTag></style>\nあたしは、『Ｈｅｌｌｏ ｗｏｒｌｄ<space\=-331.252px><voffset\=1em><size\=50%><cspace\=0px>ハローワールド</cspace></size></voffset><space\=167.204px><style\=RubySuffixTag></style>』。=<style\=RubyPrefixTag></style>\nMine is "HELLO WORLD"<style\=RubySuffixTag></style>
+<style\=RubyPrefixTag></style>\nあたしは、『Ｈｅｌｌｏ ｗｏｒｌｄ<space\=-252.5622px><voffset\=1em><size\=50%><cspace\=0px>ハローワールド</cspace></size></voffset><space\=123.0014px><style\=RubySuffixTag></style>』。=<style\=RubyPrefixTag></style>\nMine is "HELLO WORLD"<style\=RubySuffixTag></style>
 わたしは『真実は一つと限らない』ね…。=Mine is "There is more than one truth."...
 うちは『救世主様のお出ましや』か…。=Mine is "Your Savior has arrive"...
 <style\=RubyPrefixTag></style>\nうちは『救世主様のお出ましや』か…。=<style\=RubyPrefixTag></style>\nMine is "Your Savior has arrive"...
@@ -652,7 +654,8 @@ Early Morning 2
 
 あたしの伝説はこれから始まる！！=My legend is about to start!!
 救世主様のお出ましや！！=Your Savior has arrive!!
-{Ｈｅｌｌｏ ｗｏｒｌｄ:ハローワールド}！！=Hello World!!
+{Ｈｅｌｌｏ ｗｏｒｌｄ:ハローワールド}！！=HELLO WORLD!!
+<style\=RubyPrefixTag></style>\nＨｅｌｌｏ ｗｏｒｌｄ<space\=-331.252px><voffset\=1em><size\=50%><cspace\=0px>ハローワールド</cspace></size></voffset><space\=167.204px><style\=RubySuffixTag></style>！！=<style\=RubyPrefixTag></style>\nHELLO WORLD!!
 真実は一つと限らない！！=There is more than one truth!!
 <style\=RubyPrefixTag></style>\n真実は一つと限らない！！=<style\=RubyPrefixTag></style>\nThere is more than one truth!!
 天下一品！！=Tenkaippin!! (The World's Best!!)
@@ -779,8 +782,8 @@ Early Morning 2
 どんな体だよ…。=What kind of body do you have...
 もう疲れが取れない年頃なんだよ！=I'm at an age where I can't feel tired anymore!
 取れることは保証しますから、やってください。=I can guarantee that you will get tired, so please do it.
-はい、１００。=Done, 100.
-<style\=RubyPrefixTag></style>\nはい、１００。=<style\=RubyPrefixTag></style>\nDone, 100.
+はい、１００。=Okay, 100.
+<style\=RubyPrefixTag></style>\nはい、１００。=<style\=RubyPrefixTag></style>\nOkay, 100.
 うおぉぉぉーーー…終わったぁーーー！！=Uwooo...It's finally over!!
 
 [---------------Option-I don't need it----------------------]
@@ -831,8 +834,8 @@ Early Morning 2
 ほんとだ。給食になってる。=True. It's a normal meal.
 <style\=RubyPrefixTag></style>\nほんとだ。給食になってる。=<style\=RubyPrefixTag></style>\nTrue. It's a normal meal.
 ただの歓迎だったみたいね。=Seems like that was just a welcome reception.
-あんなにご馳走があったのに、ハンバーグカレーと刀削麺だけで腹を満たしちまったよ！！=Even though there were so many dishes, I only filled \nmy stomach with hamburg curry and Toshomen!!
-<style\=RubyPrefixTag></style>\nあんなにご馳走があったのに、ハンバーグカレーと刀削麺\r\nだけで腹を満たしちまったよ！！=<style\=RubyPrefixTag></style>\nEven though there were so many dishes, I only filled \nmy stomach with hamburg curry and Toshomen!!
+あんなにご馳走があったのに、ハンバーグカレーと刀削麺だけで腹を満たしちまったよ！！=Even though there were so many dishes, I only filled \nmy stomach with hamburg curry and Knife-cut noodles!!
+<style\=RubyPrefixTag></style>\nあんなにご馳走があったのに、ハンバーグカレーと刀削麺\r\nだけで腹を満たしちまったよ！！=<style\=RubyPrefixTag></style>\nEven though there were so many dishes, I only filled \nmy stomach with hamburg curry and Knife-cut noodles!!
 はっ、滑稽やな。=Hah, ridiculous.
 <style\=RubyPrefixTag></style>\nはっ、滑稽やな。=<style\=RubyPrefixTag></style>\nHah, ridiculous.
 充分満喫してるラインナップだろ…。=That's a plenty enjoyable lineup...
@@ -986,17 +989,18 @@ Early Morning 2
 音楽好き=Loves Music
 マリオネット=Marionette
 殺戮マシン=Killing machine
-キャンサー寄りの=Cancer-related
-人類史上類を見ない=unprecedented in human history
+キャンサー寄りの=Cancer's
+人類史上類を見ない=unlike any in human history.
 ただの=Just
 あたしは…=I am...
-キャンサー寄りの音楽好きさ。=I loves Cancer-related music.
-なんでキャンサー寄りなんだよ。あいつら音楽聴かないだろ。=Why is it Cancer-related? They don't even listen to music.
-<style\=RubyPrefixTag></style>\nなんでキャンサー寄りなんだよ。あいつら音楽聴かないだ\r\nろ。=<style\=RubyPrefixTag></style>\nWhy is it Cancer-related? They don't even listen to music.
+キャンサー寄りの音楽好きさ。=I loves Cancer's music.
+なんでキャンサー寄りなんだよ。あいつら音楽聴かないだろ。=Why is it Cancer's? They don't even listen to music.
+<style\=RubyPrefixTag></style>\nなんでキャンサー寄りなんだよ。あいつら音楽聴かないだ\r\nろ。=<style\=RubyPrefixTag></style>\nWhy is it Cancer's? They don't even listen to music.
 とにかく音楽が好きで、今に至る。次誰？=Anyway I love music, even till now. Who's next?
 <style\=RubyPrefixTag></style>\nとにかく音楽が好きで、今に至る。次誰？=<style\=RubyPrefixTag></style>\nAnyway I love music, even till now. Who's next?
 はしょりすぎだろ！=You're skipping over too much!
 あたしが知ってるだけでも、１６歳で<cspace\=0.2em>She</cspace> <cspace\=0.2em>is</cspace> <cspace\=0.2em>Legend</cspace>のギターボーカルとしてメジャーデビュー=Just from what I know, you made your major debut as \nthe guitar vocalist of She is Legend at the age of 16.
+<style\=RubyPrefixTag></style>\nあたしが知ってるだけでも、１６歳で<cspace\=0.2em>She</cspace> <cspace\=0.2em>is</cspace> <cspace\=0.2em>Legend</cspace>の\r\nギターボーカルとしてメジャーデビュー=<style\=RubyPrefixTag></style>\nJust from what I know, you made your major debut as \nthe guitar vocalist of She is Legend at the age of 16.
 アルバムはその年の新人賞を総なめ、ツアーも大成功。なのに突然の解散を発表、があるわ。=The album won all the rookie awards that year, and \nthe tour was also a great success. And then there's \nthe sudden announcement of the disbandment. 
 そりゃあったけどさ、結局歌が好きで歌ってただけで、取り巻く状況が変わっていっただけだぜ？=Well that did happen, but in the end, I was just singing \nbecause I liked to sing, and the circumstances around \nme just changed, that's all.
 解散理由は？=What's the reason for the disbandment?
@@ -1077,3 +1081,316 @@ Early Morning 2
 はいはい、寝るよ…訓練よりツッコミのほうがしんどいぜ…人類救う頃にはすごい達者になってるぜ、きっと…。=Okay, okay, I'll sleep...Being a straight-man is even \nmore tiring than the training today... By the time we \nsave the mankind, I'll be so good at it, I bet...
 <style\=RubyPrefixTag></style>\nはいはい、寝るよ…訓練よりツッコミのほうがしんどいぜ\r\n…人類救う頃にはすごい達者になってるぜ、きっと…。=<style\=RubyPrefixTag></style>\nOkay, okay, I'll sleep...Being a straight-man is even \nmore tiring than the training today... By the time we \nsave the mankind, I'll be so good at it, I bet...
 
+---------------------------------------
+Extra Lines
+---------------------------------------
+つい反発心が芽生えてしまった！！　戻ろう…。=I've developed a rebellious streak all of a sudden!! \nLet's go back...
+<style\=RubyPrefixTag></style>\nつい反発心が芽生えてしまった！！　戻ろう…。=<style\=RubyPrefixTag></style>\nI've developed a rebellious streak all of a sudden!! \nLet's go back...
+
+[----------------Option Tsukasa Let's go-----------------------]
+そんなに空腹だったのね。=You were that hungry?
+
+[-----------------Option Curry yokan----------------------]
+カレー味のヨウカン。=Curry-flavored Yokan.
+ありそうだけど、ヤだわ。=That sounds like something that exists, but no thanks.
+<style\=RubyPrefixTag></style>\nありそうだけど、ヤだわ。=<style\=RubyPrefixTag></style>\nThat sounds like something that exists, but no thanks.
+きっと美味しいよ？=It's definitely delicious, you know?
+ひとりでチャンネル作って試してくれ。=Create a channel by yourself and try it out.
+
+[------------------Street Convo---------------------]
+
+あっちに怖そうな先輩が居ます！！=There's a scary-looking senior over there!!
+ほんとだ！=Wow, you're right!
+この基地、謎だらけね。=This base is full of mysteries.
+…はぁ、歩くのたるいわ。=...Ugh, I'm so tired of walking.
+クラスって授業でも受けさせられるのか？=I wonder if we'll have to take classes?
+どんな授業なのかワクワクです！=I'm excited to see what kind of classes they are!
+だとしたら、どんな授業なんだ？=If so, what kind of classes will they be?
+期待と不安でいっぱい。=I'm full with anticipation and anxiety.
+青春の１ページやな。=It's like one page of youth.
+
+[-------------------Option Listen carefully--------------------]
+
+すでに説明したことだけど、重要なことなので改めて確認するわよ？=I've already explained this, but I'm going to confirm \nit again because it's important.
+日本も例外じゃない。九州と北海道が壊滅し、この国も敵の手に落ちようとしていた。けど、その寸前に人類は新たな兵器を開発した。それがセラフ。=Japan is no exception. Kyushu and Hokkaido were destroyed, \nand this country was about to fall into enemies' hand. But \njust before that, humanity developed a new weapon. It's called Seraph.
+だったわね？=Right?
+お前、同じ情報繰り返し言っただけだからな。お前の口からはまだ新情報は何ひとつ出てきてないからな。=You're just repeating the same information, okay? I \nhaven't heard any new information from you yet.
+その通り。サンプルを採集したが、どのようなレーザーや爆弾をもってしても、傷つけることはできなかった。いえ、傷つけてもすぐ再生してしまう。=That's right. We collected samples, but we couldn't \ndamage them with any lasers or bombs. No, even if we \ndid damage them, they would regenerate immediately.
+それについては、我々が感知できない高次元からエネルギーの供給を行っている説が有力とされているわ。=It is believed that they are receiving energy from \na higher dimension that we cannot perceive.
+ちょっとは驚けよ。そいつと戦うんだぞ？=Be a little more surprised. You're going to fight \nthat thing, you know?
+セラフだけはその次元にまで到達し、供給源ごと絶つことのできる唯一の兵器なの。=Seraph is the only weapon that can reach that dimension \nand cut off the energy source.
+そんなのどうやって見つけたのさ。=How did you figure that out?
+<style\=RubyPrefixTag></style>\nそんなのどうやって見つけたのさ。=<style\=RubyPrefixTag></style>\nHow did you figure that out?
+科学者たちの研究によって解明された。=It was discovered through research by scientists.
+<style\=RubyPrefixTag></style>\n科学者たちの研究によって解明された。=<style\=RubyPrefixTag></style>\nIt was discovered through research by scientists.
+別次元を感知できない人間が、これ別次元に到達してるじゃん！ってどうやって確認したんだ？=How can humans who cannot perceive other dimensions \nconfirm that it's reaching other dimensions?
+あなたが思っているより、科学者たちは有能なの。=Scientists are more capable than you think.
+キャンサーは高次元からエネルギーを受け取っているとしても、知能は地球上で言うところの下等生物並み。=Even though Cancer is receiving energy from a higher \ndimension, its intelligence is on par with lower life \nforms on Earth.
+本能に従い、我々知的生命体を動物的に捕食するのみ。=They follow their instincts and prey on us intelligent \nlife forms as animals.
+<style\=RubyPrefixTag></style>\n本能に従い、我々知的生命体を動物的に捕食するのみ。=<style\=RubyPrefixTag></style>\nThey follow their instincts and prey on us intelligent \nlife forms as animals.
+お、なんや、そない便利なもんがあるんやったらひたすら突撃してけばええだけやん。=Oh, well, if there's such a convenient thing, all we \nhave to do is just charge in, right?
+<style\=RubyPrefixTag></style>\nお、なんや、そない便利なもんがあるんやったらひたすら\r\n突撃してけばええだけやん。=<style\=RubyPrefixTag></style>\nOh, well, if there's such a convenient thing, all we \nhave to do is just charge in, right?
+そうともいかないの。=It's not that simple.
+デフレクタは一定量のダメージを受けると消失する。その状態で攻撃を受けたらひとたまりもないの。=The deflector disappears when it takes a certain \namount of damage. If we are attacked in that state, \nwe are doomed.
+<style\=RubyPrefixTag></style>\nデフレクタは一定量のダメージを受けると消失する。その\r\n状態で攻撃を受けたらひとたまりもないの。=<style\=RubyPrefixTag></style>\nThe deflector disappears when it takes a certain \namount of damage. If we are attacked in that state, \nwe are doomed.
+
+[--------------------Option Go to hell-------------------]
+
+えー、仲間がピンチの時ぐらい助けてやりたいじゃん。=Eeh, I want to help my friends when they're in trouble.
+<style\=RubyPrefixTag></style>\nえー、仲間がピンチの時ぐらい助けてやりたいじゃん。=<style\=RubyPrefixTag></style>\nEeh, I want to help my friends when they're in trouble.
+許されません。=That's not allowed.
+<style\=RubyPrefixTag></style>\n許されません。=<style\=RubyPrefixTag></style>\nThat's not allowed.
+冷たすぎねぇ？=Aren't you being too cold?
+それだけあなたたちは貴重な戦力ということよ。=It's just that you are all valuable assets.
+セラフの召喚によって身体能力は飛躍的に向上するわ。訓練も受けていないあなたたちが戦線で戦えるのはその恩恵。=Your physical abilities are greatly enhanced by \nsummoning Seraph. The fact that you can fight on the \nfront lines without any training is a testament to that.
+<style\=RubyPrefixTag></style>\nセラフの召喚によって身体能力は飛躍的に向上するわ。訓\r\n練も受けていないあなたたちが戦線で戦えるのはその恩恵。\r\n=<style\=RubyPrefixTag></style>\nYour physical abilities are greatly enhanced by \nsummoning Seraph. The fact that you can fight on the \nfront lines without any training is a testament to that.\r\n
+人類の未来は、セラフを操れるあなたたちにかかっている。それを自覚するように。=The future of humanity depends on you, who can \ncontrol Seraph. Be aware of that.
+ええやん、望むところや。誰よりもキャンサー倒して、人類救ったるわ。=Just what I like. I'll beat Cancer more than anyone \nelse and save humanity.
+<style\=RubyPrefixTag></style>\nええやん、望むところや。誰よりもキャンサー倒して、人\r\n類救ったるわ。=<style\=RubyPrefixTag></style>\nJust what I like. I'll beat Cancer more than anyone \nelse and save humanity.
+とはいえ、メリットばかりではないの。それがもうひとつの死ぬケース。=However, it's not all a good thing. There is another \nrisk of death.
+<style\=RubyPrefixTag></style>\nとはいえ、メリットばかりではないの。それがもうひとつ\r\nの死ぬケース。=<style\=RubyPrefixTag></style>\nHowever, it's not all a good thing. There is another \nrisk of death.
+休まずセラフを使い続けていると、鼻血が出ます。それはとても危険な状態であるというサインです。=If you continue to use Seraph without rest, you will \nget a nosebleed. This is a sign that you are in a very \ndangerous state.
+<style\=RubyPrefixTag></style>\n休まずセラフを使い続けていると、鼻血が出ます。それは\r\nとても危険な状態であるというサインです。=<style\=RubyPrefixTag></style>\nIf you continue to use Seraph without rest, you will \nget a nosebleed. This is a sign that you are in a very \ndangerous state.
+鼻血を確認したら即座に安全圏まで撤退しなさい。一晩休めば回復します。=After confirming the nosebleed, retreat to a safe \narea immediately. You will recover after a night's rest.
+<style\=RubyPrefixTag></style>\n鼻血を確認したら即座に安全圏まで撤退しなさい。一晩休\r\nめば回復します。=<style\=RubyPrefixTag></style>\nAfter confirming that you get a nosebleed, retreat to a safe \narea immediately. You will recover after a night's rest.
+鼻血が出ただけなのに？=Just because we got a nosebleed?
+<style\=RubyPrefixTag></style>\n鼻血が出ただけなのに？=<style\=RubyPrefixTag></style>\nJust because we got a nosebleed?
+セラフは強力がゆえ、それだけリスクも高い武器ということよ。=Seraph is a powerful weapon, so it is also a high-risk \nweapon.
+なので、味方の鼻血には気を留めるように。=So, pay attention to your allies' nosebleeds.
+先生！　だれだれくんが鼻血です！　みたいに？="Teacher! Someone is bleeding from the nose!" \nLike that?
+小学校か。=Are you an elementary schooler?
+<style\=RubyPrefixTag></style>\n小学校か。=<style\=RubyPrefixTag></style>\nAre you an elementary schooler?
+あなたたちが軍にスカウトされてからセラフ部隊に配属されるまでの検査期間の間にかなり情勢が変わったの。=A lot has changed between the time you were scouted \nby the military and assigned to the Seraph Unit and \nthe testing period.
+<style\=RubyPrefixTag></style>\nあなたたちが軍にスカウトされてからセラフ部隊に配属さ\r\nれるまでの検査期間の間にかなり情勢が変わったの。=<style\=RubyPrefixTag></style>\nA lot has changed between the time you were scouted \nby the military and assigned to the Seraph Unit and \nthe testing period.
+ええ？　あんな大勢のひとたちが？=Eh? All those people?
+『人類残存メーター』を見たでしょう？\nすでに１０００万人を切っているの。=Did you see the 'Human Survival Meter'? It's already \nbelow 10 million.
+数字にされてもピンと来なくて。=I can't imagine it even if it's just a number.
+隠れるゆうても、どないしてキャンサーから隠れとるんや？=Even if they hide, how do they hide from Cancer?
+じゃあ、キャンサーの外殻で作った鎧を着て戦えば一方的に攻撃できるんじゃない？=Then, if we fight wearing armor made from Cancer's \nshell, we can attack them one-sidedly, right?
+さすがに相手もそこまで馬鹿ではないわ。=Surely the enemy is not that stupid.
+<style\=RubyPrefixTag></style>\nさすがに相手もそこまで馬鹿ではないわ。=<style\=RubyPrefixTag></style>\nSurely the enemy is not that stupid.
+最初の不意打ち程度なら使えるかもしれないけど、すぐに敵と判断される。=It might be usable to the extent of the first surprise \nattack, but the enemy will immediately reacted to you.
+そうなれば重いキャンサーの外殻を纏ったまま戦わないといけなくなるわ。=When that happens, you will have to fight without \ntaking off the heavy Cancer shell.
+<style\=RubyPrefixTag></style>\nそうなれば重いキャンサーの外殻を纏ったまま戦わないと\r\nいけなくなるわ。=<style\=RubyPrefixTag></style>\nWhen that happens, you will have to fight without \ntaking off the heavy Cancer shell.
+いいアイデアだと思ったのに。=And here I thought it was a good idea.
+<style\=RubyPrefixTag></style>\nいいアイデアだと思ったのに。=<style\=RubyPrefixTag></style>\nAnd here I thought it was a good idea.
+そんなことはすでに思いついて試した後だろうよ。=I'm sure they've already thought of that and tried it.
+偵察中のキャンサーに気づかれたり、大型キャンサーの通り道と重なってしまうこともあるの。=There are times when we are noticed by Cancer during \nreconnaissance or when we overlap with the path of \na large Cancer.
+<style\=RubyPrefixTag></style>\n偵察中のキャンサーに気づかれたり、大型キャンサーの通\r\nり道と重なってしまうこともあるの。=<style\=RubyPrefixTag></style>\nThere are times when we are noticed by Cancer during \nreconnaissance or when we overlap with the path of \na large Cancer.
+そうした場合はセラフ部隊が出動して、ドームを守ることも大切な任務よ。=In such cases, it is also an important mission for \nthe Seraph Unit to sortie and protect the dome.
+確かに、セラフって物々しいもんな…。=Indeed, Seraph is a formidable thing...
+そして、それを操りキャンサーを倒すあなたたちは人類の希望よ。そんな存在がドームに現れたらどうなると思う？=And you who control it and defeat Cancer are the hope \nof humanity. What do you think will happen if such an \nexistence appears in the dome?
+<style\=RubyPrefixTag></style>\nそして、それを操りキャンサーを倒すあなたたちは人類の\r\n希望よ。そんな存在がドームに現れたらどうなると思う？\r\n=<style\=RubyPrefixTag></style>\nAnd you who control it and defeat Cancer are the hope \nof humanity. What do you think will happen if such an \nexistence appears in the dome?\r\n
+サインなら書き慣れてるよ。=I'm used to writing autographs.
+その程度では済まない。大騒ぎになるでしょう。=It's not at that level. It will cause a big uproar.
+<style\=RubyPrefixTag></style>\nその程度では済まない。大騒ぎになるでしょう。=<style\=RubyPrefixTag></style>\nIt's not at that level. It will cause a big uproar.
+あたしたちでも…？=Even if it's us...?
+ええ。ドームの秩序を乱すことも今は危険なの。よーく覚えておいて。=Yes. It is dangerous to disturb the order of the \ndome now. Remember that well.
+<style\=RubyPrefixTag></style>\nええ。ドームの秩序を乱すことも今は危険なの。よーく覚\r\nえておいて。=<style\=RubyPrefixTag></style>\nYes. It is dangerous to disturb the order of the \ndome now. Remember that well.
+小学生か。=Are you an elementary schooler?
+
+[---------------------------------------]
+
+駄目だ。=Not good.
+お前の思考回路のことか。=What is? Your thought process?
+こっちの部屋も別の部隊なのかな。\nどんなメンバーがいるんだろ？=I wonder if this room is for another unit. \nWho are the members?
+<style\=RubyPrefixTag></style>\nこっちの部屋も別の部隊なのかな。\nどんなメンバーがいるんだろ？=<style\=RubyPrefixTag></style>\nI wonder if this room is for another unit. \nWho are the members?
+いっしょに昼食いってあげてもいいわよ。=I can accompany you to eat lunch together if you want.
+いや、ただ話しかけただけ。=No, I was just talking to you.
+<style\=RubyPrefixTag></style>\nいや、ただ話しかけただけ。=<style\=RubyPrefixTag></style>\nNo, I was just talking to you.
+<style\=RubyPrefixTag></style>\n逢川とお昼ごはんに行く？=<style\=RubyPrefixTag></style>\nWant to go to lunch with Aikawa?
+…行く気になったようね！=...Looks like you're in the mood to go!
+そう。残念ね。=Well, that's a shame.
+
+[---------------------------------------]
+
+そうそう、宿舎に帰って寝よう！\nってあたし、どんだけ寝たいんだよ…。="Right, let's go back to the dorm and sleep!" \nJust how much I want to sleep...
+（覚えてる…確か…）=(I Remember... I think it's...)
+<style\=RubyPrefixTag></style>\n（覚えてる…確か…）=<style\=RubyPrefixTag></style>\n(I Remember... I think it's...)
+
+[------------------Option Cancer drinker---------------------]
+
+キャンサーの伝説は底なしの酒豪。=The legend of Cancer is a bottomless drinker.
+奴らはアルコールなど摂取しない。=They don't consume alcohol.
+<style\=RubyPrefixTag></style>\n奴らはアルコールなど摂取しない。=<style\=RubyPrefixTag></style>\nThey don't consume alcohol.
+そのようなセラフィムコードは設定していません。=No such Seraphim code has been set.
+<style\=RubyPrefixTag></style>\nそのようなセラフィムコードは設定していません。=<style\=RubyPrefixTag></style>\nNo such Seraphim code has been set.
+ななみんが待ってるから戻るか。=Nanamin is waiting, let's go back.
+よし、ここを登れば宿舎か！\n…いや、ジムに行こう。="Alright, if I go up there, it's the dorm!" \n...No, let's go to the gym.
+<style\=RubyPrefixTag></style>\nよし、ここを登れば宿舎か！\n…いや、ジムに行こう。=<style\=RubyPrefixTag></style>\n"Alright, if I go up there, it's the dorm!" \n...No, let's go to the gym.
+
+[---------------------------------------]
+
+いい返事で頼もしい限りです。=Your responses are so promising.
+<style\=RubyPrefixTag></style>\nいい返事で頼もしい限りです。=<style\=RubyPrefixTag></style>\nYour responses are so promising.
+信頼度のパラメータがあがった！=Trust parameter has increased!
+そんなパラメータ存在しねーよ。=There is no such parameter.
+<style\=RubyPrefixTag></style>\nそんなパラメータ存在しねーよ。=<style\=RubyPrefixTag></style>\nThere is no such parameter.
+相変わらずいい返事で頼もしい限りです。=Your responses are always as promising as ever.
+<style\=RubyPrefixTag></style>\n相変わらずいい返事で頼もしい限りです。=<style\=RubyPrefixTag></style>\nYour responses are always as promising as ever.
+また信頼度のパラメータがあがった！=Trust parameter has increased again!
+あがんねーよ。=It's not.
+また信頼度のパラメータがあがった！　マックスに達して、ななみんとエッチなことが出来る関係になった！=Trust parameter has increased again! It has maxed out \nand now I can have a naughty relationship with Nanamin!
+はいはい。=Yeah, yeah.
+ユッキーもすでにマックスだからさ、そんな顔すんなよ。=Yukki's is already maxed out too, so don't make \nthat face.
+<style\=RubyPrefixTag></style>\nユッキーもすでにマックスだからさ、そんな顔すんなよ。\r\n=<style\=RubyPrefixTag></style>\nYukki's is already maxed out too, so don't make \nthat face.\r\n
+嫉妬とかしてねーよ！？=I'm not jealous!
+<style\=RubyPrefixTag></style>\n嫉妬とかしてねーよ！？=<style\=RubyPrefixTag></style>\nI'm not jealous!
+
+[---------------Option Just Marionette------------------------]
+
+ただのマリオネットさ。=I'm just a Marionette.
+誰に操られてんだよ。=Who's pulling your strings?
+<style\=RubyPrefixTag></style>\n誰に操られてんだよ。=<style\=RubyPrefixTag></style>\nWho's pulling your strings?
+色々、業界的に？=All sorts of things, like industries.
+レコード会社とか？　うわ、ファンだったのに闇の部分を聞いちまった…。=Like the record company? Uwah, I was a fan, but now \nI've heard about the dark side...
+お肌の手入れだけはしろって、うるさくてさ…。=They just keep telling me to take care of my skin. \nIt's so annoying...
+<style\=RubyPrefixTag></style>\nお肌の手入れだけはしろって、うるさくてさ…。=<style\=RubyPrefixTag></style>\nThey just keep telling me to take care of my skin. \nIt's so annoying...
+いい人たちじゃね―か。=They are a good people, then.
+自分らなんの話しとるん？=What are you two talking about?
+やべ、ミーハーみたいになってたじゃねーか。今はお前がここに至る経緯を訊いてるんだよ。=Oh no, I'm starting to sound like a fangirl. I'm \nsupposed to be asking you about how you got here.
+
+[------------------Option Rolled Yokan---------------------]
+
+ロールしてあるヨウカン。=Rolled Yokan.
+見たことないわ。=I've never seen one before.
+<style\=RubyPrefixTag></style>\n見たことないわ。=<style\=RubyPrefixTag></style>\nI've never seen one before.
+だから食べてみたいのさ。=That's why, I want to eat one.
+<style\=RubyPrefixTag></style>\nだから食べてみたいのさ。=<style\=RubyPrefixTag></style>\nThat's why, I want to eat one.
+そんなもんが出てくるはずないだろ。=There's no way that exists.
+<style\=RubyPrefixTag></style>\nそんなもんが出てくるはずないだろ。=<style\=RubyPrefixTag></style>\nThere's no way that exists.
+
+[------------------Option Cancer good handwriting---------------------]
+
+キャンサーの伝説は意外と達筆。=The legend of Cancer is surprisingly skillful at \ncalligraphy.
+<style\=RubyPrefixTag></style>\nキャンサーの伝説は意外と達筆。=<style\=RubyPrefixTag></style>\nThe legend of Cancer is surprisingly skillful at \ncalligraphy.
+んなわけあるか。=There's no way it is.
+そのような意味のわからないセラフィムコードは設定していません。=We didn't set any Seraph codes that don't make sense.
+<style\=RubyPrefixTag></style>\nそのような意味のわからないセラフィムコードは設定して\r\nいません。=<style\=RubyPrefixTag></style>\nWe didn't set any Seraph codes that don't make sense.
+ですよね。=I know right?
+
+[------------------Option Rolled rice cracker---------------------]
+
+ロールしてあるせんべい。=Rolled rice cracker.
+<style\=RubyPrefixTag></style>\nロールしてあるせんべい。=<style\=RubyPrefixTag></style>\nRolled rice cracker.
+なんのためにロールされてんだよ。=What is it rolled for?
+<style\=RubyPrefixTag></style>\nなんのためにロールされてんだよ。=<style\=RubyPrefixTag></style>\nWhat is it rolled for?
+独特の食感を生むため。=To create a unique texture.
+<style\=RubyPrefixTag></style>\n独特の食感を生むため。=<style\=RubyPrefixTag></style>\nTo create a unique texture.
+せんべいに独特の食感要らんわ。=Rice crackers don't need a unique texture.
+<style\=RubyPrefixTag></style>\nせんべいに独特の食感要らんわ。=<style\=RubyPrefixTag></style>\nRice crackers don't need a unique texture.
+そんなこと言ったら、ぬれせんべいの立場は！？=If you say that, what about the wet rice crackers?
+<style\=RubyPrefixTag></style>\nそんなこと言ったら、ぬれせんべいの立場は！？=<style\=RubyPrefixTag></style>\nIf you say that, what about the wet rice crackers?
+あー、あれは独特だったな…ロールもありかもしれん。=Oh, those did have a unique texture... maybe rolled \nones are okay too.
+だよな！=Exactly!
+
+[------------------Option Honey cake---------------------]
+
+ハチミツたっぷりのケーキ。=A cake with plenty of honey.
+<style\=RubyPrefixTag></style>\nハチミツたっぷりのケーキ。=<style\=RubyPrefixTag></style>\nA cake with plenty of honey.
+そりゃ食いたいよ。=I really want to eat that.
+<style\=RubyPrefixTag></style>\nそりゃ食いたいよ。=<style\=RubyPrefixTag></style>\nI really want to eat that.
+切ったら、中からどばどば溢れ出てくるの。=When you cut it, honey gushes out from inside.
+<style\=RubyPrefixTag></style>\n切ったら、中からどばどば溢れ出てくるの。=<style\=RubyPrefixTag></style>\nWhen you cut it, honey gushes out from inside.
+まさかの中か。かけてあるのかと思った。=From inside? I thought it would be poured on top.
+だったら普通じゃん？=Then that would be too normal.
+<style\=RubyPrefixTag></style>\nだったら普通じゃん？=<style\=RubyPrefixTag></style>\nThen that would be too normal.
+普通でいいだろ。中にはクリームとかフルーツ入れたほうが美味しいだろ。=Being normal is fine. It would taste better with \ncream or fruit inside.
+<style\=RubyPrefixTag></style>\n確かに！\nナーーイスハッキーーング！=<style\=RubyPrefixTag></style>\nTrue! NIIIIICE HACKIIIIING!!
+ハッキング能力なんて使ってないわ。=I didn't use any hacking skills.
+
+[------------------Option Honey Yokan---------------------]
+
+ハチミツたっぷりのヨウカン。=A yokan with plenty of honey.
+美味い可能性はあるが、あたしは食べたくない。=It might be delicious, but I don't want to eat it.
+今度ユッキーに作ってくる！=Next time, I'll make it for Yukki!
+まったく聞かない子だな。やるならひとりでチャンネル作って試しなさい。=You never listen, do you? If you're going to do it, \nmake your own channel and try it out.
+<style\=RubyPrefixTag></style>\nまったく聞かない子だな。やるならひとりでチャンネル作っ\r\nて試しなさい。=<style\=RubyPrefixTag></style>\nYou never listen, do you? If you're going to do it, \nmake your own channel and try it out.
+
+[------------------Option Honey Rice cracker---------------------]
+
+ハチミツたっぷりのせんべい。=Honey-drenched rice crackers.
+食い合わせ悪すぎだわ。=That's such a bad combination.
+
+[------------------Option My Legend begin---------------------]
+
+あたしの伝説はこれから始まる。=My legend is about to begin.
+正解です。=That's correct.
+
+[------------------Option My Legend drink---------------------]
+
+あたしの伝説は底なしの酒豪。=My legend is of a bottomless drinker.
+お前、未成年だろ。=You're underage
+そのようなセラフィムコードを設定するわけないだろ。=There's no way we'd set such a Seraphim Code.
+<style\=RubyPrefixTag></style>\nそのようなセラフィムコードを設定するわけないだろ。=<style\=RubyPrefixTag></style>\nThere's no way we'd set such a Seraphim Code.
+
+[------------------Option My Legend handwriting---------------------]
+
+あたしの伝説は意外と達筆。=My legend is surprisingly skillful at calligraphy.
+<style\=RubyPrefixTag></style>\nあたしの伝説は意外と達筆。=<style\=RubyPrefixTag></style>\nMy legend is surprisingly skillful at calligraphy.
+そうなのか？=Is that so?
+であれば、そのようなセラフィムコードは設定するわけないだろ。=Even so, there's no way we'd set up such a Seraphim \ncode.
+そうですね。=That's true.
+
+[------------------Option Your tragedies begins---------------------]
+
+あなた方の悲劇はこれから始まる。=Your tragedy is about to begin.
+
+[------------------Option Your tragedies drinker---------------------]
+
+あなた方の悲劇は底なしの酒豪。=Your tragedy is that of a bottomless drinker.
+私が酒で憂さ晴らしをしているとでも…？=Do you think I'm drowning my sorrows in alcohol...?
+<style\=RubyPrefixTag></style>\n私が酒で憂さ晴らしをしているとでも…？=<style\=RubyPrefixTag></style>\nDo you think I'm drowning my sorrows in alcohol...?
+おいおい、またキレさせるようなこと言うなよ…。=Oi, don't say things that will make her snap again...
+
+[------------------Option Your tragedies handwriting---------------------]
+
+あなた方の悲劇は意外と達筆。=Your tragedy is surprisingly skillful at calligraphy.
+なぜそれが悲劇なのだ？=Why is that a tragedy?
+だって今は書くより入力する時代じゃん？=Because now is the age of typing rather than writing \nby hand?
+
+[---------------Option Just Loves music------------------------]
+
+ただの音楽好きさ。=I just loves music.
+
+[---------------Option Just killing machine------------------------]
+
+ただの殺戮マシンさ。=I'm just a killing machine.
+<style\=RubyPrefixTag></style>\nただの殺戮マシンさ。=<style\=RubyPrefixTag></style>\nI'm just a killing machine.
+こえーよ！　ちげーだろ！=That's scary! No, that's definitely not true!
+<style\=RubyPrefixTag></style>\nこえーよ！　ちげーだろ！=<style\=RubyPrefixTag></style>\nThat's scary! No, that's definitely not true!
+ああ…とにかく音楽が好きで、今に至る。次誰？=Yeah... anyway, I just love music, and here I am. \nWho's next?
+<style\=RubyPrefixTag></style>\nああ…とにかく音楽が好きで、今に至る。次誰？=<style\=RubyPrefixTag></style>\nYeah... anyway, I just love music, and here I am. \nWho's next?
+
+[---------------Option Unprecedented love music------------------------]
+
+人類史上類を見ない音楽好きさ。=I'm the biggest music lover in human history.
+そこまで自負出来るのもすげーな…。=It's amazing that you can be so proud of that...
+
+[---------------Option Unprecedented killing machine------------------------]
+
+人類史上類を見ない殺戮マシンさ。=I'm a killing machine unlike anything in human history.
+<style\=RubyPrefixTag></style>\n人類史上類を見ない殺戮マシンさ。=<style\=RubyPrefixTag></style>\nI'm a killing machine unlike anything in human history.
+もはや、キャンサーよりお前のほうが脅威だわ。=You're more of a threat than cancer at this point.
+誤解を招く表現をしちまったようだな。=Seems like I've caused some misunderstanding with \nmy words.
+<style\=RubyPrefixTag></style>\n誤解を招く表現をしちまったようだな。=<style\=RubyPrefixTag></style>\nSeems like I've caused some misunderstanding with \nmy words.
+招くに決まってんだろ。=That was intentional, right?
+
+[---------------Option Unprecedented marionette------------------------]
+
+人類史上類を見ないマリオネットさ。=I'm just a marionette unlike any in human history.
+どんだけ自分を蔑むんだよ。=How much do you despise yourself?
+<style\=RubyPrefixTag></style>\nどんだけ自分を蔑むんだよ。=<style\=RubyPrefixTag></style>\nHow much do you despise yourself?
+もうちょい自信持ちぃな！　うちのライバルやろ！=Have a bit more confidence! Ya are my rival!
+<style\=RubyPrefixTag></style>\nもうちょい自信持ちぃな！　うちのライバルやろ！=<style\=RubyPrefixTag></style>\nHave a bit more confidence! Ya are my rival!
+
+[---------------Option cancer related killing machine------------------------]
+
+キャンサー寄りの殺戮マシンさ。=I'm a killing machine from cancer's side.
+<style\=RubyPrefixTag></style>\nキャンサー寄りの殺戮マシンさ。=<style\=RubyPrefixTag></style>\nI'm a killing machine from cancer's side.
+もはや敵だわ。=You're an enemy already.
+
+[---------------Option cancer related marionette------------------------]
+
+キャンサー寄りのマリオネットさ。=I'm just Cancer's Marionette.
+だったら敵だわ。=Then you're an enemy.
