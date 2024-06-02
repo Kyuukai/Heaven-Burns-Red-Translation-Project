@@ -205,11 +205,11 @@ Early Morning 2
 そうね…。=That's right...
 そうか！　なあ、訊きたいことがあるんだ、ななみん。=Oh yeah! Hey's Nanamin, I have a question for ya!
 
-<style\=RubyPrefixTag></style>\n刀削麺は知っているよな？=<style\=RubyPrefixTag></style>\nYou know about Knife-cut noodles, right?
+<style\=RubyPrefixTag></style>\n刀削麺は知っているよな？=<style\=RubyPrefixTag></style>\nYou know about Toshomen, right?
 <style\=RubyPrefixTag></style>\nどうしてここには男が居ないんだ？=<style\=RubyPrefixTag></style>\nWhy isn't there a single man here?
 <style\=RubyPrefixTag></style>\nななみんに訊きたいことは…=<style\=RubyPrefixTag></style>\nThe thing we wanted to ask Nanamin...
 
-刀削麺は知っているよな？=You know about Knife-cut noodles, right?
+刀削麺は知っているよな？=You know about Toshomen, right?
 訊くことちゃうわ。=Absolutely wrong question.
 ああ、あの、片手に生地、片手に包丁を持って湯の沸いた鍋の前に立ち、生地を細長く鍋の中に削ぎ落としてゆでる奴ですか。=Ah, the noodles where you stand in front of a pot of boiling \nwater with the dough in one hand, a knife in the other, then \nyou cut the dough down into long, thin strips to boil them?
 <style\=RubyPrefixTag></style>\nああ、あの、片手に生地、片手に包丁を持って湯の沸いた\r\n鍋の前に立ち、生地を細長く鍋の中に削ぎ落としてゆでる\r\n奴ですか。=<style\=RubyPrefixTag></style>\nAh, the noodles where you stand in front of a pot of boiling \nwater with the dough in one hand, a knife in the other, then \nyou cut the dough down into long, thin strips to boil them?
@@ -834,8 +834,8 @@ Early Morning 2
 ほんとだ。給食になってる。=True. It's a normal meal.
 <style\=RubyPrefixTag></style>\nほんとだ。給食になってる。=<style\=RubyPrefixTag></style>\nTrue. It's a normal meal.
 ただの歓迎だったみたいね。=Seems like that was just a welcome reception.
-あんなにご馳走があったのに、ハンバーグカレーと刀削麺だけで腹を満たしちまったよ！！=Even though there were so many dishes, I only filled \nmy stomach with hamburg curry and Knife-cut noodles!!
-<style\=RubyPrefixTag></style>\nあんなにご馳走があったのに、ハンバーグカレーと刀削麺\r\nだけで腹を満たしちまったよ！！=<style\=RubyPrefixTag></style>\nEven though there were so many dishes, I only filled \nmy stomach with hamburg curry and Knife-cut noodles!!
+あんなにご馳走があったのに、ハンバーグカレーと刀削麺だけで腹を満たしちまったよ！！=Even though there were so many dishes, I only filled \nmy stomach with hamburg curry and Toshomen!!
+<style\=RubyPrefixTag></style>\nあんなにご馳走があったのに、ハンバーグカレーと刀削麺\r\nだけで腹を満たしちまったよ！！=<style\=RubyPrefixTag></style>\nEven though there were so many dishes, I only filled \nmy stomach with hamburg curry and Toshomen!!
 はっ、滑稽やな。=Hah, ridiculous.
 <style\=RubyPrefixTag></style>\nはっ、滑稽やな。=<style\=RubyPrefixTag></style>\nHah, ridiculous.
 充分満喫してるラインナップだろ…。=That's a plenty enjoyable lineup...
