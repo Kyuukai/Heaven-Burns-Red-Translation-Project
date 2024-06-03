@@ -1,4 +1,4 @@
-﻿[------------Early Morning-----------]
+[------------Early Morning-----------]
 
 今日もテストをしてもらうわ。今回は英語よ。=You're going to be tested again today. This time it's \nEnglish.
 
@@ -376,4 +376,41 @@
 朝倉の不気味さはさらに増したがな…。=Asakura just got even creepier, though...
 <style\=RubyPrefixTag></style>\n朝倉の不気味さはさらに増したがな…。=<style\=RubyPrefixTag></style>\nAsakura just got even creepier, though...
 <style\=RubyPrefixTag></style>\n適性試験まであと１日=<style\=RubyPrefixTag></style>\nUntil the aptitude test: 1 Day
+
+---------------------------------
+EXTRA LINE CH1 DAY 4
+---------------------------------
+
+ハッシュドポテトも付けたらよかったかも。=Maybe I should have added hashed potatoes.
+<style\=RubyPrefixTag></style>\nハッシュドポテトも付けたらよかったかも。=<style\=RubyPrefixTag></style>\nMaybe I should have added hashed potatoes.
+無意識に足が反対に向いてしまう。\n…戻ろう。=My feet unconsciously turned in the opposite direction. \n...Let's go back.
+
+---------------------------------
+Option - Understood
+---------------------------------
+
+レベル的には中学２年から高校卒業と広めの内容ね。=The level covers a wide range, from second-year middle \nschool to high school graduation.
+<style\=RubyPrefixTag></style>\nレベル的には中学２年から高校卒業と広めの内容ね。=<style\=RubyPrefixTag></style>\nThe level covers a wide range, from second-year middle \nschool to high school graduation.
+<style\=RubyPrefixTag></style>\nえーーーーーー！！\n『なんて素直で素晴らしい子！\nあなたは免除してあげる！』\nってならなかったーーーー！！=<style\=RubyPrefixTag></style>\nEEEEEH!! "What a straightforward and wonderful child! \nI'll exempt you!", It didn't turn out like that!!
+なるわけないだろ。=Of course not.
+<style\=RubyPrefixTag></style>\nなるわけないだろ。=<style\=RubyPrefixTag></style>\nOf course not.
+
+---------------------------------
+Option - I've been waiting
+---------------------------------
+
+待ってました！=I've been waiting for this!
+うちもや！　燃えてきた！　うちのサイキック浴びせたるわ！=Me too! I'm fired up! I'll unleash my psychic powers!
+血の気の多い奴らだな…。=You guys are so hot-blooded...
+<style\=RubyPrefixTag></style>\n血の気の多い奴らだな…。=<style\=RubyPrefixTag></style>\nYou guys are so hot-blooded...
+
+---------------------------------
+Option - You think
+---------------------------------
+
+とでも言うと思ったか？　そんなガキみたいに毎回はしゃがねーよ。=Did you think I'd say that? I won't act like a kid \nall the time.
+<style\=RubyPrefixTag></style>\nとでも言うと思ったか？　そんなガキみたいに毎回はしゃ\r\nがねーよ。=<style\=RubyPrefixTag></style>\nDid you think I'd say that? I won't act like a kid \nall the time.
+『とでも』の前が聞こえなかったが？=I didn't hear what you said before "Did you think."
+うん。待ってました！と心で思っただけだから。=Yeah. I just thought "I've been waiting for this!" \nin my head.
+<style\=RubyPrefixTag></style>\nうん。待ってました！と心で思っただけだから。=<style\=RubyPrefixTag></style>\nYeah. I just thought "I've been waiting for this!" \nin my head.
 
