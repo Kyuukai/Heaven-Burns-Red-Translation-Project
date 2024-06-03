@@ -453,9 +453,9 @@
 本当に大丈夫か？=Is it really okay?
 大丈夫だ。=It's okay.
 その自信はどこからくる。=Where did you get that confidence from?
-朝倉には取り外し不可能な発信チップが埋め込まれているから、逃亡は不可能よ。問題行動を起こせば、即座に拘束され営倉行きよ。=Asakura has an irremovable transmitter chip implanted \nin her, so escape is impossible. If she cause a problem, \nshe will be detained immediately.
+朝倉には取り外し不可能な発信チップが埋め込まれているから、逃亡は不可能よ。問題行動を起こせば、即座に拘束され営倉行きよ。=Asakura has an irremovable tracking chip implanted \nin her, so escape is impossible. If she cause a problem, \nshe will be detained immediately.
 だからさ。=That's why.
-って、えーー！！　そんなの埋め込まれてるなんてかわいそうじゃねーか！　はずしてやろうぜ！？=Huh, Eeh!!! Poor thing, to have that embedded in it! \nLet's take it off!?
+って、えーー！！　そんなの埋め込まれてるなんてかわいそうじゃねーか！　はずしてやろうぜ！？=Huh, Eeh!!! Isn't that pitiful to have such a chip embedded! \nLet's remove it.
 はずそうとしたら爆発します。=If you try to remove it, it will explode.
 <style\=RubyPrefixTag></style>\nはずそうとしたら爆発します。=<style\=RubyPrefixTag></style>\nIf you try to remove it, it will explode.
 <style\=RubyPrefixTag></style>\nええー！=<style\=RubyPrefixTag></style>\nEEEH!?
@@ -617,3 +617,82 @@
 お前も一役買ってんだよ。=You're also one of the reason.
 <style\=RubyPrefixTag></style>\nお前も一役買ってんだよ。=<style\=RubyPrefixTag></style>\nYou're also one of the reason.
 <style\=RubyPrefixTag></style>\n適性試験まであと３日=<style\=RubyPrefixTag></style>\nUntil the aptitude test: 3 Days
+
+[-----------------EXTRA LINE------------------]
+[-----------------Option Understood------------------]
+
+了解であります！=Understood!
+あなた、そんなキャラだったかしら。=Were you this kind of character?
+はっ！=Yes!
+いつもそういてくれると助かるのだけど。=It would be nice if you could always be like that.
+<style\=RubyPrefixTag></style>\nいつもそういてくれると助かるのだけど。=<style\=RubyPrefixTag></style>\nIt would be nice if you could always be like that.
+キャラ戻るの早いな。=You're quick to revert to your original character.
+
+[-----------------Option Understood------------------]
+
+どうせまた口先だけでしょ。=You're just all talk again anyway.
+今度は違います！=This time is different!
+<style\=RubyPrefixTag></style>\n今度は違います！=<style\=RubyPrefixTag></style>\nThis time is different!
+<style\=RubyPrefixTag></style>\nこんなのできっこねぇよーーーーー！！=<style\=RubyPrefixTag></style>\nThere's no way I can do thisーーー!!
+何書いてんのかわかんないんだもーーーーーん！！=I don't understand what you're writing!!
+<style\=RubyPrefixTag></style>\n何書いてんのかわかんないんだもーーーーーん！！=<style\=RubyPrefixTag></style>\nI don't understand what you're writing!!
+また剛速球で元のキャラに戻ったな…。=You quickly reverted back to your original character \nagain...
+
+[----------------Option ...........-------------------]
+あれ！？　もしかして傷ついた！？　言い方悪かったかな…。=Huh!? Did I hurt your feelings!? Was I too harsh...?
+<style\=RubyPrefixTag></style>\nあれ！？　もしかして傷ついた！？　言い方悪かったかな\r\n…。=<style\=RubyPrefixTag></style>\nHuh!? Did I hurt your feelings!? Was I too harsh...?
+<style\=RubyPrefixTag></style>\nサブマリンてへぺりんこ！=<style\=RubyPrefixTag></style>\nSubmarine Teheperinko!
+<style\=RubyPrefixTag></style>\n傷ついた？=<style\=RubyPrefixTag></style>\nHurt my feelings?
+
+[-----------------Option Submarine teheperinko------------------]
+サブマリンてへぺりんこ！=Submarine Teheperinko!
+なんだよそれ。=What is that?
+沈黙した後に、突然するてへぺりんこ。=It's a sudden Teheperinko, after being silent.
+超イラッとしたから、二度とするな。=It made me super annoyed, so don't ever do it again.
+サブマリンてへぺりんこを？=The Submarine Teheperinko?
+<style\=RubyPrefixTag></style>\nサブマリンてへぺりんこを？=<style\=RubyPrefixTag></style>\nThe Submarine Teheperinko?
+ただの『てへぺりんこ！』もだよ！！=Your normal "Teheperinko" too!!
+<style\=RubyPrefixTag></style>\nこんなしょうもないセリフ二度と言わせるなー！！=<style\=RubyPrefixTag></style>\nDon't ever make me say such a stupid phrase again!!
+誰の前でもやるな。封印しろ。誰も得しない。=Don't do it in front of anyone. Seal it away. No one \nbenefits from it.
+<style\=RubyPrefixTag></style>\n誰の前でもやるな。封印しろ。誰も得しない。=<style\=RubyPrefixTag></style>\nDon't do it in front of anyone. Seal it away. No one \nbenefits from it.
+
+[------------------Other way-----------------]
+
+最近ついつい逆に進もうとしてしまう病なんだ。\nもちろん戻るさ。=Lately, I've been having this disease of trying to go \nbackwards. But of course, I'll come back.
+<style\=RubyPrefixTag></style>\n最近ついつい逆に進もうとしてしまう病なんだ。\nもちろん戻るさ。=<style\=RubyPrefixTag></style>\nLately, I've been having this disease of trying to go \nbackwards. But of course, I'll come back.
+
+[------------------Option Multi personality-----------------]
+
+多重人格…！！=Multiple personalities…!!
+みたいだな…。=Yeah, seems like it...
+猟奇的な…。=The psycho...
+
+[------------------Option is it okay-----------------]
+お前かよ！　それあたしが言おうとしてたんだよ！　あたし、お前のセリフを選択しちゃったのかと思って一瞬びびったじゃねーか！=Why are you the one answering!? I was about to say that! \nI got freaked out for a moment thinking I had chosen \nyour lines!
+<style\=RubyPrefixTag></style>\nお前かよ！　それあたしが言おうとしてたんだよ！　あた\r\nし、お前のセリフを選択しちゃったのかと思って一瞬びびっ\r\nたじゃねーか！=<style\=RubyPrefixTag></style>\nWhy are you the one answering!? I was about to say that! \nI got freaked out for a moment thinking I had chosen \nyour lines!
+さっぱり意味がわからないんだが…。=I have no idea what you mean...
+<style\=RubyPrefixTag></style>\nさっぱり意味がわからないんだが…。=<style\=RubyPrefixTag></style>\nI have no idea what you mean...
+安心して。朝倉には取り外し不可能な発信チップが埋め込まれているから、逃亡は不可能よ。問題行動を起こせば、即座に拘束され営倉行きよ。=Don't worry. Asakura has an irremovable tracking chip \nembedded, so escape is impossible. If any problematic \nbehavior occurs, she will be detained immediately.
+そんなの埋め込まれてるなんてかわいそうじゃねーか！　はずしてやろうぜ。=Isn't that pitiful to have such a chip embedded! \nLet's remove it.
+<style\=RubyPrefixTag></style>\nそんなの埋め込まれてるなんてかわいそうじゃねーか！　\r\nはずしてやろうぜ。=<style\=RubyPrefixTag></style>\nIsn't that pitiful to have such a chip embedded! \nLet's remove it.
+本当に大丈夫か？ってお前も聞こうとしてたんだろ？　じゃあ安心しろよ。=You were about to ask if it's really okay, right? \nThen don't worry.
+<style\=RubyPrefixTag></style>\n本当に大丈夫か？ってお前も聞こうとしてたんだろ？　じゃ\r\nあ安心しろよ。=<style\=RubyPrefixTag></style>\nYou were about to ask if it's really okay, right? \nThen don't worry.
+あたしはそんなチップを埋めてて、人体に悪い影響がないか大丈夫か？って聞こうとしてたんだよ！=I was going to ask if it's okay to have such a chip \nembedded and if it doesn't harm the body!
+<style\=RubyPrefixTag></style>\nあたしはそんなチップを埋めてて、人体に悪い影響がない\r\nか大丈夫か？って聞こうとしてたんだよ！=<style\=RubyPrefixTag></style>\nI was going to ask if it's okay to have such a chip \nembedded and if it doesn't harm the body!
+もしバックログ機能があったら、会話の流れを巻き戻してやりたいよ…お前の言ってること支離滅裂だからな…。=If there was a backlog function, I'd want to rewind \nour conversation... you're talking nonsense...
+<style\=RubyPrefixTag></style>\nもしバックログ機能があったら、会話の流れを巻き戻して\r\nやりたいよ…お前の言ってること支離滅裂だからな…。=<style\=RubyPrefixTag></style>\nIf there was a backlog function, I'd want to rewind \nour conversation... you're talking nonsense...
+うん、よく言われる。=Yeah, I get told that a lot.
+だろうな。それもきっと、バンド解散の原因のひとつだろうな。=Figured. That's probably one of the reasons why your \nband broke up.
+<style\=RubyPrefixTag></style>\nだろうな。それもきっと、バンド解散の原因のひとつだろ\r\nうな。=<style\=RubyPrefixTag></style>\nFigured. That's probably one of the reasons why your \nband broke up.
+茅森さんのスキルと一緒に使うことで、敵に大ダメージを与えられるわ。=When being used with Kayamori-san's skill, you can \ninflict much larger damage.
+
+そうか…お前、いっつも脳天気でいるからさ、なに言っても平気かなって思っちゃってたよ…。=I see... You're always so carefree, so I thought you'd \nbe fine with anything I said…
+平気だけど？=I'm fine though?
+<style\=RubyPrefixTag></style>\n平気だけど？=<style\=RubyPrefixTag></style>\nI'm fine though?
+じゃ、なんで黙ってたんだよ！=Then why were you silent!?
+そういう選択肢があったから。=Because that option was available.
+お前の頭ん中はゲームみたいになってんのか！=Is your mind like a game or something!?
+<style\=RubyPrefixTag></style>\nお前の頭ん中はゲームみたいになってんのか！=<style\=RubyPrefixTag></style>\nIs your mind like a game or something!?
+無数の言葉の中から、コンピューターのようにその場に適した言葉を選んでいると言ってくれないか。=It's asking me to choose the right words for the moment \namong countless words, like a computer.
+だったらバグッてるぞ。=Then it's buggy.
+<style\=RubyPrefixTag></style>\nだったらバグッてるぞ。=<style\=RubyPrefixTag></style>\nThen it's buggy.
