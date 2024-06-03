@@ -102,17 +102,17 @@
 吹けば揺らぐ間もなく消え失せる。…そう、簡単にな。=If you blow on it, it will disappear before it can \nflicker... Yes, it's that easy.
 角のひと=Corner
 
-[Option---I'm a genius]
+[Option---I'm a prodigy]
 
 …見ない顔ですね。=...You don't look familiar.
 もしかして、あれだ。後輩ですか。=Could it be. A junior?
 <style\=RubyPrefixTag></style>\nもしかして、あれだ。後輩ですか。=<style\=RubyPrefixTag></style>\nCould it be. A junior?
-<style\=RubyPrefixTag></style>\n天才だ=<style\=RubyPrefixTag></style>\nI'm a genius.
+<style\=RubyPrefixTag></style>\n天才だ=<style\=RubyPrefixTag></style>\nI'm a prodigy.
 <style\=RubyPrefixTag></style>\n後輩だ=<style\=RubyPrefixTag></style>\nI'm a junior.
 <style\=RubyPrefixTag></style>\n後輩？=<style\=RubyPrefixTag></style>\Junior?
-すごい自信ですね？　わたしも天才です。=That's a lot of confidence. I'm also a genius.
-<style\=RubyPrefixTag></style>\nすごい自信ですね？　わたしも天才です。=<style\=RubyPrefixTag></style>\nThat's a lot of confidence. I'm also a genius.
-次に対峙したとき、どちらが真の天才かわかるでしょう。=The next time we face each other, we will know which \none of us is the true genius.
+すごい自信ですね？　わたしも天才です。=That's a lot of confidence. I'm also a prodigy.
+<style\=RubyPrefixTag></style>\nすごい自信ですね？　わたしも天才です。=<style\=RubyPrefixTag></style>\nThat's a lot of confidence. I'm also a prodigy.
+次に対峙したとき、どちらが真の天才かわかるでしょう。=The next time we face each other, we will know which \none of us is the true prodigy.
 それでは、またいずれ。=Well then, until next time.
 …何か御用がおありですか？=...May I help you?
 ほう…わたくしの秘密が知りたいですか？=Oh... do you want to know my secret?
@@ -227,7 +227,7 @@
 
 [----------------------]
 
-<style\=RubyPrefixTag></style>\n孤高の天才剣士。\n自称３分しか戦えない。=<style\=RubyPrefixTag></style>\nA solitary genius swordswoman. \nShe can only fight for 3 minutes (self-proclaimed).
+<style\=RubyPrefixTag></style>\n孤高の天才剣士。\n自称３分しか戦えない。=<style\=RubyPrefixTag></style>\nA solitary swordswoman prodigy. \nShe can only fight for 3 minutes (self-proclaimed).
 <style\=RubyPrefixTag></style>\n小笠原　緋雨=<style\=RubyPrefixTag></style>\nOgasahara Hisame
 …{小笠原緋雨:おがさはらひさめ}といいます。=...My name is Ogasahara Hisame.
 <style\=RubyPrefixTag></style>\n…小笠原緋雨<space\=-212.572px><voffset\=1em><size\=50%><cspace\=0px>おがさはらひさめ</cspace></size></voffset><space\=25.05401px><style\=RubySuffixTag></style>といいます。=<style\=RubyPrefixTag></style>\n...My name is Ogasahara Hisame.
@@ -410,8 +410,8 @@
 諜報員、話せよ。共通点が見つかったんだろ。=Secret Agent, say it. You find out what we have in \ncommon, don't you?
 <style\=RubyPrefixTag></style>\n諜報員、話せよ。共通点が見つかったんだろ。=<style\=RubyPrefixTag></style>\nSecret Agent, say it. You find out what we have in \ncommon, don't you?
 そこから言い直すのか。=You restate it from there?
-わたしたちはそれぞれ何かに特化した天才なのよ。=We are each geniuses specialized in something.
-それだけはないわ。うちらは天才やけど、東城はどないなん。凡才やないか。=That's not all true. We're geniuses, but what about Tojo? \nShe's average.
+わたしたちはそれぞれ何かに特化した天才なのよ。=We are each prodigy specialized in something.
+それだけはないわ。うちらは天才やけど、東城はどないなん。凡才やないか。=That's not all true. We're prodigy, but what about Tojo? \nShe's average.
 言いづらいことをずばっと言ったな…。=Things that's hard to say, you said it without \nhestitation...
 <style\=RubyPrefixTag></style>\n言いづらいことをずばっと言ったな…。=<style\=RubyPrefixTag></style>\nThings that's hard to say, you said it without \nhestitation...
 なんや、ナービィの目が綺麗か。=What? Narvy eyes are beautiful?
@@ -424,8 +424,8 @@
 え？　つかさっちのお母さん、なんなの。=Eh? What's this about Tsukasa-cchi's mother? 
 セラフの研究所長。=She is the director of the Seraph's Research Institute.
 <style\=RubyPrefixTag></style>\nセラフの研究所長。=<style\=RubyPrefixTag></style>\nShe is the director of the Seraph's Research Institute.
-母親が天才だったぁーーー！！=Her mother was the genius!!
-<style\=RubyPrefixTag></style>\n母親が天才だったぁーーー！！=<style\=RubyPrefixTag></style>\nHer mother was the genius!!
+母親が天才だったぁーーー！！=Her mother was the prodigy!!
+<style\=RubyPrefixTag></style>\n母親が天才だったぁーーー！！=<style\=RubyPrefixTag></style>\nHer mother was the prodigy!!
 でも、ある日唐突に事故で死んだと言われて…。=But one day, they told me she died in an accident out \nof the blue...
 <style\=RubyPrefixTag></style>\nでも、ある日唐突に事故で死んだと言われて…。=<style\=RubyPrefixTag></style>\nBut one day, they told me she died in an accident out \nof the blue...
 おいおい穏やかじゃねーな…。=Oi oi That ain't exactly peaceful...
@@ -463,3 +463,23 @@
 <style\=RubyPrefixTag></style>\nトドメを刺された気分だ。=<style\=RubyPrefixTag></style>\nThat's more like a nail in the coffin.
 みんな…ありがとう。=Thank you...everyone.
 <style\=RubyPrefixTag></style>\n適性試験まであと２日=<style\=RubyPrefixTag></style>\nUntil the aptitude test: 2 Days
+
+---------------------------------
+EXTRA LINE CH1 DAY 3
+---------------------------------
+
+反骨精神は忘れない。そうさ、それがロッカー。\nさて、行こうか。=Never forget the rebellious spirit. That's what rock \nand roll is all about. Let's go back.
+<style\=RubyPrefixTag></style>\n反骨精神は忘れない。そうさ、それがロッカー。\nさて、行こうか。=<style\=RubyPrefixTag></style>\nNever forget the rebellious spirit. That's what rock \nand roll is all about. Let's go back.
+
+---------------------------------
+Option - She stood
+---------------------------------
+
+…眠る時以外は立っている。=...I'm standing except when I sleep.
+
+---------------------------------
+Option - I'm a junior
+---------------------------------
+
+わたしは剣の天才です。=I am a sword prodigy.
+いずれその力をお見せしましょう。=I will show you my power someday.
