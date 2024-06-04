@@ -1,4 +1,4 @@
-﻿[-------Early Morning---------]
+[-------Early Morning---------]
 
 今日もテストを受けてもらうわ。=You'll take another test today.
 <style\=RubyPrefixTag></style>\nまたテスト…=<style\=RubyPrefixTag></style>\nAnother test...
@@ -24,7 +24,7 @@
 [-------Option Yo-ro-shi-ku---------]
 
 １，８，９，６４，２５，２１６。次の数字は？=1, 8, 9, 64, 25, 216. What are the next numbers?
-<style\=RubyPrefixTag></style>\n一京４９=<style\=RubyPrefixTag></style>\n10,000,000,000,000,049
+<style\=RubyPrefixTag></style>\n一京４９=<style\=RubyPrefixTag></style>\nOne quadrillion 49.
 不正解です。=Incorrect.
 いや、挨拶しただけです。=No, I'm just greeting. (4649: Yo-Ro-Shi-Ku)
 <style\=RubyPrefixTag></style>\nいや、挨拶しただけです。=<style\=RubyPrefixTag></style>\nNo, I'm just greeting. (4649: Yo-Ro-Shi-Ku)
@@ -154,9 +154,9 @@
 よし、腹ごなしにアリーナで頑張っちゃうぞ！=Alright, I'll do my best in the arena to help the \ndisgestion!
 <style\=RubyPrefixTag></style>\nよし、腹ごなしにアリーナで頑張っちゃうぞ！=<style\=RubyPrefixTag></style>\nAlright, I'll do my best in the arena to help the \ndisgestion!
 …ということで。\n以上が編み出したフォーメーションよ。=...So, these are the formations I have created.
-山脇様、さすがでゲス！=As expected of Yamawaki-sama, de-gesu!
+山脇様、さすがでゲス！=As expected of Yamawaki-sama, gesu!
 …今日の訓練で試してみるよ！=...Let's try this on today's training!
-これで必勝でゴザル！！=This is a sure-win, de-gozaru!!
+これで必勝でゴザル！！=This is a sure-win, gozaru!!
 …くだらん。=...What a nonsense.
 茅森。=Kayamori.
 今日は訓練の内容を教えてもらえなかった。=They didn't tell me anything about today's training.
@@ -558,3 +558,85 @@
 ふっ…。=Hehe...
 <style\=RubyPrefixTag></style>\nそして 適性試験当日へ=<style\=RubyPrefixTag></style>\nAnd so, onto the day of the aptitude test
 
+---------------------------------
+EXTRA LINE CH1 DAY 5
+---------------------------------
+まるで朝起きたら歯を磨くように反対に行くのであった。…戻ろう。=As if it were the opposite of brushing my teeth when I wake up in the morning... Let's go back.
+---------------------------------
+Option - Understood
+---------------------------------
+
+いつも最初の返事だけはやたらいいのよね…どうしてその姿勢を維持出来ないのかしら。=Your first response is always exceptionally good... Why can't you maintain that attitude?
+<style\=RubyPrefixTag></style>\nいつも最初の返事だけはやたらいいのよね…どうしてその\r\n姿勢を維持出来ないのかしら。=<style\=RubyPrefixTag></style>\nYour first response is always exceptionally good... Why can't you maintain that attitude?
+今度は維持してみせます！=This time I'll make sure to maintain it!
+期待してるわ。=I'm counting on you.
+<style\=RubyPrefixTag></style>\n期待してるわ。=<style\=RubyPrefixTag></style>\nI'm counting on you.
+恐い！　嫌だ！　そんな結果知りたくない！！=Scary! No! I don't want to know that kind of result!!
+また速攻で馬脚現してるじゃねーか。=You're already showing your true colors right away.
+<style\=RubyPrefixTag></style>\nまた速攻で馬脚現してるじゃねーか。=<style\=RubyPrefixTag></style>\nYou're already showing your true colors right away.
+
+---------------------------------
+Option - 10 quadrillion
+---------------------------------
+
+一京４９。=One quadrillion 49.
+<style\=RubyPrefixTag></style>\n一京４９。=<style\=RubyPrefixTag></style>\nIchikyo 49.
+ほとんど正解なのに、とんでもなく間違っています。=You were almost correct, but you were incredibly wrong.
+じゃ、一京。=Then, one quadrillion.
+とんでもなく間違っているだけになりました。=Now it's just incredibly wrong.
+わかるひとは？=Anyone understands the answer?
+ほんとにほとんど正解だったじゃないかよぉーーー！！　もう正解でもよかったろ！？=I was really almost correct!! It could have been considered correct already!!
+<style\=RubyPrefixTag></style>\nほんとにほとんど正解だったじゃないかよぉーーー！！　\r\nもう正解でもよかったろ！？=<style\=RubyPrefixTag></style>\nI was really almost correct!! It could have been considered correct already!!
+兆の１万倍も差があるのに、正解にできるわけないでしょ。=There's one quadrillion of difference, so there's no way it could be correct.
+はぁ…やはり口先だけね。=Sigh... You really are all talk.
+ため息つくと幸せが逃げるぜ？=If you sigh, happiness will escape, you know?
+<style\=RubyPrefixTag></style>\nため息つくと幸せが逃げるぜ？=<style\=RubyPrefixTag></style>\nIf you sigh, happiness will escape, you know?
+<style\=RubyPrefixTag></style>\nお前がつかせとんのじゃぁーーーーーーーー！！=<style\=RubyPrefixTag></style>\nYou're the one making me sigh!!!
+うわーめっちゃキレさせよった…。=Wow, you really made her snap...
+<style\=RubyPrefixTag></style>\nうわーめっちゃキレさせよった…。=<style\=RubyPrefixTag></style>\nWow, you really made her snap...
+
+---------------------------------
+Option - Lunch megumin
+---------------------------------
+
+うん、行きたい。=Yeah, I want to go.
+<style\=RubyPrefixTag></style>\nうん、行きたい。=<style\=RubyPrefixTag></style>\nYeah, I want to go.
+はーん、そんなにうちが恋しいんか。=Hah, do you miss me that much?
+浮遊か。硬貨ぐらいやったら…。=Float, huh? If it's a coin, then... 
+
+
+---------------------------------
+Option - 49
+---------------------------------
+
+今答えたのは和泉さんかしら。さすがね。正解よ。=Was the one who answered just now Izumi-san? As expected. Correct.
+いや、茅森だけど…。=No, it was Kayamori, though...
+<style\=RubyPrefixTag></style>\nいや、茅森だけど…。=<style\=RubyPrefixTag></style>\nNo, it was Kayamori, though...
+茅森さんが！？=It was Kayamori-san!?
+<style\=RubyPrefixTag></style>\n茅森さんが！？=<style\=RubyPrefixTag></style>\nIt was Kayamori-san!?
+どうしてわかったの！？=How did you know the answer!?
+いや、そういう数字が次くると生理的に落ち着いていいなあって。=Well, it's just that having that number next makes me feel more at ease physiologically-wise.
+ただの山勘！？=Just a wild guess!?
+<style\=RubyPrefixTag></style>\nただの山勘！？=<style\=RubyPrefixTag></style>\nJust a wild guess!?
+それで正解って、天文学的な奇跡だぞ…。=Getting it right with just that... That's astronomically miraculous...
+<style\=RubyPrefixTag></style>\nそれで正解って、天文学的な奇跡だぞ…。=<style\=RubyPrefixTag></style>\nGetting it right with just that... That's astronomically miraculous...
+おいおい、やめてくれよ！　褒められるのに慣れてないんだ！　照れるじゃないか！=Hey, stop it! I'm not used to being praised! It's embarrassing!
+<style\=RubyPrefixTag></style>\nおいおい、やめてくれよ！　褒められるのに慣れてないん\r\nだ！　照れるじゃないか！=<style\=RubyPrefixTag></style>\nHey, stop it! I'm not used to being praised! It's embarrassing!
+誰も褒めてはいない。=No one is praising you.
+えーー。=Eeeeh.
+
+---------------------------------
+Option - I would like to say
+---------------------------------
+と言いたいところだがここらでお仕舞いにしよう。=is what I'd like to say, but let's wrap it up here.
+それを決めるのは私だ。=That's for me to decide.
+<style\=RubyPrefixTag></style>\nそれを決めるのは私だ。=<style\=RubyPrefixTag></style>\nThat's for me to decide.
+今回は、その応用になります。=This time will be the application of that abilities.
+
+---------------------------------
+Option - get in get in
+---------------------------------
+まあまあ、そう言いなさんなって。トレーニングより楽しいこともあるってこと教えてやるからさ。=Come on, don't say that. I'll show you that there \nare things more enjoyable than training.
+…何だこの木小屋？=…What is this hut?
+まぁ、入って入って。=Well, get in, get in.
+<style\=RubyPrefixTag></style>\nまぁ、入って入って。=<style\=RubyPrefixTag></style>\nWell, get in, get in.
