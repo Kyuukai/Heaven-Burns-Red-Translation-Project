@@ -68,7 +68,7 @@
 <style\=RubyPrefixTag></style>\n戦う覚悟が出来たようね…では行くわよ。=<style\=RubyPrefixTag></style>\nLooks like you're ready to fight... Then, let's start.
 まさか、あれは…！？=No way, could that be...!?
 <style\=RubyPrefixTag></style>\nまさか、あれは…！？=<style\=RubyPrefixTag></style>\nNo way, could that be...!?
-電子軍人手帳…！=An E-Pad...!
+電子軍人手帳…！=An Electronic Military Handbook...!
 <style\=RubyPrefixTag></style>\n夏草や、兵<space\=-75.01px><voffset\=1em><size\=50%><cspace\=0px>つわもの</cspace></size></voffset><space\=-25px><style\=RubySuffixTag></style>どもが夢の跡！！=<style\=RubyPrefixTag></style>\nSummer grasses, All that remains of warriors' dreams.
 セラフィムコード！！=Seraphim code!!
 司令官もセラフ使えたんか！？=The commander could use seraphs too!?
@@ -432,3 +432,18 @@
 はいでゲス！=Yes-gesu!
 （あれ？　実は優しい？）=(Hmm? Is she actually kind?)
 
+---------------------------------
+EXTRA LINE CH1 DAY 6
+---------------------------------
+
+---------------------------------
+Option - Fight you
+---------------------------------
+あなたと戦えと？=You want me to fight you?
+
+---------------------------------
+Option - Let's get along
+---------------------------------
+
+仲良くしよう。改めて３１Ａの茅森だ。よろしく。=Let's get along. I'm Kayamori from 31A. Nice to meet you.
+<style\=RubyPrefixTag></style>\n仲良くしよう。改めて３１Ａの茅森だ。よろしく。=<style\=RubyPrefixTag></style>\nLet's get along. I'm Kayamori from 31A. Nice to meet you.
