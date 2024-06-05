@@ -6,5 +6,7 @@
 データ引き継ぎ確認=Data Transfer Confirmation
 以下のデータを引き継ぎます。=We will transfer the following data.
 引き継ぐ=Transfer
+引き継ぎ方法を選択してください。=Select the method of transfer.
+引き継ぎID=Transfer ID
 ・データの引き継ぎを実行すると、この端末にセーブデータがある場合は削除され引き継ぎ後のデータで上書きされます。\n・異なるOSまたは同じOSの異なるアカウントへの引き継ぎの場合、必ず事前にお客さまご自身でプレミアムパス/ライトパスの解約をお願いします。\n・プレミアムパス/ライトパスに複数/重複加入が行われた場合、特典を重複して受け取ることはできません。=・ When the data is transferred, if this device has a save data, it will be deleted and overwritten by the future data of the transferred device\n・ If you take over to a different OS or the same OS to a different account, be sure to cancel your Premium Pass/Light Pass in advance.\n・ If multiple/duplicate subscription is performed on the Premium Pass/Light Pass, the benefits cannot be duplicated.
 ・異なるプラットフォーム間で引き継ぎを行う場合、有償クォーツは引き継がず元のプラットフォームに残りますのでご注意ください。\n※同プラットフォームでの引き継ぎの場合はそのまま引き継がれます=・ Please note that when taking over between different platforms, paid quartz will remain on the original platform. * If you take over on the same platform, it will be taken over as it is.
