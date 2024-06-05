@@ -1,4 +1,4 @@
-﻿<style\=RubyPrefixTag></style>\nついにきたーーーーー！！=<style\=RubyPrefixTag></style>\nIt's finally hereeeee!!
+<style\=RubyPrefixTag></style>\nついにきたーーーーー！！=<style\=RubyPrefixTag></style>\nIt's finally hereeeee!!
 日曜の朝がきたーーーーー！！=Sunday morning is hereeeee!!
 すげー嬉しそうだな。=You look soooo happy.
 だって、訓練ないんだぜ？　休みなんだぜ？　テンションうなぎのぼりだぜ！！=I mean, there is no training, you know!? It's our day off, you know!? My tension will keep going up and up!!
@@ -41,7 +41,8 @@
 血の気の多い奴らだな…誰に呼び出されたと思ってるんだ。=How bloodthirsty... Just who do you think called you \nall here...
 静かに。司令官から通達があります。=Be quiet. The Commander is going to inform you something.
 <style\=RubyPrefixTag></style>\n静かに。司令官から通達があります。=<style\=RubyPrefixTag></style>\nBe quiet. The Commander is going to inform you something.
-そうでゲシたか！Ah, didn't know that-gesu!
+そうでゲシたか！=Ah, didn't know that-gesu!
+<style\=RubyPrefixTag></style>\nそうでゲシたか！=<style\=RubyPrefixTag></style>\nAh, didn't know that-gesu!
 くそ！=Damn it!
 命拾いしたなあ！=You are saved for now!
 <style\=RubyPrefixTag></style>\n命拾いしたなあ！=<style\=RubyPrefixTag></style>\nYou are saved for now!
@@ -78,13 +79,13 @@
 
 （ここでみんなを鼓舞する一言を発しよう…！）=(Let's say a few words here to inspire everyone...!)
 キャンサー側につこう！=Side with Cancer!
-Ｃを陥れよう！=Bring C down!
+Ｃを陥れよう！=make "C" fall!
 勝とう！=Win!
-しれっと=Quietly
+しれっと=Calmly
 狡猾に=Cunningly
-絶対に=Absolutely
+絶対に=Definitely
 みんなを鼓舞する一言を発しよう…！=Let's say a few words here to inspire everyone...!
-絶対にキャンサー側につこう！=I will absolutely side with Cancer!
+絶対にキャンサー側につこう！=We will definitely side with Cancer!
 やられるわ。=We'll get killed.
 <style\=RubyPrefixTag></style>\nやられるわ。=<style\=RubyPrefixTag></style>\nWe'll get killed.
 どのような方法をもってしても知的生命体は捕食されます。=Intelligent life forms will be preyed upon no matter how.
@@ -137,10 +138,10 @@
 
 [------------Option Clock position----------------]
 
-<style\=RubyPrefixTag></style>\nチ○ポジなら=<style\=RubyPrefixTag></style>\nIf it's C*ck position then...
+<style\=RubyPrefixTag></style>\nチ○ポジなら=<style\=RubyPrefixTag></style>\nIf it's c*ck position then...
 <style\=RubyPrefixTag></style>\nない=<style\=RubyPrefixTag></style>\nNope
 <style\=RubyPrefixTag></style>\nクロックポジション？　聞いたこと…=<style\=RubyPrefixTag></style>\nClock position? Have I ever heard of it...?
-チ○ポジならある。=If it's C*ck position then...
+チ○ポジならある。=If it's c*ck position then...
 全然違うわ。=It's completely different.
 アナログ時計を水平に置いた状態を思い浮かべて。進行方向が１２時よ。=Imagine an analog clock lying flat. The direction \nahead is 12 o'clock.
 <style\=RubyPrefixTag></style>\nアナログ時計を水平に置いた状態を思い浮かべて。進行方\r\n向が１２時よ。=<style\=RubyPrefixTag></style>\nImagine an analog clock lying flat. The direction \nahead is 12 o'clock.
@@ -344,3 +345,87 @@
 <style\=RubyPrefixTag></style>\nそうだな…大事なことを見失いそうになってた…誰かを死\r\nなせたら意味がない…。=<style\=RubyPrefixTag></style>\nYou're right... I almost lost sight of what's important... \nIt's pointless if someone dies...
 危なくなったらすぐさま先輩部隊に泣きつこう。=Let's cry out to the senior unit right away if things \nget dangerous.
 極端だわ。=That's extreme.
+
+---------------------------------
+EXTRA LINE CH1 DAY 7
+---------------------------------
+---------------------------------
+Option - Parkour
+---------------------------------
+
+パルクール。=Parkour.
+パルクール好きだな…。どこを走って跳んで登るんだよ。=You sure like parkour, huh... Where do you plan to \nrun, jump, and climb here?
+<style\=RubyPrefixTag></style>\nパルクール好きだな…。どこを走って跳んで登るんだよ。\r\n=<style\=RubyPrefixTag></style>\nYou sure like parkour, huh... Where do you plan to \nrun, jump, and climb here?\r\n
+廊下。=The corridor.
+すぐ壁か天井にぶつかって終わるだろ。=You'll hit the wall or ceiling right away.
+窓を割って、外に飛び出す。=Break the window and jump outside.
+<style\=RubyPrefixTag></style>\n窓を割って、外に飛び出す。=<style\=RubyPrefixTag></style>\nBreak the window and jump outside.
+ちょっとした事件になるわ。=That'll be a minor crime.
+あいつを育てたのはあたしだと老後に誇りたい。=I want to be able to say "I raised them" when I'm old.
+しかもお前はコーチなのか。=Are you the coach?
+---------------------------------
+Option - Definitely win
+---------------------------------
+絶対に勝とう！=Let's definitely win
+<style\=RubyPrefixTag></style>\n絶対に勝とう！=<style\=RubyPrefixTag></style>\nLet's definitely win
+まあ、負けるのは嫌いだし。=Well, I hate losing.
+<style\=RubyPrefixTag></style>\nまあ、負けるのは嫌いだし。=<style\=RubyPrefixTag></style>\nWell, I hate losing.
+まあ、やれることはやるよ。=Well, I'll do what I can.
+さすがあたし！　チームが一丸となった！=As expected of me! The team is united!
+そうかぁ？=Is that so?
+---------------------------------
+Option - Nope
+---------------------------------
+ない。=Nope.
+---------------------------------
+Option - Definitely make "C" fall
+---------------------------------
+絶対にＣを陥れよう！=Let's definitely make "C" fall!
+<style\=RubyPrefixTag></style>\n絶対にＣを陥れよう！=<style\=RubyPrefixTag></style>\nLet's definitely make "C" fall!
+正々堂々やれよ。=Do it fair and square.
+<style\=RubyPrefixTag></style>\n正々堂々やれよ。=<style\=RubyPrefixTag></style>\nDo it fair and square.
+せや！　何抜かしとるんや！！=Saya! What do you miss! !
+<style\=RubyPrefixTag></style>\nせや！　何抜かしとるんや！！=<style\=RubyPrefixTag></style>\nSaya! What do you miss! !
+まあ、奥の手でも使わないと私たちには勝てない…それはわかっているようね。=Well, if you don't use a secret trick, you can't win... \nIt seems you understand that.
+<style\=RubyPrefixTag></style>\nまあ、奥の手でも使わないと私たちには勝てない…それは\r\nわかっているようね。=<style\=RubyPrefixTag></style>\nWell, if you don't use a secret trick, you can't win... \nIt seems you understand that.
+ゲスらしい考えでゲスよ！=That's such a "gesu/scummy" way of thinking-gesu!
+あれ？　思ってたのと違うな…。=Huh? It didn't go the way I thought it would...
+なにがしたかったんだよ。=What were you trying to do?
+<style\=RubyPrefixTag></style>\nなにがしたかったんだよ。=<style\=RubyPrefixTag></style>\nWhat were you trying to do?
+---------------------------------
+Option - Calmly win
+---------------------------------
+しれっと勝とう！=Let's calmly win!
+<style\=RubyPrefixTag></style>\nしれっと勝とう！=<style\=RubyPrefixTag></style>\nLet's calmly win!
+おいおい、馬鹿にされたものね…。=Hey, hey, we've been underestimated...
+<style\=RubyPrefixTag></style>\nおいおい、馬鹿にされたものね…。=<style\=RubyPrefixTag></style>\nHey, hey, we've been underestimated...
+ぎゃふんと言わせてやるでゲスよ！=I'll render them speechless-gesu!
+<style\=RubyPrefixTag></style>\nぎゃふんと言わせてやるでゲスよ！=<style\=RubyPrefixTag></style>\nI'll render them speechless-gesu!
+あれ？　相手の士気が上がっちゃった？=Huh? The opponent's morale has risen?
+---------------------------------
+Option - Calmly go to cancer's side
+---------------------------------
+しれっとキャンサー側につこう！=Let's calmly go to cancer's side!
+<style\=RubyPrefixTag></style>\nしれっとキャンサー側につこう！=<style\=RubyPrefixTag></style>\nLet's calmly go to cancer's side!
+しれっとは無理だろ。=There's no way we can do that calmly.
+<style\=RubyPrefixTag></style>\nしれっとは無理だろ。=<style\=RubyPrefixTag></style>\nThere's no way we can do that calmly.
+---------------------------------
+Option - Cunningly win
+---------------------------------
+狡猾に勝とう！=Let's win cunningly!
+---------------------------------
+Option - Cunningly make "C" fall
+---------------------------------
+狡猾にＣを陥れよう！=Let's cunningly make "C" fall!
+卑怯な…！=You coward...!
+<style\=RubyPrefixTag></style>\n卑怯な…！=<style\=RubyPrefixTag></style>\nYou coward...!
+丸聞こえでゲスよ！=We can hear everything-gesu!
+<style\=RubyPrefixTag></style>\n丸聞こえでゲスよ！=<style\=RubyPrefixTag></style>\nWe can hear everything-gesu!
+狡猾にＣを陥れよう…。=Let's cunningly make "C" fall...
+<style\=RubyPrefixTag></style>\n狡猾にＣを陥れよう…。=<style\=RubyPrefixTag></style>\nLet's cunningly make "C" fall...
+小さく言っても遅いわ。=It's already too late to speak softly.
+---------------------------------
+Option - Cunningly go to cancer's side
+---------------------------------
+狡猾にキャンサー側につこう！=Let's cunningly go to cancer's side!
+<style\=RubyPrefixTag></style>\n狡猾にキャンサー側につこう！=<style\=RubyPrefixTag></style>\nLet's cunningly go to cancer's side!
