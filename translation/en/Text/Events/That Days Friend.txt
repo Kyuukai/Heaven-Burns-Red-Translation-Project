@@ -1227,7 +1227,7 @@ UI非表示=Hide UI
 ここは寒いね=It's cold here
 いつの間にかきみは遠くで笑ってて=Before I knew it, you were smiling far away
 きらきらした水面みたい=Like the shimmering water surface
-すぐにも消え去りそう=It looks like it could disappear any moment
+すぐにも消え去りそう=As if you might disappear at any moment
 
 [After Live Performance]
 
