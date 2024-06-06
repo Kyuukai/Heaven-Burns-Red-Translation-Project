@@ -1,4 +1,4 @@
-﻿[---------------Morning Exercise--------------]
+[---------------Morning Exercise--------------]
 
 では朝の体操を開始してください。=Now please begin your morning exercises.
 <style\=RubyPrefixTag></style>\nでは朝の体操を開始してください。=<style\=RubyPrefixTag></style>\nNow please begin your morning exercises.
@@ -9,7 +9,7 @@
 
 <style\=RubyPrefixTag></style>\n（このあと、あたしが言うべき言葉は…）=<style\=RubyPrefixTag></style>\n(What I should say after this is...)
 <style\=RubyPrefixTag></style>\n屈んで手を地面につけクラウチングスタートから=<style\=RubyPrefixTag></style>\nStart a crouching start with your hands on the ground
-<style\=RubyPrefixTag></style>\n腕を前から上に背伸びの運動から=<style\=RubyPrefixTag></style>\nStart with stretching your arms from your front to  back
+<style\=RubyPrefixTag></style>\n腕を前から上に背伸びの運動から=<style\=RubyPrefixTag></style>\nStretch your arms up starting from the front.
 <style\=RubyPrefixTag></style>\nあたしが言うべき言葉は…。=<style\=RubyPrefixTag></style>\n(What I should say after this is...)
 屈んで手を地面につけクラウチングスタートから。=Start a crouching start with your hands on the ground.
 <style\=RubyPrefixTag></style>\n屈んで手を地面につけクラウチングスタートから。=<style\=RubyPrefixTag></style>\nStart a crouching start with your hands on the ground.
@@ -280,3 +280,51 @@
 <style\=RubyPrefixTag></style>\n（…色々やばい、漏れる）=<style\=RubyPrefixTag></style>\n(...This is bad in a lot of ways, I'm leaking)
 <style\=RubyPrefixTag></style>\n３１"Ａ"を賭けた戦い あと１日=<style\=RubyPrefixTag></style>\nOnly 1 day left to fight for 31 "A
 
+---------------------------------
+EXTRA LINE CH1 DAY 10
+---------------------------------
+なあ…どうして３１Ｃの奴らは、あそこまで勝ちにこだわるんだろうな。=Hey... Why the 31C are so obsessed with winning?
+負けると悔しいからじゃん？=Isn't it because losing is frustrating?
+<style\=RubyPrefixTag></style>\n負けると悔しいからじゃん？=<style\=RubyPrefixTag></style>\nIsn't it because losing is frustrating?
+そうかもしれないけど…でも、佐月が言ってたことが気になってるんだ。=Maybe so... but... I'm still thinking about what Satsuki said.
+<style\=RubyPrefixTag></style>\nそうかもしれないけど…でも、佐月が言ってたことが気に\r\nなってるんだ。=<style\=RubyPrefixTag></style>\nMaybe so... but... I'm still thinking about what Satsuki said.
+あいつ、いつになく真剣だった。そう思わないか？=She was unusually serious. Don't you think?
+<style\=RubyPrefixTag></style>\nあいつ、いつになく真剣だった。そう思わないか？=<style\=RubyPrefixTag></style>\nShe was unusually serious. Don't you think?
+真剣なのは別に悪いことじゃないだろ？=Being serious isn't necessarily a bad thing, right?
+<style\=RubyPrefixTag></style>\n真剣なのは別に悪いことじゃないだろ？=<style\=RubyPrefixTag></style>\nBeing serious isn't necessarily a bad thing, right?
+<style\=RubyPrefixTag></style>\nえ？　そうだけど…。=<style\=RubyPrefixTag></style>\nEh?  Yeah, but...
+え？　そうだけど…。=Eh?  Yeah, but...
+は…はやく先へ進みませんか？=Ha... Shouldn't we move on already?
+<style\=RubyPrefixTag></style>\nは…はやく先へ進みませんか？=<style\=RubyPrefixTag></style>\nHa... Shouldn't we move on already?
+地下に降りたら、なんだかどんどん寒くなってきました！=The lower we go, the colder it gets!!
+<style\=RubyPrefixTag></style>\n地下に降りたら、なんだかどんどん寒くなってきました！\r\n=<style\=RubyPrefixTag></style>\nThe lower we go, the colder it gets!!\r\n
+確かに…急に冷え込んできたみたい。=You're right... It suddenly got chilly.
+<style\=RubyPrefixTag></style>\n確かに…急に冷え込んできたみたい。=<style\=RubyPrefixTag></style>\nYou're right... It suddenly got chilly.
+はっ！　弱っちいな。こんぐらいの寒さなんともあれへん。=Hah! Weaklings. This kind of cold isn't even worth mentioning.
+<style\=RubyPrefixTag></style>\nはっ！　弱っちいな。こんぐらいの寒さなんともあれへん。\r\n=<style\=RubyPrefixTag></style>\nHah! Weaklings. This kind of cold isn't even worth mentioning.\r\n
+すごいわ。やっぱりあの言葉は本当だったのね！=Wow. I guess what they said was true!
+<style\=RubyPrefixTag></style>\nすごいわ。やっぱりあの言葉は本当だったのね！=<style\=RubyPrefixTag></style>\nWow. I guess what they said was true!
+えっと…なんとかは風邪ひかないって…。=Uh... something about OOO don't catching a cold...?
+<style\=RubyPrefixTag></style>\nえっと…なんとかは風邪ひかないって…。=<style\=RubyPrefixTag></style>\nUh... something about OOO don't catching a cold...?
+あん？　喧嘩売っとんのか。=Hah? Are you picking a fight?
+<style\=RubyPrefixTag></style>\nあん？　喧嘩売っとんのか。=<style\=RubyPrefixTag></style>\nHah? Are you picking a fight?
+このナービィ、目が綺麗。=This narvy has pretty eyes.
+<style\=RubyPrefixTag></style>\nこのナービィ、目が綺麗。=<style\=RubyPrefixTag></style>\nThis narvy has pretty eyes.
+どこに行ったんだろ？=Which Narvy.
+<style\=RubyPrefixTag></style>\nどこに行ったんだろ？=<style\=RubyPrefixTag></style>\nWhich Narvy.
+でも確かに…急いだほうがよさそうだな。=But yeah, we should probably hurry.
+<style\=RubyPrefixTag></style>\nでも確かに…急いだほうがよさそうだな。=<style\=RubyPrefixTag></style>\nBut yeah, we should probably hurry.
+深い階層になって、たぶんキャンサーも強力になっているはずだ。=The enemies are probably getting stronger on the deeper floors.
+<style\=RubyPrefixTag></style>\n深い階層になって、たぶんキャンサーも強力になっている\r\nはずだ。=<style\=RubyPrefixTag></style>\nThe enemies are probably getting stronger on the deeper floors.
+油断せずに進んでいこう。=Let's be careful and keep moving.
+<style\=RubyPrefixTag></style>\n油断せずに進んでいこう。=<style\=RubyPrefixTag></style>\nLet's be careful and keep moving.
+じゃあ、行くとするか。=Well then, shall we go?
+<style\=RubyPrefixTag></style>\nじゃあ、行くとするか。=<style\=RubyPrefixTag></style>\nWell then, shall we go?
+
+---------------------------------
+Option - arm stretch
+---------------------------------
+腕を前から上に背伸びの運動から。=Stretch your arms up starting from the front.
+素晴らしいです。=That's excellent.
+褒められた！　なにかのパラメータが上がった！=I got praised! Some parameter must have gone up!
+出来て当然のことだからな。=What you just did is just common sense, okay?
