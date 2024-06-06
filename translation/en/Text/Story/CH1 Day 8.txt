@@ -1,4 +1,4 @@
-﻿みんな、おはよう。=Good morning everyone.
+みんな、おはよう。=Good morning everyone.
 なんだよ…初めてレベルで目覚めがよさそうだな…。=Huh... Feels like this is the first time you wake \nup nicely.
 <style\=RubyPrefixTag></style>\nなんだよ…初めてレベルで目覚めがよさそうだな…。=<style\=RubyPrefixTag></style>\nHuh... Feels like this is the first time you wake \nup nicely.
 ふわぁ、まだ眠いわ…。=Fwah, I'm still sleepy...
@@ -73,7 +73,7 @@
 <style\=RubyPrefixTag></style>\n星新一<space\=-132.01px><voffset\=1em><size\=50%><cspace\=0px>ほししんいち</cspace></size></voffset><space\=0px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nHoshi Shinichi
 <style\=RubyPrefixTag></style>\n坂口安吾<space\=-165.01px><voffset\=1em><size\=50%><cspace\=0px>さかぐちあんご</cspace></size></voffset><space\=11px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nSakaguchi Ango
 <style\=RubyPrefixTag></style>\n紀貫之<space\=-132.01px><voffset\=1em><size\=50%><cspace\=0px>きのつらゆき</cspace></size></voffset><space\=0px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nKino Tsurayuki
-<style\=RubyPrefixTag></style>\n『無頼派』のもっとも有名な作家…！=<style\=RubyPrefixTag></style>\nThe most famous writers of the “Buraiha” groups...!
+<style\=RubyPrefixTag></style>\n『無頼派』のもっとも有名な作家…！=<style\=RubyPrefixTag></style>\nThe most famous writers of the \n“Buraiha” groups...!
 坂口安吾。=Sakaguchi Ango
 正解だ。=Correct.
 <style\=RubyPrefixTag></style>\n正解だ。=<style\=RubyPrefixTag></style>\nCorrect.
@@ -82,8 +82,8 @@
 ただ『無頼派』は、範囲が非常に不明確な集団だ。=However, the "Buraiha" is a group with a very unclear \nscope.
 <style\=RubyPrefixTag></style>\nただ『無頼派』は、範囲が非常に不明確な集団だ。=<style\=RubyPrefixTag></style>\nHowever, the "Buraiha" is a group with a very unclear \nscope.
 しかし共通点として、それぞれが自分たちで新しいイデオロギーを作った、というところにある。=But one thing they have in common is that they each \ncreated their own new ideologies.
-文壇でそれまで良しとされていたことに反発し、何にも頼らずにスタイルは自分で作る、という姿勢が彼らの特徴だ。=Their defining characteristic is their stance of rebelling against \nwhat was previously considered acceptable in the literary \nworld and creating their own style without relying on anything.
-<style\=RubyPrefixTag></style>\n文壇でそれまで良しとされていたことに反発し、何にも頼\r\nらずにスタイルは自分で作る、という姿勢が彼らの特徴だ。\r\n=<style\=RubyPrefixTag></style>\nTheir defining characteristic is their stance of rebelling against \nwhat was previously considered acceptable in the literary \nworld and creating their own style without relying on anything.\r\n
+文壇でそれまで良しとされていたことに反発し、何にも頼らずにスタイルは自分で作る、という姿勢が彼らの特徴だ。=Their defining characteristic is their stance of rebelling \nagainst what was previously considered acceptable in the \nliterary world and creating their own style.
+<style\=RubyPrefixTag></style>\n文壇でそれまで良しとされていたことに反発し、何にも頼\r\nらずにスタイルは自分で作る、という姿勢が彼らの特徴だ。\r\n=<style\=RubyPrefixTag></style>\nTheir defining characteristic is their stance of rebelling \nagainst what was previously considered acceptable in the \nliterary world and creating their own style.\r\n
 へぇー、文学界のロックミュージシャンってとこだな。=Wow, they're like the rock musicians of the literary \nworld!
 お！　ということは、あたしも『無頼派』だ！！=Oh! So that means I'm a "Buraiha" too!!
 <style\=RubyPrefixTag></style>\nお前は『頭お花畑派』だぁ！！=<style\=RubyPrefixTag></style>\nYou're a "Head in the Clouds" group!!
@@ -421,3 +421,26 @@
 <style\=RubyPrefixTag></style>\n残念だな。気が変わったら教えてくれ。=<style\=RubyPrefixTag></style>\nToo bad. If you change your mind, let me know.
 <style\=RubyPrefixTag></style>\n裏通りに行く=<style\=RubyPrefixTag></style>\nGo to the back passage
 <style\=RubyPrefixTag></style>\n３１"Ａ"を賭けた戦い あと３日=<style\=RubyPrefixTag></style>\n3 days left to fight for 31 "A"
+
+---------------------------------
+EXTRA LINE CH1 DAY 8
+---------------------------------
+…こっちは宿舎だったな。=...This way is the dorm.
+<style\=RubyPrefixTag></style>\n…こっちは宿舎だったな。=<style\=RubyPrefixTag></style>\n...This way is the dorm.
+
+---------------------------------
+Option - Kino Tsurayuki
+---------------------------------
+紀貫之。=Kino Tsurayuki.
+…お前、紀貫之がいつ生きてたか知ってるか？=...Do you know what era Kino Tsurayuki was alive?
+昭和？=Showa era?
+なんで？=Why?
+自由時間=Free Time
+
+---------------------------------
+Option - Hoshi Shinichi
+---------------------------------
+星新一。=Hoshi Shinichi.
+えー、ＳＦ界の無頼派だと思うんだけど。=Eeh, I think he's a rebel in the SF world, though.
+おい、変なこと言うな。波紋を呼ぶぞ。=Oi, don't say strange things. You'll cause a stir.
+<style\=RubyPrefixTag></style>\nおい、変なこと言うな。波紋を呼ぶぞ。=<style\=RubyPrefixTag></style>\nOI, don't say strange things. You'll cause a stir.
