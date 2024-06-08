@@ -1,4 +1,7 @@
-﻿------------------------------------------
+[Miscellaneous]
+<style=RubyPrefixTag></style>\n今回のイベントは、以下のストーリーをクリア後のプレイを推奨します。\n「罪と罰と愛と」「美人温泉物語　湯けむり千紫万紅」\nメモリーストーリー「名探偵アイリンの事件簿・飛翔編」\n\nまた一部、以下のストーリー内容に関する言及があります。\n「大島屋物語」\nメモリーストーリー「妹漫画道」\n\nストーリーを開始しますか？=<style=RubyPrefixTag></style>\nFor this event, it is recommended to play after clearing the following stories: "Crime and Punishment and Love," "A Tale of Hot Spring Beauties - A Steamy Multitude of Colours," and the memory story "The Great Detective Irene's Case Files: Soaring Edition" Additionally, there are some references to the following story contents: "Ohshimaya Story" and the memory story "Imouto Manga Path." Would you like to start the story?
+
+------------------------------------------
 ~~~~~~~~~~~~Start - Day 1
 ------------------------------------------
 
