@@ -43,3 +43,14 @@
 【強化育成CP】[幻影]アラクネラインAを7回クリアする=[Reinforcement Training CP] Clear the [Phantom] Arachne Line A 7 times.
 【強化育成CP】[幻影]アラクネラインAを10回クリアする=[Strengthening and Training CP] Clear [Phantom] Arachne Line A 10 times.
 【強化育成CP】時計塔 9階をクリアする=[Strengthening and Training CP] Clear the 9th floor of the Clock Tower.
+
+[Early Summer 2024]
+Early Summer ログインボーナスの報酬獲得=Receive rewards for the Early Summer Login Bonus
+第五章前編 Day3クリアで 1000クォーツGET！=Clear Chapter 5, Part 1, Day 3 to GET 1000 Quartz!
+ウィッシュリストガチャ=Wishlist Gacha
+Early Summerキャンペーン 1/4=Early Summer Campaign 1/4
+Early Summerキャンペーン 2/4=Early Summer Campaign 2/4
+Early Summerキャンペーン 3/4=Early Summer Campaign 3/4
+Early Summerキャンペーン 4/4=Early Summer Campaign 4/4
+第五章前編 Day3をクリア=Clear Chapter 5 Part 1 Day 3
+第五章\n前編=Chapter 5 Part 1
