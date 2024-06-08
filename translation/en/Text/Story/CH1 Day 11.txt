@@ -1,4 +1,4 @@
-﻿[------------Morning-------------]
+[------------Morning-------------]
 
 よし、朝食だ！=Alright, breakfast time!
 <style\=RubyPrefixTag></style>\nよし、朝食だ！=<style\=RubyPrefixTag></style>\nAlright, breakfast time!
@@ -133,8 +133,8 @@
 <style\=RubyPrefixTag></style>\n猫車の由来は…=<style\=RubyPrefixTag></style>\nThe origin of the cat car is...
 なんとなく女子ウケがいいから。=Because it's popular with girls.
 <style\=RubyPrefixTag></style>\nなんとなく女子ウケがいいから。=<style\=RubyPrefixTag></style>\nBecause it's popular with girls.
-不正解！　正解は、諸説あるそうだけど、狭い足場を建設用語で「猫足場」といって、そこを通れることが由来のひとつだそうよ。=Wrong! Apparently there are few theories, but one of them is that \nthe narrow scaffolding is called "cat scaffolding" in construction \nterms, and being able to pass through it is one of the origins.
-<style\=RubyPrefixTag></style>\n不正解！　正解は、諸説あるそうだけど、狭い足場を建設\r\n用語で「猫足場」といって、そこを通れることが由来のひ\r\nとつだそうよ。=<style\=RubyPrefixTag></style>\nWrong! Apparently there are few theories, but one of them is that \nthe narrow scaffolding is called "cat scaffolding" in construction \nterms, and being able to pass through it is one of the origins.
+不正解！　正解は、諸説あるそうだけど、狭い足場を建設用語で「猫足場」といって、そこを通れることが由来のひとつだそうよ。=Wrong! Apparently there are few theories, but one of them is \nthat the narrow scaffolding is called "cat scaffolding", and \nbeing able to pass through it is one of the origins.
+<style\=RubyPrefixTag></style>\n不正解！　正解は、諸説あるそうだけど、狭い足場を建設\r\n用語で「猫足場」といって、そこを通れることが由来のひ\r\nとつだそうよ。=<style\=RubyPrefixTag></style>\nWrong! Apparently there are few theories, but one of them is \nthat the narrow scaffolding is called "cat scaffolding", and \nbeing able to pass through it is one of the origins.
 でもさ、考えてみ？　工事現場のおじさんたちが、女子高生や年頃の娘にチヤホヤされたくて、がんばって可愛らしい名前を捻り出したとしたら…！=But think about it! What if the construction workers \nwere trying hard to come up with a cute name to be \npopular with high school girls and young lady...!
 <style\=RubyPrefixTag></style>\nでもさ、考えてみ？　工事現場のおじさんたちが、女子高\r\n生や年頃の娘にチヤホヤされたくて、がんばって可愛らし\r\nい名前を捻り出したとしたら…！=<style\=RubyPrefixTag></style>\nBut think about it! What if the construction workers \nwere trying hard to come up with a cute name to be \npopular with high school girls and young lady...!
 うっ…やるせなくなってきた。せめて、正解にしてあげなきゃ…！=Ugh... I'm starting to feel sorry. I have to at least \nlet it be true...!
@@ -288,7 +288,7 @@
 トマトジュース=Tomato juice
 コーヒー牛乳=Coffee milk
 風呂に混ぜる=Mix in the bath
-風呂上がりに浴びる=Take a shower of after the bath
+風呂上がりに浴びる=Drenched in, after the bath
 風呂上がりに飲む=Drink after the bath
 それは…？=That is...?
 風呂上がりに飲む入浴剤が！=The bath salts I drink after taking a bath!
@@ -371,3 +371,130 @@
 はい♪=Yes ♪
 （よくわからないけど、結束力を高めたみたいだ…）=(I don't quite understand, but looks like they've \nraised their team's unity...)
 <style\=RubyPrefixTag></style>\n３１"Ａ"を賭けた戦い 最終日へ=<style\=RubyPrefixTag></style>\nThe Final Day of the Battle for 31 "A"
+
+---------------------------------
+EXTRA LINE CH1 DAY 11
+---------------------------------
+ふぅ…ついに第４層か。ここまで来れば３１Ｃにも勝てるんじゃないか？=Phew......Finally, we're at the 4th layer. We should \nbe able to beat 31C at this point.
+<style\=RubyPrefixTag></style>\nふぅ…ついに第４層か。ここまで来れば３１Ｃにも勝てる\r\nんじゃないか？=<style\=RubyPrefixTag></style>\nPhew......Finally, we're at the 4th layer. We should \nbe able to beat 31C at this point.
+おいおい、ハッカーなのに体力ないな。=Oi oi, you're a hacker, but you don't have any stamina, huh?
+<style\=RubyPrefixTag></style>\nおいおい、ハッカーなのに体力ないな。=<style\=RubyPrefixTag></style>\nOi oi, you're a hacker, but you don't have any stamina, huh?
+ハッカーだからないんだろ。体力あるイメージでもあったか。=That's because I'm a hacker. Did you have the impression \nthat a hacker had stamina?
+<style\=RubyPrefixTag></style>\nハッカーだからないんだろ。体力あるイメージでもあった\r\nか。=<style\=RubyPrefixTag></style>\nThat's because I'm a hacker. Did you have the impression \nthat a hacker had stamina?
+もう駄目ぽ…。=I can't go on...
+<style\=RubyPrefixTag></style>\nもう駄目ぽ…。=<style\=RubyPrefixTag></style>\nI can't go on...
+お前はあれよ。元から軍人だろ。=Aren't you the one who was from the military to \nbegin with?
+<style\=RubyPrefixTag></style>\nお前はあれよ。元から軍人だろ。=<style\=RubyPrefixTag></style>\nAren't you the one who was from the military to \nbegin with?
+ひひゃひゃーーー！！　揃いもそろってだらしないのう！！=HIHYAAAAAA!! You guys are all so pathetic!!
+<style\=RubyPrefixTag></style>\nひひゃひゃーーー！！　揃いもそろってだらしないのう！！\r\n=<style\=RubyPrefixTag></style>\nHIHYAAAAAA!! You guys are all so pathetic!!\r\n
+お前はめっちゃありそうだな。サイコに殺すってすげー体力要りそうだもんな。=You seems like you'd have tons of it. It must take a \nlot of stamina to kill someone psychotically.
+<style\=RubyPrefixTag></style>\nお前はめっちゃありそうだな。サイコに殺すってすげー体\r\n力要りそうだもんな。=<style\=RubyPrefixTag></style>\nYou seems like you'd have tons of it. It must take a \nlot of stamina to kill someone psychotically.
+しかし下に来るほど寒いですね。早く帰ってシャワーを浴びたいものです！=But it sure is getting cold the lower we go. I want \nto go home and take a shower soon!
+<style\=RubyPrefixTag></style>\nしかし下に来るほど寒いですね。早く帰ってシャワーを浴\r\nびたいものです！=<style\=RubyPrefixTag></style>\nBut it sure is getting cold the lower we go. I want \nto go home and take a shower soon!
+湯船に浸からんと風邪引くで。=You're going to catch a cold if you don't soak in \na bathtub.
+<style\=RubyPrefixTag></style>\n湯船に浸からんと風邪引くで。=<style\=RubyPrefixTag></style>\nYou're going to catch a cold if you don't soak in \na bathtub.
+優しいな。=How kind.
+<style\=RubyPrefixTag></style>\n優しいな。=<style\=RubyPrefixTag></style>\nHow kind.
+どうするの？=What should we do?
+<style\=RubyPrefixTag></style>\nどうするの？=<style\=RubyPrefixTag></style>\nWhat should we do?
+もう少しだけ頑張ろう。=Let's just keep going for a little while longer.
+<style\=RubyPrefixTag></style>\nもう少しだけ頑張ろう。=<style\=RubyPrefixTag></style>\nLet's just keep going for a little while longer.
+３１Ｃも必死でやってるんだ。ここで手を抜いたらさ…。=31C is working hard too. If we give up here...
+<style\=RubyPrefixTag></style>\n３１Ｃも必死でやってるんだ。ここで手を抜いたらさ…。=<style\=RubyPrefixTag></style>\n31C is working hard too. If we give up here...
+負けるかもしれないって？=Because we might lose?
+<style\=RubyPrefixTag></style>\n負けるかもしれないって？=<style\=RubyPrefixTag></style>\nBecause we might lose?
+いや。=Nah.
+<style\=RubyPrefixTag></style>\nいや。=<style\=RubyPrefixTag></style>\nNah.
+頑張ってる相手に失礼じゃん？=Isn't it rude to give up on someone who's trying \ntheir best?
+<style\=RubyPrefixTag></style>\n頑張ってる相手に失礼じゃん？=<style\=RubyPrefixTag></style>\nIsn't it rude to give up on someone who's trying \ntheir best?
+…確かにな。=...You're right.
+<style\=RubyPrefixTag></style>\n…確かにな。=<style\=RubyPrefixTag></style>\n...You're right.
+せっかくここまで来たんだ。もう少しだけ頑張ってみてもいいかもしれない。=We've come this far. Maybe we should try a little \nmore.
+<style\=RubyPrefixTag></style>\nせっかくここまで来たんだ。もう少しだけ頑張ってみても\r\nいいかもしれない。=<style\=RubyPrefixTag></style>\nWe've come this far. Maybe we should try a little \nmore.
+先に進んでみるか。=Shall we move on?
+<style\=RubyPrefixTag></style>\n先に進んでみるか。=<style\=RubyPrefixTag></style>\nShall we move on?
+
+---------------------------------
+Option - End of the world
+---------------------------------
+終末世界。=End world.
+<style\=RubyPrefixTag></style>\n終末世界。=<style\=RubyPrefixTag></style>\nPost-apocalyptic world.
+---------------------------------
+Option - Great depression
+---------------------------------
+世界恐慌。=The Great Depression.
+
+---------------------------------
+Option - Cat pass
+---------------------------------
+
+猫が通るような狭い足場も通れるから。=Because it can pass through narrow footholds that even \na cat could pass through.
+<style\=RubyPrefixTag></style>\n猫が通るような狭い足場も通れるから。=<style\=RubyPrefixTag></style>\nBecause it can pass through narrow footholds that even \na cat could pass through.
+正解！　諸説あるそうだけど、狭い足場を建設用語で「猫足場」といって、そこを通れることが由来のひとつだそうよ。=Correct! There are theories, but one of them is that narrow \nfootholds in construction are called "cat scaffolding," and \nit's derived from being able to pass through there.
+よっしゃ！　つかさっちも、あさみんに負けずいいクイズ出すじゃん！=Nice! Tsukasa-chi, you can make good quizzes just \nlike Asamin!
+<style\=RubyPrefixTag></style>\nよっしゃ！　つかさっちも、あさみんに負けずいいクイズ\r\n出すじゃん！=<style\=RubyPrefixTag></style>\nNice! Tsukasa-chi, you can make good quizzes just \nlike Asamin!
+ふふ…諜報員だもの。この程度、お手の物よ！=Hehe... I'm a secret agent. This level is a piece of cake!
+<style\=RubyPrefixTag></style>\nふふ…諜報員だもの。この程度、お手の物よ！=<style\=RubyPrefixTag></style>\nHehe... I'm a secret agent. This level is a piece of cake!
+
+---------------------------------
+Option - brought cats
+---------------------------------
+大量の猫を運んだから。=Because it transport a lot of cats.
+<style\=RubyPrefixTag></style>\n大量の猫を運んだから。=<style\=RubyPrefixTag></style>\nBecause it transport a lot of cats.
+でもさ、想像してみ？　猫をぎゅうぎゅうに積んで、にゃーにゃーの大合唱と共に運んでいく光景を…！=But, imagine it. Piling up cats tightly and transporting \nthem with a chorus of meows...!
+…すごくアリね。じゃあ、正解！=...That's very plausible. Then, correct!
+
+---------------------------------
+Option - Tomato juice after a bath
+---------------------------------
+風呂上がりに飲むトマトジュースが！=Tomato juice I drink after a bath!
+<style\=RubyPrefixTag></style>\n風呂上がりに飲むトマトジュースが！=<style\=RubyPrefixTag></style>\nTomato juice I drink after a bath!
+そりゃ健康的だな。=That's healthy.
+
+---------------------------------
+Option - coffee milk after a bath
+---------------------------------
+風呂上がりに飲むコーヒー牛乳が！=Coffee milk I drink after a bath!
+でも、その気持ちわかる。美味しい。=I get what you mean though. It's delicious.
+<style\=RubyPrefixTag></style>\nでも、その気持ちわかる。美味しい。=<style\=RubyPrefixTag></style>\nI get what you mean though. It's delicious.
+
+---------------------------------
+Option - drenched in coffee milk 
+---------------------------------
+風呂上がりに浴びるコーヒー牛乳が！=Drenched in coffee milk after a bath!
+<style\=RubyPrefixTag></style>\n風呂上がりに浴びるコーヒー牛乳が！=<style\=RubyPrefixTag></style>\nDrenched in coffee milk after a bath!
+すぐ入り直せ。=Go take another bath right away.
+<style\=RubyPrefixTag></style>\nすぐ入り直せ。=<style\=RubyPrefixTag></style>\nGo take another bath right away.
+
+---------------------------------
+Option - drenched in tomato juice 
+---------------------------------
+風呂上がりに浴びるトマトジュースが！=Drenched in tomato juice after a bath!
+殺人現場と見間違うわ。=It would be mistaken as murder scene.
+<style\=RubyPrefixTag></style>\n殺人現場と見間違うわ。=<style\=RubyPrefixTag></style>\nIt would be mistaken as murder scene.
+
+---------------------------------
+Option - drenched in bath salts 
+---------------------------------
+風呂上がりに浴びる入浴剤が！=Drenched in bath salts after a bath!
+<style\=RubyPrefixTag></style>\n風呂上がりに浴びる入浴剤が！=<style\=RubyPrefixTag></style>\n=Drenched in bath salts after a bath!
+すぐ入り直してこい。=Go take another bath right away.
+
+---------------------------------
+Option - Mix coffe milk
+---------------------------------
+風呂に混ぜるコーヒー牛乳が！=Mixing coffee milk in the bath!
+やめろ、なにしてくれてんだよ。=Stop, what the hell are you doing?
+
+---------------------------------
+Option - Mix tomato juice
+---------------------------------
+風呂に混ぜるトマトジュースが！=Mixing tomato juice in the bath!
+恐くて入れなくなるわ。=I'd be too scared to get in.
+
+---------------------------------
+Option - Mix bath salt
+---------------------------------
+風呂に混ぜる入浴剤が！=Mixing bath salts in the bath!
+気休め程度だろうけど、効能を期待しちまうよな。=Even if it's just a placebo effect, you'd expect \nsome benefits.
+ものすごく信じちゃう。=I really believe that.
