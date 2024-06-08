@@ -11,3 +11,9 @@
 メダル\n3倍=3x Medals
 残り あと2日=2 Days Left
 ピックアップ=Pick up
+
+[Event Warnings]
+※他のイベントストーリーを進行中の場合、Day進捗情報が削除されます。=※If you are progressing through other event stories, the Day progress information will be deleted.
+編成制限なし\n ※一部メンバーでストーリーと乖離している表示があります=No formation restrictions\n※ Some members might display inconsistencies with the story
+編成制限=Formation restrictions
+イベントを開始しますか？=Would you like to start the event?
