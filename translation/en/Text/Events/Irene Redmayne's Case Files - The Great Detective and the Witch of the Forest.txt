@@ -1,5 +1,7 @@
-[Miscellaneous]
-<style=RubyPrefixTag></style>\n今回のイベントは、以下のストーリーをクリア後のプレイを推奨します。\n「罪と罰と愛と」「美人温泉物語　湯けむり千紫万紅」\nメモリーストーリー「名探偵アイリンの事件簿・飛翔編」\n\nまた一部、以下のストーリー内容に関する言及があります。\n「大島屋物語」\nメモリーストーリー「妹漫画道」\n\nストーリーを開始しますか？=<style=RubyPrefixTag></style>\nFor this event, it is recommended to play after clearing the following stories: "Crime and Punishment and Love," "A Tale of Hot Spring Beauties - A Steamy Multitude of Colours," and the memory story "The Great Detective Irene's Case Files: Soaring Edition" Additionally, there are some references to the following story contents: "Ohshimaya Story" and the memory story "Imouto Manga Path." Would you like to start the story?
+-------------------------------------------
+Event Warning
+------------------------------------------
+style=RubyPrefixTag></style>\n今回のイベントは、以下のストーリーをクリア後のプレイを推奨します。\n「罪と罰と愛と」「美人温泉物語　湯けむり千紫万紅」\nメモリーストーリー「名探偵アイリンの事件簿・飛翔編」\n\nまた一部、以下のストーリー内容に関する言及があります。\n「大島屋物語」\nメモリーストーリー「妹漫画道」\n\nストーリーを開始しますか？=<style=RubyPrefixTag></style>\nFor this event, it is recommended to play after clearing the following stories: "Crime and Punishment and Love," "A Tale of Hot Spring Beauties - A Steamy Multitude of Colours," and the memory story "The Great Detective Irene's Case Files: Soaring Edition" Additionally, there are some references to the following story contents: "Ohshimaya Story" and the memory story "Imouto Manga Path." Would you like to start the story?
 
 ------------------------------------------
 ~~~~~~~~~~~~Start - Day 1
@@ -363,8 +365,8 @@ Shion House
 …ともあれ、過程はわかりませんが、あなたに助けられたようです。=...Anyway, I don't know how, but it seems you saved me.
 ほう、礼儀正しいのじゃな。=Oh, you're quite polite.
 <style\=RubyPrefixTag></style>\nほう、礼儀正しいのじゃな。=<style\=RubyPrefixTag></style>\nOh, you're quite polite.
-英国淑女ですので。ところで、この森にはキャンサーが居るのに、どうしてあなたは無事なんですか？=I'm a British lady. By the way, how do you stay safe \nin a forest with Cancer?
-<style\=RubyPrefixTag></style>\n英国淑女ですので。ところで、この森にはキャンサーが居\r\nるのに、どうしてあなたは無事なんですか？=<style\=RubyPrefixTag></style>\nI'm a British lady. By the way, how do you stay safe \nin a forest with Cancer?
+英国淑女ですので。ところで、この森にはキャンサーが居るのに、どうしてあなたは無事なんですか？=I'm a British lady. By the way, how do you stay safe \nin a forest infested with Cancer?
+<style\=RubyPrefixTag></style>\n英国淑女ですので。ところで、この森にはキャンサーが居\r\nるのに、どうしてあなたは無事なんですか？=<style\=RubyPrefixTag></style>\nI'm a British lady. By the way, how do you stay safe \nin a forest infested with Cancer?
 この小屋はドームの外壁を流用しておるからな。=This cabin uses the outer wall of the dome.
 （横流し…？　これはかなり問題では？）=(Misappropriation...? That's quite a problem, isn't it?)
 いえ、小屋の前にあなた自身のことです。森の中を普通に歩いていましたよね？=No, I mean when you are in front of the cabin. You were \njust walking through the forest, weren't you?
@@ -409,6 +411,7 @@ Shion House
 <style\=RubyPrefixTag></style>\n（真っ暗で何も見えません）=<style\=RubyPrefixTag></style>\n(It's pitch dark, I can't see anything)
 <style\=RubyPrefixTag></style>\nぷにぷに…=<style\=RubyPrefixTag></style>\nSquish...
 （あ…でも、ナービィ柔らかい）=(Ah... but Narvy is soft)
+なんの用じゃ。=What do you want?
 <style\=RubyPrefixTag></style>\nなんの用じゃ。=<style\=RubyPrefixTag></style>\nWhat do you want?
 ドーム住民=Dome Residents
 すみません…シオン様、子供の熱が下がらなくてどうしたらいいかわからなくて…。=Excuse me... Shion-sama, my child's fever won't go \ndown, and I don't know what to do...
@@ -460,7 +463,7 @@ Shion House
 <style\=RubyPrefixTag></style>\nえ？　わし…ら？=<style\=RubyPrefixTag></style>\nEh? Our?
 魔女…シオンさんと、そのナービィのことですか？=The witch... Shion-san, and that Narvy?
 <style\=RubyPrefixTag></style>\n魔女…シオンさんと、そのナービィのことですか？=<style\=RubyPrefixTag></style>\nThe witch... Shion-san, and that Narvy?
-そうじゃ。ワシは軍が嫌いじゃ。Yes. I hate the military.
+そうじゃ。ワシは軍が嫌いじゃ。=Yes. I hate the military.
 （やっぱり軍と何かしらの接点があるひとのようですね。嫌う理由は…この森にひとりで住んでいることと関係があるのでしょうか）=(She has some connection with the military. Her \nreason for hating them... might be related to living \nalone in this forest)
 …あたしの立場では、ここで見たことを報告する義務があります。=...I have a duty to report what I see.
 あなたにドーム住民の資格がないと言うのなら、その素性を明らかにしなければいけないですし、軍属でないのなら保護しなければいけません。=If you're not a dome resident, I need to disclose \nyour identity, and if you're not military, I have to \nprotect you.
@@ -653,7 +656,7 @@ Forest Exploration
 
 やはり可愛いですね、ルカ。=As I thought, Ruka is cute.
 利用できるものはなんでも利用するべきね。=We should use whatever we can.
-カリーの時間はまだですか…？Is it curry time yet...?
+カリーの時間はまだですか…？=Is it curry time yet...?
 役立ちそうなものが落ちています。\n拾っておきましょう。=There's something useful on the ground. \nLet's pick it up.
 マリアさんなら、\nきっと大丈夫…！=If it's Maria-san, \nshe'll be fine...!
 
@@ -903,7 +906,7 @@ Clock tower - Maria
 <style\=RubyPrefixTag></style>\nあ、確かに。そういやそうだった。=<style\=RubyPrefixTag></style>\nAh, that's true. Now that you mention it.
 そうなんです。アイリーンさんが関わると、連続殺人事件もそこでピタっと止まるんです。=Yes. Whenever Irene-san gets involved, the serial \nkillings stop right there.
 <style\=RubyPrefixTag></style>\nそうなんです。アイリーンさんが関わると、連続殺人事件\r\nもそこでピタっと止まるんです。=<style\=RubyPrefixTag></style>\nYes. Whenever Irene-san gets involved, the serial \nkillings stop right there.
-被害を増やすのは二流の探偵。名探偵は犯人の行動をも抑制するものです。=A second-rate detectives only increases the number \nof victims. A great detective can even suppress the criminal's actions.
+被害を増やすのは二流の探偵。名探偵は犯人の行動をも抑制するものです。=A second-rate detectives only increases the number \nof victims. A great detective can even suppress the \ncriminal's actions.
 とはいうものの、夜霧の鴉事件だけは…うまく出来ませんでしたね…。=However, in the Night fog Raven case... I couldn't \nhandle it well...
 <style\=RubyPrefixTag></style>\nとはいうものの、夜霧の鴉事件だけは…うまく出来ません\r\nでしたね…。=<style\=RubyPrefixTag></style>\nHowever, in the Night fog Raven case... I couldn't \nhandle it well...
 アイリーンさん…。=Irene-san...
@@ -964,7 +967,7 @@ Heli
 アイリーンさんは、ジェイミーさんとお話が出来ているようですね。=Irene-san, it seems you can communicate with Jamie-san.
 カラスは鳴き声の回数に意味を持たせて、仲間と連絡を取り合うんです。=Crows use the number of their cries to communicate \nwith their companions.
 <style\=RubyPrefixTag></style>\nカラスは鳴き声の回数に意味を持たせて、仲間と連絡を取\r\nり合うんです。=<style\=RubyPrefixTag></style>\nCrows use the number of their cries to communicate \nwith their companions.
-１回ならあいさつ。２回ならお腹が空いた、とか注意しろ。３回なら安全や位置報告、４回なら警戒みたいな感じで。=One cries means greetings. Two criess mean they're \nhungry or to be cautious. Three cries signal safety \nor location, and four cries indicate alertness.
+１回ならあいさつ。２回ならお腹が空いた、とか注意しろ。３回なら安全や位置報告、４回なら警戒みたいな感じで。=One cries means greetings. Two cries mean they're \nhungry or to be cautious. Three cries signal safety \nor location, and four cries indicate alertness.
 賢いのですね。=They're smart, aren't they?
 <style\=RubyPrefixTag></style>\n賢いのですね。=<style\=RubyPrefixTag></style>\nThey're smart, aren't they?
 はい。ジェイミーはこの名探偵の相棒ですので、特別賢いんです。えっへん。=Yes. Jamie is my partner, so she's especially smart. \nEh-hem.
@@ -990,7 +993,7 @@ Heli
 <style\=RubyPrefixTag></style>\nキャンサーだな。殺しに行くぞ！=<style\=RubyPrefixTag></style>\nIt's the Cancer. Let's go kill it!
 ま、待て！　もう少し目標を確認して…。=Wait! We need to confirm the target a bit more...
 先手イズビクトリー！=Strike first to victory!
-<style\=RubyPrefixTag></style>\nだから待てぇぇぇーーー！！　\nチームワークが悪いほうに\n相乗効果を及ぼしておるーー！=<style\=RubyPrefixTag></style>\nLike I said waaaiiitt!! Poor teamwork is having a \nnegative synergy effect!
+<style\=RubyPrefixTag></style>\nだから待てぇぇぇーーー！！　\nチームワークが悪いほうに\n相乗効果を及ぼしておるーー！=<style\=RubyPrefixTag></style>\nLike I said waaaiiitt!! Poor teamwork \nis having a negative synergy effect!
 今回はちゃんと皆さん同じ方向に飛び降りましたね。=This time, everyone jumped in the same direction.
 <style\=RubyPrefixTag></style>\n今回はちゃんと皆さん同じ方向に飛び降りましたね。=<style\=RubyPrefixTag></style>\nThis time, everyone jumped in the same direction.
 とはいえあの目標地点…本当にキャンサーだったら即戦闘。=But that target... if it's really the Cancer, we'll \nbe immediately went into combat.
@@ -1152,7 +1155,7 @@ Battle scene
 <style\=RubyPrefixTag></style>\n待ってください。アイリーンとマリアが見当たりません。\r\n=<style\=RubyPrefixTag></style>\nWait a moment. Irene and Maria are nowhere to be seen.\r\n
 戦闘ではぐれてしまいましたか…。=Did we get separated during the battle...?
 <style\=RubyPrefixTag></style>\n戦闘ではぐれてしまいましたか…。=<style\=RubyPrefixTag></style>\nDid we get separated during the battle...?
-くっ…巻き込まないように押し込みながら戦ったのがミステイクだったわね…。=Ugh... Fighting while trying not to involve them \nwas a fogake...
+くっ…巻き込まないように押し込みながら戦ったのがミステイクだったわね…。=Ugh... Fighting while trying not to involve them \nwas a mistake...
 キャンサーは後回しよ！　アイリーンとマリアを捜すわ！=Forget that Cancer for now! We're going to look for \nIrene and Maria!
 当然だ！=Of course!
 必ず見つけます。=We'll definitely find them. 
@@ -1197,7 +1200,7 @@ Irene and Maria
 神に仕えるシスターなので、あまり卑猥な対象にしないでくれますか。=She's a sister serving God, so could you not objectify \nher in such a lewd way?
 ふん、ただの妬みと僻みじゃ。あと、憎しみも少々。=Hmph, it's just envy and spite. And a bit of resentment.
 <style\=RubyPrefixTag></style>\nふん、ただの妬みと僻みじゃ。あと、憎しみも少々。=<style\=RubyPrefixTag></style>\nHmph, it's just envy and spite. And a bit of resentment.
-<style\=RubyPrefixTag></style>\n負の連鎖しかありませんよ！=<style\=RubyPrefixTag></style>\nIt's nothing but a vicious cycle of negativity!
+<style\=RubyPrefixTag></style>\n負の連鎖しかありませんよ！=<style\=RubyPrefixTag></style>\nIt's nothing but a vicious cycle of \nnegativity!
 まったく、軍はワシに迷惑しかかけぬのう。=Really, the military only ever causes me trouble.
 <style\=RubyPrefixTag></style>\nまったく、軍はワシに迷惑しかかけぬのう。=<style\=RubyPrefixTag></style>\nReally, the military only ever causes me trouble.
 でも、助けてくれました。あなたはとてもいいひとですね。=But you helped us. You're a very kind person.
@@ -1209,8 +1212,8 @@ Irene and Maria
 軍が嫌いなだけで、セラフ部隊が嫌いなわけではない。=I hate the military, not the Seraph unit specifically.
 <style\=RubyPrefixTag></style>\n軍が嫌いなだけで、セラフ部隊が嫌いなわけではない。=<style\=RubyPrefixTag></style>\nI hate the military, not the Seraph unit specifically.
 イコールじゃないですか…？　あたしは軍属ですよ？=Isn't that the same thing...? I'm with the military, \nyou know?
-ワシは真実を語る責任は負えん。過酷なれど、人類のためにセラフ部隊は必要じゃからな…。=I can't take responsibility for telling the truth. \nThe Seraph unit is necessary for humanity, despite the harshness...
-<style\=RubyPrefixTag></style>\nワシは真実を語る責任は負えん。過酷なれど、人類のため\r\nにセラフ部隊は必要じゃからな…。=<style\=RubyPrefixTag></style>\nI can't take responsibility for telling the truth. \nThe Seraph unit is necessary for humanity, despite the harshness...
+ワシは真実を語る責任は負えん。過酷なれど、人類のためにセラフ部隊は必要じゃからな…。=I can't take responsibility for telling the truth. \nThe Seraph unit is necessary for humanity, despite \nthe harshness...
+<style\=RubyPrefixTag></style>\nワシは真実を語る責任は負えん。過酷なれど、人類のため\r\nにセラフ部隊は必要じゃからな…。=<style\=RubyPrefixTag></style>\nI can't take responsibility for telling the truth. \nThe Seraph unit is necessary for humanity, despite \nthe harshness...
 …真実？　あたしは真実を明かす名探偵です。そう言われると気になってしまいますよ。=...The truth? I'm a detective who reveals the truth. \nHearing that makes me curious.
 真実と現実は別物じゃぞ。そしてその現実こそ虚構なのじゃ。=Truth and reality are separate things. Reality itself is \na fabrication...
 さて、ワシは薬草を採りに出る。その間にその赤い女を起こして出ていけ。=Now, I'm going to gather herbs. Wake that woman in \nred and leave.
@@ -1317,7 +1320,7 @@ Commander office - Day 2
 ええ。でも失敗は成功のマザー。霧の中での動き方も慣れてきたし次で仕留めるわ。=Yes. But failure is the mother of success. We're \ngetting used to moving in the fog, so we'll get \nit next time.
 アイリーンさん。あなたは何か気づいたことがあるのかしら。=Irene-san, did you notice anything?
 いえ、なので気づくためにもう少し情報が欲しいところです。=No, I need more information to deduce something.
-霞ケ浦ドームは、最近は哨戒されていなかったと仰っていましたが、過去には何かしらの作戦があったのではないでしょうか？=You mentioned the Kasumigaura Dome hasn't been p\natrolled recently, but wasn't there some operation \nthere in the past?
+霞ケ浦ドームは、最近は哨戒されていなかったと仰っていましたが、過去には何かしらの作戦があったのではないでしょうか？=You mentioned the Kasumigaura Dome hasn't been \npatrolled recently, but wasn't there some operation \nthere in the past?
 そうね、ドームを建設して間もない頃はキャンサーを退けるための作戦を展開したそうよ。=Yes, soon after the Dome was built, there was an \noperation to defend against Cancer.
 そのアクションレポートの閲覧、させていただけませんか。=May I see the action report from that operation?
 地形の情報などがわかれば、あの霧の中でもキャンサーの先手を取れるかもしれません。=If we have information about the terrain, we may be able \nto take the lead against Cancer even in that fog.
@@ -1539,7 +1542,7 @@ Isuzu Niina Play - Day 2
 <style\=RubyPrefixTag></style>\nああ、しっかりとな。=<style\=RubyPrefixTag></style>\nYes, thoroughly.
 盗んだのはママ…マザリン宝石商ですね。ちゃんと本物ですか？=You stole from Ma-ma... Mazarin Jewelers, right? \nAre they genuine?
 <style\=RubyPrefixTag></style>\n盗んだのはママ…マザリン宝石商ですね。ちゃんと本物で\r\nすか？=<style\=RubyPrefixTag></style>\nYou stole from Ma-ma... Mazarin Jewelers, right? \nAre they genuine?
-当たり前だ。オレが見間違えるはずないだろ。=Of course. I wouldn't fogake it.
+当たり前だ。オレが見間違えるはずないだろ。=Of course. I wouldn't mistake it.
 け…結構。そろそろヤードがこちらに来ます。逃げるなら東がいいですよ。=G-Good. The Yard will be here soon. If you're escaping, \nhead east.
 もともとそのつもりだ。=I planned to from the start.
 （ああ、懐かしくて…絶対に忘れてはいけない事件だ…）=(Ah, so nostalgic... it's an incident I must never \nforget...)
@@ -1819,15 +1822,15 @@ Heli - Day 3
 Shion - Day 3
 ------------------------------------------
 
-はぁはぁ…霧がなくては、森の中でこの白いローブは逆に目立ってしまうな…。キャンサーがここまで活発化しておったとは…。=Haa, Haa... Without the fog, this white robe \nstands out too much in the forest... I didn't expect the Cancer to be this active...
+はぁはぁ…霧がなくては、森の中でこの白いローブは逆に目立ってしまうな…。キャンサーがここまで活発化しておったとは…。=Haa, Haa... Without the fog, this white robe stands \nout too much in the forest... I didn't expect the \nCancer to be this active...
 女の子=Girl
 シオン様…ごめんなさい…わたしが来ちゃったせいで…。=Shion-sama... I'm sorry... It's because I came here...
 <style\=RubyPrefixTag></style>\nシオン様…ごめんなさい…わたしが来ちゃったせいで…。\r\n=<style\=RubyPrefixTag></style>\nShion-sama... I'm sorry... It's because I came here...\r\n
-大丈夫じゃ。お前のせいではない。ワシが必ずなんとかしてやる…。=It's okay. It's not your fault. I'll definitely do something...
+大丈夫じゃ。お前のせいではない。ワシが必ずなんとかしてやる…。=It's okay. It's not your fault. I'll definitely do \nsomething...
 くっ…！=Ugh...!
 <style\=RubyPrefixTag></style>\nシオンさんっ！！=<style\=RubyPrefixTag></style>\nShion-san!!
 <style\=RubyPrefixTag></style>\nバシュン！=<style\=RubyPrefixTag></style>\nBang!
-シオンさんっ！！Shion-san!!
+シオンさんっ！！=Shion-san!!
 セラフ部隊の探偵…？=Seraph unit's detective...?
 <style\=RubyPrefixTag></style>\nセラフ部隊の探偵…？=<style\=RubyPrefixTag></style>\nSeraph unit's detective...?
 大丈夫ですか！　すぐにキャンサーを殲滅します！=Are you alright!? We'll eliminate the Cancer right \naway!
@@ -1999,7 +2002,7 @@ Forest - Day 3
 <style\=RubyPrefixTag></style>\nぬおーーー！　また逃げられたぁーー！=<style\=RubyPrefixTag></style>\nNoooo! It got away again!
 うまく足止め出来ませんでした。=We couldn't stop it properly.
 <style\=RubyPrefixTag></style>\nうまく足止め出来ませんでした。=<style\=RubyPrefixTag></style>\nWe couldn't stop it properly.
-アイリーンさんが居ないと、牽制がうまく出来ませんね。=Without Irene-san, we can't restraint it effectively.'t have Irene, you won't be able to check well.
+アイリーンさんが居ないと、牽制がうまく出来ませんね。=Without Irene-san, we can't restraint it effectively.
 くそっ、調子が狂う。=Damn it, it's throwing me off.
 <style\=RubyPrefixTag></style>\nくそっ、調子が狂う。=<style\=RubyPrefixTag></style>\nDamn it, it's throwing me off.
 あの子は痒いところにハンドが届く行動をしてくれていたものね。=That girl used to take actions that perfectly \nfilled in the gaps.
@@ -2231,8 +2234,8 @@ Return to Base - Day 3
 シャロも内緒にしていました。=I also kept it a secret.
 黙っていました。=I kept quiet.
 <style\=RubyPrefixTag></style>\n黙っていました。=<style\=RubyPrefixTag></style>\nI kept quiet.
-ちょっと皆さん…え？　え？=Wait, everyone... Eh? Eh?\n picture?
-<style\=RubyPrefixTag></style>\nちょっと皆さん…え？　え？=<style\=RubyPrefixTag></style>\nWait, everyone... Eh? Eh?\n picture?
+ちょっと皆さん…え？　え？=Wait, everyone... Eh? Eh?
+<style\=RubyPrefixTag></style>\nちょっと皆さん…え？　え？=<style\=RubyPrefixTag></style>\nWait, everyone... Eh? Eh?
 討伐任務を完遂してくれたことには感謝します。けれど…。=I appreciate you completing the extermination \nmission. But...
 <style\=RubyPrefixTag></style>\n討伐任務を完遂してくれたことには感謝します。けれど…。\r\n=<style\=RubyPrefixTag></style>\nI appreciate you completing the extermination \nmission. But...\r\n
 仕方ないわね。=It can't be helped.
@@ -2540,3 +2543,41 @@ Night - Day 3
 <style\=RubyPrefixTag></style>\n真実を白日の下に晒す者。=<style\=RubyPrefixTag></style>\nThe one who brings the truth to light.
 名探偵です。=A great detective.
 
+------------------------------------------
+Extra line
+------------------------------------------
+いつものことだ。=It's the usual.
+<style=RubyPrefixTag></style>\nジェイミー=<style=RubyPrefixTag></style>\nJamie
+起こしたことを\nまだ根に持ってるー！？=Are you still holding a grudge for waking you \nup!?
+目にもの見せてやろうぞ。=I'll show you something.
+トータルサブト...=Total Subto...
+アッチャー。=Attack.
+上々の働きだ！=Good job!
+このまま畳み掛けるわ！=Let's keep up the attack!
+すごいです…。=Amazing...
+見せて貰いましょう！=Let's see it!
+<style=RubyPrefixTag></style>\nふふふ…珍しい…。=<style=RubyPrefixTag></style>\nHehehe... how rare...
+証明して見せましょう。=Let me prove it.
+己が武器を見定めよ！=Know your weapon!
+その攻撃は…嫌われている…。=That attack... is disliked...
+刻々と変わる戦況…\n計算し甲斐がありますね。=The ever-changing battlefield... it's worth \ncalculating.
+キャンサーを捜そう！=Let's search for the Cancer!
+謎には障壁がつきものです！=Mysteries always come with barriers!
+よい解です。=A good solution.
+いいですね！=Good!
+細工は流々。=Preparations are complete.
+残る謎はわずかです！=Only a few mysteries remain!
+参考に新たな法則を。=Refer to the new rule.
+銅鑼を鳴らせっ。=Sound the gong!
+やるわね！=Well done!
+より効率的に戦うなら\n行動予測に関する変数xを…。=To fight more efficiently, we need to consider \nthe variable x related to behavior prediction...
+頑張っている…。=You're doing great...
+<style=RubyPrefixTag></style>\n敵です…。=<style=RubyPrefixTag></style>\nEnemies...
+シャロにできることなんて…。=There's nothing Sharo can do...
+良い推理ですね！=Good deduction!
+わらわの読み通りだなっ。=Just as I thought.
+ご立派です。=Impressive.
+偃月の陣にて…勝機を取る！=Victory lies in the crescent moon formation!
+シオンさんっ！！=Shion-san!!
+策が浮かばぬが…征くしかない！=I can't think of a strategy, but we must go forward!
+よい法則です。=Good rule.
