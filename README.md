@@ -8,4 +8,4 @@ XUnity AutoTranslator uses Machine Translation to automatically translate japane
 2. Unzip the archive inside Heaven Burns Red game directory (SteamLibrary\steamapps\common\HeavenBurnsRed).
 3. Download the code as Zip and drag and drop the "translation" folder inside BepInEx folder.
 4. Start the game.
-5. (Optional) If you want to change the translator, you can press "ALT+0" to pop-up the UI and change the translator on the fly
+5. (Optional) If you want to change the translator, you can press "ALT+0" IN-GAME to pop-up XUnity.AutoTranslator's UI and change the translator on the fly
