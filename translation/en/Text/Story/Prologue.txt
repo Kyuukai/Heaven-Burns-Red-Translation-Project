@@ -332,8 +332,8 @@ Option - Too bad
 不適任。=Disqualified.
 <style\=RubyPrefixTag></style>\n不適任。=<style\=RubyPrefixTag></style>\nDisqualified.
 今から宿舎に行って自分の部屋と装備品を確認しておくように。=Now go to your dorm and make sure you have your room \nand supplies.
-役不足の使い方、恐らく間違ってるからな。=I'm pretty sure you are using the phrase "out of one's \ndepth" wrong.
-<style\=RubyPrefixTag></style>\n役不足の使い方、恐らく間違ってるからな。=<style\=RubyPrefixTag></style>\nI'm pretty sure you are using the phrase "out of one's \ndepth" wrong.
+役不足の使い方、恐らく間違ってるからな。=I'm pretty sure you are using the phrase "under \nchallenged" wrong.
+<style\=RubyPrefixTag></style>\n役不足の使い方、恐らく間違ってるからな。=<style\=RubyPrefixTag></style>\nI'm pretty sure you are using the phrase "under \nchallenged" wrong.
 やりなさい、茅森部隊長。=Do it, Captain Kayamori.
 <style\=RubyPrefixTag></style>\nやりなさい、茅森部隊長。=<style\=RubyPrefixTag></style>\nDo it, Captain Kayamori.
 えー。=Eeh.
@@ -342,7 +342,7 @@ Option - Too bad
 <style\=RubyPrefixTag></style>\nそもそも拒否権はない。=<style\=RubyPrefixTag></style>\nYou have no right to veto in the first place.
 駄目だしされたーー！！　超格好悪いーーーー！！=Instant rejection!! Super uncool!!
 <style\=RubyPrefixTag></style>\n駄目だしされたーー！！　超格好悪いーーーー！！=<style\=RubyPrefixTag></style>\nInstant rejection!! Super uncool!!
-んー、じゃあ、役不足ながら、部隊長を務めさせて頂くとするよ。=Hm... Well, I'm afraid I'll be out of my depth, but \nI'll be the captain.
+んー、じゃあ、役不足ながら、部隊長を務めさせて頂くとするよ。=Hm... Well, I'm afraid I'll be under challenged, \nbut I'll be the captain.
 それから電子軍人手帳は肌身離さず所持しておきなさい。=Also, keep your Electronic Military Notebook with \nyou at all times.
 
 -------------------------------
