@@ -1,0 +1,380 @@
+﻿作戦行動のPhase01訓練が開始。\n31Aはエミュレーターで再現された作戦地域に\n足を踏み入れる。=Phase 01 of the operation training has begun. \n31A steps into the mission area recreated in the emulator.
+復唱練習を始めます。私に続いて復唱してください。=We will start repetition practice. Please repeat \nafter me.
+<style\=RubyPrefixTag></style>\n復唱練習を始めます。私に続いて復唱してください。=<style\=RubyPrefixTag></style>\nWe will start repetition practice. Please repeat \nafter me.
+秩父周辺にキャンサー集団が出現。３１Ａはただちに急行してください。=A group of Cancer has appeared around Chichibu. \n31A, proceed there immediately.
+<style\=RubyPrefixTag></style>\n秩父周辺にキャンサー集団が出現。３１Ａはただちに急行\r\nしてください。=<style\=RubyPrefixTag></style>\nA group of Cancer has appeared around Chichibu. \n31A, proceed there immediately.
+<style\=RubyPrefixTag></style>\n秩父周辺に<cspace\=0.2em>31A</cspace>が出現\nキャンサーはただちに急行、了解しました=<style\=RubyPrefixTag></style>\n31A has appeared around Chichibu. \nCancer, proceed there immediately, copy that.
+<style\=RubyPrefixTag></style>\n秩父周辺にキャンサー集団が出現\n<cspace\=0.2em>31A</cspace>はただちに急行、了解しました=<style\=RubyPrefixTag></style>\nA group of Cancer has appeared around Chichibu. \n31A, proceed there immediately, copy that.
+<style\=RubyPrefixTag></style>\nこのあと、あたしが言うべき言葉は…=<style\=RubyPrefixTag></style>\nThe words I should say next are...
+
+---------------------------
+Option - 1
+---------------------------
+
+秩父周辺にキャンサー集団が出現。３１Ａはただちに急行、了解しました。=A group of Cancer has appeared around Chichibu. \n31A, proceed there immediately, copy that.
+<style\=RubyPrefixTag></style>\n秩父周辺にキャンサー集団が出現。３１Ａはただちに急行、\r\n了解しました。=<style\=RubyPrefixTag></style>\nA group of Cancer has appeared around Chichibu. \n31A, proceed there immediately, copy that.
+朝倉/和泉/逢川/東城/國見=Asakura/Izumi/Aikawa/Tojo/Kunimi
+その調子です。確実な復唱を心がけてください。=Good. Make sure to repeat accurately.
+<style\=RubyPrefixTag></style>\nその調子です。確実な復唱を心がけてください。=<style\=RubyPrefixTag></style>\nGood. Make sure to repeat accurately.
+案外奇跡的なことに思えてきた。=It seems like a miracle.
+今日からあなたたちには、作戦行動に特化した訓練を受けてもらうわ。=From today, you will undergo training specialized for \noperational actions.
+ふぅ…ついに、一番キツイところが終わったか…。=Phew... Finally, the toughest part is over...
+<style\=RubyPrefixTag></style>\nふぅ…ついに、一番キツイところが終わったか…。=<style\=RubyPrefixTag></style>\nPhew... Finally, the toughest part is over...
+ますますキツくなります。=It's going to get even tougher.
+<style\=RubyPrefixTag></style>\nますますキツくなります。=<style\=RubyPrefixTag></style>\nIt's going to get even tougher.
+<style\=RubyPrefixTag></style>\nえーーーーー！=<style\=RubyPrefixTag></style>\nEEEEEEEH!
+当然だろ…なんで楽になっていくんだよ。=Naturally... why would it get easier?
+楽器だって、一番大変なのってある程度弾けるようになるまでだよ！？=Even with musical instruments, the hardest part is \nuntil you can play decently, you know!?
+一緒にしないで。=Don't compare it to that.
+作戦行動は、フェーズと呼ぶ目的に合わせた行動の単位があるわ。=Operational actions are divided into parts called phases, \neach with specific objectives.
+押忍。=Gotcha.
+フェーズには、それぞれにあなたたちが達成する目標や行動手順が定められているの。=Each phase has defined goals and action procedures for \nyou to achieve.
+それをきちんと覚えて、過不足無く行動できるようにとの訓練ね。=The training is designed so you can remember and perform \nthese actions adequately.
+<style\=RubyPrefixTag></style>\nそれをきちんと覚えて、過不足無く行動できるようにとの\r\n訓練ね。=<style\=RubyPrefixTag></style>\nThe training is designed so you can remember and perform \nthese actions adequately.
+他のセラフ部隊も同じように動くから、あなたたちの行動が戦友の命に関わることを忘れないで。=Remember, other Seraph units will be moving similarly, \nand your actions can affect your comrades' lives.
+わかったよ。=Got it.
+よろしい、続けるわよ。フェーズごとに訓練期間が設けられているわ。=Good, let's continue. Each phase has a set training \nperiod.
+<style\=RubyPrefixTag></style>\nよろしい、続けるわよ。フェーズごとに訓練期間が設けら\r\nれているわ。=<style\=RubyPrefixTag></style>\nGood, let's continue. Each phase has a set training \nperiod.
+各フェーズ訓練には参加回数と内容それぞれに合格基準があるから、必ず全て参加するように。=Each phase training has its own criteria for the number \nof participations and the content to pass, so make \nsure to participate in all of them.
+<style\=RubyPrefixTag></style>\n各フェーズ訓練には参加回数と内容それぞれに合格基準が\r\nあるから、必ず全て参加するように。=<style\=RubyPrefixTag></style>\nEach phase training has its own criteria for the number \nof participations and the content to pass, so make \nsure to participate in all of them.
+どの訓練も合格ラインに達したら次に進めるわ。期間内にクリアするように。=You can proceed to the next training once you reach \nthe passing line. Aim to clear it within the period.
+やった！　ぎりぎりまで引っ張ろう！=Hooray! Let's drag it out till the very end!
+待て。不合格になったりしたらどうなる？=Wait. What happens if we fail?
+<style\=RubyPrefixTag></style>\n待て。不合格になったりしたらどうなる？=<style\=RubyPrefixTag></style>\nWait. What happens if we fail?
+成長の見込みなし、と判断し、除隊もありえます。=If judged to have no potential for growth, you may \nbe discharged.
+<style\=RubyPrefixTag></style>\n成長の見込みなし、と判断し、除隊もありえます。=<style\=RubyPrefixTag></style>\nIf judged to have no potential for growth, you may \nbe discharged.
+除隊！？=Discharged!?
+<style\=RubyPrefixTag></style>\n除隊！？=<style\=RubyPrefixTag></style>\nDischarged!?
+そんなことになったら私には帰る家がないのですが！！=If that happens, I have no home to return to!!
+<style\=RubyPrefixTag></style>\nそんなことになったら私には帰る家がないのですが！！=<style\=RubyPrefixTag></style>\nIf that happens, I have no home to return to!!
+そんなのわたしだってまずい…。=That would be bad for me too...
+真面目に取り組むべきね…。=We should take this seriously...
+<style\=RubyPrefixTag></style>\n真面目に取り組むべきね…。=<style\=RubyPrefixTag></style>\nWe should take this seriously...
+その通り。自由だからといって、時間を無駄にしないように。=That's right. Don't waste time just because you have \nfreedom.
+<style\=RubyPrefixTag></style>\nその通り。自由だからといって、時間を無駄にしないよう\r\nに。=<style\=RubyPrefixTag></style>\nThat's right. Don't waste time just because you have \nfreedom.
+一日のメニューは午前は引き続き座学、午後から作戦行動訓練になるわ。=Today's schedule is classes in the morning and operational \naction training in the afternoon.
+座学もまだあんのかよー。=There are still classes!?
+<style\=RubyPrefixTag></style>\n座学もまだあんのかよー。=<style\=RubyPrefixTag></style>\nThere are still classes!?
+午後の訓練はアリーナに集合するように。=Gather at the arena for the afternoon training.
+よろしくお願いします。訓練の詳細はその際にご説明します。=Pleased to work with you. I will explain the details \nof the training then.
+<style\=RubyPrefixTag></style>\nよろしくお願いします。訓練の詳細はその際にご説明しま\r\nす。=<style\=RubyPrefixTag></style>\nPleased to work with you. I will explain the details \nof the training then.
+以上よ。=That's all.
+
+---------------------------
+arena
+---------------------------
+
+さて、昼飯も食ったし訓練に行くか。=Now that I've had lunch, let's head to training.
+<style\=RubyPrefixTag></style>\nさて、昼飯も食ったし訓練に行くか。=<style\=RubyPrefixTag></style>\nNow that I've had lunch, let's head to training.
+確か、アリーナに集合だったよな。=I think we're supposed to gather at the arena.
+今日からまた訓練開始だね。早くいこ？=Training starts again today. Shall we hurry?
+<style\=RubyPrefixTag></style>\n今日からまた訓練開始だね。早くいこ？=<style\=RubyPrefixTag></style>\nTraining starts again today. Shall we hurry?
+アリーナへ行こう！=Let's go to the arena!
+タマ、昨日のはちゃうからな。\n勘違いすんなや。=Tama, what happened yesterday wasn't like that. \nDon't misunderstand.
+そう何度も否定されると、却って…。=The more you deny it, the more...
+おかしい…私はもっと艦長として\n尊敬を集めるべきなのに…。=It's strange... \nI should be more respected as the former captain...
+ユニークさではチームでも随一や。自信持ちぃ。=You're the most unique in the team. \nBe confident.
+みんな遅いわね。早くアリーナに入りましょう。=Everyone's late. Let's enter the arena quickly.
+いっそサボって午後の昼寝でも…いやいや、そんなことをするとまた司令官に怒られる！=Should I skip and take a nap this afternoon... \nNo, no, if I do that, the commander will get mad again!
+作戦はいくつかのフェーズに分かれていて、状況によって行動目的も変わっていくわ。ひとつずつ、着実にこなせるようになっていくように。=Operations are divided into several phases, with the \nobjectives changing according to the situation. You \nshould be able to handle each one steadily.
+<style\=RubyPrefixTag></style>\n作戦はいくつかのフェーズに分かれていて、状況によって\r\n行動目的も変わっていくわ。ひとつずつ、着実にこなせる\r\nようになっていくように。=<style\=RubyPrefixTag></style>\nOperations are divided into several phases, with the \nobjectives changing according to the situation. You \nshould be able to handle each one steadily.
+<style\=RubyPrefixTag></style>\n面倒そうだな…=<style\=RubyPrefixTag></style>\nThat sounds troublesome...
+
+---------------------------
+Option - Boo-ing
+---------------------------
+ブーイングしても無駄。=Boo-ing won't help.
+<style\=RubyPrefixTag></style>\nブーイングしても無駄。=<style\=RubyPrefixTag></style>\nBoo-ing won't help.
+やっぱひとりじゃ無理か…。=I guess doing it by myself won't do it...
+<style\=RubyPrefixTag></style>\nやっぱひとりじゃ無理か…。=<style\=RubyPrefixTag></style>\nI guess doing it by myself won't do it...
+でも今からでも遅くない！　ユッキー、一緒にブーイングしてくれ！　せーのー。=But it's not too late! Yukki, let's boo-ing together! \nReady, go.
+<style\=RubyPrefixTag></style>\nでも今からでも遅くない！　ユッキー、一緒にブーイング\r\nしてくれ！　せーのー。=<style\=RubyPrefixTag></style>\nBut it's not too late! Yukki, let's boo-ing together! \nReady, go.
+だからブーイングしても無駄。=I told you, boo-ing won't help.
+ユッキー、なんでやってくれない！？=Yukki, why won't you join in!?
+ちゃんと作戦の話は聞いておかなくちゃ、死ぬかもしれないからだ。=Because we might die if we don't listen to the mission \nbriefing.
+…ん？　本当だ！　よく考えるとその通りだ！=...Hm? You're right! Now that I think about it, that \nmakes sense!
+じゃ、みんなでいくぞ、せーのー。=Alright, everyone, together now. Ready, go.
+あーあ、またキレさせよったで…。=Aah, you made her snap again...
+作戦の目的は、神奈川県秦野市にある盆地を奪還すること。ここのキャンサーを殲滅させて盆地を制圧すれば、西へ進むルートを確保できるようになる。=The mission is to reclaim the basin in Hadano, Kanagawa \nPrefecture. By exterminating the Cancer there and securing \nthe basin, we'll be able to open a route to the west.
+<style\=RubyPrefixTag></style>\n作戦の目的は、神奈川県秦野市にある盆地を奪還すること。\r\nここのキャンサーを殲滅させて盆地を制圧すれば、西へ進\r\nむルートを確保できるようになる。=<style\=RubyPrefixTag></style>\nThe mission is to reclaim the basin in Hadano, Kanagawa \nPrefecture. By exterminating the Cancer there and securing \nthe basin, we'll be able to open a route to the west.
+今後の戦いを有利に運ぶためのきわめて重要な作戦なの。しっかり訓練して、本番に備えてちょうだい。=This is a crucial operation to gain an advantage in \nthe future battles. Train hard and prepare for the \nreal operation.
+<style\=RubyPrefixTag></style>\n今後の戦いを有利に運ぶためのきわめて重要な作戦なの。\r\nしっかり訓練して、本番に備えてちょうだい。=<style\=RubyPrefixTag></style>\nThis is a crucial operation to gain an advantage in \nthe future battles. Train hard and prepare for the \nreal operation.
+まずフェーズ１では、フェーズ２の作戦開始ポイントまでの行軍路確保。=In Phase 1, we secure the marching route to the \nstarting point of Phase 2.
+作戦開始地点は阿夫利神社に設定したわ。=The starting point of the operation is set at Afuri Shrine.
+そこまでの行軍は制圧地域内だから問題なく移動できるわ。=Marching to the shrine will be within conquered \nterritory, so there should be no problems.
+<style\=RubyPrefixTag></style>\nそこまでの行軍は制圧地域内だから問題なく移動できるわ。\r\n=<style\=RubyPrefixTag></style>\nMarching to the shrine will be within conquered \nterritory, so there should be no problems.\r\n
+阿夫利神社からポイントアルファのヤビツ峠までの距離は約２，０００ｍ。=The distance from Afuri Shrine to Point Alpha, \nYabitsu Pass, is approximately 2,000 meters.
+<style\=RubyPrefixTag></style>\n阿夫利神社からポイントアルファのヤビツ峠までの距離は\r\n約２，０００ｍ。=<style\=RubyPrefixTag></style>\nThe distance from Afuri Shrine to Point Alpha, \nYabitsu Pass, is approximately 2,000 meters.
+フェーズ１の最終到達地点であるポイントベータの菜の花台展望台までの距離は約２，１００ｍよ。=The distance to Point Beta, Nanohana-dai Observatory, \nwhich is the final destination of Phase 1, is about \n2,100 meters.
+あなたたちには、この区間を一気に侵攻して制圧してもらうわ。=You are to advance and secure this area all at once.
+<style\=RubyPrefixTag></style>\nあなたたちには、この区間を一気に侵攻して制圧してもら\r\nうわ。=<style\=RubyPrefixTag></style>\nYou are to advance and secure this area all at once.
+阿夫利神社以降は敵の勢力圏だけど、その後も作戦は続くから最低限の戦闘回数に抑えなさい。=Beyond Afuri Shrine is enemy territory, but the mission \nwill continue, so keep the number of battle to a minimum.
+あるふぁ？　べーた？　もうぜんぜん頭に入ってこねーよーーー！！=Alpha? Beta? I can't remember all this!!
+速度と火力を重視した戦闘になるから、まずはそれに合わせた戦い方を考えてみて。=The combat will focus on speed and firepower, so think \nabout how to fight accordingly.
+それと、どこからどこまでが戦闘範囲なのかを判断することも大事になるわ。無駄な消耗を避けるためにも、範囲のことは常に意識しておきなさい。=Also, knowing the boundaries of the combat area is \ncrucial. Always be aware of these boundaries to avoid \nunnecessary exhaustion.
+今日の訓練では、作戦の要所の一つ、阿夫利神社までの安全経路を確立することが目標よ。=Today's training goal is to establish a safe route to \nAfuri Shrine, a key point in the mission.
+大した長さではないから、まずは山道での戦闘に慣れることを意識して。=It's not a long distance, so focus on getting used to \ncombat in the mountains.
+ではエミュレーターで訓練を行います。=We will conduct training in the emulator.
+七瀬さん。=Nanase-san.
+では、訓練プログラムを開始します。いってらっしゃいませ。=Let's begin the training program. Good luck.
+<style\=RubyPrefixTag></style>\nでは、訓練プログラムを開始します。いってらっしゃいま\r\nせ。=<style\=RubyPrefixTag></style>\nLet's begin the training program. Good luck.
+
+---------------------------
+Simulation training
+---------------------------
+
+おー、山だ！　ハイキングにでも来た気分になるなあ。=Oh, it's a mountain! It feels like we're hiking.
+なんてこと言ってると司令官に怒られそうだな…ちゃんと訓練しなくちゃ。=Saying that might get the commander angry... I need \nto focus on training.
+<style\=RubyPrefixTag></style>\nなんてこと言ってると司令官に怒られそうだな…ちゃんと\r\n訓練しなくちゃ。=<style\=RubyPrefixTag></style>\nSaying that might get the commander angry... I need \nto focus on training.
+そこになんかありそうや。=Looks like there's something over there.
+もっと楽しい場所を\n投影すればいいのに！=They should simulate \na more fun place!
+同感や。あとで司令官に\n頼んでみいひん？=I agree. Let's ask \nthe commander later.
+<style\=RubyPrefixTag></style>\n敵ね！=<style\=RubyPrefixTag></style>\nEnemy sighted!
+なんとかなりそうや！=Looks easy!
+ワシの獲物が…！=My prey...!
+ここ、本当に\nアリーナの中かしら。=Is this really \ninside the arena?
+空間知覚をうまくハック\nしてるんだろうな…。=They've hacked our \nspatial perception well...
+<style\=RubyPrefixTag></style>\nやってやりましょう！！=<style\=RubyPrefixTag></style>\nLet's do this!!
+広いなあ。こんなん\n続くと疲れるわ。=It's vast. \nThis is tiring.
+あら、適度な運動は\nダイエットにも効果的よ。=Moderate exercise is \nalso good for dieting.
+なかなか本格的な\n演習だな。=This is quite \na serious drill.
+<style\=RubyPrefixTag></style>\n参ります！=<style\=RubyPrefixTag></style>\nLet's go!
+ぎぇぇ…！=GYEEE...!
+いけるかもしれない！=I think we can do this!
+ねえ、そこの隙間に\n何か落ちてるわ。=Hey, there's something dropped there.
+<style\=RubyPrefixTag></style>\n任せぇ！=<style\=RubyPrefixTag></style>\nLeave it to me!
+月歌。さっき通り過ぎたのが、司令官が言ってた阿夫利神社だ。=Ruka. We passed Afuri Shrine, the one commander mentioned.
+おー。じゃあ訓練はこれで終わりだな。=Ooh. So, this is the end of the training.
+ああ。お疲れ。=Yeah. Good job.
+<style\=RubyPrefixTag></style>\nああ。お疲れ。=<style\=RubyPrefixTag></style>\nYeah. Good job.
+経路確保完了！=Route secured!
+訓練成功！　帰るかー！=Training success! Let's head back!
+<style\=RubyPrefixTag></style>\n訓練成功！　帰るかー！=<style\=RubyPrefixTag></style>\nTraining success! Let's head back!
+エミュレーションお疲れ様でした。戦闘時間、掃討範囲は問題ありません。この調子で続けてください。=Good job on the emulation. No issues with combat time \nor sweep area. Keep up the good work.
+<style\=RubyPrefixTag></style>\nエミュレーションお疲れ様でした。戦闘時間、掃討範囲は\r\n問題ありません。この調子で続けてください。=<style\=RubyPrefixTag></style>\nGood job on the emulation. No issues with combat time \nor sweep area. Keep up the good work.
+
+---------------------------
+Free time
+---------------------------
+山脇=Yamawaki
+ねぇ、茅森=Hey, Kayamori
+…平穏だ。=...It's peaceful.
+
+---------------------------
+dinner
+---------------------------
+
+今日の夕飯はなにかなー。=What's for dinner today～?
+<style\=RubyPrefixTag></style>\n今日の夕飯はなにかなー。=<style\=RubyPrefixTag></style>\nWhat's for dinner today～?
+うまいもんやとええなあ。=Hope it's something delicious.
+ん？　スパイシーな香り…！=Hm? A spicy smell...!
+なにこれ！？　オシャレすぎてよくわからない！！=The heck is this!? It's too fancy for me to understand!!
+スープカレー。=It's soup curry.
+え、なに？　このさらさらなのがカレーなの？=Eh, what? This watery stuff is curry?
+<style\=RubyPrefixTag></style>\nえ、なに？　このさらさらなのがカレーなの？=<style\=RubyPrefixTag></style>\nEh, what? This watery stuff is curry?
+知らないのかよ…。=You don't know...?
+お肉は！？=What about the meat!?
+<style\=RubyPrefixTag></style>\nお肉は！？=<style\=RubyPrefixTag></style>\nWhat about the meat!?
+チキンが入ってるだろ…。=There's chicken in it...
+<style\=RubyPrefixTag></style>\nチキンが入ってるだろ…。=<style\=RubyPrefixTag></style>\nThere's chicken in it...
+助かった…！=Thank goodness...!
+どれだけ肉大好き人間なんだよ。=Just how much do you love meat?
+<style\=RubyPrefixTag></style>\nどれだけ肉大好き人間なんだよ。=<style\=RubyPrefixTag></style>\nJust how much do you love meat?
+お肉大好き芸人だもん。=I'm an entertainer who love meat more than anything.
+<style\=RubyPrefixTag></style>\nお肉大好き芸人だもん。=<style\=RubyPrefixTag></style>\nI'm an entertainer who love meat more than anything.
+アーティストだろ。=You're an artist.
+<style\=RubyPrefixTag></style>\nおっと、そうだ。\nナーーイスハッキーーーング！=<style\=RubyPrefixTag></style>\nOops, right. Niiiice hackiiiiiing!
+知識だわ。=It's just normal knowledge.
+うわ、なにこれ！　ちゃんとカレーの味がする！=Wow, what is this! It actually tastes like curry!
+カレーつってんだろ。=I told you it's curry.
+ごろごろ入ってる野菜が美味しい！！　嘘だ！！　野菜が美味しいだなんて！！=The vegetables in it are delicious!! No way!! Vegetables \nare delicious!?
+<style\=RubyPrefixTag></style>\nごろごろ入ってる野菜が美味しい！！　嘘だ！！　野菜が\r\n美味しいだなんて！！=<style\=RubyPrefixTag></style>\nThe vegetables in it are delicious!! No way!! Vegetables \nare delicious!?
+気付けてよかったな。=Good that you realized.
+でもやっぱお肉が一番美味しい！=But meat is still the best!
+<style\=RubyPrefixTag></style>\nでもやっぱお肉が一番美味しい！=<style\=RubyPrefixTag></style>\nBut meat is still the best!
+訓練受けるペースもうちら次第になったんはええけど、どないしてくん？=It's good that we can pace our training, but how do \nwe proceed from here?
+<style\=RubyPrefixTag></style>\n訓練受けるペースもうちら次第になったんはええけど、ど\r\nないしてくん？=<style\=RubyPrefixTag></style>\nIt's good that we can pace our training, but how do \nwe proceed from here?
+そうですね！=Yes!
+それは月歌の方針を聞いておきたいところだ。=I'd like to hear Ruka's plan here.
+どうするの…？=What should we do...?
+司令官に無理です！と頭を下げよう=Let's bow our heads and say it's impossible to the commander
+見て見ぬフリをしよう=Let's pretend we didn't see anything
+クリアしていこう=Let's clear it
+羊の毛刈りのように=Like shearing sheep
+豪快に=Boldly
+出来る限り早く=As quickly as possible
+これからの方針は…=Our plan after this is...
+
+---------------------------
+Option - clear asap
+---------------------------
+出来る限り早くクリアしていこう。=Let's clear it as quickly as possible.
+<style\=RubyPrefixTag></style>\n出来る限り早くクリアしていこう。=<style\=RubyPrefixTag></style>\nLet's clear it as quickly as possible.
+おお…！！=Ooh...!!
+意外やな…。=That's surprising...
+<style\=RubyPrefixTag></style>\n意外やな…。=<style\=RubyPrefixTag></style>\nThat's surprising...
+月歌からそんなまともな言葉が聞けるとはな…。=To think that we can hear something sensible from \nRuka...
+<style\=RubyPrefixTag></style>\n月歌からそんなまともな言葉が聞けるとはな…。=<style\=RubyPrefixTag></style>\nTo think that we can hear something sensible from \nRuka...
+なんだと思われてるんだよ…。=What do you think of me...
+<style\=RubyPrefixTag></style>\nなんだと思われてるんだよ…。=<style\=RubyPrefixTag></style>\nWhat do you think of me...
+普段からヘンなんだもん。=You're usually weird after all.
+かれりんにまでぇ…でも、今日も可愛いよ？=Even Karerin...? But you look cute today too.
+<style\=RubyPrefixTag></style>\nかれりんにまでぇ…でも、今日も可愛いよ？=<style\=RubyPrefixTag></style>\nEven Karerin...? But you look cute today too.
+早よクリアしていくに越したことはないやろ。=Clearing it quickly is definitely the best.
+そうですね！　なにかご褒美がもらえるかもしれませんし！！=Yes! We might get a reward!
+出世して中枢部に潜り込む近道になるかもしれないし。=It could be a shortcut to promotion into the central \ncommand.
+<style\=RubyPrefixTag></style>\n出世して中枢部に潜り込む近道になるかもしれないし。=<style\=RubyPrefixTag></style>\nIt could be a shortcut to promotion into the central \ncommand.
+だったら頑張らないと。=Then, we have to work hard for that.
+<style\=RubyPrefixTag></style>\nだったら頑張らないと。=<style\=RubyPrefixTag></style>\nThen, we have to work hard for that.
+でも、座学もあるんだろう？　なんだか学生時代を思い出しちゃう。=But we still have classes, right? Reminds me of school \ndays.
+苦労した思い出でもあるのか？=Do you have bad memories from it?
+<style\=RubyPrefixTag></style>\n苦労した思い出でもあるのか？=<style\=RubyPrefixTag></style>\nDo you have bad memories from it?
+勉強なんて意味ないじゃん？=Isn't studying meaningless?
+あるわ。=It is not.
+仕舞いにはギター弾いて暇潰してたよ。=I used to kill time playing guitar.
+クラスメイト大迷惑だわ。=You must have been a big nuisance to your classmates.
+そこはちゃんと空気を読んで、ボサノバにしてたよ。=I read the room and played Bossa Nova.
+<style\=RubyPrefixTag></style>\nそこはちゃんと空気を読んで、ボサノバにしてたよ。=<style\=RubyPrefixTag></style>\nI read the room and played Bossa Nova.
+なんで授業中のＢＧＭがボサノバだと空気読んでることになんだよ…。=How does playing Bossa Nova during class show you \nread the room...?
+それに訓練ばかりじゃなく、<cspace\=0.2em>She</cspace> <cspace\=0.2em>is</cspace> <cspace\=0.2em>Legend</cspace>の活動も忘れてくれるなよ？=And don't forget about She is Legend's activities \nbesides training.
+<style\=RubyPrefixTag></style>\nそれに訓練ばかりじゃなく、<cspace\=0.2em>She</cspace> <cspace\=0.2em>is</cspace> <cspace\=0.2em>Legend</cspace>の活動も忘\r\nれてくれるなよ？=<style\=RubyPrefixTag></style>\nAnd don't forget about She is Legend's activities \nbesides training.
+忘れさせろよ。=Let us forget about it.
+なんでだよ！？　気持ちよかったろ！？　お客も喜んでくれてたじゃん！！=Why!? The audience enjoyed it, right!?
+<style\=RubyPrefixTag></style>\nなんでだよ！？　気持ちよかったろ！？　お客も喜んでく\r\nれてたじゃん！！=<style\=RubyPrefixTag></style>\nWhy!? The audience enjoyed it, right!?
+そんなことにかまけててもいいのかぁ…？=Can we afford to be distracted by that...?
+<style\=RubyPrefixTag></style>\nそんなことにかまけててもいいのかぁ…？=<style\=RubyPrefixTag></style>\nCan we afford to be distracted by that...?
+でもあの感覚はかつて味わったことのなかったものだった…。=But that experience was something I'd never felt before...
+うん、緊張したけど、すごく楽しかった。=Yeah, I was nervous but it was really fun.
+どっちもやったりましょう！！=Let's do both!!
+<style\=RubyPrefixTag></style>\nどっちもやったりましょう！！=<style\=RubyPrefixTag></style>\nLet's do both!!
+しゃあないやっちゃなぁ。=Can't be helped.
+<style\=RubyPrefixTag></style>\nしゃあないやっちゃなぁ。=<style\=RubyPrefixTag></style>\nCan't be helped.
+いいのか、そんなんで…。=Is that really okay...?
+<style\=RubyPrefixTag></style>\n『オペレーション・プレアデス』決行まで あと２０日=<style\=RubyPrefixTag></style>\n[Operation Pleiades] execution in 20 days
+
+---------------------------
+Extra line option - 2
+---------------------------
+秩父周辺に３１Ａが出現。キャンサーはただちに急行、了解しました。=31A appeared around Chichibu. Cancer, proceed immediately, \ncopy that.
+それでは皆さんがキャンサーです。=Then, you all are Cancer.
+ほんとだわ。恥ずかしい復唱させるな。=That's true. Don't make us repeat embarrassing things.
+ではもう一度正しく。=Now, let's do it correctly.
+次の作戦は規模が大きい…心して訓練に臨まなきゃだな。=The next mission is a large scale mission... we need \nto be serious about training.
+
+---------------------------
+Option - understood
+---------------------------
+また口先だけなんでしょ？　わかってるわ。=You're just all talk again, aren't you? I know it.
+そんなことありません！　心を入れ替えてきました！！=Not at all! I've a change of heart!!
+あら。期待してるわ。=Oh my. I'm looking forward to it.
+相変わらず光の速さで馬脚を現すんだな…。=Again, you're quick to reveal your true colors...
+もはや期待するほうが馬鹿だと思っています。=Expecting anything is foolish at this point.
+忍びねーわ。=I have no words.
+<style\=RubyPrefixTag></style>\n忍びねーわ。=<style\=RubyPrefixTag></style>\nI have no words.
+
+---------------------------
+Option - turn a blind eye asap
+---------------------------
+出来る限り早く見て見ぬフリをしよう。=Let's pretend we didn't see anything as quickly as \npossible.
+<style\=RubyPrefixTag></style>\n出来る限り早く見て見ぬフリをしよう。=<style\=RubyPrefixTag></style>\nLet's pretend we didn't see anything as quickly as \npossible.
+除隊になるわ。=That would get us discharged.
+<style\=RubyPrefixTag></style>\n除隊になるわ。=<style\=RubyPrefixTag></style>\nThat would get us discharged.
+うそ…。=No way...
+要は訓練を受けないってことだろ？=That means not doing the training, right?
+あんまり大変なことには目を向けたくないっていうか…。=I just don't want to face anything too difficult...
+同じだわ。=Same here.
+<style\=RubyPrefixTag></style>\n同じだわ。=<style\=RubyPrefixTag></style>\nSame here.
+やだやだー！　訓練きついだもんーーー！！=Don't wanna! The training is too tough!!
+<style\=RubyPrefixTag></style>\nやだやだー！　訓練きついだもんーーー！！=<style\=RubyPrefixTag></style>\nDon't wanna! The training is too tough!!
+ひでー隊長だな…。=What a terrible captain...
+それでもサポートするのがユキさんよね？=But supporting her is Yukki-san's job, right?
+こんな奴の！？=Support her!?
+心の底では信じてるって知ってる。=Deep down, I know you believe in her.
+<style\=RubyPrefixTag></style>\n心の底では信じてるって知ってる。=<style\=RubyPrefixTag></style>\nDeep down, I know you believe in her.
+いや、なかなかひでーよ、今の発言？=No, that last comment was terrible, you know?
+
+---------------------------
+Option - bow down to the commander asap
+---------------------------
+出来る限り早く司令官に無理です！と頭を下げよう。=Let's quickly bow our heads and say it's impossible \nto the commander.
+なんでやねん！　うちら斬り込み隊やで！？=Why!? We're the assault unit, ya know!?
+よかった…ちゃんとツッコんでくれる仲間がいた…。=I'm glad... There's someone here to give proper \nretorts...
+えーー、だって、訓練きついだもんー。=Eeeh, but the training is tough.
+<style\=RubyPrefixTag></style>\nえーー、だって、訓練きついだもんー。=<style\=RubyPrefixTag></style>\nEeeh, but the training is tough.
+大丈夫。月歌さん率いる３１Ａならやれる。=It's okay. With Ruka-san leading 31A, we can do it.
+<style\=RubyPrefixTag></style>\n大丈夫。月歌さん率いる３１Ａならやれる。=<style\=RubyPrefixTag></style>\nIt's okay. With Ruka-san leading 31A, we can do it.
+特に率いられた覚えはないがな。=I don't remember ever being led by her.
+<style\=RubyPrefixTag></style>\n特に率いられた覚えはないがな。=<style\=RubyPrefixTag></style>\nI don't remember ever being led by her.
+そう？　じゃ、やってみるぅ？=Really? Then, shall we try?
+
+---------------------------
+Option - boldly clear
+---------------------------
+豪快にクリアしていこう。=Let's boldly clear it.
+<style\=RubyPrefixTag></style>\n豪快にクリアしていこう。=<style\=RubyPrefixTag></style>\nLet's boldly clear it.
+そこまでの余裕を見せつける意味がないだろ。=There's no need to show off that much.
+なんでさ。やっぱ斬り込み隊は違うなー！別格だなー！って見せつけていこうよ？=Why not? Let's show them that the assault unit is \ndifferent! That we're special!
+<style\=RubyPrefixTag></style>\nなんでさ。やっぱ斬り込み隊は違うなー！別格だなー！っ\r\nて見せつけていこうよ？=<style\=RubyPrefixTag></style>\nWhy not? Let's show them that the assault unit is \ndifferent! That we're special!
+必要以上に疲れたら、作戦に支障出る。=If we get too tired, it'll affect the mission.
+確かに。ほんとうだね。まったくその通りだ。=You're right. That's absolutely right.
+なんであたしの言葉は素直に聞かずに、朝倉のは聞くんだよ…。=Why do you not listen to me, but you listen to Asakura...?
+嫉妬や…。=That's jealousy...
+そうですね…！！=Indeed...!!
+
+---------------------------
+Option - boldly turn a blind eye
+---------------------------
+豪快に見て見ぬフリをしよう。=Let's boldly pretend we didn't see anything.
+<style\=RubyPrefixTag></style>\n豪快に見て見ぬフリをしよう。=<style\=RubyPrefixTag></style>\nLet's boldly pretend we didn't see anything.
+豪快過ぎるわ。=That's too bold.
+<style\=RubyPrefixTag></style>\n豪快過ぎるわ。=<style\=RubyPrefixTag></style>\nThat's too bold.
+じゃ、そっと閉じるように見て見ぬフリをしよう。=Then let's quietly pretend we didn't see anything.
+あんまりどころか、完全に拒否じゃねーか。=That's not just a little bit, that's complete rejection.
+<style\=RubyPrefixTag></style>\nあんまりどころか、完全に拒否じゃねーか。=<style\=RubyPrefixTag></style>\nThat's not just a little bit, that's complete rejection.
+だって訓練きついだもんーーー！！=But the training is tough!!
+
+---------------------------
+Option - boldly bow down to commander
+---------------------------
+豪快に司令官に無理です！と頭を下げよう。=Let's boldly bow to the commander and say it's \nimpossible!
+<style\=RubyPrefixTag></style>\n豪快に司令官に無理です！と頭を下げよう。=<style\=RubyPrefixTag></style>\nLet's boldly bow to the commander and say it's \nimpossible!
+豪快過ぎるわ。どんなところで豪快なんだよ。=That's too bold. That's being bold in different meaning.
+<style\=RubyPrefixTag></style>\n豪快過ぎるわ。どんなところで豪快なんだよ。=<style\=RubyPrefixTag></style>\nThat's too bold. That's being bold in different meaning.
+
+---------------------------
+Option - Clear it just like a sheep's wool 
+---------------------------
+羊の毛刈りのようにクリアしていこう。=Let's clear the way like shearing a sheep.
+<style\=RubyPrefixTag></style>\n羊の毛刈りのようにクリアしていこう。=<style\=RubyPrefixTag></style>\nLet's clear the way like shearing a sheep.
+例えがぴんと来ないわ。=That analogy doesn't make sense.
+テンポよくなのか、じっくり腰を据えてなのか、さっぱりわからんわ。=Is it quick and rhythmic, or is it slow and steady? \nI have no idea.
+その間ぐらいじゃん。=Somewhere in between, I guess.
+テンポよくと、じっくり腰を据えての間か…堅実に…ぐらいか。=Somewhere between quick and rhythmic and slow and \nsteady... so, solidly, maybe?
+なにそのぴんと来ない言葉。=What kind of unclear phrase is that?
+<style\=RubyPrefixTag></style>\nなにそのぴんと来ない言葉。=<style\=RubyPrefixTag></style>\nWhat kind of unclear phrase is that?
+羊の毛刈りのようによりはマシだわ。=It's better than "like shearing a sheep."
+<style\=RubyPrefixTag></style>\n羊の毛刈りのようによりはマシだわ。=<style\=RubyPrefixTag></style>\nIt's better than "like shearing a sheep."
+まー、どっちもどっちですかね！=Well, both are pretty much the same!
+嘘だろ、おい…。=No way, seriously...?
+
+---------------------------
+Option - Turn a blind eye just like a sheep's wool 
+---------------------------
+羊の毛刈りのように見て見ぬフリをしよう。=Let's pretend we didn't see anything like shearing \na sheep.
+そうそう。=Yep, yep.
+<style\=RubyPrefixTag></style>\n堅実に見ないフリーー！？=<style\=RubyPrefixTag></style>\nSteadily pretending not to see!?
+なんだよ、急に大声だして。=Why are you shouting all of a sudden?
+<style\=RubyPrefixTag></style>\nなんだよ、急に大声だして。=<style\=RubyPrefixTag></style>\nWhy are you shouting all of a sudden?
+訓練を受けないってことか！？=Does that mean we're not going to do the training!?
+うん。訓練きついんだもんーーー！！=Yep. The training is tough after all!!
+
+---------------------------
+Option - Bow down to the commander just like a sheep's wool 
+---------------------------
+羊の毛刈りのように司令官に無理です！と頭を下げよう。=Let's boldly bow to the commander and say it's impossible, \nlike shearing a sheep.
+ツッコみどころ満載すぎるわ。=That's full of things to comment on.
+え？　結構平たく言ったよ？=Eh? I put it plainly, though?
+<style\=RubyPrefixTag></style>\nえ？　結構平たく言ったよ？=<style\=RubyPrefixTag></style>\nEh? I put it plainly, though?
+羊の毛刈りのようにって例えはよくわからんが、無理ですって頭を下げるって、訓練を放棄するってのか。=I don't understand the analogy of "like shearing a sheep," \nbut bowing and saying it's impossible means you're \nabandoning the training?
+
+そうですね！　海ではなかなかに限定された食生活でしたし！=I agree! It was a very limited diet in the sea!
