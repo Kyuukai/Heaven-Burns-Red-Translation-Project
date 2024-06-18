@@ -1,4 +1,6 @@
 ﻿<style\=RubyPrefixTag></style>\n予期しないエラーが発生しました。タイトル画面へ戻ります。=<style\=RubyPrefixTag></style>\nAn unexpected error has occurred. Return to the title screen
+<style\=RubyPrefixTag></style>\nエラーが発生しました：P17214=<style\=RubyPrefixTag></style>\nError Occurred: P17214
+<style\=RubyPrefixTag></style>\n通信エラーが発生しました。タイトル画面へ戻ります。\nタイトルメニューの「セーブデータ修復」を行うと\n改善される可能性があります。\nエラーコード：D36=<style\=RubyPrefixTag></style>\nCommunication error occurred. Returning to title screen. Performing "Save Data Repair" from the title menu might improve the situation. Error Code: D36
 ----
 <style\=RubyPrefixTag></style>\n112MBのアセット更新が必要です。\nダウンロードを開始しますか？=<style\=RubyPrefixTag></style>\nYou need to update 112MB of assets. Would you like to start downloading?
 <style\=RubyPrefixTag></style>\n135MBのアセット更新が必要です。\nダウンロードを開始しますか？=<style\=RubyPrefixTag></style>\nYou need to update 135MB of assets. Would you like to start downloading?
