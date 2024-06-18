@@ -37,7 +37,7 @@ S以上1体確定=<size\=95%>1 S-Rank or higher guaranteed</size>
 -----------------------
 新スタイル登場=New Styles!
 --------------------
-
+ステップアップ開催中=Step-Up Now!
 SS1体確定=1 SS Confirmed
 SS確定ガチャのカケラ(イベント応援)×10枚で\nSSスタイルが1体確定で出現！=With 10 Guaranteed SS pieces (Event Support), \n1 SS Style will be guaranteed !
 SS確定ガチャのカケラ×10枚で\nSSスタイルが1体確定で出現！\n※毎月1日 4:00に更新されます=With 10 Guaranteed SS pieces \n1 SS Style will be guaranteed !\n* Updated at 4:00 on the 1st every month
