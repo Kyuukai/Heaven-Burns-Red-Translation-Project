@@ -5,30 +5,6 @@
 <style\=RubyPrefixTag></style>\n445MBのアセット更新が必要です。\nダウンロードを開始しますか？=<style\=RubyPrefixTag></style>\n445MB of asset updates are required. Would you like to start downloading?
 
 -----
-データ同期中 0 / 1=Data synchronization in progress 0 / 1
-データ同期中 1 / 1=Data synchronization in progress 1 / 1
-データ同期中 1 / 22=Data synchronization in progress 1 / 22
-データ同期中 2 / 22=Data synchronization in progress 2 / 22
-データ同期中 3 / 22=Data synchronization in progress 3 / 22
-データ同期中 4 / 22=Data synchronization in progress 4 / 22
-データ同期中 5 / 22=Data synchronization in progress 5 / 22
-データ同期中 6 / 22=Data synchronization in progress 6 / 22
-データ同期中 7 / 22=Data synchronization in progress 7 / 22
-データ同期中 8 / 22=Data synchronization in progress 8 / 22
-データ同期中 9 / 22=Data synchronization in progress 9 / 22
-データ同期中 10 / 22=Data synchronization in progress 10 / 22
-データ同期中 11 / 22=Data synchronization in progress 11 / 22
-データ同期中 12 / 22=Data synchronization in progress 12 / 22
-データ同期中 13 / 22=Data synchronization in progress 13 / 22
-データ同期中 14 / 22=Data synchronization in progress 14 / 22
-データ同期中 15 / 22=Data synchronization in progress 15 / 22
-データ同期中 16 / 22=Data synchronization in progress 16 / 22
-データ同期中 17 / 22=Data synchronization in progress 17 / 22
-データ同期中 18 / 22=Data synchronization in progress 18 / 22
-データ同期中 19 / 22=Data synchronization in progress 19 / 22
-データ同期中 20 / 22=Data synchronization in progress 20 / 22
-データ同期中 21 / 22=Data synchronization in progress 21 / 22
---------
 まとめてDL=Collective DL
 分割DL=Split DL
 「分割DL」の場合は各Dayごとに、「まとめてDL」の場合は各章ごとに\nダウンロードを実行します。=In the case of "Split DL", the download is executed for each Day, and in the case of "Collective DL", the download is executed for each chapter.
