@@ -386,8 +386,8 @@ Option - prodigy
 ------------------------------
 お前は何の天才なんだ？=What kind of prodigy are you?
 天才？=Prodigy?
-どないな才能に恵まれとるんかってことや。=What kind of talent are ya blessed with?
-<style\=RubyPrefixTag></style>\nどないな才能に恵まれとるんかってことや。=<style\=RubyPrefixTag></style>\nWhat kind of talent are ya blessed with?
+どないな才能に恵まれとるんかってことや。=It means what kind of talent are ya blessed with.
+<style\=RubyPrefixTag></style>\nどないな才能に恵まれとるんかってことや。=<style\=RubyPrefixTag></style>\nIt means what kind of talent are ya blessed with.
 才能、ですか…。=Talent, huh...
 強いていうなら、テストで１００点以外を取らない才能ですかね。=If I had to say, it's the talent of never scoring \nless than 100 points on a test.
 <style\=RubyPrefixTag></style>\n強いていうなら、テストで１００点以外を取らない才能で\r\nすかね。=<style\=RubyPrefixTag></style>\nIf I had to say, it's the talent of never scoring \nless than 100 points on a test.
