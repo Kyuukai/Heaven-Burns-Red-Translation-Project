@@ -297,6 +297,8 @@ Names:
 [國見 タマ]=[Tama Kunimi]
 
 <style\=RubyPrefixTag></style>\n國見<space\=-73.637px><voffset\=1em><size\=50%><cspace\=0px>くにみ</cspace></size></voffset><space\=8.549002px><style\=RubySuffixTag></style> タマ<space\=-42.187px><voffset\=1em><size\=50%><cspace\=0px></cspace></size></voffset><space\=39.999px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nTama Kunimi
+
+<style\=RubyPrefixTag></style>\n國見<space\=-96.01px><voffset\=1em><size\=40%><cspace\=0px>くにみ</cspace></size></voffset><space\=24px><style\=RubySuffixTag></style> タマ<space\=-60.01px><voffset\=1em><size\=40%><cspace\=0px></cspace></size></voffset><space\=60px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nKunimi<space\=24px><style\=RubySuffixTag></style> Tama<space\=-60.01px><voffset\=1em><size\=40%><cspace\=0px></cspace></size></voffset><space\=60px><style\=RubySuffixTag></style>
 --------------------
 東城 つかさ=<size\=86%>Tsukasa Toujo</size>
 東城つかさ=Tsukasa Toujo

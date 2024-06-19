@@ -543,7 +543,6 @@ UI非表示=Hide UI
 …茅森さん。ちょっと基地で調べたいことがありますので戻りましょう。=...Kayamori-san. There's something I want to check\nat the base, so let's go back.
 こじゅ、大丈夫か？=Koju, are you okay?
 <style\=RubyPrefixTag></style>\nこじゅ、大丈夫か？=<style\=RubyPrefixTag></style>\nKoju, are you okay?
-<style\=RubyPrefixTag></style>\n國見<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>くにみ</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style> タマ<space\=-78.00999px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=77.99999px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nKunimi<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>Kunimi</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style> Tama<space\=-78.00999px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=77.99999px><style\=RubySuffixTag></style>
 は、はい。祠から離れたせいか、少し楽になりました。=Y-yes. I feel a bit better since we moved away\nfrom the shrine.
 <style\=RubyPrefixTag></style>\nは、はい。祠から離れたせいか、少し楽になりました。=<style\=RubyPrefixTag></style>\nY-yes. I feel a bit better since we moved away\nfrom the shrine.
 それはよかった。それで調べたいことって？=That's good to hear. So, what do you want to\ncheck?
