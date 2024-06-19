@@ -1,9 +1,0 @@
-Birthplace
-----------
-長崎=Nagasaki
-東京=Tokyo
-大阪=Osaka
-神奈川=Kanagawa
-新潟=Niigata
-栃木=Tochigi
-埼玉=Saitama

@@ -6,7 +6,10 @@
 [Character Menu]
 プロフィール=Profile
 ボイス=Voice
-身長=Body Height
+身長=Height
+所属部隊=Unit
+誕生日=Birthday
+出身地=Birthplace
 
 [Voice]
 解放数　14/14=Unlocked 14/14
@@ -24,3 +27,13 @@ HPダメージボイス=HP Damage Voice
 ライブ クリア時ボイス=Live Clear Voice
 ライブ フルコンボ達成時ボイス=Live Full Combo Voice
 ライブ 失敗時ボイス=Live Fail Voice
+
+[Birthplace]
+長崎=Nagasaki
+東京=Tokyo
+大阪=Osaka
+神奈川=Kanagawa
+新潟=Niigata
+栃木=Tochigi
+埼玉=Saitama
+福岡=Fukuoka
