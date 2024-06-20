@@ -48,6 +48,29 @@ UI非表示=Hide UI
 部隊名編集=Edit unit name
 部隊切り替え=Switch units
 対HPスキル攻撃力上昇=Increase in skill attack power against HP
+所持上限を超えたミッション報酬 =Mission Reward Exceeding the Possession Limit
+恒星掃戦線クリア報酬 =Stellar Sweep Line Clear Reward
+キャンペーン中！=During the campaign!
+熟練度アップ中！=Proficiency up!
+報酬pt=Reward pt.
+個数はバトル100回時の期待値です。=The quantity is the expected value for 100 battles.
+合計報酬pt=Total Reward pt.
+報酬ptが上限を超過しています。=Reward pt. have exceeded the limit.
+Next 第五章 前編クリア=Next: Chapter 5, Part 1 Clear
+前回クリア推奨戦力=Recommended battle power for previous clear
+第二章Day25=Chapter 2, Day 25
+更新まであと11日=11 days until the update
+あと 0分=0 minutes left
+あと 12665分=12665 minutes left
+ まで=Until
+いらっしゃいませ！=Welcome!
+残り2147483647回=Remaining 2147483647 times
+討伐報酬=Subjugation Reward
+必要ライフ=Required Life
+プレビュー中=Previewing
+あと 11600分=11600 minutes left
+0月0日まで！=Until 0 Month 0 Day!
+チケット使用期限 : =Ticket Usage Deadline: 
 
 [Prologue]
 
