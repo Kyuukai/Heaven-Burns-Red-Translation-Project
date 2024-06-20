@@ -135,6 +135,24 @@ HP攻撃に特化して デザインされている\n力 +49 /  器用さ +11=In
 テストの点が良くなりそうだ\n知性 +12=Wisdom +12
 テストの点が良くなりそうだ\n知性 +15=Wisdom +15
 
+[宙の探究、星の眩耀]ピース=[Exploration of the Sky, Dazzling Stars] Piece
+キャッスル・オブ・パープル=Castle of Purple
+体力依存の回転する盾を 全体に叩きつけ\nダメージに応じて自身のDPを回復する=A rotating shield that depends on HP, slamming it against everyone and recovering its own DP according to the damage dealt.
+デバフスキル効果アップ=Debuff Skill Effect Up
+回復スキル効果アップ=Recovery Skill Effect Up
+探偵のひらめきによって次のターン開始時\n対象のSPを「3」まで回復する=By the detective's inspiration, recover the target's SP to "3" at the beginning of the next turn.
+攻撃力上昇スキル効果アップ=Attack Power Increase Skill Effect up
+挑発・注目状態：ダメージ軽減=Provocation/Attention State: Damage reduction
+木漏れ日のソナタ=Sonata of Sunlight Filtering Through Trees
+木漏れ日の庭=Garden of Sunlight Filtering Through Trees
+グルーヴィーなロール=Groovy Roll
+ピースフルフレーバー=Peaceful Flavor
+ミスリルリング=Mithril Ring
+ファインリング=Fine Ring
+プレインリング=Plain Ring
+ファインピアス=Fine Earrings
+スマートピアス=Smart Earrings
+
 [How to get]
 
 錬成=Forging
