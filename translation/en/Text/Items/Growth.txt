@@ -31,5 +31,6 @@ Lv.150までレベルを上げるアイテムです=This is an item that raises 
 
 スタイルLv.の経験値を得られるアイテムです=Items that can gain Style Lv. experience
 
+記憶の庭ショップ=Garden of Memories Shop
 ショップ（記憶の庭）=Shop (Garden of Memories)
 ショップ（記憶の庭）など=Shop (Garden of Memories)
