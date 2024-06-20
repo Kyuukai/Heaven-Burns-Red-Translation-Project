@@ -10,6 +10,9 @@
 クリアタイム=Clear Time
 所持上限を超えたためこのアイテムは取得できません=This item cannot be acquired because the possession limit has been exceeded
 GPを獲得しました=GP obtained
+所持GP=Possessed GP
+初回のみ+150000GP !=First Time Only +150000 GP!
+<style\=RubyPrefixTag></style>\nアリーナ『絶級 Lv.3（打）』をクリア\nまたはメインストーリー第五章 前編クリアで解放されます=<style\=RubyPrefixTag></style>\nArena 'Extreme Lv.3 (Strike)' will be unlocked upon clearing or clearing Main Story Chapter 5, Part 1
 
 初回のみ+([0-9]+)GP$ !=First time only +$1GP!
 
@@ -26,6 +29,42 @@ GPを獲得しました=GP obtained
 初級 Lv.3（斬）=Beginner Lv.3 (Slash)
 初級 Lv.3（突）=Beginner Lv.3 (Pierce)
 初級 Lv.3（打）=Beginner Lv.3 (Blunt)
+初級 Lv.1{{A}}=Beginner Lv.1{{A}}
+初級 Lv.1=Beginner Lv.1
+初級 Lv.2{{A}}=Beginner Lv.2{{A}}
+初級 Lv.2=Beginner Lv.2
+初級 Lv.3{{A}}=Beginner Lv.3{{A}}
+初級 Lv.3=Beginner Lv.3
+初級 Lv.4{{A}}=Beginner Lv.4{{A}}
+初級 Lv.4=Beginner Lv.4
+初級 Lv.5{{A}}=Beginner Lv.5{{A}}
+初級 Lv.5=Beginner Lv.5
+中級 Lv.1{{A}}=Intermediate Lv.1{{A}}
+中級 Lv.1=Intermediate Lv.1
+中級 Lv.2{{A}}=Intermediate Lv.2{{A}}
+中級 Lv.2=Intermediate Lv.2
+中級 Lv.3{{A}}=Intermediate Lv.3{{A}}
+中級 Lv.3=Intermediate Lv.3
+上級 Lv.1{{A}}=Advanced Lv.1{{A}}
+上級 Lv.1=Advanced Lv.1
+上級 Lv.2{{A}}=Advanced Lv.2{{A}}
+上級 Lv.2=Advanced Lv.2
+上級 Lv.3{{A}}=Advanced Lv.3{{A}}
+上級 Lv.3=Advanced Lv.3
+超上級 Lv.1{{A}}=Super Advanced Lv.1{{A}}
+超上級 Lv.1=Super Advanced Lv.1
+超上級 Lv.2{{A}}=Super Advanced Lv.2{{A}}
+超上級 Lv.2=Super Advanced Lv.2
+超上級 Lv.3{{A}}=Super Advanced Lv.3{{A}}
+超上級 Lv.3=Super Advanced Lv.3
+絶級 Lv.1{{A}}=Extreme Lv.1{{A}}
+絶級 Lv.1=Extreme Lv.1
+絶級 Lv.2{{A}}=Extreme Lv.2{{A}}
+絶級 Lv.2=Extreme Lv.2
+絶級 Lv.3{{A}}=Extreme Lv.3{{A}}
+絶級 Lv.3=Extreme Lv.3
+絶級 Lv.4{{A}}=Extreme Lv.4{{A}}
+絶級 Lv.4=Extreme Lv.4
 
 [Auto Arena]
 オートプレイ最大=Autoplay Max Timer
