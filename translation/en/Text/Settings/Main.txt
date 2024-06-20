@@ -81,6 +81,7 @@
 [Other Settings]
 ・未読テキストもスキップする=Skip Unread Text
 ※スキル選択や敵の照準の操作を以前のバージョン互換に戻します=*Skill selection and enemy targeting controls will be returned to the previous version 
+<style\=RubyPrefixTag></style>\n全ての設定を初期設定に戻しますがよろしいですか？=<style\=RubyPrefixTag></style>\nDo you want to reset all settings to default?
 
 
 [Spend Settings]
