@@ -7,6 +7,7 @@
 器用さを超強化し、甚大なDP攻撃をブチかまそう\n器用さ +40 / 他性能 +36\nチップ装備枠4=Super-strengthen your Agility and deal huge DP Damage.\nIncrease Agility by +40 / Other Stats +36
 脳の回転を速め、回復や強化で戦況を変えよう\n知性 +42 / 他性能 +35\nチップ装備枠4=Accelerate your brain and change the battle situation with healing and reinforcement.\nIncrease Wisdom by +42 / Other Stats +35
 守りを大幅に強化し、味方の守護を果たそう\n体力,精神+40 / 他性能+35\nチップ装備枠4=Greatly strengthen your defense to protect your allies.\nIncrease Spirit by +40 / Other Stats +35
+万能に近づく安定感のあるブースター\n全性能 +23\nチップ装備枠4=Close to universal stability booster, All performance +23, Chip Slot 4
 
 HP攻撃チップⅣ=HP Damage Chip IV
 DP攻撃チップⅣ=DP Damage Chip IV
