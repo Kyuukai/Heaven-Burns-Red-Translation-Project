@@ -8,3 +8,11 @@ GWスペシャルSS確定チケット=GW Special SS Fixed Ticket
 星屑の砂（秘めたる努力）=Stardust Sand (Secret Efforts)
 融極鉱（秘めたる努力）=Fusion Ore (Secret Efforts)
 [秘めたる努力]ピース=[Secret Efforts] Piece
+-----------
+[Miscellaneous]
+星屑の砂（今日のあなたの運勢は？）=Stardust Sand (Today's fortune for you?)
+融極鉱（今日のあなたの運勢は？）=Fusion Ore (Today's fortune for you?)
+プレリオン溶液（今日のあなたの運勢は？）=Preleon Solution (Today's fortune for you?)
+第四回イベントダンジョンチケット=Fourth Event Dungeon Ticket
+【行動観察報告書 第1186号】\n記憶の庭のイベントダンジョン「高山」に入場できるチケットです=[Behavior Observation Report No. 1186] This is a ticket to enter the Memory Garden event dungeon "High Mountain."
+ストーリーイベント「行動観察報告書 第1186号」交換所で使用できるメダルです=This is a medal that can be used at the Story Event "Behavior Observation Report No. 1186" exchange.
