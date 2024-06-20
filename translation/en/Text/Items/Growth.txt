@@ -4,6 +4,8 @@
 バトルレポートⅡ=Battle Report II
 経験値をかなり得られるアイテムです=It's an item that gives you quite a bit of experience points
 
+バトルレポートⅢ=Battle Report III
+
 煌めきのポリッシュⅠ=Sparkling Polish I
 アクセサリ合成で経験値を少し得られる素材です=Grants a small amount of experience when using Synthesis
 煌めきのポリッシュⅡ=Sparkling Polish II
@@ -27,7 +29,7 @@ Lv.130までレベルを上げるアイテムです=This is an item that raises 
 Lv.140までレベルを上げるアイテムです=This is an item that raises the level to Lv.140
 Lv.150までレベルを上げるアイテムです=This is an item that raises the level to Lv.150
 
-バトルレポートⅢ=Battle Report III
+スタイルLv.の経験値を得られるアイテムです=Items that can gain Style Lv. experience
 
 ショップ（記憶の庭）=Shop (Garden of Memories)
 ショップ（記憶の庭）など=Shop (Garden of Memories)
