@@ -7,3 +7,6 @@
 ブルー=Blue
 オレンジ=Orange
 ブラックゴールド=Black Gold
+ライムグリーン=Lime Green
+[31E]部隊ロゴ=[31E] Unit Logo
+所持済み=Owned
