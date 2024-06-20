@@ -188,6 +188,10 @@
 エリア別スコア=Score by Area
 HELL攻略エリア=HELL Strategy Area
 NORMAL攻略エリア=NORMAL Strategy Area
+アニマスフィア=Animus Sphere
+挑戦設定=Challenge Settings
+エリアハイスコア=Area High Score
+ハイスコア報酬=High Score Rewards
 
 [Recommended Content]
 宝石で【★6アクセサリ】を錬成しよう！\n特に【通常攻撃に元素属性を付加】するブレスや【DPを激増】させるピアスは必需品だ！=Let's make [★ 6 Accessories] jewelry!\nIn particular, bonuses that [adds elemental attributes to normal attacks] and earrings that [DP increased dramatically] are recommended!
