@@ -39,6 +39,10 @@ Epilogue\n<size\=32>- エピローグ -</size>=Epilogue
 <style\=RubyPrefixTag></style>\n第一章Day5クリアで解放されます=<style\=RubyPrefixTag></style>\nIt will be unlocked after clearing Chapter 1 Day 5.
 <style\=RubyPrefixTag></style>\n第一章Day2クリアで解放されます=<style\=RubyPrefixTag></style>\nIt will be unlocked after clearing Chapter 1 Day 2.
 
+[Home Menu Screen Settings]
+ホームセリフ表示=Home Line Display
+ホーム設定=Home Settings
+
 --------------
 振り返り=Look Back
 ドーム交流=Dome Exchange
