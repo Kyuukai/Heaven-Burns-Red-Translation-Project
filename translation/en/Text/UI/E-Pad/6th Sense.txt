@@ -6,3 +6,17 @@
 優しさ=Kindness
 器=Understanding
 カリスマ=Charisma
+
+[Finding 6th Sense]
+センス獲得場所=Places to Acquire "Senses"
+・備品整理（野営地）=・Equipment Organization (camp)
+・見張り台（野営地）=・Watchtower (camp)
+・野外炊飯（野営地）=・Outdoor Cooking (camp)
+・噴水広場=・Fountain Square
+・図書館=・Library
+・ミエミエ=・Miemie
+・ナービィ広場=・Narvy Square
+・ジム=・Gym
+・カフェ=・Cafe
+・映画館=・Cinema
+・スタジオ=・Studio
