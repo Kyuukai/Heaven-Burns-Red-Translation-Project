@@ -165,3 +165,16 @@ SS確定ガチャのカケラ(イベント応援)=<size\=22>Guaranteed SS Gacha 
 プリズムバトル（Lv.2以降）=Prism Battle (Lv.2 or later)
 プリズムバトル（Lv.5以降）=Prism Battle (Lv.5 or later)
 プリズムバトル（Lv.8以降）=Prism Battle (Lv.8 or later)
+
+--------------------------
+[Miscellaneous General Items]
+プレリオン溶液{{A}}×5 =Prelion Solution {{A}} × 5
+[クレール・ド・リュンヌ]{{A}} ×=[Clair de Lune]{{A}} ×
+陽石の雫 ×=Sunstone Drop ×
+[エレガンス・シェル]{{A}} ×=[Elegance Shell] {{A}} ×
+[流星]{{A}} ×=[Meteor] {{A}} ×
+[イノセントワイルド]{{A}} ×=[Innocent Wild]{{A}} ×
+[石塔の手筋]{{A}} ×=[Stone Tower Tactics]{{A}} ×
+ヴェルサーレ=Versale
+ショップ（メインストーリー 第四章）=Shop (Main Story Chapter 4)
+ショップ（メインストーリー 第二章, 第三章）\n探検（メインストーリー 第三章）=Shop (Main Story Chapter 2, Chapter 3)\nExploration (Main Story Chapter 3)
