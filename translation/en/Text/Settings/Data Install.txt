@@ -11,5 +11,3 @@
 分割DL=Split DL
 「分割DL」の場合は各Dayごとに、「まとめてDL」の場合は各章ごとに\nダウンロードを実行します。=In the case of "Split DL", the download is executed for each Day, and in the case of "Collective DL", the download is executed for each chapter.
 画像やボイスなどのデータをダウンロードします。\r\n通信環境の良い場所で行ってください。=Download data such as images and voices. Please do this in a good communication environment.
-----------------
-セットアップ中 (278/278)=Setup in progress (278/278)
