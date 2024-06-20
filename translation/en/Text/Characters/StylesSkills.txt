@@ -2202,4 +2202,18 @@ SPを全て消費して放つ 強力な一撃\n消費SPに応じて威力上昇=
 ディザスター=Disaster
 広範囲に砲撃を放ち\nさらに 確率でスタンさせる=Fire a wide-range barrage\nand further cause stun with a chance=
 
-
+戦場の科学者 =Battlefield Scientist
+ビジネスとスマイル =Business and Smile
+ドロレスの魅惑 =Dolores' Charm
+お気楽カラフル =Carefree Colorful
+親愛のレシーバー =Dear Receiver
+一千子の抱擁 =Ichiko's Embrace
+三野里の疾走 =Minori's Dash
+二以奈の気品 =Niina's Grace
+四ツ葉の倦怠 =Yotsuha's Weariness
+五十鈴の秘密 =Isuzu's Secret
+ロイヤルバトラー =Royal Butler
+リトルハイセンス =Little Highsense
+天才かませ犬 =Genius Foil
+天誅斬影 =Heaven's Punishment Slash Shadow
+臥龍の代弁者 =Spokesperson of the Crouching Dragon
