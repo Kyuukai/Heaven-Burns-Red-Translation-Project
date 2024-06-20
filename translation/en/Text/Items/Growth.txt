@@ -6,8 +6,26 @@
 
 煌めきのポリッシュⅠ=Sparkling Polish I
 アクセサリ合成で経験値を少し得られる素材です=Grants a small amount of experience when using Synthesis
+煌めきのポリッシュⅡ=Sparkling Polish II
+アクセサリ合成で経験値を得られる素材です=Materials that can gain experience through accessory synthesis
+煌めきのポリッシュⅢ=Sparkling Polish III
+アクセサリ合成で経験値をかなり得られる素材です=Materials that can gain significant experience through accessory synthesis
 
-Lv.20までレベルを上げるアイテムです=Raises your level to Lv. 20
+Lv.10までレベルを上げるアイテムです=This is an item that raises the level to Lv.10
+Lv.20までレベルを上げるアイテムです=This is an item that raises the level to Lv.20
+Lv.30までレベルを上げるアイテムです=This is an item that raises the level to Lv.30
+Lv.40までレベルを上げるアイテムです=This is an item that raises the level to Lv.40
+Lv.50までレベルを上げるアイテムです=This is an item that raises the level to Lv.50
+Lv.60までレベルを上げるアイテムです=This is an item that raises the level to Lv.60
+Lv.70までレベルを上げるアイテムです=This is an item that raises the level to Lv.70
+Lv.80までレベルを上げるアイテムです=This is an item that raises the level to Lv.80
+Lv.90までレベルを上げるアイテムです=This is an item that raises the level to Lv.90
+Lv.100までレベルを上げるアイテムです=This is an item that raises the level to Lv.100
+Lv.110までレベルを上げるアイテムです=This is an item that raises the level to Lv.110
+Lv.120までレベルを上げるアイテムです=This is an item that raises the level to Lv.120
+Lv.130までレベルを上げるアイテムです=This is an item that raises the level to Lv.130
+Lv.140までレベルを上げるアイテムです=This is an item that raises the level to Lv.140
+Lv.150までレベルを上げるアイテムです=This is an item that raises the level to Lv.150
 
 バトルレポートⅢ=Battle Report III
 
