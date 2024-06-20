@@ -47,6 +47,70 @@
 アルティメット\nフィーラー=Ultimate\nFeeler
 第四章 前編Day6=Chapter 4 Pt.1 Day 6
 
+[Prism Levels]
+[{{A}}]ニードルバード=[{{A}}] NeedleBird
+[{{A}}]ダイヤモンドアイ=[{{A}}] DiamondEye
+[{{A}}]アビスノッカー=[{{A}}] AbyssKnocker
+[{{A}}]アビスノッカー : Lv.1=[{{A}}] AbyssKnocker: Lv.1
+[{{A}}]アビスノッカー : Lv.2=[{{A}}] AbyssKnocker: Lv.2
+[{{A}}]アビスノッカー : Lv.3=[{{A}}] AbyssKnocker: Lv.3
+[{{A}}]アビスノッカー : Lv.4=[{{A}}] AbyssKnocker: Lv.4
+[{{A}}]アビスノッカー : Lv.5=[{{A}}] AbyssKnocker: Lv.5
+[{{A}}]アビスノッカー : Lv.6=[{{A}}] AbyssKnocker: Lv.6
+[{{A}}]アビスノッカー : Lv.7=[{{A}}] AbyssKnocker: Lv.7
+[{{A}}]アビスノッカー : Lv.8=[{{A}}] AbyssKnocker: Lv.8
+[{{A}}]アビスノッカー : Lv.9=[{{A}}] AbyssKnocker: Lv.9
+[{{A}}]アビスノッカー : Lv.10=[{{A}}] AbyssKnocker: Lv.10
+[{{A}}]ダイヤモンドアイ : Lv.1=[{{A}}] DiamondEye: Lv.1
+[{{A}}]ダイヤモンドアイ : Lv.2=[{{A}}] DiamondEye: Lv.2
+[{{A}}]ダイヤモンドアイ : Lv.3=[{{A}}] DiamondEye: Lv.3
+[{{A}}]ダイヤモンドアイ : Lv.4=[{{A}}] DiamondEye: Lv.4
+[{{A}}]ダイヤモンドアイ : Lv.5=[{{A}}] DiamondEye: Lv.5
+[{{A}}]ダイヤモンドアイ : Lv.6=[{{A}}] DiamondEye: Lv.6
+[{{A}}]ダイヤモンドアイ : Lv.7=[{{A}}] DiamondEye: Lv.7
+[{{A}}]ダイヤモンドアイ : Lv.8=[{{A}}] DiamondEye: Lv.8
+[{{A}}]ダイヤモンドアイ : Lv.9=[{{A}}] DiamondEye: Lv.9
+[{{A}}]ダイヤモンドアイ : Lv.10=[{{A}}] DiamondEye: Lv.10
+[{{A}}]ニードルバード : Lv.1=[{{A}}] NeedleBird: Lv.1
+[{{A}}]ニードルバード : Lv.2=[{{A}}] NeedleBird: Lv.2
+[{{A}}]ニードルバード : Lv.3=[{{A}}] NeedleBird: Lv.3
+[{{A}}]ニードルバード : Lv.4=[{{A}}] NeedleBird: Lv.4
+[{{A}}]ニードルバード : Lv.5=[{{A}}] NeedleBird: Lv.5
+[{{A}}]ニードルバード : Lv.6=[{{A}}] NeedleBird: Lv.6
+[{{A}}]ニードルバード : Lv.7=[{{A}}] NeedleBird: Lv.7
+[{{A}}]ニードルバード : Lv.8=[{{A}}] NeedleBird: Lv.8
+[{{A}}]ニードルバード : Lv.9=[{{A}}] NeedleBird: Lv.9
+[{{A}}]ニードルバード : Lv.10=[{{A}}] NeedleBird: Lv.10
+
+[Prism Levels Conditions]
+【プレイ条件】\n[{{A}}]アビスノッカー : Lv.1 をクリア=【Play Conditions】\nClear [{{A}}] AbyssKnocker : Lv.1
+【プレイ条件】\n[{{A}}]アビスノッカー : Lv.2 をクリア=【Play Conditions】\nClear [{{A}}] AbyssKnocker : Lv.2
+【プレイ条件】\n[{{A}}]アビスノッカー : Lv.3 をクリア=【Play Conditions】\nClear [{{A}}] AbyssKnocker : Lv.3
+【プレイ条件】\n[{{A}}]アビスノッカー : Lv.4 をクリア=【Play Conditions】\nClear [{{A}}] AbyssKnocker : Lv.4
+【プレイ条件】\n[{{A}}]アビスノッカー : Lv.5 をクリア=【Play Conditions】\nClear [{{A}}] AbyssKnocker : Lv.5
+【プレイ条件】\n[{{A}}]アビスノッカー : Lv.6 をクリア=【Play Conditions】\nClear [{{A}}] AbyssKnocker : Lv.6
+【プレイ条件】\n[{{A}}]アビスノッカー : Lv.7 をクリア=【Play Conditions】\nClear [{{A}}] AbyssKnocker : Lv.7
+【プレイ条件】\n[{{A}}]アビスノッカー : Lv.8 をクリア=【Play Conditions】\nClear [{{A}}] AbyssKnocker : Lv.8
+【プレイ条件】\n[{{A}}]アビスノッカー : Lv.9 をクリア=【Play Conditions】\nClear [{{A}}] AbyssKnocker : Lv.9
+【プレイ条件】\n[{{A}}]ダイヤモンドアイ : Lv.1 をクリア=【Play Conditions】\nClear [{{A}}] DiamondEye : Lv.1
+【プレイ条件】\n[{{A}}]ダイヤモンドアイ : Lv.2 をクリア=【Play Conditions】\nClear [{{A}}] DiamondEye : Lv.2
+【プレイ条件】\n[{{A}}]ダイヤモンドアイ : Lv.3 をクリア=【Play Conditions】\nClear [{{A}}] DiamondEye : Lv.3
+【プレイ条件】\n[{{A}}]ダイヤモンドアイ : Lv.4 をクリア=【Play Conditions】\nClear [{{A}}] DiamondEye : Lv.4
+【プレイ条件】\n[{{A}}]ダイヤモンドアイ : Lv.5 をクリア=【Play Conditions】\nClear [{{A}}] DiamondEye : Lv.5
+【プレイ条件】\n[{{A}}]ダイヤモンドアイ : Lv.6 をクリア=【Play Conditions】\nClear [{{A}}] DiamondEye : Lv.6
+【プレイ条件】\n[{{A}}]ダイヤモンドアイ : Lv.7 をクリア=【Play Conditions】\nClear [{{A}}] DiamondEye : Lv.7
+【プレイ条件】\n[{{A}}]ダイヤモンドアイ : Lv.8 をクリア=【Play Conditions】\nClear [{{A}}] DiamondEye : Lv.8
+【プレイ条件】\n[{{A}}]ダイヤモンドアイ : Lv.9 をクリア=【Play Conditions】\nClear [{{A}}] DiamondEye : Lv.9
+【プレイ条件】\n[{{A}}]ニードルバード : Lv.1 をクリア=【Play Conditions】\nClear [{{A}}] NeedleBird : Lv.1
+【プレイ条件】\n[{{A}}]ニードルバード : Lv.2 をクリア=【Play Conditions】\nClear [{{A}}] NeedleBird : Lv.2
+【プレイ条件】\n[{{A}}]ニードルバード : Lv.3 をクリア=【Play Conditions】\nClear [{{A}}] NeedleBird : Lv.3
+【プレイ条件】\n[{{A}}]ニードルバード : Lv.4 をクリア=【Play Conditions】\nClear [{{A}}] NeedleBird : Lv.4
+【プレイ条件】\n[{{A}}]ニードルバード : Lv.5 をクリア=【Play Conditions】\nClear [{{A}}] NeedleBird : Lv.5
+【プレイ条件】\n[{{A}}]ニードルバード : Lv.6 をクリア=【Play Conditions】\nClear [{{A}}] NeedleBird : Lv.6
+【プレイ条件】\n[{{A}}]ニードルバード : Lv.7 をクリア=【Play Conditions】\nClear [{{A}}] NeedleBird : Lv.7
+【プレイ条件】\n[{{A}}]ニードルバード : Lv.8 をクリア=【Play Conditions】\nClear [{{A}}] NeedleBird : Lv.8
+【プレイ条件】\n[{{A}}]ニードルバード : Lv.9 をクリア=【Play Conditions】\nClear [{{A}}] NeedleBird : Lv.9
+
 [Jewel Prism]
 [{{A}}]ヴェイルドデスO=[{{A}}] Wield Death O
 [{{A}}]ヴェイルドデスO : Lv.8=[{{A}}] Wield Death O: Lv.8
@@ -97,6 +161,26 @@
 [{{A}}]ベルクノッカー : Lv.11=[{{A}}] Belknocker: Lv.11
 [{{A}}]ベルクノッカー : Lv.12=[{{A}}] Belknocker: Lv.12
 [{{A}}]ベルクノッカー : Lv.13=[{{A}}] Belknocker: Lv.13
+
+[Orb Boss]
+エグゾウォッチャーP=Exo Watcher P
+エグゾウォッチャーW=Exo Watcher W
+エグゾウォッチャーY=Exo Watcher Y
+エグゾウォッチャーB=Exo Watcher B
+エグゾウォッチャーR=Exo Watcher R
+オーブボスⅢ=Orb Boss III
+オーブボスⅡ=Orb Boss II
+オーブボスⅠ=Orb Boss I
+シニスター＆レクタス・ニールP=Sinister & Rectus-Neal P
+シニスター＆レクタス・ニールW=Sinister & Rectus-Neal W
+シニスター＆レクタス・ニールY=Sinister & Rectus-Neal Y
+シニスター＆レクタス・ニールB=Sinister & Rectus-Neal B
+シニスター＆レクタス・ニールR=Sinister & Rectus-Neal R
+アモンP=Amon P
+アモンW=Amon w
+アモンB=Amon B
+アモンY=Amon Y
+報酬pt=Reward pt.
 
 [Clock Tower]
 最高到達階=Highest Floor Reached
