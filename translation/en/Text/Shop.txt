@@ -25,7 +25,8 @@
 <style\=RubyPrefixTag></style>\n必要なものは見つかったかい？=<style\=RubyPrefixTag></style>\nDid you find what you needed?
 
 [Shop Terms and Conditions]
-宝珠の迷宮 B30をクリア=Clear the Jewel Labyrinth B30交換=<size\=80%>Exchange</size>
+宝珠の迷宮 B30をクリア=Clear the Jewel Labyrinth B30
+交換=<size\=80%>Exchange</size>
 リセット対象=Reset target
 毎月1日4時リセット=Resets at 4 AM on the 1st of every month
 で商品を更新=Update products
