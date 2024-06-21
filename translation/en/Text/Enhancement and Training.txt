@@ -112,32 +112,32 @@
 【プレイ条件】\n[{{A}}]ニードルバード : Lv.9 をクリア=【Play Conditions】\nClear [{{A}}] NeedleBird : Lv.9
 
 [Jewel Prism]
-[{{A}}]ヴェイルドデスO=[{{A}}] Wield Death O
-[{{A}}]ヴェイルドデスO : Lv.8=[{{A}}] Wield Death O: Lv.8
-[{{A}}]ヴェイルドデスO : Lv.9=[{{A}}] Wield Death O: Lv.9
-[{{A}}]ヴェイルドデスO : Lv.10=[{{A}}] Wield Death O: Lv.10
-[{{A}}]ヴェイルドデスO : Lv.12=[{{A}}] Wield Death O: Lv.12
-[{{A}}]ヴェイルドデスO : Lv.11=[{{A}}] Wield Death O: Lv.11
-[{{A}}]ヴェイルドデスO : Lv.13=[{{A}}] Wield Death O: Lv.13
+[{{A}}]ヴェイルドデスO=[{{A}}] WieldDeath O
+[{{A}}]ヴェイルドデスO : Lv.8=[{{A}}] WieldDeath O: Lv.8
+[{{A}}]ヴェイルドデスO : Lv.9=[{{A}}] WieldDeath O: Lv.9
+[{{A}}]ヴェイルドデスO : Lv.10=[{{A}}] WieldDeath O: Lv.10
+[{{A}}]ヴェイルドデスO : Lv.12=[{{A}}] WieldDeath O: Lv.12
+[{{A}}]ヴェイルドデスO : Lv.11=[{{A}}] WieldDeath O: Lv.11
+[{{A}}]ヴェイルドデスO : Lv.13=[{{A}}] WieldDeath O: Lv.13
 [{{B}}]ヴェイルドデスOに挑戦します。\n{{A}}=[{{B}}] Challenge Wield Death O. {{A}}
 
-[{{A}}]シェルプロテクシオン=[{{A}}] Shell Protection
-[{{A}}]シェルプロテクシオン : Lv.8=[{{A}}] Shell Protection: Lv.8
-[{{A}}]シェルプロテクシオン : Lv.9=[{{A}}] Shell Protection: Lv.9
-[{{A}}]シェルプロテクシオン : Lv.10=[{{A}}] Shell Protection: Lv.10
-[{{A}}]シェルプロテクシオン : Lv.11=[{{A}}] Shell Protection: Lv.11
-[{{A}}]シェルプロテクシオン : Lv.12=[{{A}}] Shell Protection: Lv.12
-[{{A}}]シェルプロテクシオン : Lv.13=[{{A}}] Shell Protection: Lv.13
-[{{B}}]シェルプロテクシオンに挑戦します。\n{{A}}=[{{B}}] Challenge Shell Protection. {{A}}
+[{{A}}]シェルプロテクシオン=[{{A}}] ShellProtection
+[{{A}}]シェルプロテクシオン : Lv.8=[{{A}}] ShellProtection: Lv.8
+[{{A}}]シェルプロテクシオン : Lv.9=[{{A}}] ShellProtection: Lv.9
+[{{A}}]シェルプロテクシオン : Lv.10=[{{A}}] ShellProtection: Lv.10
+[{{A}}]シェルプロテクシオン : Lv.11=[{{A}}] ShellProtection: Lv.11
+[{{A}}]シェルプロテクシオン : Lv.12=[{{A}}] ShellProtection: Lv.12
+[{{A}}]シェルプロテクシオン : Lv.13=[{{A}}] ShellProtection: Lv.13
+[{{B}}]シェルプロテクシオンに挑戦します。\n{{A}}=[{{B}}] Challenge ShellProtection. {{A}}
 
 [{{A}}]パイルゴーレムT=[{{A}}] Pile Golem T
-[{{A}}]パイルゴーレムT : Lv.8=[{{A}}] Pile Golem T: Lv.8
-[{{A}}]パイルゴーレムT : Lv.9=[{{A}}] Pile Golem T: Lv.9
-[{{A}}]パイルゴーレムT : Lv.10=[{{A}}] Pile Golem T: Lv.10
-[{{A}}]パイルゴーレムT : Lv.11=[{{A}}] Pile Golem T: Lv.11
-[{{A}}]パイルゴーレムT : Lv.12=[{{A}}] Pile Golem T: Lv.12
-[{{A}}]パイルゴーレムT : Lv.13=[{{A}}] Pile Golem T: Lv.13
-[{{B}}]パイルゴーレムTに挑戦します。\n{{A}}=[{{B}}] Challenge Pyle Golem T. {{A}}
+[{{A}}]パイルゴーレムT : Lv.8=[{{A}}] PileGolem T: Lv.8
+[{{A}}]パイルゴーレムT : Lv.9=[{{A}}] PileGolem T: Lv.9
+[{{A}}]パイルゴーレムT : Lv.10=[{{A}}] PileGolem T: Lv.10
+[{{A}}]パイルゴーレムT : Lv.11=[{{A}}] PileGolem T: Lv.11
+[{{A}}]パイルゴーレムT : Lv.12=[{{A}}] PileGolem T: Lv.12
+[{{A}}]パイルゴーレムT : Lv.13=[{{A}}] PileGolem T: Lv.13
+[{{B}}]パイルゴーレムTに挑戦します。\n{{A}}=[{{B}}] Challenge PileGolem T. {{A}}
 
 [{{A}}]アラクネラインA=[{{A}}] Arachneline A
 [{{A}}]アラクネラインA : Lv.13=[{{A}}] Arachneline A: Lv.13
@@ -163,24 +163,47 @@
 [{{A}}]ベルクノッカー : Lv.13=[{{A}}] Belknocker: Lv.13
 
 [Orb Boss]
-エグゾウォッチャーP=Exo Watcher P
-エグゾウォッチャーW=Exo Watcher W
-エグゾウォッチャーY=Exo Watcher Y
-エグゾウォッチャーB=Exo Watcher B
-エグゾウォッチャーR=Exo Watcher R
+エグゾウォッチャーP=ExoWatcher P
+エグゾウォッチャーW=ExoWatcher W
+エグゾウォッチャーY=ExoWatcher Y
+エグゾウォッチャーB=ExoWatcher B
+エグゾウォッチャーR=ExoWatcher R
+エグゾウォッチャーR : Lv.3=ExoWatcher R: Lv.3
+エグゾウォッチャーR : Lv.2=ExoWatcher R: Lv.2
+エグゾウォッチャーR : Lv.1=ExoWatcher R: Lv.1
+エグゾウォッチャーB : Lv.3=ExoWatcher B: Lv.3
+エグゾウォッチャーB : Lv.2=ExoWatcher B: Lv.2
+エグゾウォッチャーB : Lv.1=ExoWatcher B: Lv.1
+エグゾウォッチャーY : Lv.3=ExoWatcher Y: Lv.3
+エグゾウォッチャーY : Lv.2=ExoWatcher Y: Lv.2
+エグゾウォッチャーY : Lv.1=ExoWatcher Y: Lv.1
+エグゾウォッチャーW : Lv.3=ExoWatcher W: Lv.3
+エグゾウォッチャーW : Lv.2=ExoWatcher W: Lv.2
+エグゾウォッチャーW : Lv.1=ExoWatcher W: Lv.1
+エグゾウォッチャーP : Lv.3=ExoWatcher P: Lv.3
+エグゾウォッチャーP : Lv.2=ExoWatcher P: Lv.2
+エグゾウォッチャーP : Lv.1=ExoWatcher P: Lv.1
 オーブボスⅢ=Orb Boss III
 オーブボスⅡ=Orb Boss II
 オーブボスⅠ=Orb Boss I
-シニスター＆レクタス・ニールP=Sinister & Rectus-Neal P
-シニスター＆レクタス・ニールW=Sinister & Rectus-Neal W
-シニスター＆レクタス・ニールY=Sinister & Rectus-Neal Y
-シニスター＆レクタス・ニールB=Sinister & Rectus-Neal B
-シニスター＆レクタス・ニールR=Sinister & Rectus-Neal R
+シニスター＆レクタス・ニールP=Sinister&Rectus-Neal P
+シニスター＆レクタス・ニールW=Sinister&Rectus-Neal W
+シニスター＆レクタス・ニールY=Sinister&Rectus-Neal Y
+シニスター＆レクタス・ニールB=Sinister&Rectus-Neal B
+シニスター＆レクタス・ニールR=Sinister&Rectus-Neal R
 アモンP=Amon P
 アモンW=Amon w
 アモンB=Amon B
 アモンY=Amon Y
 報酬pt=Reward pt.
+
+[Orb Boss Conditions]
+ドロップアイテム=Drop items
+弱点=Weakness
+熟練度上昇値=Proficiency increase value
+消費数が多いほど報酬が増加します=The more you consume, the more rewards you get.
+エグゾウォッチャーR : Lv.3に挑戦します。\n{{A}}=You will challenge Exo Watcher R: Lv.3. {{A}}
+おすすめ装備が完了しました=Recommended equipment has been completed.
 
 [Clock Tower]
 最高到達階=Highest Floor Reached
