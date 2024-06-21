@@ -2202,6 +2202,7 @@ SPを全て消費して放つ 強力な一撃\n消費SPに応じて威力上昇=
 ディザスター=Disaster
 広範囲に砲撃を放ち\nさらに 確率でスタンさせる=Fire a wide-range barrage\nand further cause stun with a chance=
 
+[Ezekiel's Additions (in progress)]
 戦場の科学者 =Battlefield Scientist
 ビジネスとスマイル =Business and Smile
 ドロレスの魅惑 =Dolores' Charm
@@ -2217,3 +2218,6 @@ SPを全て消費して放つ 強力な一撃\n消費SPに応じて威力上昇=
 天才かませ犬 =Genius Foil
 天誅斬影 =Heaven's Punishment Slash Shadow
 臥龍の代弁者 =Spokesperson of the Crouching Dragon
+死より恐ろしい罰ゲームね。=A punishment worse than death.
+回数条件：自身が敵ブレイク時SP+8=Condition: When breaking an enemy, your SP +8
+味方全体の防御力+50%=Defense of all allies +50%
