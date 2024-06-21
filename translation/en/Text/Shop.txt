@@ -3,27 +3,6 @@
 みんなオススメです♪=Everyone recommends it♪
 『おねだん通り』でしたか♪　ＧＰたっぷり稼いできやがってくださいね♪=Oh, 'as-priced' was it? Please make sure to earn plenty of GP \nwhen you come back, okay♪
 
-[Ruka's Cat Dialogue]
-何か助けが必要かい？=Need any help?
-<style\=RubyPrefixTag></style>\n話がしたい=<style\=RubyPrefixTag></style>\nWant to talk
-<style\=RubyPrefixTag></style>\n錬成をしたい=<style\=RubyPrefixTag></style>\nWant to do training
-<style\=RubyPrefixTag></style>\nアイテムを買いたい(<cspace\=0.2em>GP</cspace>)=<style\=RubyPrefixTag></style>\nWant to buy items (<cspace\=0.2em>GP</cspace>)
-<style\=RubyPrefixTag></style>\nアイテムを買いたい(<cspace\=0.2em>GGP</cspace>)=<style\=RubyPrefixTag></style>\nWant to buy items (<cspace\=0.2em>GGP</cspace>)
-<style\=RubyPrefixTag></style>\n助けが必要？=<style\=RubyPrefixTag></style>\nNeed help?
-もっと強くなるためには、プリズムバトルがオススメだ。=To get stronger, Prism Battles are recommended.
-<style\=RubyPrefixTag></style>\nもっと強くなるためには、プリズムバトルがオススメだ。\r\n=<style\=RubyPrefixTag></style>\nTo get stronger, Prism Battles are recommended.\r\n
-スタイルを育成するための、貴重な素材が手に入るよ。=You can get valuable materials to cultivate your style.
-<style\=RubyPrefixTag></style>\nスタイルを育成するための、貴重な素材が手に入るよ。=<style\=RubyPrefixTag></style>\nYou can get valuable materials to cultivate your style.
-もっと強くなるためには、宝石プリズムバトルがオススメだ。=To get stronger, Jewel Prism Battles are recommended.
-<style\=RubyPrefixTag></style>\nもっと強くなるためには、宝石プリズムバトルがオススメ\r\nだ。=<style\=RubyPrefixTag></style>\nTo get stronger, Jewel Prism Battles are recommended.
-強力なアクセサリを錬成するための、貴重な宝石が手に入るよ。=You can get rare materials to develop styles.
-<style\=RubyPrefixTag></style>\n強力なアクセサリを錬成するための、貴重な宝石が手に入\r\nるよ。=<style\=RubyPrefixTag></style>\nYou can get rare materials to develop styles.
-また気軽に声をかけてね。=Feel free to talk to me again.
-<style\=RubyPrefixTag></style>\nまた気軽に声をかけてね。=<style\=RubyPrefixTag></style>\nFeel free to talk to me again.
-経験値をとても得られるアイテムです=This item gives you a lot of experience points.
-必要なものは見つかったかい？=Did you find what you needed?
-<style\=RubyPrefixTag></style>\n必要なものは見つかったかい？=<style\=RubyPrefixTag></style>\nDid you find what you needed?
-
 [Shop Terms and Conditions]
 宝珠の迷宮 B30をクリア=Clear the Jewel Labyrinth B30
 交換=<size\=80%>Exchange</size>
