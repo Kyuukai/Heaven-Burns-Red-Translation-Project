@@ -1,0 +1,233 @@
+﻿訓練はPhase02に移行。\n31Aは引き続き31Bと協力して訓練の突破を目指す。=Training has moved to Phase 02. \n31A will continue to cooperate with 31B to clear the training.
+食べ物にはいろいろな栄養素が含まれているが、そのうち糖質、脂質、タンパク質は三大栄養素と呼ばれている。=Food contains various nutrients, among which \ncarbohydrates, fats, and proteins are called \nthe three major nutrients.
+<style\=RubyPrefixTag></style>\n食べ物にはいろいろな栄養素が含まれているが、そのうち\r\n糖質、脂質、タンパク質は三大栄養素と呼ばれている。=<style\=RubyPrefixTag></style>\nFood contains various nutrients, among which \ncarbohydrates, fats, and proteins are called \nthe three major nutrients.
+糖質は脳や筋肉が働くためのエネルギー源であり、脂質はエネルギー源やステロイドホルモンの原料などの役割を持っている。=Carbohydrates are the energy source for the brain and \nmuscles, while fats serve as an energy source and the \nraw material for steroid hormones.
+<style\=RubyPrefixTag></style>\n糖質は脳や筋肉が働くためのエネルギー源であり、脂質は\r\nエネルギー源やステロイドホルモンの原料などの役割を持っ\r\nている。=<style\=RubyPrefixTag></style>\nCarbohydrates are the energy source for the brain and \nmuscles, while fats serve as an energy source and the \nraw material for steroid hormones.
+では茅森、タンパク質はどういう役割をもっているか知っているか？=Now, Kayamori, do you know what role proteins play?
+<style\=RubyPrefixTag></style>\nでは茅森、タンパク質はどういう役割をもっているか知っ\r\nているか？=<style\=RubyPrefixTag></style>\nNow, Kayamori, do you know what role proteins play?
+<style\=RubyPrefixTag></style>\nこころの原料=<style\=RubyPrefixTag></style>\nThe raw material for the heart
+<style\=RubyPrefixTag></style>\nからだの原料=<style\=RubyPrefixTag></style>\nThe raw material for the body
+<style\=RubyPrefixTag></style>\n作曲の原料=<style\=RubyPrefixTag></style>\nThe raw material for song composition
+<style\=RubyPrefixTag></style>\nタンパク質はどういう役割…？=<style\=RubyPrefixTag></style>\nWhat role do proteins play...?
+
+----------------------------
+Option - kokoro raw materials
+----------------------------
+こころの原料。=The raw material for the heart.
+正解はからだの原料だ。=The correct answer is the raw material for the body.
+<style\=RubyPrefixTag></style>\n正解はからだの原料だ。=<style\=RubyPrefixTag></style>\nThe correct answer is the raw material for the body.
+より正確に言えば筋肉や骨、皮膚などをつくる原料だ。=More precisely, it is the raw material for muscles, \nbones, skin, and other body parts.
+<style\=RubyPrefixTag></style>\nより正確に言えば筋肉や骨、皮膚などをつくる原料だ。=<style\=RubyPrefixTag></style>\nMore precisely, it is the raw material for muscles, \nbones, skin, and other body parts.
+日本人の食生活は糖質が多めでタンパク質が不足しがち。身体を鍛えるときはプロテインを飲むと効率がいいぞ。=Japanese diets tend to be high in carbohydrates and \nlow in protein. Drinking protein shakes is efficient \nwhen building your body.
+----------------------------
+Arena
+----------------------------
+それではフェーズ２の訓練を始めます。=Well then, let's start the training for Phase 2.
+<style\=RubyPrefixTag></style>\nそれではフェーズ２の訓練を始めます。=<style\=RubyPrefixTag></style>\nWell then, let's start the training for Phase 2.
+このフェーズでの目的は、ポイントガンマである鹿島神社までの行軍路を制圧することよ。=The goal of this phase is to secure the marching route \nto Kashima Shrine, designated as Point Gamma.
+<style\=RubyPrefixTag></style>\nこのフェーズでの目的は、ポイントガンマである鹿島神社\r\nまでの行軍路を制圧することよ。=<style\=RubyPrefixTag></style>\nThe goal of this phase is to secure the marching route \nto Kashima Shrine, designated as Point Gamma.
+ただ、フェーズ１より敵が確実に多いわ。そのまま無策で進むとあっという間にデフレクタが尽きてしまうわ。=However, there are definitely more enemies than in \nPhase 1. If you proceed without a plan, your deflector \nwill run out quickly.
+<style\=RubyPrefixTag></style>\nただ、フェーズ１より敵が確実に多いわ。そのまま無策で\r\n進むとあっという間にデフレクタが尽きてしまうわ。=<style\=RubyPrefixTag></style>\nHowever, there are definitely more enemies than in \nPhase 1. If you proceed without a plan, your deflector \nwill run out quickly.
+恐い！　なにそれ！？=Scary! What is that condition!?
+<style\=RubyPrefixTag></style>\n恐い！　なにそれ！？=<style\=RubyPrefixTag></style>\nScary! What is that condition!?
+なので今回もフェーズ１と同様、細かにチェックポイントを設けて制圧圏を広げていく訓練をするわ。=So, like in Phase 1, we'll set up detailed checkpoints \nand gradually expand our controlled area.
+周囲の環境を考慮して中継地点になりそうなエリアを選定しつつ、３日間の訓練期間で順番にクリアすること。=Consider the surrounding environment and select areas \nthat seem like good relay points, clearing them one by \none over the 3-day training period.
+フェーズそのものは短いけど、密度が違うからじっくりと訓練に取り組みなさい。=Although this phase is short, the density is different, \nso take your time with the training.
+<style\=RubyPrefixTag></style>\nフェーズそのものは短いけど、密度が違うからじっくりと\r\n訓練に取り組みなさい。=<style\=RubyPrefixTag></style>\nAlthough this phase is short, the density is different, \nso take your time with the training.
+<style\=RubyPrefixTag></style>\n強引過ぎるだろ…=<style\=RubyPrefixTag></style>\nThat's too forceful...
+
+----------------------------
+Option - Boo-ing
+----------------------------
+やっぱりユッキーと一緒にやるべきだった…！！=I should have done it with Yukki after all...!!
+<style\=RubyPrefixTag></style>\nやっぱりユッキーと一緒にやるべきだった…！！=<style\=RubyPrefixTag></style>\nI should have done it with Yukki after all...!!
+やんねーから。=I won't do it.
+<style\=RubyPrefixTag></style>\nやんねーから。=<style\=RubyPrefixTag></style>\nI won't do it.
+今日のユッキー、なんか冷たい。=You are a bit cold today, Yukki.
+<style\=RubyPrefixTag></style>\n今日のユッキー、なんか冷たい。=<style\=RubyPrefixTag></style>\nYou are a bit cold today, Yukki.
+お前に温かく接したことはない。=I've never been warm to you.
+まーた、そんなツンツンしてー。=Again with that prickly(tsun) attitude.
+デレねーし。=I've never been affectionate(dere) either.
+でも夜はー？=But at night～?
+<style\=RubyPrefixTag></style>\nでも夜はー？=<style\=RubyPrefixTag></style>\nBut at night～?
+なんもしねーよ！？=We didn't do anything!!
+そこ、イチャイチャしない。=Stop flirting over there.
+<style\=RubyPrefixTag></style>\nそこ、イチャイチャしない。=<style\=RubyPrefixTag></style>\nStop flirting over there.
+えー！？=EEH!?
+だからお前らもそんな目で見るなぁーー！！=Like I said, don't look at me like that!!
+<style\=RubyPrefixTag></style>\nだからお前らもそんな目で見るなぁーー！！=<style\=RubyPrefixTag></style>\nLike I said, don't look at me like that!!
+目標地点ポイントガンマである鹿島神社に辿り着けば、秦野盆地への強襲が可能になるわ。=If you reach Kashima Shrine, designated as Point \nGamma, we'll be able to start an assault to the \nHadano Basin.
+その行軍路を切り開くのがあなたたちの仕事よ。=Your job is to open up that marching route.
+<style\=RubyPrefixTag></style>\nその行軍路を切り開くのがあなたたちの仕事よ。=<style\=RubyPrefixTag></style>\nYour job is to open up that marching route.
+そんな一気に覚えられなーーーーーーーい！！=I can't remember all that at once!!
+<style\=RubyPrefixTag></style>\nそんな一気に覚えられなーーーーーーーい！！=<style\=RubyPrefixTag></style>\nI can't remember all that at once!!
+子供か…。=Are you a child...?
+それと、今回も３１Ｂとの合同訓練になるわ。=Also, this will be a joint training with 31B again.
+目標までのルートを切り開くのは３１Ａ。彼女たちのところにキャンサーが集中しないように遊撃するのが３１Ｂの役目ね。=31A will clear the route, and 31B's role is to prevent \ncancer from concentrating on them.
+<style\=RubyPrefixTag></style>\n目標までのルートを切り開くのは３１Ａ。彼女たちのとこ\r\nろにキャンサーが集中しないように遊撃するのが３１Ｂの\r\n役目ね。=<style\=RubyPrefixTag></style>\n31A will clear the route, and 31B's role is to prevent \ncancer from concentrating on them.
+よろしくお願いします！=Pleasure to work with you!
+お、来たか！　今日もまた頑張ろうぜ！=Oh, you're here! Let's do our best today, too!
+<style\=RubyPrefixTag></style>\nお、来たか！　今日もまた頑張ろうぜ！=<style\=RubyPrefixTag></style>\nOh, you're here! Let's do our best today, too!
+そろそろわくわくする惨事が起きないものかな。=I wonder if exciting disaster will happen soon.
+<style\=RubyPrefixTag></style>\nそろそろわくわくする惨事が起きないものかな。=<style\=RubyPrefixTag></style>\nI wonder if exciting disaster will happen soon.
+だから味方がそんな不穏なこと言わないでください…！！=Please don't say such ominous things as an allies...!!
+<style\=RubyPrefixTag></style>\nだから味方がそんな不穏なこと言わないでください…！！\r\n=<style\=RubyPrefixTag></style>\nPlease don't say such ominous things as an allies...!!\r\n
+フェーズ１の時以上に、３１Ａと３１Ｂの連携が重要になってくるわ。=Even more than in Phase 1, the cooperation between 31A \nand 31B will be crucial.
+敵との遭遇戦への打撃速度、ターゲットの優先順位判断など、これまで以上に意識すること。=Pay attention to the speed of your combat and prioritize \nyour target.
+手数を減らし、どうすれば効率のいい戦い方ができるのかをよく考えて。=Reduce unnecessary actions and carefully consider how \nto fight more efficiently.
+<style\=RubyPrefixTag></style>\n手数を減らし、どうすれば効率のいい戦い方ができるのか\r\nをよく考えて。=<style\=RubyPrefixTag></style>\nReduce unnecessary actions and carefully consider how \nto fight more efficiently.
+今回もエミュレーターを使って訓練します。=We'll be using the simulator for this training as well.
+<style\=RubyPrefixTag></style>\n今回もエミュレーターを使って訓練します。=<style\=RubyPrefixTag></style>\nWe'll be using the simulator for this training as well.
+フェーズ１の時と同様、中継地点までの経路を確保することが本日の訓練目標となります。=Like in Phase 1, today's training goal is to secure \nthe route to the relay point.
+明後日までの３日間でフェーズ２訓練を完了させます。=We'll complete Phase 2 training over the next 3 days.
+ここがフェーズ２の場所ね。ポイントベータのちょっと先か…。=I see, this is the location for Phase 2. Just past \nPoint Beta, huh...
+援護射撃ねぇ…。すもも、あたしらだけならもっと効率よく動けると思わねーか？=Supporting fire... Sumomo, don't you think we could \nmove more efficiently by ourselves?
+…少なくともすももは本能のままに遊撃が一番にゃ。=...At least I think that the best way to move is by \ninstinct, nya.
+<style\=RubyPrefixTag></style>\n…少なくともすももは本能のままに遊撃が一番にゃ。=<style\=RubyPrefixTag></style>\n...At least I think that the best way to move is by \ninstinct, nya.
+みなさん、作戦どおり茅森さんたちを支援しましょう。=Everyone, let's support Kayamori-san and her team \naccording to the mission.
+…はいはい。=...Alright, alright.
+心配になるぐらい、協調性がない連中だな…。=You guys are so uncooperative, it's worrying...
+<style\=RubyPrefixTag></style>\n心配になるぐらい、協調性がない連中だな…。=<style\=RubyPrefixTag></style>\nYou guys are so uncooperative, it's worrying...
+訓練 フェーズ2=Training phase 2
+第二章Phase2 訓練=Chapter 2 - Phase 2 Training
+<style\=RubyPrefixTag></style>\nエンチャント『バトル開始時SP＋1』を手に入れた！=<style\=RubyPrefixTag></style>\nAcquired Enchant "SP+1 at the start of battle"!
+バトル開始時SP＋1=SP+1 at the start of battle
+<style\=RubyPrefixTag></style>\n敵です！=<style\=RubyPrefixTag></style>\nEnemies!
+エンチャント：SP+1=Enchant: SP+1
+[練習機]ヒールホッパー=[Practice model] Heel Hopper
+自身が敵バフ解除時 : 全体にスキル攻撃力アップ付与=When you cancel an enemy buff: Grants skill attack power boost to all
+180<size\=48>点</size\=48>=180<size\=48>points</size\=48>
+なんだか楽しい、\n合同訓練って。=Joint training\nis kind of fun.
+ああ、思いのほか良い\nデータが取れそうだ。=Yeah, we seem to be getting\nbetter data than expected.
+あたしらの足\n引っ張るなよ、３１Ａ。=Don't drag us down, 31A.
+[練習機]マリオネット=[Practice model] Marionette
+光スキル攻撃力上昇=Increase light skill attack power
+やるやないか！=Not bad!
+アイテムですね。\n役に立つでしょうか。=An item. \nI wonder if it will be useful.
+<style\=RubyPrefixTag></style>\nエンチャント『[対HP] スキル攻撃力+10％』を手に入れた！=<style\=RubyPrefixTag></style>\nAcquired Enchant "Skill attack power +10% against HP"!
+[対HP] スキル攻撃力+10％=Skill attack power +10% against HP
+はっ。そっちこそな！=Hah. Same to you!
+エンチャント：[対HP] スキル攻撃力+10％=Enchant: Skill attack power +10% against HP
+使わせてもらうぜ。=I'll use it.
+おい。フェーズ２の最初の中継地点はこの辺らしいぜ。=Hey, the first relay point for Phase 2 is around here.
+<style\=RubyPrefixTag></style>\nおい。フェーズ２の最初の中継地点はこの辺らしいぜ。=<style\=RubyPrefixTag></style>\nHey, the first relay point for Phase 2 is around here.
+はい、そのようですね。=Yes, seems like it.
+<style\=RubyPrefixTag></style>\nはい、そのようですね。=<style\=RubyPrefixTag></style>\nYes, seems like it.
+ふー、疲れたー。一休みしようぜ。=Sigh, I'm tired. Let's take a break.
+そうしましょうか。=Yes, let's do that.
+訓練終わりだろ。休むなら戻ってから休めよ。=The training is over. If you're going to rest, do \nit when we get back.
+<style\=RubyPrefixTag></style>\n訓練終わりだろ。休むなら戻ってから休めよ。=<style\=RubyPrefixTag></style>\nThe training is over. If you're going to rest, do \nit when we get back.
+バトルレポートⅠ x 1=Battle Report I x 1
+作戦行動終了。妥当な中継地点へと到達し、ルート上のキャンサーの掃討も確認しました。=Operation completed. We have reached an appropriate \nrelay point and confirmed the elimination of cancer \nalong the route.
+<style\=RubyPrefixTag></style>\n作戦行動終了。妥当な中継地点へと到達し、ルート上のキャ\r\nンサーの掃討も確認しました。=<style\=RubyPrefixTag></style>\nOperation completed. We have reached an appropriate \nrelay point and confirmed the elimination of cancer \nalong the route.
+よっしゃーー！　やったな、蒼井！=Alright! We did it, Aoi!
+<style\=RubyPrefixTag></style>\nよっしゃーー！　やったな、蒼井！=<style\=RubyPrefixTag></style>\nAlright! We did it, Aoi!
+はい！　みなさんが頑張ってくれたおかげです…！=Yes! It's thanks to everyone's hard work...!
+ですが、行軍速度が想定より遅れています。=However, your marching speed is slower than expected.
+<style\=RubyPrefixTag></style>\nですが、行軍速度が想定より遅れています。=<style\=RubyPrefixTag></style>\nHowever, your marching speed is slower than expected.
+実戦だったら作戦失敗で撤退となります。=If this were a real operation, it would be considered \na failure and we'd have to retreat.
+３１Ｂは攻撃の精度、標的の選択、どちらも難ありね。=31B's accuracy in attacking and target selection needs \nimprovement.
+あーあ、あたしらも怒られちまったよ。=Oh man, we got scolded too.
+ぜぇ…ぜぇ…あたしは体力が持ちません…。=Huff...huff...I don't have the stamina for this...
+支援が間に合わず３１Ａが包囲された場面が三回あったわ。味方を危険にさらしていることを自覚しなさい。=There were three instances where 31A was surrounded \ndue to delayed support. Be aware that you are putting \nyour allies in danger.
+はい…！=Yes...!
+３１Ａは個別のキャンサーに気を取られ過ぎず、全体に目を向けるようにしなさい。=31A, don't get too focused on individual cancer. Keep \nan eye on the overall situation.
+茅森さんは周囲の状況を把握して、もっと味方に指示を出すようにして。=Kayamori-san, be more aware of your surroundings and \ngive more instructions to your team.
+<style\=RubyPrefixTag></style>\n司令官、こんな言葉をご存じですか=<style\=RubyPrefixTag></style>\nCommander, do you know this saying?
+<style\=RubyPrefixTag></style>\nもっと頑張れって…？=<style\=RubyPrefixTag></style>\nTry harder...?
+
+----------------------------
+Option - Commander do you know about this phrase?
+----------------------------
+司令官、こんな言葉をご存じですか。=Commander, do you know this saying?
+<style\=RubyPrefixTag></style>\n司令官、こんな言葉をご存じですか。=<style\=RubyPrefixTag></style>\nCommander, do you know this saying?
+なによ。言ってみなさい。=What is it? Tell me.
+常に何かに挑戦していれば輝きは失われない。結果が成功であれ失敗であれ関係ない。挑戦した時がもう成功といえるのだ。=As long as you keep challenging something, you will not \nlose your shine. Whether the result is success or failure \ndoesn't matter. The challenge itself is already a success.
+そういう意味では、あたしは成功し続けています！=In that sense, I am always succeeding!
+誰の言葉？=Whose words are these?
+キングカズ。=King Kazu.
+スポーツではなく、人類の存亡を賭けた戦いなので、失敗は許されません。=This is a battle for the survival of humanity, not \nsports. Failure is not an option.
+今日の訓練は終了です。明日もよろしくお願いします。=Today's training is over. See you again tomorrow.
+
+----------------------------
+Free time
+----------------------------
+浅見=Asami
+茅森、頼めるか。=Kayamori, can you help?
+…ニンニン。=...Nin-nin.
+…ほう、被験者となるか？=...Oh, are you going to be a test \nsubject?
+ひとがゴミのようですわ。=People looks like garbage from here.
+山脇様ぁ…。=Yamawaki-sama ...
+昔より、ナービィの数が増えてるように思えます。=There seem to be more Narvy than \nbefore.
+あいつらも見えぬところで\n生殖活動をしているのかもな。=Maybe they're reproducing \nin places we can't see.
+天才剣士は孤高たるべき。決してぼっちにあらず。=A swordswoman prodigy should be solitary. \nI'm not a loner.
+一日のうち一食は一汁三菜を取るべきよ。=You should have one meal a day with one soup \nand three dishes.
+健康維持の秘訣を訊いてるの。=I'm asking for tips on staying healthy.
+本当にここに居るのか…？=Are they really here...?
+スプーン曲げを見せてください！=Please show me the spoon bending!
+あれは超能力やない。手品や。=That's not psychic power, just a magic \ntrick.
+…ほうほう、\nこれは慧眼ですね。=...Hmm, that's quite insightful.
+…はぁ～、疲れたわね。=...Ah～, I'm tired.
+この軍、まだまだ秘密がありそうだな。=This army still seems to have many \nsecrets.
+
+----------------------------
+Night
+----------------------------
+（ふー、湯に浸かりすぎた…）=(Phew, I soaked too long in the bath...)
+（そうだ、屋上で涼もう）=(Oh yeah, let's cool off on the roof)
+<style\=RubyPrefixTag></style>\n（そうだ、屋上で涼もう）=<style\=RubyPrefixTag></style>\n(Oh yeah, let's cool off on the roof)
+屋上に行こう！=Let's go to the roof!
+（こっちじゃない…）=(Not this way...)
+（行き過ぎた…）=(I passed it...)
+（まだちょっと肌寒いけど、今はちょうどいい…）=(It's still a bit chilly, but it's just what I need \nright now...)
+<style\=RubyPrefixTag></style>\n（まだちょっと肌寒いけど、今はちょうどいい…）=<style\=RubyPrefixTag></style>\n(It's still a bit chilly, but it's just what I need \nright now...)
+（星も綺麗だし、みんなも誘ってくればよかったな…）=(The stars are beautiful, too. I should have invited \neveryone...)
+（あ、流れ星！）=(Ah, a shooting star!)
+（くっそ！　願い事言い損ねた！）=(Damn it! I missed the chance of making a wish!)
+<style\=RubyPrefixTag></style>\n（くっそ！　願い事言い損ねた！）=<style\=RubyPrefixTag></style>\n(Damn it! I missed the chance of making a wish!)
+（そもそも、消えるの一瞬だもんな…）=(It disappears in an instant, after all...)
+<style\=RubyPrefixTag></style>\n（そもそも、消えるの一瞬だもんな…）=<style\=RubyPrefixTag></style>\n(It disappears in an instant, after all...)
+（一文字ぐらいしか言えないんじゃないか？）=(Only enough to say one character, right?)
+<style\=RubyPrefixTag></style>\n（一文字ぐらいしか言えないんじゃないか？）=<style\=RubyPrefixTag></style>\n(Only enough to say one character, right?)
+（一文字の願いってなんだよ…）=(What kind of wish is just one character...?)
+（そもそも一文字で成立する言葉ってなんだよ…）=(In the first place, what words even consist of just one character...)
+<style\=RubyPrefixTag></style>\n（そもそも一文字で成立する言葉ってなんだよ…）=<style\=RubyPrefixTag></style>\n(In the first place, what words even consist of just one character...)
+（うーん…）=(Hmmm...)
+<style\=RubyPrefixTag></style>\n（うーん…）=<style\=RubyPrefixTag></style>\n(Hmmm...)
+（あ！）=(Ah!)
+（日本一短い駅名…津があった）=(The shortest station name in Japan... Tsu[津] )
+津！=Tsu!
+<style\=RubyPrefixTag></style>\n津！=<style\=RubyPrefixTag></style>\nTsu!
+（よし、言える！）=(Alright, I can say it!)
+<style\=RubyPrefixTag></style>\n（よし、言える！）=<style\=RubyPrefixTag></style>\n(Alright, I can say it!)
+（でも、それでなにが叶うんだ？　願い事になってないじゃないか…）=(But what will that accomplish? Can it even become a wish...?)
+<style\=RubyPrefixTag></style>\n（でも、それでなにが叶うんだ？　願い事になってないじゃ\r\nないか…）=<style\=RubyPrefixTag></style>\n(But what will that accomplish? Can it even become a wish...?)
+（せめて二文字にしないと意味をなさない…）=(I should at least make it two characters to make \nsense...)
+津へ！=To Tsu (津へ)!
+（いつでも来いよ、流れ星…）=(Come anytime, shooting star...)
+<style\=RubyPrefixTag></style>\n（いつでも来いよ、流れ星…）=<style\=RubyPrefixTag></style>\n(Come anytime, shooting star...)
+（来た！）=(Here it comes!)
+<style\=RubyPrefixTag></style>\n（来た！）=<style\=RubyPrefixTag></style>\n(Here it comes!)
+（よし、言えた！　これで叶う！）=(Okay, I said it! Now it will come true!)
+<style\=RubyPrefixTag></style>\n（よし、言えた！　これで叶う！）=<style\=RubyPrefixTag></style>\n(Okay, I said it! Now it will come true!)
+（なにが？）=(What will...?)
+（そもそも津へ何が向かうんだ？）=(What is heading to Tsu in the first place...?)
+<style\=RubyPrefixTag></style>\n（そもそも津へ何が向かうんだ？）=<style\=RubyPrefixTag></style>\n(What is heading to Tsu in the first place...?)
+（やべ、今の流れ星が津へ落ちるかもしれない！！）=(Oh no, the shooting star might crash into Tsu!!)
+<style\=RubyPrefixTag></style>\n（やべ、今の流れ星が津へ落ちるかもしれない！！）=<style\=RubyPrefixTag></style>\n(Oh no, the shooting star might crash into Tsu!!)
+キャンセル！=Cancel!
+（危なかった…）=(That was close...)
+（キャンサーじゃなくあたしが津を滅ぼしてしまうところだった…）=(I almost destroyed Tsu instead of cancer...)
+（すぐさまキャンセル出来てよかった…）=(Good thing I could cancel it immediately...)
+<style\=RubyPrefixTag></style>\n『オペレーション・プレアデス』決行まで あと１７日=<style\=RubyPrefixTag></style>\n[Operation Pleiades] execution in 17 days
+
+----------------------------
+Extra lines - Option - composition
+----------------------------
+作曲の原料。=The raw material for song composition.
+<style\=RubyPrefixTag></style>\n作曲の原料。=<style\=RubyPrefixTag></style>\nThe raw material for song composition.
+つまりは作曲の原料じゃん！　それがなかったら作曲出来ないよ！？=In other words, it's the raw material for song \ncomposition! Without it, you can't compose, you know!?
+<style\=RubyPrefixTag></style>\nつまりは作曲の原料じゃん！　それがなかったら作曲出来\r\nないよ！？=<style\=RubyPrefixTag></style>\nIn other words, it's the raw material for song \ncomposition! Without it, you can't compose, you know!?
+作曲も出来ねーが、生きてもいけねーわ。=You can't compose, but you also can't live.
+
+Phase2 - 中継点A=Phase2 -Relay A.
