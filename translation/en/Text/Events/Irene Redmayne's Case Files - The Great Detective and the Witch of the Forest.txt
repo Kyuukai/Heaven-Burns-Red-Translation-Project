@@ -2109,7 +2109,7 @@ Irene side - Day 3
 わ、わかりました！=G-Got it!
 早く皆さんの元へ行かないと。=I need to get to everyone quickly.
 道を使っていたら、遠回りになる。だけど…。=Using the road will take too long. But...
-茜さん…白いローブ、使わせてもらいます。Akane-san... I'll use your white robe.
+茜さん…白いローブ、使わせてもらいます。=Akane-san... I'll use your white robe.
 戦闘には不向きだけど、これならキャンサーに見つからずに進めます！=It's not suitable for combat, but with this, \nI can move without being noticed by Cancer!
 
 ------------------------------------------
