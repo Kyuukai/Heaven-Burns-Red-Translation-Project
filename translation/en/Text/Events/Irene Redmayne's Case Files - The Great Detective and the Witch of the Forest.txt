@@ -15,7 +15,7 @@ style=RubyPrefixTag></style>\n今回のイベントは、以下のストーリ�
 アイリン？　いっちーの漫画の原作ってどういうこと？=Irene? What do you mean by you're the author of \nIchii's manga?
 はい。一千子さんに、あたしが解決してきた事件たちを漫画にしてもらったんです。=Yes. Ichiko-san turned the cases I solved into \nmanga. 
 いわゆるノンフィクション伝記ですね。=In other words, it's a non-fiction biography.
-プロットをお渡しし、ネームチェックまでしっかりやりました。=I provided the plot and checked the storyboard \nthoroughly. 
+プロットをお渡しし、ネームチェックまでしっかりやりました。=I provided the plot and checked the draft \nthoroughly. 
 とても面白いお話ばかりで、ペンが走りました。=The stories were so interesting that I couldn't stop \ndrawing.  
 へー、すごく面白そう。あたしもちょっと買ってくる。=Wow, that sounds really interesting. I'll go buy one \ntoo.
 思ったよりちゃんと本になってる。=It's turned out to be more of a proper book than I \nexpected.
@@ -36,7 +36,7 @@ style=RubyPrefixTag></style>\n今回のイベントは、以下のストーリ�
 <style\=RubyPrefixTag></style>\nちーがーうーー！\n名探偵はアイリーン・レドメインなんですーーー！=<style\=RubyPrefixTag></style>\nNooo!! The great detective is Irene Redmayne!
 うぅ…名探偵の伝記を漫画にしたばかりに、肖像に齟齬が生まれてしまうとは…。=Ugh...turning the detective's biography into a manga \nhas caused discrepancies in her portrait...
 <style\=RubyPrefixTag></style>\nうぅ…名探偵の伝記を漫画にしたばかりに、肖像に齟齬が\r\n生まれてしまうとは…。=<style\=RubyPrefixTag></style>\nUgh...turning the great detective's biography into a \nmanga has caused discrepancies in her portrait...
-ネームだけではなく、ペン入れした原稿もチェックしておくべきでした。=I should have checked not just the names, but also \nthe inked manuscripts.
+ネームだけではなく、ペン入れした原稿もチェックしておくべきでした。=I should have checked not just the draft, but also \nthe inked manuscripts.
 カー、カー、カー。=Caw, caw, caw.
 ジェイミー？　何かを咥えて飛んでいますね。あれは…。=Jamie? She's flying with something in her beak. \nWhat is that...
 あー…。=Ah...
@@ -47,7 +47,7 @@ style=RubyPrefixTag></style>\n今回のイベントは、以下のストーリ�
 スタッフＣ=Staff C
 飼主にＧＰを請求するわ！=I'll charge the owner for GP! 
 <style\=RubyPrefixTag></style>\n飼主にＧＰを請求するわ！=<style\=RubyPrefixTag></style>\nI'll charge the owner for GP! 
-もうすぐ任務ですが、アイリーンさんはどこに行ったのでしょう。=It's almost time for the mission, but where has \nIrene gone to?
+もうすぐ任務ですが、アイリーンさんはどこに行ったのでしょう。=It's almost time for the mission, but where has \nIrene-san gone to?
 見つけたら殺す。=If I find her, I'll kill her.
 Ｗｈａｔ？　あそこ、何を集まっているのかしら？=What? What's that gathering over there? 
 誰かを囲んでおるようだな。=Looks like they're surrounding someone.  
@@ -142,7 +142,7 @@ Commander Office
 霧の中にヒーローのシルエット…映像映えするわね！=The silhouette of a hero in the fog... it makes for \na great visual!
 ルカに行ってきますを言わないと…。=I need to say "I'm off" to Ruka...  
 あー、次はこのセリフ覚えなきゃいけないのかー…。=Aah, I need to memorize this line next...?
-頑張って次の事件簿のネームを作らないと。=I need to work hard on the storyboard for the next \ncase file.
+頑張って次の事件簿のネームを作らないと。=I need to work hard on the draft for the next \ncase file.
 どうして私が怪盗役なんて…\nやっぱり美しさが罪ということですね。=Why am I cast as a phantom thief... I guess beauty \nis a sin.
 あれ？　まだマリアさんだけですか？=Huh? Is it only you here yet, Maria-san?
 キャンサーを殺すのに特に準備は必要ないだろ。=I don't need any special preparations to kill Cancer.
@@ -204,7 +204,7 @@ Heli
 ジェイミーです！=Her name is Jamie!
 もうすぐ降下ポイントです。皆さん準備お願いします。=We're approaching the drop point. Prepare yourselves, everyone. 
 時間みたいね、おしゃべりはおしまいよ。=It's time, no more chatting.
-アイリーン。ヴリティカを起こせ。＝Irene, wake Vritika up.
+アイリーン。ヴリティカを起こせ。=Irene, wake Vritika up.
 <style\=RubyPrefixTag></style>\nアイリーン。ヴリティカを起こせ。=<style\=RubyPrefixTag></style>\nIrene, wake Vritika up.
 はい。ヴリティカさん、カリーの時間ですよ。=Yes. Vritika-san, it's curry time.
 はっ…！　カリー…！=Hah...! Curry...!
@@ -888,7 +888,7 @@ Clock tower - Maria
 <style\=RubyPrefixTag></style>\nうわあああ！　見られた！=<style\=RubyPrefixTag></style>\nUWAAAAH! She saw me!
 こんなところで寸劇をしておいて今更何を…。=After putting on a skit here, what's the point of \nacting embarrassed now...?
 <style\=RubyPrefixTag></style>\nこんなところで寸劇をしておいて今更何を…。=<style\=RubyPrefixTag></style>\nAfter putting on a skit here, what's the point of \nacting embarrassed now...?
-ふむふむ、なるほど。漫画のネーム中でしたか。=Hmm, I see. You're working on a manga storyboard.
+ふむふむ、なるほど。漫画のネーム中でしたか。=Hmm, I see. You're working on a manga draft.
 どうしてわかったんですか？=How did you know?
 簡単なことです。一千子さんの手にしているスケッチブックと、おふたりのセリフ。=It's simple. The sketchbook in Ichiko-san's hand \nand your dialogues.
 構図の精度をあげるために、名探偵と怪盗の寸劇をしていたといったところですね。=You were acting out a skit between a great detective \nand a phantom thief to improve the composition, right?
@@ -1502,7 +1502,7 @@ Night - Day 2
 適当な奴に見られるのはいいけど、本人に見られるってめちゃくちゃ恥ずかしいだろ！=It's fine if random people see it, but being seen \nby the person herself is incredibly embarrassing!
 はあ、そういうものですか？=Ah, is that what the problem is?
 いえ、とても懐かしい気持ちになりましたよ。=No, it brought back nostalgic feelings.
-アイリーンさん。丁度良かったです。このネームを見てくれませんか。=Irene-san. Perfect timing. Could you look at this \nstoryboard?
+アイリーンさん。丁度良かったです。このネームを見てくれませんか。=Irene-san. Perfect timing. Could you look at this \ndraft?
 いいですよ。=Sure.
 やっぱり五十鈴さんが名探偵役なんですね…。=I knew it, Isuzu-san is playing the great detective...
 すみません、なるべくアイリーンさんに寄せようと思ったんですが…。=Sorry, I tried to match it to Irene-san as much as \npossible...
@@ -2581,3 +2581,7 @@ Extra line
 シオンさんっ！！=Shion-san!!
 策が浮かばぬが…征くしかない！=I can't think of a strategy, but we must go forward!
 よい法則です。=Good rule.
+
+アイリーン・レドメインの事件簿 －名探偵と森の魔女－=Irene Redmayne's Case Files －The Great Detective and the Witch of the Forest－
+霧に隠れる新種の白いキャンサーと遭遇した３１Ｘ。\n哨戒から討伐に任務を切り替え、再び森へ向かう。\n霧の揺らぎを目掛けて降下するも敵影は見つからず…。=31X encountered a new species of White Cancer hiding in the fog. \nChanging their mission from patrol to extermination, 31X headed back into the forest. \nThey descended into the wavering mist, but found no sign of the enemy...
+風の影響で、ドームのほうへ霧が流れていることが判明する。\nそれはキャンサーの脅威がドームに及ぶことを意味していた。\n白いキャンサーとの決着をつけるため３１Ｘは緊急出動する。=It was discovered that the fog was flowing toward the dome due to the influence of the wind. \nThis meant that the Cancer's threat was reaching the dome. \nTo deal with the white cancer, 31X was urgently dispatched.
