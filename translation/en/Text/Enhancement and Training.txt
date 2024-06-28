@@ -186,11 +186,11 @@
 オーブボスⅢ=Orb Boss III
 オーブボスⅡ=Orb Boss II
 オーブボスⅠ=Orb Boss I
-シニスター＆レクタス・ニールP=Sinister&Rectus-Neal P
-シニスター＆レクタス・ニールW=Sinister&Rectus-Neal W
-シニスター＆レクタス・ニールY=Sinister&Rectus-Neal Y
-シニスター＆レクタス・ニールB=Sinister&Rectus-Neal B
-シニスター＆レクタス・ニールR=Sinister&Rectus-Neal R
+シニスター＆レクタス・ニールP=Sinister&RectusNill P
+シニスター＆レクタス・ニールW=Sinister&RectusNill W
+シニスター＆レクタス・ニールY=Sinister&RectusNill Y
+シニスター＆レクタス・ニールB=Sinister&RectusNill B
+シニスター＆レクタス・ニールR=Sinister&RectusNill R
 アモンP=Amon P
 アモンW=Amon w
 アモンB=Amon B
