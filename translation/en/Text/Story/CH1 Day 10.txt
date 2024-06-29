@@ -310,8 +310,8 @@ EXTRA LINE CH1 DAY 10
 <style\=RubyPrefixTag></style>\nあん？　喧嘩売っとんのか。=<style\=RubyPrefixTag></style>\nHah? Are you picking a fight?
 このナービィ、目が綺麗。=This narvy has pretty eyes.
 <style\=RubyPrefixTag></style>\nこのナービィ、目が綺麗。=<style\=RubyPrefixTag></style>\nThis narvy has pretty eyes.
-どこに行ったんだろ？=Which Narvy.
-<style\=RubyPrefixTag></style>\nどこに行ったんだろ？=<style\=RubyPrefixTag></style>\nWhich Narvy.
+どこにいんだよ？=Which Narvy.
+<style\=RubyPrefixTag></style>\nどこにいんだよ？=<style\=RubyPrefixTag></style>\nWhich Narvy.
 でも確かに…急いだほうがよさそうだな。=But yeah, we should probably hurry.
 <style\=RubyPrefixTag></style>\nでも確かに…急いだほうがよさそうだな。=<style\=RubyPrefixTag></style>\nBut yeah, we should probably hurry.
 深い階層になって、たぶんキャンサーも強力になっているはずだ。=The enemies are probably getting stronger on the \ndeeper floors.
