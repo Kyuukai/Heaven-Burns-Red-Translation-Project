@@ -332,7 +332,7 @@ Names:
 [大島四ツ葉]=[Yotsuha Ohshima]
 [大島 四ツ葉]=[Yotsuha Ohshima]
 -----------------
-白河 ユイナ=<size\=85%>Yuina Shirakawa</size>
+白河 ユイナ=<size\=75%>Yuina Shirakawa</size>
 白河ユイナ=Yuina Shirakawa
 [白河ユイナ]=[Yuina Shirakawa]
 [白河 ユイナ]=[Yuina Shirakawa]
