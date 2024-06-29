@@ -1,12 +1,39 @@
+[Colors]
 ピンク=Pink
+ピンクを獲得しました=Pink Obtained
+
 [31X]部隊ロゴ=[31X] Unit Logo
+[31X]部隊ロゴを獲得しました=[31X] Unit Logo Obtained
+
 イエロー=Yellow
+イエローを獲得しました=Yellow Obtained
+
 [31C]部隊ロゴ=[31C] Unit Logo
+[31C]部隊ロゴを獲得しました=[31C] Unit Logo Obtained
+
 グリーン=Green
+グリーンを獲得しました=Green Obtained
+
 [31A]部隊ロゴ=[31A] Unit Logo
+[31A]部隊ロゴを獲得しました=[31A] Unit Logo Obtained
+
 ブルー=Blue
+ブルーを獲得しました=Blue Obtained
+
 オレンジ=Orange
+オレンジを獲得しました=Orange Obtained
+
 ブラックゴールド=Black Gold
+ブラックゴールドを獲得しました=Black Gold Obtained
+
+[31E]部隊ロゴ=[31E] Unit logo
+[31E]部隊ロゴを獲得しました=[31E] Unit logo Obtained
+
 ライムグリーン=Lime Green
-[31E]部隊ロゴ=[31E] Unit Logo
-所持済み=Owned
+ライムグリーンを獲得しました=Lime Green Obtained
+
+[Other]
+着せ替えポイント=Dress-up Points
+この着せ替えを購入しますか？=Would you like to purchase this Dress-up?
+プレビュー中=Previewing
+所持済み=Obtained
