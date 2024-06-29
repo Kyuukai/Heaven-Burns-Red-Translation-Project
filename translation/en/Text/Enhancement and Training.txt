@@ -147,8 +147,8 @@
 [{{B}}]アラクネラインAに挑戦します。\n{{A}}=[{{B}}] Challenge Arachneline A. {{A}}
 
 [{{A}}]ヘイルホース=[{{A}}] HaleHorse
-[{{A}}]ヘイルホース : Lv.9=[{{A}}] HaleHorse: Lv.8
-[{{A}}]ヘイルホース : Lv.8=[{{A}}] HaleHorse: Lv.9
+[{{A}}]ヘイルホース : Lv.8=[{{A}}] HaleHorse: Lv.8
+[{{A}}]ヘイルホース : Lv.9=[{{A}}] HaleHorse: Lv.9
 [{{A}}]ヘイルホース : Lv.10=[{{A}}] HaleHorse: Lv.10
 [{{A}}]ヘイルホース : Lv.11=[{{A}}] HaleHorse: Lv.11
 [{{A}}]ヘイルホース : Lv.12=[{{A}}] HaleHorse: Lv.12
