@@ -1,0 +1,166 @@
+-------------------------------------
+- Bond 1 TL Added
+-
+-
+-
+-------------------------------------
+UI etc
+------------------------
+現在の絆Lv.5=Current bond Lv.5
+現在の絆Lv.4=Current bond Lv.4
+現在の絆Lv.3=Current bond Lv.3
+現在の絆Lv.2=Current bond Lv.2
+現在の絆Lv.1=Current bond Lv.1
+現在の絆Lv.0=Current bond Lv.0
+ユッキーのＫＥＴＳＵ=Yukki's KETSU
+第一章 Day 2 19 : 00=Chapter 1 - Day 2 - 19:00
+ユッキーのプログラム製作=Yukki's Programming Project
+第二章 Day 7 16 : 30=Chapter 2 - Day 7 - 16:30
+ユッキーと階段落ち=Falling from stairs with Yukki
+第四章 前編 Day 2 19 : 00=Chapter 4 Part 1 - Day 2 - 19:00
+ユッキーの邪念=Yukki's wicked thought
+第五章 前編 Day 12 19 : 00=Chapter 5 Part 1 - DAY - 12 19:00
+絆Lv.5=Bond Lv.5
+絆Lv.4=Bond Lv.4
+絆Lv.3=Bond Lv.3
+絆Lv.2=Bond Lv.2
+絆Lv.1=Bond Lv.1
+絆Lv.0=Bond Lv.0
+------------------------
+------Yukki BOND 1
+------------------------
+※プレイ後絆Lv.は変化しません。=※Bond level will not change after playing.
+報酬は取得済みです=The reward has been obtained
+はじめる=Start
+ユッキーがなにやら作業中だ。軽食を買ってきて、仲を深めよう！=<size\=80%>Yukki is working on something. Let's buy her a snack and deepen our friendship!</size>
+交流開始条件をクリアしていません (残り 0/1)=Condition that hasn't been met to start the interaction (Remaining 0/1)
+交流開始条件をクリアしていません (残り 1/1)=Condition that hasn't been met to start the interaction (Remaining 1/1)
+
+よう、彼女何してんの？=Yo missy, what are you doing?
+ナンパか。=Are you trying to pick up girls?
+<style\=RubyPrefixTag></style>\nナンパか。=<style\=RubyPrefixTag></style>\nAre you trying to pick up girls?
+いや、いつもみんなで居るからさ、ふたりで話したいと思って探していたんだ。=Nah, I usually see you with everyone else, so I thought \nI'd take this chance to talk to you alone.
+別に自由時間まであたしなんかに構わなくていーぜ。他の奴らと過ごしたほうが有意義だ。=You don't have to bother with me during your free time. \nIt'd be more meaningful to spend it with the others.
+今はユッキーと過ごしたい。=I want to spend time with you right now.
+忙しいんだけどな…。=I'm busy, you know.
+じゃ、小腹が空いたから、軽食買ってきてもらってもいいか？=Oh well, I'm a bit hungry. Could you buy me a snack?
+なにがいい？=What should I get?
+なんでもいーよ。=Anything is fine.
+<style\=RubyPrefixTag></style>\nなんでもいーよ。=<style\=RubyPrefixTag></style>\nAnything is fine.
+軽食って言ったらなんだろ？=I wonder what is considered a snack?
+31Aのメンバーに聞いてみよう！=Let's ask the members of 31A!
+------------------------
+Choice - Megumin
+------------------------
+軽食って言ったらなに？=What kind of snack would you suggest?
+<style\=RubyPrefixTag></style>\n軽食って言ったらなに？=<style\=RubyPrefixTag></style>\nWhat kind of snack would you suggest?
+たこせん一択や。=Takosen, definitely.
+<style\=RubyPrefixTag></style>\nたこせん一択や。=<style\=RubyPrefixTag></style>\nTakosen, definitely.
+買ってきたよー。=I bought it～
+なんだこれ？=What is this?
+たこせんというらしい。=Apparently it's called takosen.
+聞いたこともねーよ…。まあ、頂くが。=I've never heard of it before... Well, I'll give it \na try.
+なんだよこれ、クソうめーじゃねーか！=What the heck is this!? It's delicious as heck!!
+すげーな、食べるのに夢中になって作業が疎かになるレベルだよ！=Amazing, it's so good that I can't even concentrate \non my work!
+<style\=RubyPrefixTag></style>\nすげーな、食べるのに夢中になって作業が疎かになるレベ\r\nルだよ！=<style\=RubyPrefixTag></style>\nAmazing, it's so good that I can't even concentrate \non my work!
+で、ユッキーは何してんの？=So, what are you doing, Yukki?
+<style\=RubyPrefixTag></style>\nで、ユッキーは何してんの？=<style\=RubyPrefixTag></style>\nSo, what are you doing, Yukki?
+この電子軍人手帳でちょっと遊んでる。=I'm just playing around with this electronic military \nnotebook.
+<style\=RubyPrefixTag></style>\nこの電子軍人手帳でちょっと遊んでる。=<style\=RubyPrefixTag></style>\nI'm just playing around with this electronic military \nnotebook.
+え！？　ゲームが入ってるの！？　あたしもやりたい！！　課金しまくって廃人になりたい！！=Eh?! Does it have games? I want to play too! I want \nto spend all my money on it and become an addict!
+<style\=RubyPrefixTag></style>\nえ！？　ゲームが入ってるの！？　あたしもやりたい！！\r\n課金しまくって廃人になりたい！！=<style\=RubyPrefixTag></style>\nEh?! Does it have games? I want to play too! I want \nto spend all my money on it and become an addict!
+ねーよ。しかもそんなしょうもないことで廃人になるなよ…せめてキャンサーとの戦いに敗れてなれよ。=No, it doesn't. And don't become an addict over something \nso trivial... at least lose a fight with a Cancer if \nyou want to end up like that.
+<style\=RubyPrefixTag></style>\nねーよ。しかもそんなしょうもないことで廃人になるなよ\r\n…せめてキャンサーとの戦いに敗れてなれよ。=<style\=RubyPrefixTag></style>\nNo, it doesn't. And don't become an addict over something \nso trivial... at least lose a fight with a Cancer if \nyou want to end up like that.
+なんだないのか…。じゃあ、どんな遊びができるの？=What? No games? Then, what can we play in that thing?
+<style\=RubyPrefixTag></style>\nなんだないのか…。じゃあ、どんな遊びができるの？=<style\=RubyPrefixTag></style>\nWhat? No games? Then, what can we play in that thing?
+ある程度プログラミングで制御できるんだ。だから、試せることを試してみてる最中。=You can control it to some extent with programming. \nI'm testing what it can do.
+じゃあ、ゲーム作って！！　それをデンチョゲーと呼ぼう！！=Then, go make a game! We'll call it E-Game!
+ゲームなんて作らねーよ。簡単に言うと人工知能みたいなもんだよ。=I'm not making a game. Simply put, it's like artificial \nintelligence.
+出来た。=Done.
+すげー！　話しかけていい！？　話しかけていい！？=Awesome! Can I talk to it!? Can I!?
+<style\=RubyPrefixTag></style>\nすげー！　話しかけていい！？　話しかけていい！？=<style\=RubyPrefixTag></style>\nAwesome! Can I talk to it!? Can I!?
+テンション上がりすぎだろ…。=You're too excited... 
+<style\=RubyPrefixTag></style>\nテンション上がりすぎだろ…。=<style\=RubyPrefixTag></style>\nYou're too excited... 
+でもデバッグも兼ねられるか…話しかけてみろよ。=But it can help with debugging. Go ahead and talk \nto it.
+よーし、お前に名前を付けてやろう。お前の名前は…。=Alright, I'll give you a name. Your name will be... 
+<style\=RubyPrefixTag></style>\nよーし、お前に名前を付けてやろう。お前の名前は…。=<style\=RubyPrefixTag></style>\nAlright, I'll give you a name. Your name will be... 
+ＫＥＴＳＵで{ＫＥＴＳＵ:ケツ}。=K-E-T-S-U, {KETSU: Butt}.
+<style\=RubyPrefixTag></style>\nＫＥＴＳＵでＫＥＴＳＵ<space\=-142.157px><voffset\=1em><size\=50%><cspace\=0px>ケツ</cspace></size></voffset><space\=95.469px><style\=RubySuffixTag></style>。=<style\=RubyPrefixTag></style>\nK-E-T-S-U, KETSU.<space\=-102.157px><voffset\=1em><size\=70%><cspace\=0px>Butt</cspace></size></voffset><space\=45.469px><style\=RubySuffixTag></style>
+わかりました。わたしはＫＥＴＳＵです。=Understood. I am KETSU.
+<style\=RubyPrefixTag></style>\nあーーーーーーーーーーーー！！=<style\=RubyPrefixTag></style>\nAHHHHHH!!
+覚えちまったぁぁーーーーーー！！=It memorized!!
+<style\=RubyPrefixTag></style>\n覚えちまったぁぁーーーーーー！！=<style\=RubyPrefixTag></style>\nIt memorized!!
+なんでそんな下品な名前をつけたぁぁーーーー！！=Why did you give it such a vulgar name!?
+<style\=RubyPrefixTag></style>\nなんでそんな下品な名前をつけたぁぁーーーー！！=<style\=RubyPrefixTag></style>\nWhy did you give it such a vulgar name!?
+いや、ＳＩＲＩに対抗して。=To compete with SIRI.
+<style\=RubyPrefixTag></style>\nいや、ＳＩＲＩに対抗して。=<style\=RubyPrefixTag></style>\nTo compete with SIRI.
+<style\=RubyPrefixTag></style>\nあれはお尻じゃねぇーーーーーーーー！！=<style\=RubyPrefixTag></style>\nThat SIRI doesn't mean "Ass"!! 
+いやあたしも特にお尻を意識してつけたわけじゃないから安心しろ。どうだ、気に入ったか、ＫＥＴＳＵ。=I didn't pick the name with butt in mind either, \nso don't worry. Do you like it, KETSU?
+はい。気に入りました。=Yes. I like it.
+よかった。=Good.
+<style\=RubyPrefixTag></style>\nよくねぇーーーーーーー！！=<style\=RubyPrefixTag></style>\nThat's not good at all!! 
+<style\=RubyPrefixTag></style>\n毎回あたしが\nＫＥＴＳＵって呼ばなきゃならねーんだぜ！？=<style\=RubyPrefixTag></style>\nNow I have to call it KETSU every time, \nyou know!?
+二文字だからめっちゃ呼びやすいじゃん。な、ＫＥＴＳＵ。=It's easy to call since it's just two syllables. \nRight, KETSU?
+というわけで、ＫＥＴＳＵに決定。じゃあな。よろしくでございます！！=So, KETSU it is. See you. Have a nice day!!
+<style\=RubyPrefixTag></style>\nというわけで、ＫＥＴＳＵに決定。じゃあな。よろしくで\r\nございます！！=<style\=RubyPrefixTag></style>\nSo, KETSU it is. See you. Have a nice day!!
+<style\=RubyPrefixTag></style>\nあーーーー！！　逃げられたーーーーーーー！！=<style\=RubyPrefixTag></style>\nAHHHHHHH!! \nShe ran away!!
+------------------------
+bath
+------------------------
+（いや、今日はひとりで入ろう）=(I'll go in alone today)
+（ユッキーを誘ってお風呂に行こうかな）=(Should I invite Yukki to the bath?)
+<style\=RubyPrefixTag></style>\n誘わない=<style\=RubyPrefixTag></style>\nDon't invite
+<style\=RubyPrefixTag></style>\n誘う=<style\=RubyPrefixTag></style>\nInvite
+<style\=RubyPrefixTag></style>\nお風呂に誘う？=<style\=RubyPrefixTag></style>\nInvite to the bath?
+あのさ、ユッキー…。=Hey, Yukki... 
+<style\=RubyPrefixTag></style>\nあのさ、ユッキー…。=<style\=RubyPrefixTag></style>\nHey, Yukki... 
+風呂行くか？=Wanna go to the bath?
+<style\=RubyPrefixTag></style>\n風呂行くか？=<style\=RubyPrefixTag></style>\nWanna go to the bath?
+行く行く！=Yes! Let's go!
+<style\=RubyPrefixTag></style>\n行く行く！=<style\=RubyPrefixTag></style>\nYes! Let's go!
+相変わらずスタイルいいな、ユッキーは。=You've got a great figure as ever, Yukki.
+じろじろ見てくんじゃねーよ。二度と一緒に入らねーぞ。=Stop staring. Or I won't go in with you again, okay?
+そんなぁーーーー！！　チラ見にしておく。=No way! I'll just glance then.
+<style\=RubyPrefixTag></style>\nそんなぁーーーー！！　チラ見にしておく。=<style\=RubyPrefixTag></style>\nNo way! I'll just glance then.
+絶望の後が反省になってないからな。=That doesn't sound like you're reflecting on your \nactions.
+それに、お前のほうがぜってースタイルいいだろ。ルックスでも大人気だったじゃねーか。モデルみたいな写真いっぱい撮られてたろ。=Besides, you definitely have a better figure. \nYou were even popular for your looks, weren't you? You had a lot of pictures taken of you like a model.
+<style\=RubyPrefixTag></style>\nそれに、お前のほうがぜってースタイルいいだろ。ルック\r\nスでも大人気だったじゃねーか。モデルみたいな写真いっ\r\nぱい撮られてたろ。=<style\=RubyPrefixTag></style>\nBesides, you definitely have a better figure. \nYou were even popular for your looks, weren't you? You had a lot of pictures taken of you like a model.
+撮影は、需要あんのかな？って謎だったなぁ。=I wonder if those photoshoots were really necessary.
+自分のカリスマ性をもっと把握してろよ。=You should be more aware of your own charisma.
+<style\=RubyPrefixTag></style>\n自分のカリスマ性をもっと把握してろよ。=<style\=RubyPrefixTag></style>\nYou should be more aware of your own charisma.
+あたしってそんなすごい？=Am I really that amazing?
+すげーよ…。=...You are.
+よく聞こえなかった。=I didn't hear that well.
+すげーーよ！！　こんな恥ずいこと言わせんなよ！！=You're amazing!! Don't make me say such embarrassing \nthings!
+やったね！=Yay!
+ちなみにユッキーもすごいよ？=By the way, you're amazing too, Yukki.
+<style\=RubyPrefixTag></style>\nちなみにユッキーもすごいよ？=<style\=RubyPrefixTag></style>\nBy the way, you're amazing too, Yukki.
+もう出る！=I'm getting out!
+<style\=RubyPrefixTag></style>\nもう出る！=<style\=RubyPrefixTag></style>\nI'm getting out!
+えーもおーーー？=Eeh～　Already～?
+<style\=RubyPrefixTag></style>\nえーもおーーー？=<style\=RubyPrefixTag></style>\nEeh～　Already～?
+いい湯だな〜。=This bath feels nice.
+------------------------
+Choice - Tama
+------------------------
+乾パンではないでしょうか！！=How about Crackers!?
+<style\=RubyPrefixTag></style>\n乾パンではないでしょうか！！=<style\=RubyPrefixTag></style>\nHow about Crackers!?
+非常食じゃねーか…。まあ、頂くが。=That's emergency food... But I'll eat it.
+<style\=RubyPrefixTag></style>\n非常食じゃねーか…。まあ、頂くが。=<style\=RubyPrefixTag></style>\nThat's emergency food... But I'll eat it.
+ぱっさぱさで水なしじゃ飲み込めねーじゃねーか。=This is so dry, I can't swallow it without water.
+------------------------
+Choice - Tsukasa
+------------------------
+ケバブサンドとかじゃない？=How about a kebab sandwich?
+癖の強いもんセレクトしてきたな…。まあ、頂くが。=You picked something with a strong flavor... \nBut I'll eat it.
+<style\=RubyPrefixTag></style>\n癖の強いもんセレクトしてきたな…。まあ、頂くが。=<style\=RubyPrefixTag></style>\nYou picked something with a strong flavor... \nBut I'll eat it.
+無駄にうめーじゃねーか…。=This is surprisingly good...
+<style\=RubyPrefixTag></style>\n無駄にうめーじゃねーか…。=<style\=RubyPrefixTag></style>\nThis is surprisingly good...
+------------------------
+Choice - Karen
+------------------------
+ピザ。メインでもいけるし、軽食でもいける最強の食べ物だと思う。=Pizza. It can be a main dish or a snack, it's the \nultimate food.
+<style\=RubyPrefixTag></style>\nピザ。メインでもいけるし、軽食でもいける最強の食べ物\r\nだと思う。=<style\=RubyPrefixTag></style>\nPizza. It can be a main dish or a snack, it's the \nultimate food.
+なんでＬサイズなんだよ…。まあ、頂くが。=Why is it a large size... But I'll eat it.
+熱々でチーズが垂れて、集中出来ねーじゃねーか。=This is too hot, and the cheese is melting, I can't \nconcentrate.
+-------------------------------------
