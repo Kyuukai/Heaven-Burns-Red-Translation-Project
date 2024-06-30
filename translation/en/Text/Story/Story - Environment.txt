@@ -17,6 +17,7 @@
 学舎=School
 宿舎=Lodging House
 アリーナ前通り=Arena Front Street
+カフェテリア=Cafeteria
 
 -----------------
 Environments:
