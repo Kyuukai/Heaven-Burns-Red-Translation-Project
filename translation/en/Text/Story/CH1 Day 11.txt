@@ -144,7 +144,7 @@
 でも、ここまで来たらやるしかないだろ。=But we've come this far, we have no choice but to \nfight!
 <style\=RubyPrefixTag></style>\nでも、ここまで来たらやるしかないだろ。=<style\=RubyPrefixTag></style>\nBut we've come this far, we have no choice but to \nfight!
 行くぞ！=let's go!
-<style\=RubyPrefixTag></style>\nああ=<style\=RubyPrefixTag></style>\Yeah
+<style\=RubyPrefixTag></style>\nああ=<style\=RubyPrefixTag></style>\nYeah
 <style\=RubyPrefixTag></style>\n了解です！=<style\=RubyPrefixTag></style>\nRoger!
 足がすくむ…\nでも、前に進むんだ…！=My legs are shaking... \nbut I have to keep moving forward...!
 
