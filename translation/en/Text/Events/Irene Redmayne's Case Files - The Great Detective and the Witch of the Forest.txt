@@ -917,13 +917,13 @@ Clock tower - Maria
 <style\=RubyPrefixTag></style>\nしっかりと漫画にしてください。=<style\=RubyPrefixTag></style>\nPlease make sure to turn it into a proper manga.
 はい、頑張ります！　名探偵五十鈴を描き上げてみせます！=Yes, I'll do my best! I'll draw up The Great Detective \nIsuzu!
 アイリーン・レドメインの事件簿ですーーー！=This is the Case Files of Irene Redmayne!
-さて、今日は霧の森のキャンサー討伐ですね。=Well ten, today we're heading to defeat the Cancer \nin the foggy Forest.
+さて、今日は霧の森のキャンサー討伐ですね。=Well then, today we're heading to defeat the Cancer \nin the foggy Forest.
 
 ------------------------------------------
 Heliport
 ------------------------------------------
 
-<style\=RubyPrefixTag></style>\nさて、今日は霧の森のキャンサー討伐ですね。=<style\=RubyPrefixTag></style>\nWell ten, today we're heading to defeat the Cancer \nin the foggy Forest.
+<style\=RubyPrefixTag></style>\nさて、今日は霧の森のキャンサー討伐ですね。=<style\=RubyPrefixTag></style>\nWell then, today we're heading to defeat the Cancer \nin the foggy Forest.
 準備をしてヘリポートに向かいましょうか。=Let's prepare and head to the heliport.
 次は殺す…。=I will kill it this time...
 はぁ、ルカを浴びたい…\nルカ、どこ…。=Ah, I want to bathe in Ruka... Where are you, Ruka...
@@ -1205,8 +1205,8 @@ Irene and Maria
 <style\=RubyPrefixTag></style>\nまったく、軍はワシに迷惑しかかけぬのう。=<style\=RubyPrefixTag></style>\nReally, the military only ever causes me trouble.
 でも、助けてくれました。あなたはとてもいいひとですね。=But you helped us. You're a very kind person.
 ああ…シオンはいいひとでなくてはならぬのじゃ。=Yeah... Shion have to be a kind person.
-…？　ご自分のことですよね？=...? You're yourself, right?
-<style\=RubyPrefixTag></style>\n…？　ご自分のことですよね？=<style\=RubyPrefixTag></style>\n...? You're yourself, right?
+…？　ご自分のことですよね？=...? You're referring to yourself, right?
+<style\=RubyPrefixTag></style>\n…？　ご自分のことですよね？=<style\=RubyPrefixTag></style>\n...? You're referring to yourself, right?
 …そうじゃったな。=...Ah, yeah.
 あの…どうしてシオンさんはセラフ部隊が嫌いなんですか？=Um... Why do you hate the Seraph unit, Shion-san?
 軍が嫌いなだけで、セラフ部隊が嫌いなわけではない。=I hate the military, not the Seraph unit specifically.
@@ -1423,8 +1423,8 @@ Library - Day 2
 そのためには地形をしっかりと頭にたたき込んでおく必要がありそうですね。=It seems essential to memorize the terrain thoroughly.
 （戦果は成功だけど、セラフ部隊にも犠牲者が出てしまった…）=(The operation was a success, but there were casualties \nin the Seraph unit...)
 <style\=RubyPrefixTag></style>\n（戦果は成功だけど、セラフ部隊にも犠牲者が出てしまった\r\n…）=<style\=RubyPrefixTag></style>\n(The operation was a success, but there were casualties \nin the Seraph unit...)
-（ＭＩＡは…ふたり…。部隊長の{鏑木:かぶらぎ}シオン…え？　シオンさん？）=(Two MIA... The unit commander, Kaburagi Shion... \nEh? Shion-san?)
-<style\=RubyPrefixTag></style>\n（ＭＩＡは…ふたり…。部隊長の鏑木<space\=-94.422px><voffset\=1em><size\=50%><cspace\=0px>かぶらぎ</cspace></size></voffset><space\=0.793999px><style\=RubySuffixTag></style>シオン…え？　シオ\r\nンさん？）=<style\=RubyPrefixTag></style>\n(Two MIA... The unit commander, Kaburagi Shion... \nEh? Shion-san?)
+（ＭＩＡは…ふたり…。部隊長の{鏑木:かぶらぎ}シオン…え？　シオンさん？）=(Two MIA... The unit captain, Kaburagi Shion... \nEh? Shion-san?)
+<style\=RubyPrefixTag></style>\n（ＭＩＡは…ふたり…。部隊長の鏑木<space\=-94.422px><voffset\=1em><size\=50%><cspace\=0px>かぶらぎ</cspace></size></voffset><space\=0.793999px><style\=RubySuffixTag></style>シオン…え？　シオ\r\nンさん？）=<style\=RubyPrefixTag></style>\n(Two MIA... The unit captain, Kaburagi Shion... \nEh? Shion-san?)
 むっ、こっちの資料は作戦に参加した当時のセラフ部隊の写真だな。=Hmm, this document contains photographs of the Seraph \nunit participating in the operation.
 み、見せてもらっていいですか。=Can I take a look?
 うむ、これだ。=Mhm, here.
