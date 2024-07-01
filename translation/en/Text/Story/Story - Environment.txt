@@ -47,5 +47,8 @@
 女性１=Woman 1
 女性２=Woman 2
 ナレーター=Narrator
+乗組員Ａ=Crew A
 乗組員Ｂ=Crew B
 衛生兵=Medic
+コンピュータ=Computer
+料理長=Head Chef

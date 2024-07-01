@@ -32,4 +32,5 @@ Period
 朝=Morning
 早朝=Early Morning
 課業準備=Lesson Prep
+朝活動=Morning activities
 ------------
