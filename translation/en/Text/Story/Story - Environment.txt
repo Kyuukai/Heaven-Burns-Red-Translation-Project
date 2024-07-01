@@ -19,6 +19,33 @@
 アリーナ前通り=Arena Front Street
 カフェテリア=Cafeteria
 
------------------
-Environments:
-緩衝地帯=buffer zone
+[Chapter 4.2]
+習志野ドーム=Narashino Dome
+スクラップ集積場=Scrap Yard
+バイク置き場=Bike Parking Lot
+市場通り=Street
+広場=Square
+アキの家=Aki's House
+雑貨屋=General Store
+
+[Names]
+アキ=Aki
+ルミ=Rumi
+スクラップ屋=Scrap Dealer
+祈祷屋=Prayer
+模様替え屋=Remodeler
+天秤水平化屋=Scales Balancer
+氷菓子屋=Ice Cream Dealer
+バー屋=Bar Dealer
+斡旋屋=Job Dealer
+
+老婆=Old Woman
+ドーム住民１=Dome Resident 1
+ドーム住民２=Dome Resident 2
+ドーム住民３=Dome Resident 3
+救急車屋=Ambulance Shop
+女性１=Woman 1
+女性２=Woman 2
+ナレーター=Narrator
+乗組員Ｂ=Crew B
+衛生兵=Medic
