@@ -27,6 +27,21 @@
 ミッションへ=Missions Tab
 限界突破の器に溜まった力を消費してSSスタイルを限界突破することができます。\n限界突破2段階目までは100%消費、3段階目以降は200%消費して限界突破が可能です。=You can use the power accumulated in the Limit Break Vessel to break through the SS style. \nIt is possible to Limit Break by consuming 100% up to the 2nd stage, and 200% from the 3rd stage onwards.
 限界突破へ=Go to Limit Break Vessel
+必要な限界突破の力　200<size\=24>％</size>=Required Limit Break Power: 200<size\=24>％</size>
+限界突破ボーナス=Limit Break Bonus
+必要ピース数　0=Number of Required Pieces: 0
+
+限界突破（0→<color\=#91EAF2>1</color>)=Limit Break (0→)<color\=#91EAF2>1</color>)
+限界突破（1→<color\=#91EAF2>2</color>)=Limit Break (1→)<color\=#91EAF2>2</color>)
+限界突破（2→<color\=#91EAF2>3</color>)=Limit Break (2→)<color\=#91EAF2>3</color>)
+限界突破（3→<color\=#91EAF2>4</color>)=Limit Break (3→)<color\=#91EAF2>4</color>)
+限界突破成功！  0 → 1=Limit Break Successful! 0 → 1
+限界突破成功！  1 → 2=Limit Break Successful! 1 → 2
+限界突破成功！  2 → 3=Limit Break Successful! 2 → 3
+限界突破成功！  3 → 4=Limit Break Successful! 3 → 4
+
+200%以上で\n限界突破可能=Limit Break at 200% or higher
+100%以上で\n限界突破可能=Limit Break at 100% or higher
 
 [Divergence]
 毎週月曜4:00更新で取得=Acquired every Monday at 4:00.
