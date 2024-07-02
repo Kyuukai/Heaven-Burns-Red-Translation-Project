@@ -1,0 +1,263 @@
+﻿Phase04訓練が始まり、護衛の任を受ける31A。\nその後、31Aと蒼井は共に楽器屋へと向かう。=Phase04 Training has begun and is in charge of escort 31A. After that, 31A and Aoi head to the musical instrument store.
+おい、茅森。=Hey, Kayamori.
+…はっ！　なんでしょう？=... Huh!\n what do you want?
+今寝てただろ？=Did you sleep now?
+え、寝てないよ！？　寝てなかったよね！？=Well, I'm not sleeping! ? You didn't sleep! ?
+わかりやすい奴だな…。=It's an easy -to -understand guy ...
+<style\=RubyPrefixTag></style>\nわかりやすい奴だな…。=<style\=RubyPrefixTag></style>\nIt's an easy -to -understand guy ...
+そうだな。寝そうな時に身体がびくっとして起きる、あの現象にも名前がある。=That's right. That phenomenon is also named when my body gets up when I'm going to sleep.
+<style\=RubyPrefixTag></style>\nそうだな。寝そうな時に身体がびくっとして起きる、あの\r\n現象にも名前がある。=<style\=RubyPrefixTag></style>\nThat's right. That phenomenon is also named when my body gets up when I'm going to sleep.
+茅森、何だと思う？=Kayamori, what do you think?
+<style\=RubyPrefixTag></style>\nジョギング=<style\=RubyPrefixTag></style>\njogging
+<style\=RubyPrefixTag></style>\nジャーキング=<style\=RubyPrefixTag></style>\nJerking
+<style\=RubyPrefixTag></style>\n寝そうな時に身体がびくっとして起きる、あの現象…？=<style\=RubyPrefixTag></style>\nThat phenomenon that my body gets up when I'm going to sleep, that phenomenon ...?
+<style\=RubyPrefixTag></style>\nウタタネ=<style\=RubyPrefixTag></style>\nUtatane
+------------------------
+Option - Jerking
+------------------------
+ジャーキング。=Jerking.
+<style\=RubyPrefixTag></style>\nジャーキング。=<style\=RubyPrefixTag></style>\nJerking.
+正解だ。よく知っていたな。=That's right. I knew well.
+<style\=RubyPrefixTag></style>\n正解だ。よく知っていたな。=<style\=RubyPrefixTag></style>\nThat's right. I knew well.
+びくっとする原因は不明だが、ある仮説では眠るときの筋肉の弛緩で、高所から落下したと脳が勘違いすることで起こるそうだ。=The cause is unknown, but in one hypothesis, the muscles when sleeping, and the brain misunderstands that it has fallen from a high place.
+<style\=RubyPrefixTag></style>\nびくっとする原因は不明だが、ある仮説では眠るときの筋\r\n肉の弛緩で、高所から落下したと脳が勘違いすることで起\r\nこるそうだ。=<style\=RubyPrefixTag></style>\nThe cause is unknown, but in one hypothesis, the muscles when sleeping, and the brain misunderstands that it has fallen from a high place.
+ジャーキングは長時間起きているときや疲れているときに起こりやすい。=Jerking is likely to occur when you are awake for a long time or when you are tired.
+<style\=RubyPrefixTag></style>\nジャーキングは長時間起きているときや疲れているときに\r\n起こりやすい。=<style\=RubyPrefixTag></style>\nJerking is likely to occur when you are awake for a long time or when you are tired.
+今日は夜更かしせず早く寝るんだぞ。=I'm going to sleep early today without staying up late today.
+<style\=RubyPrefixTag></style>\n今日は夜更かしせず早く寝るんだぞ。=<style\=RubyPrefixTag></style>\nI'm going to sleep early today without staying up late today.
+なあ、おタマさんや。=Hey, Tama -san.
+<style\=RubyPrefixTag></style>\nなあ、おタマさんや。=<style\=RubyPrefixTag></style>\nHey, Tama -san.
+太ったね。=I'm fat.
+<style\=RubyPrefixTag></style>\n太ったね。=<style\=RubyPrefixTag></style>\nI'm fat.
+そんなことは決して…。=That kind of thing ...
+うちも気になってたところや。おーた時、もっとほっそりしとったで。=I was worried about it. When I got it, I was slender more.
+<style\=RubyPrefixTag></style>\nうちも気になってたところや。おーた時、もっとほっそり\r\nしとったで。=<style\=RubyPrefixTag></style>\nI was worried about it. When I got it, I was slender more.
+そんなめぐみさんまで…！=Until Megumi -san ...!
+どうなの？=What about?
+<style\=RubyPrefixTag></style>\nどうなの？=<style\=RubyPrefixTag></style>\nWhat about?
+だって、ここだと三食お腹いっぱいまで食べられちゃうじゃないですか！=Because here, you can eat up to the three meals!
+船だとそうはいかないのかー。=Isn't that the case with a ship?
+はい、積み込める量も限られてましたし。=Yes, the amount that could be loaded was limited.
+ということは、太ったんだね。=That means you got fat.
+ほんの少し…。=Just a little….
+ですが、それがいけないことでしょうか！？=But isn't that! ?
+<style\=RubyPrefixTag></style>\nですが、それがいけないことでしょうか！？=<style\=RubyPrefixTag></style>\nBut isn't that! ?
+別に誰も責めちゃいないよ。健康的でいいじゃん。=Nobody blame it. It's healthy and good.
+せやで。名前もタマなんやから、ずうたいも球のようでええやないか。=Saya. The name is also a ball, so it's like a ball.
+<style\=RubyPrefixTag></style>\nせやで。名前もタマなんやから、ずうたいも球のようでえ\r\nえやないか。=<style\=RubyPrefixTag></style>\nSaya. The name is also a ball, so it's like a ball.
+それは自分が許せません！　駄目です！　肥満は怠惰！　それすらコントロール出来ないようでは戦場で犬死にします！=I can't forgive it!\n No good! Obesity is lazy! If you can't even control it, you'll die on the battlefield!
+<style\=RubyPrefixTag></style>\nそれは自分が許せません！　駄目です！　肥満は怠惰！　\r\nそれすらコントロール出来ないようでは戦場で犬死にしま\r\nす！=<style\=RubyPrefixTag></style>\nI can't forgive it!\n No good! Obesity is lazy! If you can't even control it, you'll die on the battlefield!
+あれ、もうひとり暗いひとがいる。=Oh, there is another dark person.
+<style\=RubyPrefixTag></style>\nあれ、もうひとり暗いひとがいる。=<style\=RubyPrefixTag></style>\nOh, there is another dark person.
+なんや、東城も太っとったんか。=What was Tojo thick?
+わたしは…むしろ、痩せすぎていたから、今が標準よっ…。=I ... rather, because I was too thin, now is the standard ...
+コントロールしなくちゃおタマさんに怒られるぞー。=I'm angry at Tama -san.
+するもの！！=What you do! !
+おー、つかさっちにしてはこわっ。=Oh, it's crazy.
+そういや、ここでの生活も一ヶ月経つんだな…。=Well, my life here has passed a month ...
+あ、そうなんだ。=Oh, that's right.
+なんか意外と…。=Surprisingly ...
+<style\=RubyPrefixTag></style>\n辛い。もう駄目=<style\=RubyPrefixTag></style>\nhard. It's no good
+<style\=RubyPrefixTag></style>\n長かったな=<style\=RubyPrefixTag></style>\nIt was long
+<style\=RubyPrefixTag></style>\n一瞬だったな=<style\=RubyPrefixTag></style>\nIt was a moment
+<style\=RubyPrefixTag></style>\n意外と…=<style\=RubyPrefixTag></style>\nSurprisingly ...
+------------------------
+Option - a blink of an eye
+------------------------
+一瞬だったな。=It was a moment.
+まー、訓練訓練の毎日でそれをこなしていくのが精一杯だからなぁ。=Well, it's hard to do it every day of training training.
+他にも慣れないことたくさんありましたけど、慣れてきましたね！=There were many other things I was not used to, but I'm used to it!
+<style\=RubyPrefixTag></style>\n他にも慣れないことたくさんありましたけど、慣れてきま\r\nしたね！=<style\=RubyPrefixTag></style>\nThere were many other things I was not used to, but I'm used to it!
+ただの女子高生だったのに。=I was just a high school girl.
+慣れって恐ろしい…。=It's terrible to get used to it ...
+やっぱり美味しい…。=After all it is delicious ...
+<style\=RubyPrefixTag></style>\nやっぱり美味しい…。=<style\=RubyPrefixTag></style>\nAfter all it is delicious ...
+箸が止まりません…！！=Chopsticks do not stop ...! !
+今日からフェーズ４の訓練に入るわ。=I'm going to train phase 4 from today.
+<style\=RubyPrefixTag></style>\n今日からフェーズ４の訓練に入るわ。=<style\=RubyPrefixTag></style>\nI'm going to train phase 4 from today.
+フェーズ３で周辺の敵は殲滅されているから、３０Ｇと合流後、輸送車の護衛を引き継ぎなさい。=Since the surrounding enemies have been destroyed in Phase 3, after joining 30g, take over the escort of transport vehicles.
+その後、ポイントデルタまで護衛して先行していた３０Ｇに再度引き継げばフェーズ４は終了よ。=After that, if you take over to 30g, which had been escorted to the point delta, and phase 4, phase 4 will end.
+<style\=RubyPrefixTag></style>\nその後、ポイントデルタまで護衛して先行していた３０Ｇ\r\nに再度引き継げばフェーズ４は終了よ。=<style\=RubyPrefixTag></style>\nAfter that, if you take over to 30g, which had been escorted to the point delta, and phase 4, phase 4 will end.
+キャンサーに知性がないとはいえ、数で圧倒されたらひとたまりもないということはわかっているわね？=You know that if you get overwhelmed by the number, you don't have an intellect, right?
+<style\=RubyPrefixTag></style>\nキャンサーに知性がないとはいえ、数で圧倒されたらひと\r\nたまりもないということはわかっているわね？=<style\=RubyPrefixTag></style>\nYou know that if you get overwhelmed by the number, you don't have an intellect, right?
+だからこそ、敵の増援がないか、攻撃の余波で輸送車に危険が及ばないかを事前に予測しなさい。=That is why you should predict in advance whether there is no enemies reinforcement or if there is no danger to transport vehicles in the aftermath of the attack.
+とくに３１Ａは近接戦に特化しがちだから、ここで一度遠距離支援のスキルを磨いておくことね。=In particular, 31a tends to specialize in close battles, so here is a long -distance support skill.
+あのー。=Ummm.
+なにかしら、茅森さん。=Something, Kayamori -san.
+<style\=RubyPrefixTag></style>\nなにかしら、茅森さん。=<style\=RubyPrefixTag></style>\nSomething, Kayamori -san.
+いやー、難しい言葉が多くて…。=No, there are many difficult words ...
+何がわからないのですか。=What do you know?
+<style\=RubyPrefixTag></style>\nしあわせ=<style\=RubyPrefixTag></style>\nhappy
+<style\=RubyPrefixTag></style>\nせんめつ=<style\=RubyPrefixTag></style>\nSenmetsu
+<style\=RubyPrefixTag></style>\n何がわからない…=<style\=RubyPrefixTag></style>\nI don't know ...
+------------------------
+Option - annihilated
+------------------------
+せんめつ。=Senmetsu.
+<style\=RubyPrefixTag></style>\nせんめつ。=<style\=RubyPrefixTag></style>\nSenmetsu.
+ひとつ残らず滅ぼすことです。わかりましたか。=It is to destroy one. Did you understand.
+<style\=RubyPrefixTag></style>\nひとつ残らず滅ぼすことです。わかりましたか。=<style\=RubyPrefixTag></style>\nIt is to destroy one. Did you understand.
+他の部隊は、作戦地域の残敵を掃討しているから、必要に応じて長距離砲撃で援護しなさい。=Other units are sweeping the remaining enemies in the operation area, so please support them with long -range bombardments as needed.
+それらをどうやって援護するかを考えることも大事よ。=It's also important to think about how to support them.
+<style\=RubyPrefixTag></style>\nそれらをどうやって援護するかを考えることも大事よ。=<style\=RubyPrefixTag></style>\nIt's also important to think about how to support them.
+支援する部隊の背後から来る敵を倒すとか、次に相対する敵を予想して牽制するのかなど、状況判断を素早く行うように。=Let's quickly judge the situation, such as defeating enemies coming from behind the support units, or whether to check the next opposite enemy.
+護衛なんて眠くなる～。=An escort is sleepy.
+<style\=RubyPrefixTag></style>\n護衛なんて眠くなる～。=<style\=RubyPrefixTag></style>\nAn escort is sleepy.
+相手さんは寝かせてくれないようだぞ。=The other party doesn't seem to let me sleep.
+だったら、やるしかねーな。=Then I have to do it.
+敵やっつけたら、退屈になったぁ。目ぇ瞑っててもいい？=If I got the enemy, I was bored. Can I clean my eyes?
+いいわけあるか。ぜってーそのまま眠るだろ。=Is there a good thing? I will sleep as it is.
+おタマさんもそうしてるし。=Tama -san is doing so too.
+は！？=teeth! ?
+マジじゃねーか…おい、起きろ。元艦長、お前が一番寝ちゃ駄目だろ。=Isn't it really ... hey, get up. Former Captain, you're the best sleeping.
+い、いえ！　目瞑ってただけです！　決して寝てなどいません！=no! I just closed my eyes! I never sleep!
+<style\=RubyPrefixTag></style>\nい、いえ！　目瞑ってただけです！　決して寝てなどいま\r\nせん！=<style\=RubyPrefixTag></style>\nno! I just closed my eyes! I never sleep!
+お先に失礼します、ぐらい言え。=I'm sorry to say, say.
+<style\=RubyPrefixTag></style>\nお先に失礼します、ぐらい言え。=<style\=RubyPrefixTag></style>\nI'm sorry to say, say.
+言っても駄目だわ。=I can't say it.
+駄目だったのか？=Was it useless?
+お前だけはキャラ的に許されそうで恐いわ。=Only you are likely to be allowed as a character.
+<style\=RubyPrefixTag></style>\nお前だけはキャラ的に許されそうで恐いわ。=<style\=RubyPrefixTag></style>\nOnly you are likely to be allowed as a character.
+駄目だと思いますが…。=I don't think it's good ...
+…全体的に被弾が多すぎるわね。=… There are too many shots overall.
+このフェーズにくるまでに、あなたたちのデフレクタはだいぶ減っているはずよ。=Before you come to this phase, your deflector should have decreased considerably.
+そんな時に想定外の攻撃をまともに受けたら、どうなるかくらいはわかるでしょう？=If you take an unexpected attack at that time, you will know what will happen?
+<style\=RubyPrefixTag></style>\nそんな時に想定外の攻撃をまともに受けたら、どうなるか\r\nくらいはわかるでしょう？=<style\=RubyPrefixTag></style>\nIf you take an unexpected attack at that time, you will know what will happen?
+------------------------
+Option - Go to Hell
+------------------------
+今度は地獄か…。=This time is hell ...
+<style\=RubyPrefixTag></style>\n今度は地獄か…。=<style\=RubyPrefixTag></style>\nThis time is hell ...
+それに、輸送車はあなたたちと違って、一撃食らったら終わりよ。=And the transport vehicle, unlike you, ends once you hit it.
+すみません！=sorry!
+どんまい！=Do not mind!
+あたしらも怒られてるからな。=I'm angry.
+フェーズ４になれば、こちらの勝利自体はほぼ確定していると言っていいわ。=When it comes to phase 4, it can be said that this victory itself is almost confirmed.
+そのぶん焦らなくていいし安全な状態で戦えるとも言えるけど、それは連携をしっかりとることが前提よ。=It can be said that you do not need to be impatient and can fight in a safe state, but it is assumed that you will work together.
+<style\=RubyPrefixTag></style>\nそのぶん焦らなくていいし安全な状態で戦えるとも言える\r\nけど、それは連携をしっかりとることが前提よ。=<style\=RubyPrefixTag></style>\nIt can be said that you do not need to be impatient and can fight in a safe state, but it is assumed that you will work together.
+<style\=RubyPrefixTag></style>\n（<cspace\=0.2em>RotaryMole</cspace>はまだ見つかってないみたいだな）=<style\=RubyPrefixTag></style>\n（<cspace\=0.2em>RotaryMole</cspace>It doesn't seem to be found yet)
+------------------------
+Free time
+------------------------
+丸山=Round mountain
+宿舎前まで来い。=Come to the dormitory.
+よーしよしよし、いい子だねぇ。=Okay, it's a good child.
+ヴァゥゥ！=Va!
+ここからだとたくさん視える！　視えちゃいます！！=You can see a lot from here! I can see it! !
+<style\=RubyPrefixTag></style>\nここからだとたくさん視える！　視えちゃいます！！=<style\=RubyPrefixTag></style>\nYou can see a lot from here! I can see it! !
+このままでいいのかにゃ。=Is it okay to leave this as it is?
+いいに決まってるさ。=It's decided.
+サイキックで\nベンチプレス破壊してもうた。=I destroyed the bench press with a psychic.
+そんなにすごい力なら\nキャンサー相手にも使いましょうよ！！=If you are so amazing, use it for a cancer partner! !
+電子軍人手帳を見る時は\n目線と同じ高さで見るように。=When you look at the electronic military notebook, look at the same height as your eyes.
+いい姿勢を保つコツを訊いてるの。=I'm asking for tips for keeping a good posture.
+<style\=RubyPrefixTag></style>\nいい姿勢を保つコツを訊いてるの。=<style\=RubyPrefixTag></style>\nI'm asking for tips for keeping a good posture.
+よし、今日もやるぞー！=Alright, I'll do it today!
+<style\=RubyPrefixTag></style>\nよし、今日もやるぞー！=<style\=RubyPrefixTag></style>\nAlright, I'll do it today!
+こっちのほうが本分になりそうで恐いな…。=It's scary because this is more likely.
+本日も、よろしくお願いします！=Thank you again today!
+<style\=RubyPrefixTag></style>\n本日も、よろしくお願いします！=<style\=RubyPrefixTag></style>\nThank you again today!
+ああ！　ワン、ツー、ワンツースリーフォ！=ah! One, two, one -twice dream!
+<style\=RubyPrefixTag></style>\nああ！　ワン、ツー、ワンツースリーフォ！=<style\=RubyPrefixTag></style>\nah! One, two, one -twice dream!
+すみません、蒼井の音、ずれてましたよね…チューニングし直します。=I'm sorry, the sound of Aoi was out of the way ... I will tune it again.
+あれ？　さっきチューニングしたばかりだよな？=that? You just tuned it a while ago, right?
+<style\=RubyPrefixTag></style>\nあれ？　さっきチューニングしたばかりだよな？=<style\=RubyPrefixTag></style>\nthat? You just tuned it a while ago, right?
+え、はい。=Eh, yes.
+ちょっと貸してくれる？=Can you lend me a little?
+あー、弦が錆びてる。これはすぐ狂っちゃうよ。気づかなくてごめん。=Ah, the strings are rusted. This will go crazy soon. I'm sorry I didn't notice.
+<style\=RubyPrefixTag></style>\nあー、弦が錆びてる。これはすぐ狂っちゃうよ。気づかな\r\nくてごめん。=<style\=RubyPrefixTag></style>\nAh, the strings are rusted. This will go crazy soon. I'm sorry I didn't notice.
+いえいえ。=No.
+新しい弦に張り替えないと。=I have to replace it with a new string.
+どこにあるんだよ、そんなもん。=Where is it?
+<style\=RubyPrefixTag></style>\nどこにあるんだよ、そんなもん。=<style\=RubyPrefixTag></style>\nWhere is it?
+実は、基地内に楽器屋があるのを見つけた。=In fact, I found a musical instrument store on the base.
+そんなもんまであんのかよ…すげーな…。=Is it that kind of thing?
+というわけで買いに行こう。=So let's go buy.
+<style\=RubyPrefixTag></style>\nというわけで買いに行こう。=<style\=RubyPrefixTag></style>\nSo let's go buy.
+すごい！　これが楽器屋！！=amazing! This is an instrument store! !
+はぁー…ギターが並んで壮観やなぁ。=Huh ... the guitars are lined up and it's spectacular.
+なんだか、わくわくする。=Somehow, it's exciting.
+アップライトピアノもある…弾いてみたい…。=There is also an upright piano ... I want to play ...
+<style\=RubyPrefixTag></style>\nアップライトピアノもある…弾いてみたい…。=<style\=RubyPrefixTag></style>\nThere is also an upright piano ... I want to play ...
+お、フライングＶかっけー！　こいつでデビューしたかったのに、似合わないからって止められたんだよなぁ。=Oh, Flying V Kake! I wanted to make a debut with this guy, but I was stopped because it didn't look good.
+じゃあ、頑張って買いましょうよ！=Then, let's do our best!
+いやー、どうしよっかなー！=No, what should I do!
+あたし以外、すごい盛り上がりだな…。=Except for me, it's really exciting ...
+<style\=RubyPrefixTag></style>\nあたし以外、すごい盛り上がりだな…。=<style\=RubyPrefixTag></style>\nExcept for me, it's really exciting ...
+いらっしゃいませ♪　どうぞ試奏してみてくださいね♪=Welcome ♪ Please try it ♪
+よう、マリー。今日はギターの弦を買いにきただけだから。こいつをおくれ。=Yeah, Marie. I just came to buy a guitar string today. Please leave this guy.
+<style\=RubyPrefixTag></style>\nよう、マリー。今日はギターの弦を買いにきただけだから。\r\nこいつをおくれ。=<style\=RubyPrefixTag></style>\nYeah, Marie. I just came to buy a guitar string today. Please leave this guy.
+１００ＧＰになります♪=It will be 100GP ♪
+<style\=RubyPrefixTag></style>\n１００ＧＰになります♪=<style\=RubyPrefixTag></style>\nIt will be 100GP ♪
+こいつで美味いもんでも食いな。=Don't eat delicious food with this guy.
+<style\=RubyPrefixTag></style>\nこいつで美味いもんでも食いな。=<style\=RubyPrefixTag></style>\nDon't eat delicious food with this guy.
+お買い上げまことにありがとうございます♪=Thank you for your purchase ♪
+<style\=RubyPrefixTag></style>\nお買い上げまことにありがとうございます♪=<style\=RubyPrefixTag></style>\nThank you for your purchase ♪
+よし、目的は達成した！　戻るぞ、皆の者！=Alright, the purpose has been achieved! Return, everyone!
+みんなで来た意味あんのかよ。=That means that everyone came.
+あるよー！　気分あがるじゃん？=There is! Do you feel better?
+<style\=RubyPrefixTag></style>\nあるよー！　気分あがるじゃん？=<style\=RubyPrefixTag></style>\nThere is! Do you feel better?
+はいはい…。=Yes yes ...
+<style\=RubyPrefixTag></style>\n『オペレーション・プレアデス』決行まで あと１０日=<style\=RubyPrefixTag></style>\n10 days until "Operation Pleiades" decided
+------------------------
+Option - Jogging
+------------------------
+ジョギング。=jogging.
+正解はジャーキングだ。=The correct answer is jerking.
+------------------------
+Option - It was long
+------------------------
+長かったな。=It was long.
+<style\=RubyPrefixTag></style>\n長かったな。=<style\=RubyPrefixTag></style>\nIt was long.
+そうかぁ？　目まぐるしい日々で、一瞬だったよ…意外に余裕があるんだな。=Is that so? It was a momentary day, and it was a moment ... I can afford it.
+まあ、大体寝て起きたらリセット出来るから。=Well, you can reset it when you sleep.
+便利な頭してるな。=Don't have a convenient head.
+馬鹿みたいに言うな！=Don't say stupid!
+<style\=RubyPrefixTag></style>\n馬鹿みたいに言うな！=<style\=RubyPrefixTag></style>\nDon't say stupid!
+<style\=RubyPrefixTag></style>\n馬鹿みたいに言ったんだよ。=<style\=RubyPrefixTag></style>\nI said it was stupid.
+馬鹿みたいに言ったんだよ。=I said it was stupid.
+まあ、馬鹿だからいいけど。=Well, it's good because it's stupid.
+<style\=RubyPrefixTag></style>\nまあ、馬鹿だからいいけど。=<style\=RubyPrefixTag></style>\nWell, it's good because it's stupid.
+だと思ったよ。=I thought it was.
+<style\=RubyPrefixTag></style>\nだと思ったよ。=<style\=RubyPrefixTag></style>\nI thought it was.
+相変わらずイチャついとるなぁ。=I'm still flirting.
+違うわ！=It's different!
+------------------------
+Option - Happiness
+------------------------
+しあわせ。=happy.
+幸せがわからないのです。それはなんなのですか？=I don't understand happiness. What is it?
+なにをもってしてそれを幸せと呼ぶか。=What do you call it happy?
+お金、地位、名声、健康、家族、様々ですが、人類を救ってから考えても遅くないと思います。そもそも人類が滅んだ時点でその問題ごと吹き飛びます。=There are money, status, fame, health, family, and various things, but I don't think it's too late to save humanity. In the first place, when humanity is destroyed, the problem is blown away.
+<style\=RubyPrefixTag></style>\nお金、地位、名声、健康、家族、様々ですが、人類を救っ\r\nてから考えても遅くないと思います。そもそも人類が滅ん\r\nだ時点でその問題ごと吹き飛びます。=<style\=RubyPrefixTag></style>\nThere are money, status, fame, health, family, and various things, but I don't think it's too late to save humanity. In the first place, when humanity is destroyed, the problem is blown away.
+どうでしょう。=How about?
+そうでしょう。=Right.
+では続けます。=Then continue.
+------------------------
+Option - Utatane
+------------------------
+ウタタネ。=Utatane.
+寝てるだけじゃねーか。=I'm just sleeping.
+------------------------
+Option - too hard
+------------------------
+辛い。もう駄目。=hard. No more.
+平然としてたのに唐突にどうした。=What happened suddenly though it was calm.
+よくよく考えたら、こんな大変な毎日がこれからも続くんだろ？　もう絶望しかない。=If you think carefully, will such a difficult day continue in the future? I have no choice but to despair.
+おいおい、隊長が朝からそんな弱気でいるなよ…。=Hey, the captain has been such a bear from the morning ...
+和泉がちゃんと支えへんからや。=Izumi doesn't support it properly.
+うん、ユキさんの責任ね。=Yeah, Yuki's responsibility.
+ユキさんのせいでしょう！=Yuki's fault!
+<style\=RubyPrefixTag></style>\nユキさんのせいでしょう！=<style\=RubyPrefixTag></style>\nYuki's fault!
+なんでだよ！　くっそ…。=why! Dusk ...
+ほら、これあたしのヨーグルトだけど、食うか？=Look, this is my yogurt, but do you eat?
+酸っぱいのヤ！=Sour!
+<style\=RubyPrefixTag></style>\n酸っぱいのヤ！=<style\=RubyPrefixTag></style>\nSour!
+じゃあ、シュガー振るから。ほら、これで甘くなった。=Then, I'll shake sugar. Look, this has become sweet.
+やった！　ん！　美味しい！　元気でた！　頑張る！　人類救う！=Hooray!\n yeah!\n delicious! I was fine!\n do my best! Save humanity!
+<style\=RubyPrefixTag></style>\nやった！　ん！　美味しい！　元気でた！　頑張る！　人\r\n類救う！=<style\=RubyPrefixTag></style>\nHooray!\n yeah!\n delicious! I was fine!\n do my best! Save humanity!
+すげー単純で助かるぜ…。=It's so simple and helpful ...
+------------------------
+Option - Dive into your body
+------------------------
+そりゃ誰かの体に入ってゆけば、そいつの体は裂けて死ぬだろうけどさ…。=Well, if you enter someone's body, your body will tear and die ...
