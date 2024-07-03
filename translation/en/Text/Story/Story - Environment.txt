@@ -52,3 +52,4 @@
 衛生兵=Medic
 コンピュータ=Computer
 料理長=Head Chef
+<style\=RubyPrefixTag></style>\n鳩=<style\=RubyPrefixTag></style>Pigeon
