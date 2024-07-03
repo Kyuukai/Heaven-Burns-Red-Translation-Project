@@ -240,7 +240,7 @@ General store
 雑貨屋なんでもありやな。野菜屋が困るやろ。=Anything goes for the general store, huh? The grocery \nstore will be in trouble.
 そんなタピオカミルクティー専門店みたいなのがこのドームにあるわけないじゃない。=There's no such thing as an overly specialty store \nlike a tapioca milk store in this dome.
 あるから言うたんや！=I said it because there is!
-<style\=RubyPrefixTag></style>\nスクラップ屋氷菓子屋バー屋雑貨屋アンテナ角度調整屋\n救急車屋治療屋天秤水平化屋祈祷屋障子滑りよくさせ屋\nドブさらい屋模様替え屋全部専門すぎるやろ！！=<style\=RubyPrefixTag>\n<size\=80%>Scrap dealer, Ice cream Dealer, Bar Dealer, General Store, Antenna Adjuster, \nAmbulance Dealer, Medical Dealer, Scale Balancer, Prayer, Sliding Door Fixer, \nDitch Cleaner, and Home Remodeler, it's all too specialized!</size></style>\n
+<style\=RubyPrefixTag></style>\nスクラップ屋氷菓子屋バー屋雑貨屋アンテナ角度調整屋\n救急車屋治療屋天秤水平化屋祈祷屋障子滑りよくさせ屋\nドブさらい屋模様替え屋全部専門すぎるやろ！！=<style\=RubyPrefixTag>\n<size\=80%>Scrap Dealer, Ice Cream Dealer, Bar Dealer, Variety Shop, Antenna Adjuster, \nAmbulance Dealer, Medical Dealer, Scale Balancer, Prayer, Sliding Door Fixer, \nDitch Cleaner, and Home Remodeler, it's all too specialized!</size></style>\n
 自分で言うてて途中から何言うてるんやろ？って頭にハテナ浮かんできたわ！！=I said it myself and yet I'm starting to wonder what \nthe hell I'm even talking about!
 あなたがまだここの暮らしに慣れていないだけ。どれも全部、大事なお仕事なの。=You're just not used to living here yet. They're all \nimportant jobs.
 <style\=RubyPrefixTag></style>\nあなたがまだここの暮らしに慣れていないだけ。どれも全\r\n部、大事なお仕事なの。=<style\=RubyPrefixTag></style>\nYou're just not used to living here yet. They're all \nimportant jobs.
@@ -369,7 +369,7 @@ Bar
 確かこの辺に\n置いたはずなんだが…。=I think I left \nit around here...
 
 -----------------------
-Job dealer
+Quest Order
 -----------------------
 仕事をお探しかい、ボーイ。=Looking for a job, boy?
 <style\=RubyPrefixTag></style>\n仕事をお探しかい、ボーイ。=<style\=RubyPrefixTag></style>\nLooking for a job, boy?
@@ -508,7 +508,7 @@ TV
 <style\=RubyPrefixTag></style>\n頭なでなでー！　よーしよしよしよしよしよっしゃー！=<style\=RubyPrefixTag></style>\nI'll pat her head! There, there, there!!!
 普通に可愛がっとる！　それやったらええ！=He's just normally pampering her! That's fine!
 <style\=RubyPrefixTag></style>\n普通に可愛がっとる！　それやったらええ！=<style\=RubyPrefixTag></style>\nHe's just normally pampering her! That's fine!
-夜は斡旋屋もお休みさ。=The Job Dealer is closed at night.
+夜は斡旋屋もお休みさ。=The Quest Order is closed at night.
 ああん、まだかしら。=Ahn, not yet?
 おひとり様なら３００ジャスティス、五名様なら１５００ジャスティスにしときますよ！=For one person, it's 300 Justice, for five people, \nit's 1500 Justice!
 <style\=RubyPrefixTag></style>\nおひとり様なら３００ジャスティス、五名様なら１５００\r\nジャスティスにしときますよ！=<style\=RubyPrefixTag></style>\nFor one person, it's 300 Justice, for five people, \nit's 1500 Justice!

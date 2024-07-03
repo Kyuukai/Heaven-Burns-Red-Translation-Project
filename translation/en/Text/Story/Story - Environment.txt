@@ -26,7 +26,7 @@
 市場通り=Street
 広場=Square
 アキの家=Aki's House
-雑貨屋=General Store
+雑貨屋=Variety Shop
 
 [Names]
 アキ=Aki
@@ -35,9 +35,9 @@
 祈祷屋=Prayer
 模様替え屋=Remodeler
 天秤水平化屋=Scales Balancer
-氷菓子屋=Ice Cream Dealer
+氷菓子屋=Ice Candy
 バー屋=Bar Dealer
-斡旋屋=Job Dealer
+斡旋屋=Quest Order
 
 老婆=Old Woman
 ドーム住民１=Dome Resident 1
