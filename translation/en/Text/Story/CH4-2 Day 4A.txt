@@ -2,7 +2,7 @@
 夏祭りを終え、ドームにも馴染み始める逢川。\n一方、３１Ａは廃棄された駐屯地を目指し、\n砂漠の行軍路を突き進むのだった。=After finishing the summer festival, Aikawa begins to settle \ninto the dome. Meanwhile, 31A pushes forward on the march \nroute through the desert, aiming for an abandoned garrison.
 
 サラダに目玉焼きに鮭の塩焼き！？　朝から豪勢やないか！=Fried eggs and grilled salmon with salad!? What a \nluxurious breakfast!
-<style\=RubyPrefixTag></style>\nサラダに目玉焼きに鮭の塩焼き！？　朝から豪勢やないか！\r\n=<style\=RubyPrefixTag>\nFried eggs and grilled salmon with salad!? What a \nluxurious breakfast!\r\n</style>
+<style\=RubyPrefixTag></style>\nサラダに目玉焼きに鮭の塩焼き！？　朝から豪勢やないか！\r\n=<style\=RubyPrefixTag>\nFried eggs and grilled salmon with salad!? What a \nluxurious breakfast!\r\n</style>\n
 夏祭りでたんまり儲けたからな。しばらくは豪華や。=We made a lot of money at the summer festival. \nWe can splurge for a while.
 <style\=RubyPrefixTag></style>\n夏祭りでたんまり儲けたからな。しばらくは豪華や。=<style\=RubyPrefixTag></style>\nWe made a lot of money at the summer festival. \nWe can splurge for a while.
 鮭ひっさしぶりー！　おいしい～！=It's been a while since we had salmon! Delicious!
@@ -202,7 +202,7 @@ Store visit
 <style\=RubyPrefixTag></style>\n夏祭りも終わったたい。心機一転、新商品を売り始めたっ\r\nしゃい！=<style\=RubyPrefixTag></style>\nThe summer festival is over. Time for a new start \nwith new products!!!!
 ほう、どんなんや？=Ooh, what's new?
 ケーキタイプのアイスたい！　その名もぴえんネッタたい！=A cake-style ice cream!!!! It's called Piennetta!!!!\n<size\=75%>(*Vienneta reference?)</size>
-<style\=RubyPrefixTag></style>\nケーキタイプのアイスたい！　その名もぴえんネッタたい！\r\n=<style\=RubyPrefixTag>\nA cake-style ice cream!!!! It's called Piennetta!!!!\n<size\=75%>(*Vienneta reference?)\r\n</size></style>
+<style\=RubyPrefixTag></style>\nケーキタイプのアイスたい！　その名もぴえんネッタたい！\r\n=<style\=RubyPrefixTag>\nA cake-style ice cream!!!! It's called Piennetta!!!!\n<size\=75%>(*Vienneta reference?)\r\n</size></style>\n
 なんで泣いとるみたいな名前やねん。=Why does the name sound like it's crying?
 <style\=RubyPrefixTag></style>\nなんで泣いとるみたいな名前やねん。=<style\=RubyPrefixTag></style>\nWhy does the name sound like it's crying?
 子供が嘘泣きして大人にせがむことに由来するっしゃい！！=It's named after kids fake crying to get what they \nwant!!!!
@@ -240,7 +240,7 @@ General store
 雑貨屋なんでもありやな。野菜屋が困るやろ。=Anything goes for the general store, huh? The grocery \nstore will be in trouble.
 そんなタピオカミルクティー専門店みたいなのがこのドームにあるわけないじゃない。=There's no such thing as an overly specialty store \nlike a tapioca milk store in this dome.
 あるから言うたんや！=I said it because there is!
-<style\=RubyPrefixTag></style>\nスクラップ屋氷菓子屋バー屋雑貨屋アンテナ角度調整屋\n救急車屋治療屋天秤水平化屋祈祷屋障子滑りよくさせ屋\nドブさらい屋模様替え屋全部専門すぎるやろ！！=<style\=RubyPrefixTag>\n<size\=80%>Scrap dealer, Ice cream Dealer, Bar Dealer, General Store, Antenna Adjuster, \nAmbulance Dealer, Medical Dealer, Scale Balancer, Prayer, Sliding Door Fixer, \nDitch Cleaner, and Home Remodeler, it's all too specialized!</size></style>
+<style\=RubyPrefixTag></style>\nスクラップ屋氷菓子屋バー屋雑貨屋アンテナ角度調整屋\n救急車屋治療屋天秤水平化屋祈祷屋障子滑りよくさせ屋\nドブさらい屋模様替え屋全部専門すぎるやろ！！=<style\=RubyPrefixTag>\n<size\=80%>Scrap dealer, Ice cream Dealer, Bar Dealer, General Store, Antenna Adjuster, \nAmbulance Dealer, Medical Dealer, Scale Balancer, Prayer, Sliding Door Fixer, \nDitch Cleaner, and Home Remodeler, it's all too specialized!</size></style>\n
 自分で言うてて途中から何言うてるんやろ？って頭にハテナ浮かんできたわ！！=I said it myself and yet I'm starting to wonder what \nthe hell I'm even talking about!
 あなたがまだここの暮らしに慣れていないだけ。どれも全部、大事なお仕事なの。=You're just not used to living here yet. They're all \nimportant jobs.
 <style\=RubyPrefixTag></style>\nあなたがまだここの暮らしに慣れていないだけ。どれも全\r\n部、大事なお仕事なの。=<style\=RubyPrefixTag></style>\nYou're just not used to living here yet. They're all \nimportant jobs.
@@ -304,21 +304,21 @@ Option - Average size
 -----------------------
 繁盛しちょるのう。=Business is booming.
 中間ぐらいのキャベツや。=It's a cabbage of average size.
-<style\=RubyPrefixTag></style>\n中間ぐらいのキャベツや。=<style\=RubyPrefixTag></style>It's a cabbage of average size.
+<style\=RubyPrefixTag></style>\n中間ぐらいのキャベツや。=<style\=RubyPrefixTag></style>\nIt's a cabbage of average size.
 それを選ぶの？　優柔不断ってことね。=Are you going to choose that? You're so indecisive.
-<style\=RubyPrefixTag></style>\nそれを選ぶの？　優柔不断ってことね。=<style\=RubyPrefixTag></style>Are you going to choose that? You're so indecisive.
+<style\=RubyPrefixTag></style>\nそれを選ぶの？　優柔不断ってことね。=<style\=RubyPrefixTag></style>\nAre you going to choose that? You're so indecisive.
 いつの間に占い屋になったんや。=When did you become a fortune teller?
-<style\=RubyPrefixTag></style>\nいつの間に占い屋になったんや。=<style\=RubyPrefixTag></style>When did you become a fortune teller?
+<style\=RubyPrefixTag></style>\nいつの間に占い屋になったんや。=<style\=RubyPrefixTag></style>\nWhen did you become a fortune teller?
 え？　占い屋呼ぶ？=Huh? Call the fortune teller?
-<style\=RubyPrefixTag></style>\nえ？　占い屋呼ぶ？=<style\=RubyPrefixTag></style>Huh? Call the fortune teller?
+<style\=RubyPrefixTag></style>\nえ？　占い屋呼ぶ？=<style\=RubyPrefixTag></style>\nHuh? Call the fortune teller?
 これ以上なになに屋増やすな。頭こんがらがるねん。=Don't increase the number of shops any more than this.\nIt's making my head spin.
-<style\=RubyPrefixTag></style>\nこれ以上なになに屋増やすな。頭こんがらがるねん。=<style\=RubyPrefixTag></style>Don't increase the number of shops any more than\nthis. It's making my head spin.
+<style\=RubyPrefixTag></style>\nこれ以上なになに屋増やすな。頭こんがらがるねん。=<style\=RubyPrefixTag></style>\nDon't increase the number of shops any more than\nthis. It's making my head spin.
 で、アタリかハズレかどっちやねん。=So, is it hit or miss?
-<style\=RubyPrefixTag></style>\nで、アタリかハズレかどっちやねん。=<style\=RubyPrefixTag></style>So, is it hit or miss?
+<style\=RubyPrefixTag></style>\nで、アタリかハズレかどっちやねん。=<style\=RubyPrefixTag></style>\nSo, is it hit or miss?
 ハズレよ。１００ジャスティスになるわ。=It's wrong. It'll be 100 Justice.
-<style\=RubyPrefixTag></style>\nハズレよ。１００ジャスティスになるわ。=<style\=RubyPrefixTag></style>It's wrong. It'll be 100 Justice.
+<style\=RubyPrefixTag></style>\nハズレよ。１００ジャスティスになるわ。=<style\=RubyPrefixTag></style>\nIt's wrong. It'll be 100 Justice.
 そうか。でも頂く。１００ジャスティスや。=I see. But I'll take it. A hundred Justice.
-<style\=RubyPrefixTag></style>\nそうか。でも頂く。１００ジャスティスや。=<style\=RubyPrefixTag></style>I see. But I'll take it. A hundred Justice.
+<style\=RubyPrefixTag></style>\nそうか。でも頂く。１００ジャスティスや。=<style\=RubyPrefixTag></style>\nI see. But I'll take it. A hundred Justice.
 -----------------------
 Bar
 -----------------------
