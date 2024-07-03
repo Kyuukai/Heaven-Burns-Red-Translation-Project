@@ -33,4 +33,5 @@ Period
 早朝=Early Morning
 課業準備=Lesson Prep
 朝活動=Morning Activities
+夕活動=Evening Activities
 ------------
