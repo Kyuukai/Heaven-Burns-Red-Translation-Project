@@ -1,0 +1,390 @@
+[Day 5A]
+
+    [Aki's Home]
+        オムレツにサラダにご飯。今日も豪勢な朝食やな。=Omelettes, salad, and rice. Another hearty breakfast\ntoday.
+        <style\=RubyPrefixTag></style>\nオムレツにサラダにご飯。今日も豪勢な朝食やな。=<style\=RubyPrefixTag></style>Omelettes, salad, and rice. Another hearty breakfast\ntoday.
+        オムレツに納豆入ってる！=There's natto in the omelet!
+        <style\=RubyPrefixTag></style>\nオムレツに納豆入ってる！=<style\=RubyPrefixTag></style>There's natto in the omelet!
+        へぇ…このドームにあったんか。=Huh... So it was in this dome.
+        <style\=RubyPrefixTag></style>\nへぇ…このドームにあったんか。=<style\=RubyPrefixTag></style>Huh... So it was in this dome.
+        もちろん貴重や。ちょうど今朝手に入ってな。栄養あるからルミには食わせるようにしとる。自分とわしのには入ってへん。=Of course it's valuable. I got it this morning. It's\nnutritious, so I try to feed it to Rumi. It isn't in\nmine or mine.
+        <style\=RubyPrefixTag></style>\nもちろん貴重や。ちょうど今朝手に入ってな。栄養あるか\r\nらルミには食わせるようにしとる。自分とわしのには入っ\r\nてへん。=<style\=RubyPrefixTag></style>Of course it's valuable. I got it this morning. It's\nnutritious, so I try to feed it to Rumi. It isn't in\nmine or mine.
+        苦手でもしっかり食べるんやで。=Even if you're not good at it, make sure you eat\nproperly.
+        <style\=RubyPrefixTag></style>\n苦手でもしっかり食べるんやで。=<style\=RubyPrefixTag></style>Even if you're not good at it, make sure you eat\nproperly.
+        そうか。納豆苦手なんか。まあ、癖強いもんな。=I see. She's not good with natto. Well, she's got a\nhabit.
+        <style\=RubyPrefixTag></style>\nそうか。納豆苦手なんか。まあ、癖強いもんな。=<style\=RubyPrefixTag></style>I see. She's not good with natto. Well, she's got a\nhabit.
+        食べてくれる…？=Will you eat it...?
+        <style\=RubyPrefixTag></style>\n食べてくれる…？=<style\=RubyPrefixTag></style>Will you eat it...?
+        あかんで。=It's hot.
+        <style\=RubyPrefixTag></style>\nあかんで。=<style\=RubyPrefixTag></style>It's hot.
+        今日行ったらしばらく休みやったか？=When I went today, did you have some time off?
+        <style\=RubyPrefixTag></style>\n今日行ったらしばらく休みやったか？=<style\=RubyPrefixTag></style>When I went today, did you have some time off?
+        うん、ついに夏休み！=Yeah, it's finally summer break!
+        <style\=RubyPrefixTag></style>\nうん、ついに夏休み！=<style\=RubyPrefixTag></style>Yeah, it's finally summer break!
+        ルミの学校にも夏休みあるんか。=I guess Rumi's school has summer vacation too.
+        <style\=RubyPrefixTag></style>\nルミの学校にも夏休みあるんか。=<style\=RubyPrefixTag></style>I guess Rumi's school has summer vacation too.
+        暑すぎると勉強出来ないからね〜。=I can't study if it's too hot.
+        <style\=RubyPrefixTag></style>\n暑すぎると勉強出来ないからね〜。=<style\=RubyPrefixTag></style>I can't study if it's too hot.
+        そうか、屋根すらない屋外やったな。=That's right. We did it outdoors without a roof.
+        <style\=RubyPrefixTag></style>\nそうか、屋根すらない屋外やったな。=<style\=RubyPrefixTag></style>That's right. We did it outdoors without a roof.
+        これは昼飯。それと今日も洗濯いってもらうで。=This is lunch. And I'll have you do the laundry again\ntoday.
+        <style\=RubyPrefixTag></style>\nこれは昼飯。それと今日も洗濯いってもらうで。=<style\=RubyPrefixTag></style>This is lunch. And I'll have you do the laundry again\ntoday.
+        ああ、ええで。=Yeah, sure.
+        <style\=RubyPrefixTag></style>\nああ、ええで。=<style\=RubyPrefixTag></style>Yeah, sure.
+        前回のん、洗剤がこびりついたままやったで。=Last time, I did it with detergent stuck to it.
+        <style\=RubyPrefixTag></style>\n前回のん、洗剤がこびりついたままやったで。=<style\=RubyPrefixTag></style>Last time, I did it with detergent stuck to it.
+        あ、ああ…すまん…初めてやったから…。=Y-Yeah... Sorry... This is the first time I've done\nit...
+        <style\=RubyPrefixTag></style>\nあ、ああ…すまん…初めてやったから…。=<style\=RubyPrefixTag></style>Y-Yeah... Sorry... This is the first time I've done\nit...
+        （あん時は逃げてきたんやった…）=(I ran away back then...)
+        <style\=RubyPrefixTag></style>\n（あん時は逃げてきたんやった…）=<style\=RubyPrefixTag></style>(I ran away back then...)
+        （今度はしっかり洗い落とすで…）=(This time, I'll wash it off properly...)
+        <style\=RubyPrefixTag></style>\n（今度はしっかり洗い落とすで…）=<style\=RubyPrefixTag></style>(This time, I'll wash it off properly...)
+        <style\=RubyPrefixTag></style>\nごしごし！=<style\=RubyPrefixTag></style>Rub, rub!
+        <style\=RubyPrefixTag></style>\nじゃぶじゃぶ！=<style\=RubyPrefixTag></style>Jabber, jabber!
+        アキさんとこの居候いるわ…。=Akisan and this freeloader are here...
+        <style\=RubyPrefixTag></style>\nアキさんとこの居候いるわ…。=<style\=RubyPrefixTag></style>Akisan and this freeloader are here...
+        バイクをぶつけてキャンサーを追い返したらしいわね…。=It seems he hit the bike and drove Cancer back...
+        <style\=RubyPrefixTag></style>\nバイクをぶつけてキャンサーを追い返したらしいわね…。\r\n=<style\=RubyPrefixTag></style>It seems he hit the bike and drove Cancer back...
+        （それはええことやろ…）=(That's a good thing...)
+        <style\=RubyPrefixTag></style>\n（それはええことやろ…）=<style\=RubyPrefixTag></style>(That's a good thing...)
+        女性なのに物騒なこと…。=Even though she's a woman, it's dangerous...
+        <style\=RubyPrefixTag></style>\n女性なのに物騒なこと…。=<style\=RubyPrefixTag></style>Even though she's a woman, it's dangerous...
+        アキさんの影響じゃない？=Isn't it Aki-san's influence?
+        <style\=RubyPrefixTag></style>\nアキさんの影響じゃない？=<style\=RubyPrefixTag></style>Isn't it Aki-san's influence?
+        勝手なこといってばかりだものね、あのひと。=She's always saying whatever she wants.
+        <style\=RubyPrefixTag></style>\n勝手なこといってばかりだものね、あのひと。=<style\=RubyPrefixTag></style>She's always saying whatever she wants.
+        （我慢ならん…）=(I can't stand it...)
+        <style\=RubyPrefixTag></style>\n（我慢ならん…）=<style\=RubyPrefixTag></style>(I can't stand it...)
+        そりゃ恐いひとやけど、なんで村長さんをそこまで悪く言うねん！　みんな世話んなっとるやろ！=Sure, he's a scary guy, but why would he say something\nso bad about the mayor?! Everyone's taking care of\nhim!
+        <style\=RubyPrefixTag></style>\nそりゃ恐いひとやけど、なんで村長さんをそこまで悪く言\r\nうねん！　みんな世話んなっとるやろ！=<style\=RubyPrefixTag></style>Sure, he's a scary guy, but why would he say\nsomething so bad about the mayor?! Everyone's taking\ncare of him!
+        村長…さん…？=Chief...san...?
+        <style\=RubyPrefixTag></style>\n村長…さん…？=<style\=RubyPrefixTag></style>Chief...san...?
+        そんな嘘まで…？=Even a lie like that...?
+        <style\=RubyPrefixTag></style>\nそんな嘘まで…？=<style\=RubyPrefixTag></style>Even a lie like that...?
+        え…待て…。=Eh... wait...
+        <style\=RubyPrefixTag></style>\nえ…待て…。=<style\=RubyPrefixTag></style>Eh... wait...
+        アキばーさん、このドームの村長なんやろ？=Aki, you're the mayor of this dome, aren't you?
+        <style\=RubyPrefixTag></style>\nアキばーさん、このドームの村長なんやろ？=<style\=RubyPrefixTag></style>Aki, you're the mayor of this dome, aren't you?
+        村長なんてこのドームに居ないの。居るのは区長さん。=The mayor isn't in this dome. He's the mayor.
+        <style\=RubyPrefixTag></style>\n村長なんてこのドームに居ないの。居るのは区長さん。=<style\=RubyPrefixTag></style>The mayor isn't in this dome. He's the mayor.
+        それはアキばーさんやないんか…？=Isn't that Aunt Aki...?
+        <style\=RubyPrefixTag></style>\nそれはアキばーさんやないんか…？=<style\=RubyPrefixTag></style>Isn't that Aunt Aki...?
+        ただのご老人よ。=He's just an old man.
+        <style\=RubyPrefixTag></style>\nただのご老人よ。=<style\=RubyPrefixTag></style>He's just an old man.
+        （なんでうちに嘘なんてついたんや…）=(Why did she lie to me...?)
+        <style\=RubyPrefixTag></style>\n（なんでうちに嘘なんてついたんや…）=<style\=RubyPrefixTag></style>(Why did she lie to me...?)
+        ルミは今日学校行ってておらんし、釣り行って帰ってきたらアキばーさんに村長やなかったこと訊くか…。=Rumi didn't go to school today, so I guess I'll ask\nGranny Aki if she wasn't the village chief when I\nwent fishing and came back...
+        <style\=RubyPrefixTag></style>\nルミは今日学校行ってておらんし、釣り行って帰ってきた\r\nらアキばーさんに村長やなかったこと訊くか…。=<style\=RubyPrefixTag></style>Rumi didn't go to school today, so I guess I'll ask\nGranny Aki if she wasn't the village chief when I\nwent fishing and came back...
+    
+    [Free Time : Midday]
+
+        [Random Dialogues]
+            ドブって奴はいつだってぬめって\n詰まってやがるから果てしねぇ。=There's no end to the gutters because they're always\nfull of slime.
+            ミミズを獲得しました=Earthworm acquired
+            やるからには\n楽しくやらないとな。=If we're going to do it, we have to have fun.
+            いつもの頼むよ。=I'm counting on you as usual.
+            もう誰の物だか\nわかりゃしねぇな。=I don't know who it belongs to anymore.
+            今日もいっちょやるか！=Let's do it again today!
+            そろそろ店を\n開けるかのう。=I think it's about time to open up shop.
+            買い物できるだけ\nありがたいと思わんとな。=I should be grateful that I can go shopping.
+            こいつはちいと\n運ぶのがしんどそうだ。=This thing looks like it's going to be a bit of a pain\nto carry.
+            洗濯物は\n乾いたかしら…。=I wonder if the laundry is dry...
+            ここも片づけないとな。=We'll have to clean up this place, too.
+            眠いときには\nコーヒーが効くな。=Coffee works when you're sleepy.
+
+        [Tutorial Prompt]
+            自由時間では習志野ドームに生きる人達と交流することができます。=In your free time, you can interact with the people\nwho live at the Narashino Dome.
+            <style\=RubyPrefixTag></style>\n自由時間では習志野ドームに生きる人達と交流することが\r\nできます。=<style\=RubyPrefixTag></style>In your free time, you can interact with the people\nwho live at the Narashino Dome.
+            斡旋屋では仕事の斡旋をしてもらえます。\nドームの人の手伝いをしながらジャスティスを稼ぎましょう。=You can arrange for work at the agency. Let's help the\npeople of the dome earn justice.
+            <style\=RubyPrefixTag></style>\n斡旋屋では仕事の斡旋をしてもらえます。\nドームの人の手伝いをしながらジャスティスを稼ぎましょ\r\nう。=<style\=RubyPrefixTag></style>You can arrange for work at the agency. Let's help\nthe people of the dome earn justice.
+            スクラップ集積場ではスクラップが入手できます。\nスクラップ屋に渡してジャスティスに換金してもらいましょう。=Scrap is available at the scrapyard. Let's give it to\nthe scrap shop and have it converted to Justice.
+            <style\=RubyPrefixTag></style>\nスクラップ集積場ではスクラップが入手できます。\nスクラップ屋に渡してジャスティスに換金してもらいましょ\r\nう。=<style\=RubyPrefixTag></style>Scrap is available at the scrapyard. Let's give it to\nthe scrap shop and have it converted to Justice.
+            入手したジャスティスでアイテムを購入できます。\n雑貨屋では習志野ドームで生きる上で便利なアイテムが販売されています。=You can purchase items from the justice system you\nobtained. The general store sells items that are\nuseful for living at the Narashino Dome.
+            <style\=RubyPrefixTag></style>\n入手したジャスティスでアイテムを購入できます。\n雑貨屋では習志野ドームで生きる上で便利なアイテムが販\r\n売されています。=<style\=RubyPrefixTag></style>You can purchase items from the justice system you\nobtained. The general store sells items that are\nuseful for living at the Narashino Dome.
+            息抜きにも習志野ドームではジャスティスを使用します。氷菓子屋ではおいしいアイスが購入できます。全部食べればいいことがあるかも……？=We use justice at the Narashino Dome to relax. We can\nbuy delicious ice cream at the ice candy store. Maybe\nwe should eat all of it...?
+            <style\=RubyPrefixTag></style>\n息抜きにも習志野ドームではジャスティスを使用します。\r\n氷菓子屋ではおいしいアイスが購入できます。全部食べれ\r\nばいいことがあるかも……？=<style\=RubyPrefixTag></style>We use justice at the Narashino Dome to relax. We can\nbuy delicious ice cream at the ice candy store. Maybe\nwe should eat all of it...?
+            <style\=RubyPrefixTag></style>\nまずは雑貨屋で釣りの準備をしましょう=<style\=RubyPrefixTag></style>First, let's go to the general store and prepare to\nfish
+
+        [General Shop]
+            うふふ、いらっしゃい。=Uhuhu, welcome.
+            <style\=RubyPrefixTag></style>\nうふふ、いらっしゃい。=<style\=RubyPrefixTag></style>Uhuhu, welcome.
+            今の気分に合った曲を雑貨屋が見繕ってくれる=The general store will find a song that suits your\ncurrent mood
+            レコード =Records
+            より多くの魚を新鮮なまま保存できる大容量クーラーボックス\n保存可能数は10匹=There are ten large-capacity coolers that can store\nmore fish fresh
+            大きなクーラーボックス =A big cooler
+            達人向けの釣り餌\nごちそうを用意するなら必要不可欠=If you're going to prepare a feast for a master\nangler, it's essential
+            イワガニ =Rock crab
+            玄人向けの釣り餌\n海釣りの定番であり、これを使うと大物が食いつきやすくなる=It’s a staple of fishing bait for prostitutes and sea\nfishing, and using it makes it easier for big fish to\nbite into it
+            ゴカイ =Gokai
+            素人向けの釣り餌\n日常的に手に入り、手軽に使用できる=Fishing bait for amateurs is available on a daily\nbasis and can be easily used
+            ミミズ =Earthworm
+            欲しいものはあるかしら？=Is there anything you want?
+            攻撃の能力を 引き上げる\n力, 器用さ +5=Increases attack power, dexterity +5
+            攻撃チップⅤ =Attack Chip V
+            守りの能力を 引き上げる\n体力, 精神 +5=Strength to boost your defenses, Spirit +5
+            耐久チップⅤ =Endurance Chip V
+            回復力の能力を 引き上げる\n知性 +7=Intelligence to boost resilience +7
+            ヒールチップⅤ =Heel Chip V
+            ふぅ…またいらっしゃい。=Phew... Come again.
+            <style\=RubyPrefixTag></style>\nふぅ…またいらっしゃい。=<style\=RubyPrefixTag></style>Phew... Come again.
+
+        [Jukebox]
+            １０ジャスティスつこて、今の気分に合った曲流してみるか。=10 Guess I'll just stick around and try playing a song\nthat suits my current mood.
+            <style\=RubyPrefixTag></style>\n１０ジャスティスつこて、今の気分に合った曲流してみる\r\nか。=<style\=RubyPrefixTag></style>10 Guess I'll just stick around and try playing a\nsong that suits my current mood.
+            10ジャスティスを消費します=It consumes 10 Justice
+            冬の花火=Winter fireworks
+            夏影=Natsukage
+            BGMを変更しますか？=Change the background music?
+            再生中=Regeneration in progress
+            元の曲に戻す=Back to the original song
+
+        [Quest Order]
+            <style\=RubyPrefixTag></style>\n斡旋屋のクエストを受注すると次の時間に進みます。\r\n「過去をたどる」から開始した際にはライフを消費します。=<style\=RubyPrefixTag></style>Orders from the agency will advance to the next time.\nStarting with “Retracing the Past” will consume your\nlife.
+            屋号を求めて=In search of the yago
+            ジャスティス=Justice
+            パズルオブキャスト探し=Search for the Puzzle of Casts
+            受注=Orders
+            お望みの仕事はどれだい？=Which job do you want?
+            ジャスティスが足りません=We don't have enough justice
+            仕事が欲しければまた来な、ボーイ。=Come back if you want a job, boy.
+            <style\=RubyPrefixTag></style>\n仕事が欲しければまた来な、ボーイ。=<style\=RubyPrefixTag></style>Come back if you want a job, boy.
+            ある女性が困っているようだ。仕事を引き受けてあげよう！=A woman seems to be in trouble. I'll take her job!
+            交流開始条件をクリアしていません (残り 0/0)=(Remaining 0/0)
+            よろしく頼んだよ、ボーイ。=I'm counting on you, boy.
+            <style\=RubyPrefixTag></style>\nよろしく頼んだよ、ボーイ。=<style\=RubyPrefixTag></style>I'm counting on you, boy.
+
+        [Scrap Dealer]
+            ようよう、ねーちゃ～ん。スクラップを持ってきたらジャスティスと交換してあげるよ～ん。=Hey, Nee-chaaan. I'll trade you some scrap for Justice\nwhen I get it.
+            <style\=RubyPrefixTag></style>\nようよう、ねーちゃ～ん。スクラップを持ってきたらジャ\r\nスティスと交換してあげるよ～ん。=<style\=RubyPrefixTag></style>Hey, Nee-chaaan. I'll trade you some scrap for\nJustice when I get it.
+
+        [Scrapyard]
+            <style\=RubyPrefixTag></style>\nスクラップ集積場に行くと次の時間に進みます。\r\n「過去をたどる」から開始した際にはライフを消費します。=<style\=RubyPrefixTag></style>Go to the scrapyard and move on to the next time.\nStart by tracing the past and consume life.
+            <style\=RubyPrefixTag></style>\nスクラップ集積場に行く=<style\=RubyPrefixTag></style>Go to the scrapyard
+
+        [Ice Candy]
+            <style\=RubyPrefixTag></style>\nすべてのアイスを食べるといいことが起こるかもしれません。\nジャスティスに余裕がある時に食べてみましょう。=<style\=RubyPrefixTag></style>If you eat all the ice cream, something good might\nhappen. Let's try it when Justice has the time.
+            どすしゃい！　アイス買っていっしゃい！=Go buy some ice cream!
+            クッキーアンドクリームとは一味違う！\nその違いをお試しあれ=It's a little different from cookie and cream! Try\nthat difference
+            クッキーアンドクリームもどき =Cookie and Cream Mock
+            愛されて３年！\n素材の風味を生かしたレトロな雰囲気のアイスバー=It’s been three years since I’ve been loved! An ice\nbar with a retro atmosphere that makes use of the\nflavor of the ingredients
+            ポテンヒットバー =Potenhit bar
+            アイス冷えてるたい！=Ice cream, it's cold!
+            まいどありっしゃい！=Thank you very much!
+            <style\=RubyPrefixTag></style>\nまいどありっしゃい！=<style\=RubyPrefixTag></style>Thank you very much!
+
+    [First Quest : Puzzle of Cast]
+        依頼主の元へ行こう！=Let's go to the client!
+        斡旋屋に仕事斡旋されて来たんやけど、依頼主はあんたか？=I got a job offer from the agency. Are you the client?
+        <style\=RubyPrefixTag></style>\n斡旋屋に仕事斡旋されて来たんやけど、依頼主はあんたか？\r\n=<style\=RubyPrefixTag></style>I got a job offer from the agency. Are you the\nclient?
+        ええ。どうしても人手を借りたくて。=Yes. I wanted to borrow help no matter what.
+        <style\=RubyPrefixTag></style>\nええ。どうしても人手を借りたくて。=<style\=RubyPrefixTag></style>Yes. I wanted to borrow help no matter what.
+        力んなるで。=I'll do my best.
+        <style\=RubyPrefixTag></style>\n力んなるで。=<style\=RubyPrefixTag></style>I'll do my best.
+        うちの息子が、夏祭りで買ったパズルをなくしてしまったの。それでずっと元気をなくしていて。=My son lost the puzzle he bought at the Summer\nFestival. He's been depressed ever since.
+        <style\=RubyPrefixTag></style>\nうちの息子が、夏祭りで買ったパズルをなくしてしまった\r\nの。それでずっと元気をなくしていて。=<style\=RubyPrefixTag></style>My son lost the puzzle he bought at the Summer\nFestival. He's been depressed ever since.
+        まさか…パズルオブキャストか。=Could it be...a puzzle-of-cast?
+        <style\=RubyPrefixTag></style>\nまさか…パズルオブキャストか。=<style\=RubyPrefixTag></style>Could it be...a puzzle-of-cast?
+        名前は知らないわ。鉄で出来た知恵の輪みたいなものだったわ。=I don't know its name. It was like a ring of wisdom\nmade of iron.
+        <style\=RubyPrefixTag></style>\n名前は知らないわ。鉄で出来た知恵の輪みたいなものだっ\r\nたわ。=<style\=RubyPrefixTag></style>I don't know its name. It was like a ring of wisdom\nmade of iron.
+        パズルオブキャストやないか。=Isn't this a puzzle of a cast?
+        <style\=RubyPrefixTag></style>\nパズルオブキャストやないか。=<style\=RubyPrefixTag></style>Isn't this a puzzle of a cast?
+        あなたは知っているのね。だったらすぐ見つかるかも。あたしは家事で手一杯だし、代わりに探してきてもらえる？=You know that, don't you? Then maybe you'll find it\nsoon. I've got my hands full with housework, so could\nyou go look for it for me?
+        <style\=RubyPrefixTag></style>\nあなたは知っているのね。だったらすぐ見つかるかも。あ\r\nたしは家事で手一杯だし、代わりに探してきてもらえる？\r\n=<style\=RubyPrefixTag></style>You know that, don't you? Then maybe you'll find it\nsoon. I've got my hands full with housework, so could\nyou go look for it for me?
+        任せとき。=Leave it to me.
+        <style\=RubyPrefixTag></style>\n任せとき。=<style\=RubyPrefixTag></style>Leave it to me.
+        パズルオブキャストを探そう！=Let's find the puzzle of cast!
+        これか！？=Is this it?!
+        <style\=RubyPrefixTag></style>\nこれか！？=<style\=RubyPrefixTag></style>Is this it?!
+        ガラクタを拾った！=Picked up some junk!
+        くそ…ガラクタか…。似たもんたくさん落ちてて、案外見つけるん骨折れるな…。=Dammit... It's junk... There's a lot of similar stuff\nlying around, and it's surprisingly hard to find\nit...
+        <style\=RubyPrefixTag></style>\nくそ…ガラクタか…。似たもんたくさん落ちてて、案外見\r\nつけるん骨折れるな…。=<style\=RubyPrefixTag></style>Dammit... It's junk... There's a lot of similar stuff\nlying around, and it's surprisingly hard to find\nit...
+        これは！？=This is...!?
+        <style\=RubyPrefixTag></style>\nこれは！？=<style\=RubyPrefixTag></style>This is...!?
+        メカメカしい鉄の塊ん中に銀色のボールが入っとる…これこそパズルオブキャストや！=There's a silver ball inside the mechametic lump of\nmetal... This is the puzzle of cast!
+        <style\=RubyPrefixTag></style>\nメカメカしい鉄の塊ん中に銀色のボールが入っとる…これ\r\nこそパズルオブキャストや！=<style\=RubyPrefixTag></style>There's a silver ball inside the mechametic lump of\nmetal... This is the puzzle of cast!
+        パズルオブキャストを手に入れた！=Got a Puzzle of Cast!
+        見つけてきたで。これやろ。=I found it. This is it.
+        <style\=RubyPrefixTag></style>\n見つけてきたで。これやろ。=<style\=RubyPrefixTag></style>I found it. This is it.
+        そう、それ！　よく見つけてきてくれたわ、そんなガラクタみたいなもの。=Yes, that's it! I'm glad you found it. It's like junk.
+        <style\=RubyPrefixTag></style>\nそう、それ！　よく見つけてきてくれたわ、そんなガラク\r\nタみたいなもの。=<style\=RubyPrefixTag></style>Yes, that's it! I'm glad you found it. It's like\njunk.
+        ガラクタ言うたんなや。パズルオブキャストっちゅー、立派なおもちゃや。=What a piece of junk. A puzzle of cast, a splendid\ntoy.
+        <style\=RubyPrefixTag></style>\nガラクタ言うたんなや。パズルオブキャストっちゅー、立\r\n派なおもちゃや。=<style\=RubyPrefixTag></style>What a piece of junk. A puzzle of cast, a splendid\ntoy.
+        ありがとう。これで息子も元気になって食欲も取り戻すわ。=Thank you. Now my son will feel better and my appetite\nwill return.
+        <style\=RubyPrefixTag></style>\nありがとう。これで息子も元気になって食欲も取り戻すわ。\r\n=<style\=RubyPrefixTag></style>Thank you. Now my son will feel better and my\nappetite will return.
+        そこまでショックやったんか…。=I didn't know she was that shocked...
+        <style\=RubyPrefixTag></style>\nそこまでショックやったんか…。=<style\=RubyPrefixTag></style>I didn't know she was that shocked...
+        お礼のジャスティスよ。=Here's your reward, Justice.
+        <style\=RubyPrefixTag></style>\nお礼のジャスティスよ。=<style\=RubyPrefixTag></style>Here's your reward, Justice.
+        ※絆Lv.は変化しません=Bond Lv. will not change
+        累計2000ジャスティス入手した=Received 2,000 Justices
+
+    [After Free Time]
+
+        釣りの支度してそろそろ埠頭向かうか。=Let's get ready to fish and head to the pier.
+        <style\=RubyPrefixTag></style>\n釣りの支度してそろそろ埠頭向かうか。=<style\=RubyPrefixTag></style>Let's get ready to fish and head to the pier.
+        腹減ったな…先におにぎり食べとこ。=I'm hungry... Let's eat onigiri first.
+        <style\=RubyPrefixTag></style>\n腹減ったな…先におにぎり食べとこ。=<style\=RubyPrefixTag></style>I'm hungry... Let's eat onigiri first.
+        今日の具はなんやろ…。=I wonder what today's ingredients are...
+        <style\=RubyPrefixTag></style>\n今日の具はなんやろ…。=<style\=RubyPrefixTag></style>I wonder what today's ingredients are...
+        嘘やろ…イクラやないか…。=You're kidding... It's salmon roe...
+        <style\=RubyPrefixTag></style>\n嘘やろ…イクラやないか…。=<style\=RubyPrefixTag></style>You're kidding... It's salmon roe...
+        ぷちぷちして美味い…！　元気湧く！=It's crunchy and delicious...! I'm full of energy!
+        <style\=RubyPrefixTag></style>\nぷちぷちして美味い…！　元気湧く！=<style\=RubyPrefixTag></style>It's crunchy and delicious...! I'm full of energy!
+
+    [Fishing Time]
+
+        釣り場に近づくとアイコンが表示されます。\nアイコンを選択し、釣りを開始しましょう。=When you approach the fishing spot, an icon will\nappear. Select an icon to start fishing.
+        <style\=RubyPrefixTag></style>\n釣り場に近づくとアイコンが表示されます。\nアイコンを選択し、釣りを開始しましょう。=<style\=RubyPrefixTag></style>When you approach the fishing spot, an icon will\nappear. Select an icon to start fishing.
+        所持している餌の中から一つを選択します。\n釣り竿を投げかけ、魚が餌に食いつくと！アイコンが表示されるので、急いでタップしましょう。=Select one of the food items in your possession. Throw\na fishing rod at it, and the fish will bite into the\nfood! The icon will appear, so hurry up and tap it.
+        <style\=RubyPrefixTag></style>\n所持している餌の中から一つを選択します。\n釣り竿を投げかけ、魚が餌に食いつくと！アイコンが表示\r\nされるので、急いでタップしましょう。=<style\=RubyPrefixTag></style>Select one of the food items in your possession.\nThrow a fishing rod at it, and the fish will bite\ninto the food! The icon will appear, so hurry up and\ntap it.
+        ゲージが左端に到達すると見事魚を釣り上げることができます。\n魚の食いつきに負けないように連続タップしましょう。=When your gauge reaches the left edge, you can catch a\nsplendid fish. Tap repeatedly to make sure you don't\nlose to the fish.
+        <style\=RubyPrefixTag></style>\nゲージが左端に到達すると見事魚を釣り上げることができ\r\nます。\n魚の食いつきに負けないように連続タップしましょう。=<style\=RubyPrefixTag></style>When your gauge reaches the left edge, you can catch\na splendid fish. Tap repeatedly to make sure you\ndon't lose to the fish.
+        釣った魚の種類に応じて経験値が蓄積されます。\n一定まで蓄積するとレベルが上がり、より魚を釣り上げやすくなります。=Experience points will accumulate based on the type of\nfish you catch. If you accumulate a certain amount,\nyour level will increase, making it easier to fish.
+        <style\=RubyPrefixTag></style>\n釣った魚の種類に応じて経験値が蓄積されます。\n一定まで蓄積するとレベルが上がり、より魚を釣り上げや\r\nすくなります。=<style\=RubyPrefixTag></style>Experience points will accumulate based on the type\nof fish you catch. If you accumulate a certain\namount, your level will increase, making it easier to\nfish.
+        餌によって食いつく魚の種類も変わります。\n大きな魚を釣り上げればルミも喜びますので、是非大物を狙ってみましょう。=The type of fish that bites will change depending on\nthe food. Rumi will be happy to catch a big one, so\nlet's go for the big one.
+        <style\=RubyPrefixTag></style>\n餌によって食いつく魚の種類も変わります。\n大きな魚を釣り上げればルミも喜びますので、是非大物を\r\n狙ってみましょう。=<style\=RubyPrefixTag></style>The type of fish that bites will change depending on\nthe food. Rumi will be happy to catch a big one, so\nlet's go for the big one.
+        <style\=RubyPrefixTag></style>\n帰らない=<style\=RubyPrefixTag></style>I'm not going home
+        <style\=RubyPrefixTag></style>\nどないしよ…=<style\=RubyPrefixTag></style>\nWhat should I do...
+        釣りを始める=Start fishing
+
+        [Locked Fishing Spots]
+        <style\=RubyPrefixTag></style>\nこの釣り場は下記条件で解放されます\r\n・釣り竿<cspace\=0.2em>Lv</cspace>.<cspace\=0.2em>6</cspace>以上\r\n・<cspace\=0.2em>Day06</cspace>以降=<style\=RubyPrefixTag></style>This fishing spot will be unlocked under the\nfollowing conditions: Fishing rod<cspace\=0.2em>Lv</cspace>.<cspace\=0.2em>6</cspace>That's all<cspace\=0.2em>Day06</cspace>Since then,
+        <style\=RubyPrefixTag></style>\nこの釣り場は下記条件で解放されます\r\n・釣り竿<cspace\=0.2em>Lv</cspace>.<cspace\=0.2em>3</cspace>以上=<style\=RubyPrefixTag></style>This fishing spot will be unlocked under the\nfollowing conditions: Fishing rod<cspace\=0.2em>Lv</cspace>.<cspace\=0.2em>3</cspace>That's all
+
+        [Start Fishing]
+        ここらは小さい魚影がぎょうさん見えるし浅瀬のようやな。=I can see a lot of small fish shadows around here, so\nit's like shallow water.
+        <style\=RubyPrefixTag></style>\nここらは小さい魚影がぎょうさん見えるし浅瀬のようやな。\r\n=<style\=RubyPrefixTag></style>I can see a lot of small fish shadows around here, so\nit's like shallow water.
+        大物釣ったる。=I'll catch a big one.
+        <style\=RubyPrefixTag></style>\n大物釣ったる。=<style\=RubyPrefixTag></style>I'll catch a big one.
+        <style\=RubyPrefixTag></style>\nゴカイ<cspace\=0.2em>Lv</cspace>.<cspace\=0.2em>5</cspace>で解放(所持数：<cspace\=0.2em>0</cspace>)=<style\=RubyPrefixTag></style>\nGokai<cspace\=0.2em>Lv</cspace>.<cspace\=0.2em>5</cspace>Unlock (Number of possessions:<cspace\=0.2em>0</cspace>)
+        <style\=RubyPrefixTag></style>\nイワガニ<cspace\=0.2em>Lv</cspace>.<cspace\=0.2em>12</cspace>で解放(所持数：<cspace\=0.2em>0</cspace>)=<style\=RubyPrefixTag></style>\nRock crab<cspace\=0.2em>Lv</cspace>.<cspace\=0.2em>12</cspace>Unlock (Number of possessions:<cspace\=0.2em>0</cspace>)
+        <style\=RubyPrefixTag></style>\nミミズ(所持数：<cspace\=0.2em>3</cspace>)=<style\=RubyPrefixTag></style>Earthworms (Number of Possessed:<cspace\=0.2em>3</cspace>)
+
+        [Fishing Dialogue]
+        頼むでぇ！=I'm counting on you!
+        大物が釣れる予感がする…。=I have a feeling I'll catch a big one...
+        引いた！　大物頼むでぇ！=I drew it! Big shot, please!
+        ちっさ！　せめて美味くあってくれ。=It's so small! At least make it delicious
+        ナイスぽちゃんや！=Nice one, Po-chan!
+        かかった！　ええ引きや！=It's on! Yes, it's off!
+        なんかちっこいのが釣れた。=I caught something small.
+        ほいっと！=Let's go!
+        もう餌があれへんな。=There's no food left.
+        <style\=RubyPrefixTag></style>\nもう餌があれへんな。=<style\=RubyPrefixTag></style>There's no food left.
+
+        [Fishing Prompts]
+        仕切り直す=We'll regroup
+        釣り上げる=Catch
+        釣り結果=Fishing Result
+        ハゼを釣り上げた！=I caught a buzzer!
+        ハゼ×1=Haze x1
+        獲得魚=Acquired fish
+        魚を1種類釣り上げた=I caught one type of fish
+
+    [Free Time : Evening]
+        これでもないよりマシやろ…。=It's better than nothing...
+        <style\=RubyPrefixTag></style>\nこれでもないよりマシやろ…。=<style\=RubyPrefixTag></style>It's better than nothing...
+        家帰るか。=Let's go home.
+        <style\=RubyPrefixTag></style>\n家帰るか。=<style\=RubyPrefixTag></style>Let's go home.
+        アキの家に帰ろう！=Let's go back to Aki's house!
+        <style\=RubyPrefixTag></style>\nアキの家に帰る=<style\=RubyPrefixTag></style>Go back to Aki's house
+
+        [Random Dialogues]
+        おそいよー。=You're late.
+        ごめん！　\n埋め合わせはするから！=Sorry! I'll make it up to you!
+        最近、\n旦那の帰りが遅くて…。=Lately, my husband has been coming home late...
+        この間、\n野球してるところ\nみたわよ。=I saw you playing baseball the other day.
+        なんて健全なの！=How wholesome!
+
+    [Aki's House]
+        これや。=This is it.
+        <style\=RubyPrefixTag></style>\nこれや。=<style\=RubyPrefixTag></style>This is it.
+        ちっこいな。ハゼか。=She's so small. A bald one.
+        <style\=RubyPrefixTag></style>\nちっこいな。ハゼか。=<style\=RubyPrefixTag></style>She's so small. A bald one.
+        なんでもええ。美味しく料理したってや。=Anything's fine. It's delicious.
+        <style\=RubyPrefixTag></style>\nなんでもええ。美味しく料理したってや。=<style\=RubyPrefixTag></style>Anything's fine. It's delicious.
+        新鮮なうちに捌くだけや。刺し身にして食べる。=Just cut it while it's still fresh. I'll turn it into\nsashimi and eat it.
+        <style\=RubyPrefixTag></style>\n新鮮なうちに捌くだけや。刺し身にして食べる。=<style\=RubyPrefixTag></style>Just cut it while it's still fresh. I'll turn it into\nsashimi and eat it.
+        ルミ、どうや、この刺身？=Rumi, how's this sashimi?
+        <style\=RubyPrefixTag></style>\nルミ、どうや、この刺身？=<style\=RubyPrefixTag></style>Rumi, how's this sashimi?
+        え？　コリコリして美味しいよ？　美味しいけど、普通かな。=Huh? It's crunchy and delicious. It tastes good, but I\nguess it's normal.
+        <style\=RubyPrefixTag></style>\nえ？　コリコリして美味しいよ？　美味しいけど、普通か\r\nな。=<style\=RubyPrefixTag></style>Huh? It's crunchy and delicious. It tastes good, but\nI guess it's normal.
+        そうでっか…。=I see...
+        <style\=RubyPrefixTag></style>\nそうでっか…。=<style\=RubyPrefixTag></style>I see...
+        なあ、ルミ。=Hey, Rumi.
+        <style\=RubyPrefixTag></style>\nなあ、ルミ。=<style\=RubyPrefixTag></style>Hey, Rumi.
+        ばーさん、村長さんやなかったんやな。=You weren't the mayor, were you?
+        <style\=RubyPrefixTag></style>\nばーさん、村長さんやなかったんやな。=<style\=RubyPrefixTag></style>You weren't the mayor, were you?
+        そうだよ？=Isn't that right?
+        <style\=RubyPrefixTag></style>\nそうだよ？=<style\=RubyPrefixTag></style>Isn't that right?
+        （知っとったんか…！）=(Did you know...!?)
+        <style\=RubyPrefixTag></style>\n（知っとったんか…！）=<style\=RubyPrefixTag></style>(Did you know...!?)
+        でもうちが村長さんて呼んだ時、ルミ、なんも言わんかったやないか。=But Rumi didn't say anything when I called her the\nvillage chief.
+        <style\=RubyPrefixTag></style>\nでもうちが村長さんて呼んだ時、ルミ、なんも言わんかっ\r\nたやないか。=<style\=RubyPrefixTag></style>But Rumi didn't say anything when I called her the\nvillage chief.
+        そういうこといっつも言ってるから。=That's what she always says.
+        <style\=RubyPrefixTag></style>\nそういうこといっつも言ってるから。=<style\=RubyPrefixTag></style>That's what she always says.
+        は？　いっつも？=Huh? Always?
+        <style\=RubyPrefixTag></style>\nは？　いっつも？=<style\=RubyPrefixTag></style>Huh? Always?
+        うん。自分は警察官だとか、石油王だとか、元セラフ部隊員だとか、今度は村長かーって思っただけ。=Yeah. I just thought I was a police officer, an oil\nking, a former Seraph unit member, and this time a\nvillage chief.
+        <style\=RubyPrefixTag></style>\nうん。自分は警察官だとか、石油王だとか、元セラフ部隊\r\n員だとか、今度は村長かーって思っただけ。=<style\=RubyPrefixTag></style>Yeah. I just thought I was a police officer, an oil\nking, a former Seraph unit member, and this time a\nvillage chief.
+        じゃあ、ほんまは何者なん？=Then who are you really?
+        <style\=RubyPrefixTag></style>\nじゃあ、ほんまは何者なん？=<style\=RubyPrefixTag></style>Then who are you really?
+        なにものでもないよ。ルミのばっちゃん。=It's nothing, Rumi's grandma.
+        <style\=RubyPrefixTag></style>\nなにものでもないよ。ルミのばっちゃん。=<style\=RubyPrefixTag></style>It's nothing, Rumi's grandma.
+        その…本物のばーちゃんなんか？=Um... like a real grandma?
+        <style\=RubyPrefixTag></style>\nその…本物のばーちゃんなんか？=<style\=RubyPrefixTag></style>Um... like a real grandma?
+        ううん。養子。=Nope. Adopted son.
+        <style\=RubyPrefixTag></style>\nううん。養子。=<style\=RubyPrefixTag></style>Nope. Adopted son.
+        そうか…すまん…。=I see... Sorry...
+        <style\=RubyPrefixTag></style>\nそうか…すまん…。=<style\=RubyPrefixTag></style>I see... Sorry...
+        （両親はキャンサーにやられてもうたんやろな…ルミも苦労してきたんやな…）=(I bet her parents were killed by Cancer... Rumi's\nbeen through a lot, too...)
+        <style\=RubyPrefixTag></style>\n（両親はキャンサーにやられてもうたんやろな…ルミも苦労\r\nしてきたんやな…）=<style\=RubyPrefixTag></style>(I bet her parents were killed by Cancer... Rumi's\nbeen through a lot, too...)
+        カトエリ、気にすんな！　どんまい！=Katoeri, don't worry about it! Don't mind me!
+        <style\=RubyPrefixTag></style>\nカトエリ、気にすんな！　どんまい！=<style\=RubyPrefixTag></style>Katoeri, don't worry about it! Don't mind me!
+        お、おう。=Y-Yeah.
+        <style\=RubyPrefixTag></style>\nお、おう。=<style\=RubyPrefixTag></style>Y-Yeah.
+        （うちが元気づける側やないとあかんのに…）=(I should be the one cheering her up...)
+        <style\=RubyPrefixTag></style>\n（うちが元気づける側やないとあかんのに…）=<style\=RubyPrefixTag></style>(I should be the one cheering her up...)
+
+        [Today's Catch]
+        ハゼ=Haze
+        今日の釣果=Today's Catch
+
+    [TV Time]
+        今日も日が暮れた。テレビのほう向かうか。=The sun has set again today. Let's head to the TV.
+        <style\=RubyPrefixTag></style>\n今日も日が暮れた。テレビのほう向かうか。=<style\=RubyPrefixTag></style>The sun has set again today. Let's head to the TV.
+        二刀流\n今日も出るかな。=I wonder if I'll be able to fight with two swords\nagain today.
+        わかる！\nかっこいいよな！=I know! You're so cool!
+        みんなふたつ\n持てばいいのに。=Everyone should have two.
+
+        [Quest Order Dialogue]
+        よう、斡旋屋！=Hey, mediator!
+        <style\=RubyPrefixTag></style>\nよう、斡旋屋！=<style\=RubyPrefixTag></style>Hey, mediator!
+        ふあああ！！　ル、ルミちゃんの吹いたリコーダーを…！=Fuaaaah!! R-Rumi-chan's recorder...!
+        <style\=RubyPrefixTag></style>\nふあああ！！　ル、ルミちゃんの吹いたリコーダーを…！\r\n=<style\=RubyPrefixTag></style>Fuaaaah!! R-Rumi-chan's recorder...!
+        いいいい、言えないーー！！=I-I-I can't say it!!
+        <style\=RubyPrefixTag></style>\nいいいい、言えないーー！！=<style\=RubyPrefixTag></style>I-I-I can't say it!!
+        それは言うたらあかんやろ。ドン引きされるで。=You shouldn't say that. Don't get grossed out.
+        <style\=RubyPrefixTag></style>\nそれは言うたらあかんやろ。ドン引きされるで。=<style\=RubyPrefixTag></style>You shouldn't say that. Don't get grossed out.
+
+        [Scrap Dealer]
+        よう、ルミちゃ～ん。今日は暇だったぜ～。=Hey, Rumi-chaaan. I'm free today.
+        <style\=RubyPrefixTag></style>\nよう、ルミちゃ～ん。今日は暇だったぜ～。=<style\=RubyPrefixTag></style>Hey, Rumi-chaaan. I'm free today.
+        スクラップ屋、やらない時はやらない！！=Scrappers don't do it when they're not!!
+        <style\=RubyPrefixTag></style>\nスクラップ屋、やらない時はやらない！！=<style\=RubyPrefixTag></style>Scrappers don't do it when they're not!!
+        かっこええみたいに言うたんなや。=He said it like it was cool.
+        <style\=RubyPrefixTag></style>\nかっこええみたいに言うたんなや。=<style\=RubyPrefixTag></style>He said it like it was cool.
+
+        [Variety Shop]
+        あら、ルミちゃん、またいけないお遊び？　混ぜてもらおうかしら。=Oh, Rumi-chan, are you playing a bad game again? Maybe\nI should join you.
+        <style\=RubyPrefixTag></style>\nあら、ルミちゃん、またいけないお遊び？　混ぜてもらお\r\nうかしら。=<style\=RubyPrefixTag></style>Oh, Rumi-chan, are you playing a bad game again?\nMaybe I should join you.
+        火傷したくねーなら、帰りな！=If you don't want to get burned, go home!
+        <style\=RubyPrefixTag></style>\n火傷したくねーなら、帰りな！=<style\=RubyPrefixTag></style>If you don't want to get burned, go home!
+        （相変わらずノリええな！）=(You're as enthusiastic as ever!)
+        <style\=RubyPrefixTag></style>\n（相変わらずノリええな！）=<style\=RubyPrefixTag></style>(You're as enthusiastic as ever!)
+
+        [TV]
+        （今日は洞窟を進むいうとったな…）=(You said you were going through the cave today...)
+        <style\=RubyPrefixTag></style>\n（今日は洞窟を進むいうとったな…）=<style\=RubyPrefixTag></style>(You said you were going through the cave today...)
+        （少しは楽に進めるんやろか…）=(Maybe I should take it a little easier...)
+        <style\=RubyPrefixTag></style>\n（少しは楽に進めるんやろか…）=<style\=RubyPrefixTag></style>(Maybe I should take it a little easier...)
