@@ -1,0 +1,5 @@
+[Inventory]
+習志野ミッション=Narashino Mission
+釣り=Fishing
+魚=Uo
+習志野ドームでお金として使われているコインです=It's a coin used for money at the Narashino Dome
