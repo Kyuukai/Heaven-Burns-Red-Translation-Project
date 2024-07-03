@@ -300,6 +300,26 @@ Option - cabbage dark leaves
 こちらを\n頂こうかしら。=Guess I'll take this.
 こいつは\n使えそうだ…。=This one seems useful...
 -----------------------
+Option - Average size
+-----------------------
+繁盛しちょるのう。=Business is booming.
+中間ぐらいのキャベツや。=It's a cabbage of average size.
+<style\=RubyPrefixTag></style>\n中間ぐらいのキャベツや。=<style\=RubyPrefixTag></style>It's a cabbage of average size.
+それを選ぶの？　優柔不断ってことね。=Are you going to choose that? You're so indecisive.
+<style\=RubyPrefixTag></style>\nそれを選ぶの？　優柔不断ってことね。=<style\=RubyPrefixTag></style>Are you going to choose that? You're so indecisive.
+いつの間に占い屋になったんや。=When did you become a fortune teller?
+<style\=RubyPrefixTag></style>\nいつの間に占い屋になったんや。=<style\=RubyPrefixTag></style>When did you become a fortune teller?
+え？　占い屋呼ぶ？=Huh? Call the fortune teller?
+<style\=RubyPrefixTag></style>\nえ？　占い屋呼ぶ？=<style\=RubyPrefixTag></style>Huh? Call the fortune teller?
+これ以上なになに屋増やすな。頭こんがらがるねん。=Don't increase the number of shops any more than this.\nIt's making my head spin.
+<style\=RubyPrefixTag></style>\nこれ以上なになに屋増やすな。頭こんがらがるねん。=<style\=RubyPrefixTag></style>Don't increase the number of shops any more than\nthis. It's making my head spin.
+で、アタリかハズレかどっちやねん。=So, is it hit or miss?
+<style\=RubyPrefixTag></style>\nで、アタリかハズレかどっちやねん。=<style\=RubyPrefixTag></style>So, is it hit or miss?
+ハズレよ。１００ジャスティスになるわ。=It's wrong. It'll be 100 Justice.
+<style\=RubyPrefixTag></style>\nハズレよ。１００ジャスティスになるわ。=<style\=RubyPrefixTag></style>It's wrong. It'll be 100 Justice.
+そうか。でも頂く。１００ジャスティスや。=I see. But I'll take it. A hundred Justice.
+<style\=RubyPrefixTag></style>\nそうか。でも頂く。１００ジャスティスや。=<style\=RubyPrefixTag></style>I see. But I'll take it. A hundred Justice.
+-----------------------
 Bar
 -----------------------
 （なんや？　音楽が聞こえる…古めかしい感じの…）=(What's that? I hear music... It has an old-fashioned \nfeel to it...)
