@@ -1,0 +1,257 @@
+﻿[Arasuji]
+    訓練と日常を繰り返しながら、31Aは団結を増していく。\n作戦決行までは、残り10日を切っていた。=While repeating training and daily activities, 31A grew increasingly united.\nLess than 10 days remained until the operation.
+[Morning]
+    さ、点呼も終わったしそろそろ朝食だな。=Well, the roll call is over, so it's about time for breakfast.
+    ユッキー、なんか疲れた顔してない？=Yukki, don't you look kinda tired?
+    お前が毎日バンド練習に連れ回すからだよ。=That's because you've been dragging me to band practice\nevery day.
+    <style\=RubyPrefixTag></style>\nお前が毎日バンド練習に連れ回すからだよ。=<style\=RubyPrefixTag></style>\nThat's because you've been dragging me to band practice\nevery day.
+    じゃ、問題なしだな。=Then there's no problem.
+    問題なくはねーだろ。ま、気分転換にはなるけどさ。=There's nothing but problems. Well, it works for a\nchange, though.
+    ユッキーがデレた！　これは永久保存版！=Yukki's being affectionate! This is a keeper!
+    デレてない！　ったく…飯に行くぞ。=I'm not! Geez... Let's go eat.
+    宿舎を出よう！=Let's leave the dormitory!
+    早くカフェテリア行こうぜ。=Let's hurry to the cafeteria.
+    あたしは知ってる。こっちに朝食はない。=I can feel it. There's no breakfast over here.
+    <style\=RubyPrefixTag></style>\nあたしは知ってる。こっちに朝食はない。=<style\=RubyPrefixTag></style>\nI can feel it. There's no breakfast over here.
+    なんや。はよ飯行こうや。=What's up? Let's go eat.
+    <style\=RubyPrefixTag></style>\nなんや。はよ飯行こうや。=<style\=RubyPrefixTag></style>\nWhat's up? Let's go eat.
+    お腹がすきました！=I'm hungry!
+    今日のメニューは何かしらね。=I wonder what's on the menu today.
+    今日も頑張っていこうね。=Let's do our best today too.
+[Breakfast]
+    ふー、食った食った。=Phew, I'm full.
+    あれ？　みんな先に行っちゃったのか。=Huh? Are they all gone already?
+    あたしも早く行かなきゃ…おっと。=I need to hurry too... Oh.
+    <style\=RubyPrefixTag></style>\nあたしも早く行かなきゃ…おっと。=<style\=RubyPrefixTag></style>\nI need to hurry too... Oh.
+    お、ユッキー、待っててくれたのか。=Oh, Yukki, you waited for me?
+    <style\=RubyPrefixTag></style>\nお、ユッキー、待っててくれたのか。=<style\=RubyPrefixTag></style>\nOh, Yukki, you waited for me?
+    いや、風が気持ちいいなって、立ち止まってただけだが？=No, I was just standing here because the wind felt nice.
+    えーーー、期待しちゃったじゃんーー。=Eehhh, I got my hopes up.
+    あたしが待ってたら、嬉しいのかよ。=Would you be happy if I waited?
+    嬉しい。=I will.
+    は…男でもなし。=Heh... I'm not even a man.
+    ユッキーのほうが男らしいし。=Yukki, you're more manly than a man.
+    失礼な奴だな。お前のほうがよっぽど正体不明だぞ。完全にクールビューティーだと勘違いしてた。=How rude. You're the one who's more of an enigma.\nI completely misunderstood you as a cool beauty.
+    <style\=RubyPrefixTag></style>\n失礼な奴だな。お前のほうがよっぽど正体不明だぞ。完全\r\nにクールビューティーだと勘違いしてた。=<style\=RubyPrefixTag></style>\nHow rude. You're the one who's more of an enigma.\nI completely misunderstood you as a cool beauty.
+    あれは、レコード会社の戦略のせいだねぇ。=That's the record company's strategy.
+    <style\=RubyPrefixTag></style>\nあれは、レコード会社の戦略のせいだねぇ。=<style\=RubyPrefixTag></style>\nThat's the record company's strategy.
+    まんまと騙されて聴いてたわ。=I was totally fooled and listened to it.
+    <style\=RubyPrefixTag></style>\nまんまと騙されて聴いてたわ。=<style\=RubyPrefixTag></style>\nI was totally fooled and listened to it.
+    歌に罪はない。=The song is not at fault.
+    別にお前にも罪はねーよ。=It's not your fault either.
+    <style\=RubyPrefixTag></style>\n別にお前にも罪はねーよ。=<style\=RubyPrefixTag></style>\nIt's not your fault either.
+    だったらよかった！=That's good then!
+    <style\=RubyPrefixTag></style>\nだったらよかった！=<style\=RubyPrefixTag></style>\nThat's good then!
+    アリーナで訓練を受けよう！=Let's go train at the arena!
+    急がないと司令官に怒られる！=If we don't hurry, the commander will get mad!
+    訓練ももう大詰めだな。=Training is in its final stages too.
+    相変わらず司令官の要求は厳しいが…。=The commander's demands are as strict as ever...
+    まあ、やってやるしかないな。=Well, we just have to do it.
+    訓練をボイコットしたら…絶対にやばい！=Boycotting training would be... absolutely terrible!
+    <style\=RubyPrefixTag></style>\n訓練をボイコットしたら…絶対にやばい！=<style\=RubyPrefixTag></style>\nBoycotting training would be... absolutely terrible!
+[Training]
+    それじゃあ、今日もフェーズ４の訓練を続けるわよ。=Alright, let's continue with Phase 4 training today.
+    大事なのは判断力よ。=The important thing is decision-making.
+    <style\=RubyPrefixTag></style>\n大事なのは判断力よ。=<style\=RubyPrefixTag></style>\nThe important thing is decision-making.
+    輸送車に届く攻撃のみ防御する、攻撃される前に殲滅する、攻撃が届かない地域まで押し戻す。=Defend only against attacks that reach the transport,\nkill the enemy before they attack, or push them back\nwhere their attacks can't reach.
+    方法はいくらでもあるわ。必要なら、自分たちだけで倒さず、周辺の部隊に応援要請を出してもいいのよ。=There are many ways to do it. If necessary, you can\nrequest support from surrounding units instead of handling\nit alone.
+    使える手段は全て利用して有利な体勢を作っていきなさい。=Use all available means to create an advantageous position.
+    <style\=RubyPrefixTag></style>\n使える手段は全て利用して有利な体勢を作っていきなさい。\r\n=<style\=RubyPrefixTag></style>\nUse all available means to create an advantageous position.
+    なー。ちょっと質問してもええか？=Uh, can I ask a question?
+    はい、なんでしょう。=Yes, what is it?
+    <style\=RubyPrefixTag></style>\nはい、なんでしょう。=<style\=RubyPrefixTag></style>\nYes, what is it?
+    うちってなにしたらええん？　近距離しか攻撃できへんのやけど。=What should I do? I can only attack at close range.
+    輸送車先頭の直衛に回ってください。おそらく当分暇でしょうが。=Move to the front of the transport vehicle. You'll\nprobably be idle for a while, though.
+    <style\=RubyPrefixTag></style>\n輸送車先頭の直衛に回ってください。おそらく当分暇でしょ\r\nうが。=<style\=RubyPrefixTag></style>\nMove to the front of the transport vehicle. You'll\nprobably be idle for a while, though.
+    そうでっか…。=I see...
+    さて、今日も護衛やりますか。=Well, let's do our escort duty today too.
+    のんびりいこや〜。=Let's take it easy.
+    のんびりしてられないぞ。=We can't take it easy.
+    <style\=RubyPrefixTag></style>\nのんびりしてられないぞ。=<style\=RubyPrefixTag></style>\nWe can't take it easy.
+    キャンサーって小さいと、案外可愛く感じる時、ない？=When the cancer is small, don't you sometimes find it\ncute?
+    わかる。たまに倒してから、可哀想って思っちゃう。=I get it. Sometimes after defeating them, I feel sorry\nfor them.
+    １体、というより、１匹って感じね。=It's more like 1 critter* (１匹) rather than 1 creature* (１体). \n<size\=75%>(*Japanese counting units for various animal groups)</size>
+    <style\=RubyPrefixTag></style>\n１体、というより、１匹って感じね。=<style\=RubyPrefixTag></style>\nIt's more like 1 critter* (１匹) rather than 1 creature* (１体).\n<size\=75%>(*Japanese counting units for various animal groups)</size>
+    うん。うさぎと同じね。=Yeah, like a rabbit.
+    え？　うさぎは、１羽、２羽よ？=Eh? Rabbits are counted as one feathers or two feathers\n(１羽), you know?
+    <style\=RubyPrefixTag></style>\nえ？　うさぎは、１羽、２羽よ？=<style\=RubyPrefixTag></style>\nEh? Rabbits are counted as one feathers or two feathers\n(１羽), you know?
+    えー！　うそ！？　蝶とかと同じじゃないの！？=EEH! Really!? Isn't it using the same unit as butterflies!?
+    <style\=RubyPrefixTag></style>\nえー！　うそ！？　蝶とかと同じじゃないの！？=<style\=RubyPrefixTag></style>\nEEH! Really!? Isn't it using the same unit as butterflies!?
+    蝶は１頭、２頭よ？=Butterflies are counted as one or two heads (１頭).
+    えー！　１匹、２匹じゃないの！？　一体どういうこと！？=EEH! Not one or two critters (１匹)!? How does this even\nwork!?
+    おいおいおい、無駄な豆知識の連射で仲間を混乱に陥れるな。=Oi oi, stop confusing everyone with your useless trivia.
+    作戦行動終了。戦闘時間、デフレクタ損耗率共に目標ライン付近の数値になりました。=Operation complete. The combat time and deflector\ndepletion rate were both close to the target values.
+    <style\=RubyPrefixTag></style>\n作戦行動終了。戦闘時間、デフレクタ損耗率共に目標ライ\r\nン付近の数値になりました。=<style\=RubyPrefixTag></style>\nOperation complete. The combat time and deflector\ndepletion rate were both close to the target values.
+    ３１Ｂが敵集団に砲撃した時、攻撃の威力が足りなくて倒し切れない状況が何度かありました。=There were several times when 31B's artillery couldn't\nfinish off the enemy due to insufficient attack power.
+    <style\=RubyPrefixTag></style>\n３１Ｂが敵集団に砲撃した時、攻撃の威力が足りなくて倒\r\nし切れない状況が何度かありました。=<style\=RubyPrefixTag></style>\nThere were several times when 31B's artillery couldn't\nfinish off the enemy due to insufficient attack power.
+    うんうん、そうだねぇ。=Yep yep, that's right.
+    <style\=RubyPrefixTag></style>\nうんうん、そうだねぇ。=<style\=RubyPrefixTag></style>\nYep yep, that's right.
+    わかってんのか、お前。キャラおかしいぞ。=Do you even understand? Your character becomes weird.
+    <style\=RubyPrefixTag></style>\nわかってんのか、お前。キャラおかしいぞ。=<style\=RubyPrefixTag></style>\nDo you even understand? Your character becomes weird.
+    申し訳ないですが、そういった状況の時、こちらの攻撃を手伝って欲しいんですがそれは可能でしょうか？=I'm sorry, but I'd like to ask for your help when we're\nin that situation. Would that be possible?
+[Option - Understood]
+    <style\=RubyPrefixTag></style>\nわかった=<style\=RubyPrefixTag></style>\nGot it
+    <style\=RubyPrefixTag></style>\n攻撃を手伝うのは…=<style\=RubyPrefixTag></style>\nHelping with the attack...
+    <style\=RubyPrefixTag></style>\n難しい=<style\=RubyPrefixTag></style>\nThat's difficult
+    わかった。そのときは支援要請してくれ。こっちの陣形を組み替えて対応するよ。=I understand. Just call for support when that happens.\nWe'll adjust our formation to handle it.
+    ビャッコにも礼言われた！=Even Byakko gave her gratitude to me!
+    蒼井さん、いい判断よ。出来ないことは自分だけでなく、仲間全員で対応すればいいの。=Aoi-san, that was a good decision. If you can't do it\nalone, it's okay to rely on your comrades.
+    得点稼ぎか？=Are you trying to score points?
+    戦場でかにゃ？　そんなの無意味なのににゃぁ。=In a battlefield? That's meaningless, nya.
+    <style\=RubyPrefixTag></style>\n戦場でかにゃ？　そんなの無意味なのににゃぁ。=<style\=RubyPrefixTag></style>\nIn a battlefield? That's meaningless, nya.
+    作戦を成功させるためです！=I do it to ensure the success of the operation!
+    うわ、怒られた。おーこわ。=Uwah, we were scolded. Scary.
+    <style\=RubyPrefixTag></style>\nうわ、怒られた。おーこわ。=<style\=RubyPrefixTag></style>\nUwah, we were scolded. Scary.
+    珍しいにゃぁ。=That's rare, nya.
+    <style\=RubyPrefixTag></style>\n珍しいにゃぁ。=<style\=RubyPrefixTag></style>\nThat's rare, nya.
+    明日でフェーズ４の訓練も最後よ。引き続き頑張りなさい。=Tomorrow is the last day of Phase 4 training. Keep up\nthe good work.
+    <style\=RubyPrefixTag></style>\n明日でフェーズ４の訓練も最後よ。引き続き頑張りなさい。\r\n=<style\=RubyPrefixTag></style>\nTomorrow is the last day of Phase 4 training. Keep up\nthe good work.
+[Dinner]
+    今日の晩ご飯、肉でありますように！！=Please let tonight's dinner be meat!!
+    どれだけ肉好きなんだよ…。=How much do you love meat...
+    <style\=RubyPrefixTag></style>\nどれだけ肉好きなんだよ…。=<style\=RubyPrefixTag></style>\nHow much do you love meat...
+    あの色合いは…。=That color... Could it be...
+    <style\=RubyPrefixTag></style>\nあの色合いは…。=<style\=RubyPrefixTag></style>\nThat color... Could it be...
+    <style\=RubyPrefixTag></style>\nカ、カツだぁーーーー！！=<style\=RubyPrefixTag></style>\nK-Katsu!!!!
+    やりましたね！！　まさにカツるですね！！=Yes! We did it! It's a katsu-ing success!!
+    しかも、ソースが選べるみたい。=And, it looks like you can choose the sauce.
+    え、何と何があるの？=Eh, what are the options?
+    <style\=RubyPrefixTag></style>\nえ、何と何があるの？=<style\=RubyPrefixTag></style>\nEh, what are the options?
+    普通のトンカツソースと…こっちは、味噌ね。=There's regular tonkatsu sauce and... this one is miso.
+    <style\=RubyPrefixTag></style>\n普通のトンカツソースと…こっちは、味噌ね。=<style\=RubyPrefixTag></style>\nThere's regular tonkatsu sauce and... this one is miso.
+    味噌…？　それってようは、味噌カツになるってこと！？=Miso...? Does that mean it's miso katsu!?
+    そりゃそーだろ。=Of course it does.
+    あたし食ったことないんだよ！　ツアーで名古屋に行った時も多数決であんかけスパになったんだよ！　それはそれで美味しかったけどさ！=I've never had it! When we went to Nagoya on tour, we\nended up having ankake spaghetti by majority vote! That\nwas delicious too though!
+    <style\=RubyPrefixTag></style>\nあたし食ったことないんだよ！　ツアーで名古屋に行った\r\n時も多数決であんかけスパになったんだよ！　それはそれ\r\nで美味しかったけどさ！=<style\=RubyPrefixTag></style>\nI've never had it! When we went to Nagoya on tour, we\nended up having ankake spaghetti by majority vote! That\nwas delicious too though!
+    じゃ、食えよ。=Then eat it.
+    <style\=RubyPrefixTag></style>\nじゃ、食えよ。=<style\=RubyPrefixTag></style>\nThen eat it.
+    でも、トンカツソースにしとけばよかった！！ってなるのが恐い…。=But I'm scared that I'll regret not choosing the tonkatsu\nsauce!!
+    <style\=RubyPrefixTag></style>\nでも、トンカツソースにしとけばよかった！！ってなるの\r\nが恐い…。=<style\=RubyPrefixTag></style>\nBut I'm scared that I'll regret not choosing the tonkatsu\nsauce!!
+    まず一切れだけ試してみればいいだろ。=You could just try a slice first.
+    <style\=RubyPrefixTag></style>\nまず一切れだけ試してみればいいだろ。=<style\=RubyPrefixTag></style>\nYou could just try a slice first.
+    <style\=RubyPrefixTag></style>\nおっと、ナーーーイスハッキーーング！=<style\=RubyPrefixTag></style>\nOh, NIIIICE HACKIIIING!!
+    機械とはまったく関係ないわ。=It has nothing to do with machines.
+    <style\=RubyPrefixTag></style>\n機械とはまったく関係ないわ。=<style\=RubyPrefixTag></style>\nIt has nothing to do with machines.
+    はっ…関西は断然ソースや。味噌なんてありえへんわ。=Hah... In Kansai, it has to be with sauce. Picking miso\nis unthinkable.
+    ソースみたいにシャバシャバじゃないんだな…ねっとりしてる…。=It's not runny like sauce... it's thick...
+    <style\=RubyPrefixTag></style>\nソースみたいにシャバシャバじゃないんだな…ねっとりし\r\nてる…。=<style\=RubyPrefixTag></style>\nIt's not runny like sauce... it's thick...
+    うん、それが特徴。=Yeah, that's its texture.
+    どっちの驚きだよ。=Which kind of surprise is it?
+    <style\=RubyPrefixTag></style>\nどっちの驚きだよ。=<style\=RubyPrefixTag></style>\nWhich kind of surprise is it?
+    なにこれ…お菓子みたいに甘くて美味しい！！=What is this... It's sweet and delicious like a candy!!
+    よかったな。=Good for you.
+    <style\=RubyPrefixTag></style>\nよかったな。=<style\=RubyPrefixTag></style>\nGood for you.
+    ３時のおやつに出てきても、嬉しいレベルじゃん！！=It's so good, I'd be happy to have it for my 3 o'clock\nsnack!!
+    <style\=RubyPrefixTag></style>\n３時のおやつに出てきても、嬉しいレベルじゃん！！=<style\=RubyPrefixTag></style>\nIt's so good, I'd be happy to have it for my 3 o'clock\nsnack!!
+    はっ…相変わらずお子様やのぅ。=Geez... as childish as ever.
+    あたしこんなの知らずに生きてきたよ…。=I've lived my whole life without knowing this...
+    <style\=RubyPrefixTag></style>\nあたしこんなの知らずに生きてきたよ…。=<style\=RubyPrefixTag></style>\nI've lived my whole life without knowing this...
+    早く名古屋を奪還しよ？=Let's recapture Nagoya ASAP, shall we?
+    <style\=RubyPrefixTag></style>\n早く名古屋を奪還しよ？=<style\=RubyPrefixTag></style>\nLet's recapture Nagoya ASAP, shall we?
+    奪還しても、トンカツ屋まで復活するわけじゃないからな。=Even if we recapture it, doesn't mean the tonkatsu\nrestaurants will come back.
+    あたしが営む。=I'll run one.
+    戦えよ。志半ば過ぎるだろ。客も来ないわ。=Go fight instead. You're straying too far from the mission.\nNo customers would come anyway.
+    <style\=RubyPrefixTag></style>\n戦えよ。志半ば過ぎるだろ。客も来ないわ。=<style\=RubyPrefixTag></style>\nGo fight instead. You're straying too far from the mission.\nNo customers would come anyway.
+    そこまで美味しかったのね。=It was that delicious, huh?
+    はーーー…今日はいい夢見れそうだ。=Ah... I think I'll have good dreams tonight.
+    <style\=RubyPrefixTag></style>\nはーーー…今日はいい夢見れそうだ。=<style\=RubyPrefixTag></style>\nAh... I think I'll have good dreams tonight.
+[Studio]
+    うーーーーーん。=Hmmm...
+    なんだよ、いつになく考え込んで。いつもなら、嬉々としてギター触り始めるのに。=What's wrong? You're unusually deep in thought.\nNormally, you'd be happily playing your guitar by now.
+    <style\=RubyPrefixTag></style>\nなんだよ、いつになく考え込んで。いつもなら、嬉々とし\r\nてギター触り始めるのに。=<style\=RubyPrefixTag></style>\nWhat's wrong? You're unusually deep in thought.\nNormally, you'd be happily playing your guitar by now.
+    最近、訓練や、哨戒任務続きで、疲れが相当溜まってんじゃん？=Recently, with all the training and patrol missions,\nthe fatigue has really been building up, right?
+    そうだな。しばらくバンドの練習は休みにするか。いい提案だ。=Yeah, maybe we should take a break from band practice\nfor a while. Good suggestion.
+    ライブして、その疲れを吹き飛ばさない？=How about a live performance to blow away that fatigue?
+    <style\=RubyPrefixTag></style>\nライブして、その疲れを吹き飛ばさない？=<style\=RubyPrefixTag></style>\nHow about a live performance to blow away that fatigue?
+    逆ーー！！　疲れは一方的に溜まっていくもんで、そんなので吹き飛ばねーよ！？=The opposite!! Fatigue will just keep piling up,\nthat won't blow it away!!
+    なんでさ。気分転換が一番の薬だろ。=Why not? A change of pace is the best remedy.
+    一番の薬は、休養だわ。=The best remedy is rest.
+    <style\=RubyPrefixTag></style>\n一番の薬は、休養だわ。=<style\=RubyPrefixTag></style>\nThe best remedy is rest.
+    いや、うちも溜まりに溜まったサイキックをばりばりいわせたいところやったから、ちょうどええわ。=Well, I was itching to use up all my pent-up psychic\nenergy, so this is perfect.
+    お前はただ単にサイキックが戦闘に活かせず、勝手に溜まってただけだろ。参考にならんわ。=You just haven't been able to use your psychic powers\nin combat and they've been building up. That's not a\ngood reason.
+    殺りてぇーーーーーーー！！=I want to do (kill) it!!
+    <style\=RubyPrefixTag></style>\nどっちの衝動だよ。参考にならんわ。=<style\=RubyPrefixTag></style>\nWhich urge are you talking about? That's not a good reason.
+    どっちの衝動だよ。参考にならんわ。=Which urge are you talking about? That's not a good reason.
+    <style\=RubyPrefixTag></style>\n殺りてぇーーーーーーー！！=<style\=RubyPrefixTag></style>\nI want to do (kill) it!!
+    演りてぇーーーーーーー！！=I want to  do (perform) it!!
+    <style\=RubyPrefixTag></style>\n演りてぇーーーーーーー！！=<style\=RubyPrefixTag></style>\nI want to  do (perform) it!!
+    不思議だ。響きは同じなのに、ライブに対してな気がしてきた。=How strange. What you said doesn't change, but I feel\nlike you meant it as "perform" this time.
+    覚悟決めました。やったりましょう！！=I've made up my mind. Let's do it!!
+    <style\=RubyPrefixTag></style>\n覚悟決めました。やったりましょう！！=<style\=RubyPrefixTag></style>\nI've made up my mind. Let's do it!!
+    この戦時下、もっと違うシーンで覚悟は決めるべきだろ。参考にならんわ。=In these times of war, you should be making up your mind\nin different situations. That's not a good reason.
+    <style\=RubyPrefixTag></style>\nこの戦時下、もっと違うシーンで覚悟は決めるべきだろ。\r\n参考にならんわ。=<style\=RubyPrefixTag></style>\nIn these times of war, you should be making up your mind\nin different situations. That's not a good reason.
+    わたしって本番に強いタイプなの。それがまた発揮される時が来たみたいね。=I perform well under pressure. Looks like the time has\ncome for that to be shown again.
+    戦闘で本番の強さを発揮しろよ。こんな趣味みたいなところで発揮すんなよ。参考にならんわ。=Showcase that strength in combat. Not in some hobby.\nThat's not a good reason.
+    蒼井はどうだ？　緊張はするだろうけど、終わった後は最高な気分になれるぜ？=Aoi, what do you think? You might feel nervous, but\nyou'll feel great after it's over.
+    <style\=RubyPrefixTag></style>\n蒼井はどうだ？　緊張はするだろうけど、終わった後は最\r\n高な気分になれるぜ？=<style\=RubyPrefixTag></style>\nAoi, what do you think? You might feel nervous, but\nyou'll feel great after it's over.
+    もしかすると、蒼井に必要なのは、そういう成功体験なのかもしれません…。=Maybe Aoi needs that kind of successful experience...
+    わかりました…やります！！=Alright... Let's do it!!
+    あっれーーー！？　参考にならねぇ票ばっかだと思いきや、結果全員やる気なの！？=Whaaat!? I thought all the votes wouldn't count, but\nin the end everyone want to do it!?
+    そうだよ？=That's right.
+    朝倉、お前は！？=Asakura, what about you!?
+    あの緊張感と達成感をもう一度味わいたい…。=I want to experience that tension and sense of\naccomplishment again...
+    <style\=RubyPrefixTag></style>\nあの緊張感と達成感をもう一度味わいたい…。=<style\=RubyPrefixTag></style>\nI want to experience that tension and sense of\naccomplishment again...
+    カレンちゃんの意見を足すと、賛成が７票だね。=Adding Karen's opinion, that's seven votes in favor.
+    <style\=RubyPrefixTag></style>\nカレンちゃんの意見を足すと、賛成が７票だね。=<style\=RubyPrefixTag></style>\nAdding Karen's opinion, that's seven votes in favor.
+    あたしひとりじゃとても覆せない、圧倒的大敗！！=I can't possibly overturn that by myself. A crushing\ndefeat!!
+    前は物足りなかったから、長めにやろうぜ。=Last time wasn't enough, so let's do longer one.
+    <style\=RubyPrefixTag></style>\n前は物足りなかったから、長めにやろうぜ。=<style\=RubyPrefixTag></style>\nLast time wasn't enough, so let's do longer one.
+    一曲しか出来んわ。=We can only do one song.
+    あ、そっか。かつてのセトリはまだ組めないんだった。新しい曲を演れるように練習しなくちゃな。=Oh, right. We still can't put together the old set list.\nWe have to practice new songs.
+    次はどの曲をコピーするの？=What song are we covering next?
+    コピーばっかじゃみんながつまらないじゃん。二曲目以降はオリジナル曲作ろうよ。=Everyone would get bored if it's all covers. Let's write\noriginal songs from the second song onward.
+    さすが天才。頑張れよ。=As expected from a prodigy  . Good luck.
+    みんなでだよ？=Together, of course.
+    待て待て待て、訓練に哨戒任務に作曲にライブに、あたしらはなんなんだ…。=Wait, wait, wait. Training, patrol missions, composing,\nand performing. What are we even...?
+    マルチソルジャー。=Multi-soldiers.
+    <style\=RubyPrefixTag></style>\nマルチソルジャー。=<style\=RubyPrefixTag></style>\nMulti-soldiers.
+    なんだそのマルチクリエーターみたいなの。=What's with that multi-creator-like term?
+    マルチに戦ったり演奏したりするの。=Fighting and performing, both.
+    <style\=RubyPrefixTag></style>\nマルチに戦ったり演奏したりするの。=<style\=RubyPrefixTag></style>\nFighting and performing, both.
+    いや、わかるけど。いや、わからんわ。=Yeah, I get it. No, actually, I don't.
+    <style\=RubyPrefixTag></style>\nいや、わかるけど。いや、わからんわ。=<style\=RubyPrefixTag></style>\nYeah, I get it. No, actually, I don't.
+    まあまあ、絶対楽しいから。やろ？=Come on, it'll be fun. Let's do it?
+    あたしの前に、やる、やらないの選択肢が今現れて欲しいわ。=I wish I had the option to choose whether to do it or not.
+    <style\=RubyPrefixTag></style>\nあたしの前に、やる、やらないの選択肢が今現れて欲しい\r\nわ。=<style\=RubyPrefixTag></style>\nI wish I had the option to choose whether to do it or not.
+    やる、押すくせにー。=Even though you'll choose to do it.
+    押さんわ。=I won't.
+    ゲームオーバーになるよ？=It'll be game over, you know?
+    <style\=RubyPrefixTag></style>\nゲームオーバーになるよ？=<style\=RubyPrefixTag></style>\nIt'll be game over, you know?
+    クソ理不尽なゲームだな。=What an unreasonable game.
+    <style\=RubyPrefixTag></style>\nクソ理不尽なゲームだな。=<style\=RubyPrefixTag></style>\nWhat an unreasonable game.
+    よしっ、早速始めていこう！=Alright, let's get started!
+    相変わらず強引だな…。=As pushy as ever...
+    とっかかりとかもなしにですか…？=Without any groundwork...?
+    <style\=RubyPrefixTag></style>\nとっかかりとかもなしにですか…？=<style\=RubyPrefixTag></style>\nWithout any groundwork...?
+    とりあえずＢＰＭとコード進行だけ決めておこう。あとは衝動に任せればいい。やりたいことをやればいい。=Let's just decide the BPM and chord progression first.\nThen we'll leave the rest to impulse. Just do what you\nfeel like doing.
+    そんな勢いだけで出来るようなものなんですか…！？=Can you really create something that way...!?
+    <style\=RubyPrefixTag></style>\nそんな勢いだけで出来るようなものなんですか…！？=<style\=RubyPrefixTag></style>\nCan you really create something that way...!?
+    そうやってきたもん。=That's how I did it.
+    <style\=RubyPrefixTag></style>\nそうやってきたもん。=<style\=RubyPrefixTag></style>\nThat's how I did it.
+    音楽ちょろかった！！=Music was easy!!
+    真剣にやってるひとたちに怒られるわ。=People who take it seriously are going to get mad at us.
+    さすが、天才茅森と異名を持つだけあるわね…。=As expected of someone with the nickname "Prodigy Kayamori".
+    <style\=RubyPrefixTag></style>\nさすが、天才茅森と異名を持つだけあるわね…。=<style\=RubyPrefixTag></style>\nAs expected of someone with the nickname "Prodigy Kayamori".
+    前回あれだけジャムれたんだ。今のみんななら、やれるさ。行ってみよう！=We managed to jam last time. We can do it now. Let's go!
+    うーん、今日はこのぐらいにしとく？=Hmm, shall we call it a day?
+    ああ、全然スキルが追いついてないからな…。=Yeah, our skills can't keep up...
+    次までそれぞれ練習しておきましょう！！=Let's each practice until next time!!
+    <style\=RubyPrefixTag></style>\n次までそれぞれ練習しておきましょう！！=<style\=RubyPrefixTag></style>\nLet's each practice until next time!!
+    なんでそんなことしなくちゃならねーんだよ…。=Why do we have to do that...
+    <style\=RubyPrefixTag></style>\nなんでそんなことしなくちゃならねーんだよ…。=<style\=RubyPrefixTag></style>\nWhy do we have to do that...
+[Free Time]
+    柊木=Hiiragi
+    お願いがあります。=I have a request.
+<style\=RubyPrefixTag></style>\n『オペレーション・プレアデス』決行まで あと９日=<style\=RubyPrefixTag></style>\n[Operation Pleiades] execution in 9 days
+[Extra line - Option - difficult]
+    難しい。=That's difficult.
+    ああ、話が難しい…。=Yeah, the topic is difficult...
+    <style\=RubyPrefixTag></style>\nああ、話が難しい…。=<style\=RubyPrefixTag></style>\nYeah, the topic is difficult...
+    あほか。=Idiot.
+    <style\=RubyPrefixTag></style>\nあほか。=<style\=RubyPrefixTag></style>\nIdiot.
+    でも、茅森さんに伝わっていなくては意味がありません！=But it's meaningless if Kayamori-san doesn't understand!
+    いやいや大丈夫！　あとでユッキーから噛みまくったのを聞くから！=No no, it's okay! I'll hear Yukki's 'chewed up' explanation\nlater!
+    噛み砕いたのをだろ。あたしが噛み噛みで説明しきれてないみたいに思われるわ。=It's 'simplified,' not 'chewed up.' Don't make it sound\nlike I give muddled explanations.
+    <style\=RubyPrefixTag></style>\n噛み砕いたのをだろ。あたしが噛み噛みで説明しきれてな\r\nいみたいに思われるわ。=<style\=RubyPrefixTag></style>\nIt's 'simplified,' not 'chewed up.' Don't make it sound\nlike I give muddled explanations.
+    おー。=Ooh.
+    感心しないでいいから。=Don't be impressed.
