@@ -28,7 +28,7 @@ War Alive～時にはやぶれかぶれに～=War Alive ～Tokini wa Yabure Kabu
 起死廻生=Kishi Kaisei
 春眠旅団=Shunmin Ryodan
 終末のヒーロー=Shumatsu no Hero
-真っ赤に咲く燃えるような情熱が=Makka ni Saku Moeru Yona Jonetsu ga
+闇夜のKomachi Vampire=Yamiyono Komachi Vampire
 
 [Condition]
 『小さき帝と穏やかな朝食』\nクリアで解放されます=Unlocked after clearing \n『A Peaceful Breakfast with the Young Master』
