@@ -91,8 +91,8 @@ Dorm - Option - What?
 東城、お前は、『真実は一つと限らない』、それでなんで高揚する？=Tojo, you said, "There is more than one truth", why \ndoes that boost your morale?
 え？　わからない。=Eh? I don't know.
 なるほどな。=I see.
-どういうことだよ、ユッキー。=What does it mean, Yukki?
-<style\=RubyPrefixTag></style>\nどういうことだよ、ユッキー。=<style\=RubyPrefixTag></style>\nWhat does it mean, Yukki?
+どういうことだよ、ユッキー。=What do you mean, Yukki?
+<style\=RubyPrefixTag></style>\nどういうことだよ、ユッキー。=<style\=RubyPrefixTag></style>\nWhat do you mean, Yukki?
 軍は記憶に意図的に介入出来るってことだ。=It means the military can intentionally intervene in \nmemories.
 <style\=RubyPrefixTag></style>\n軍は記憶に意図的に介入出来るってことだ。=<style\=RubyPrefixTag></style>\nIt means the military can intentionally intervene in \nmemories.
 だったら、特定の記憶を消せる可能性も否定できねぇ。=So, we can't rule out the possibility that specific \nmemories can be erased.
