@@ -17,7 +17,7 @@ GPを獲得しました=GP obtained
 初回のみ+([0-9]+)GP$ !=First time only +$1GP!
 
 [Dialogue]
-こんにちは、茅森さん。=Hello, Kayamori.
+こんにちは、茅森さん。=Hello, Kayamori-san.
 訓練に来たのですか？=Did you come to train?
 起動準備するので少々お待ちください。=Please wait a moment while we setup the training device.
 訓練を選択してください。=Please select your desired training.
