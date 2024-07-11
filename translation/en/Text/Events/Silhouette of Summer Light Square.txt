@@ -1,0 +1,1992 @@
+﻿[Arasuji]
+    忍び偲ばれ、ふたり陽炎\n\n広報部の企画でグラビア撮影をすることになった神崎と佐月。\n撮影をしつつ、３１Ｃとしてキャンサー討伐の任務にあたるなか\n森の奥に隠されていた忍者屋敷をみつける。=Sneak in Memories, The Two Shimmering Hazes\n\nAs part of the Public Relations Department's plan, Kanzaki and Sazuki are assigned to shoot a gravure photo shoot. While carrying out their mission to exterminate the Cancers as 31C, they discover a hidden ninja mansion deep in the forest.
+    グラビア撮影に付き合いながら任務にあたる３１Ｃ。\nキャンサーを追った先でみつけた忍者屋敷の探索中、\n佐月以外はなぜか神崎の存在を忘れ去ってしまい…。=While assisting with the gravure photoshoot and carrying out their mission, 31C finds the ninja mansion while chasing the Cancers.\nDuring the exploration, everyone except Satsuki inexplicably forgets about Kanzaki's existence...
+    神崎が忘れ去られたまま、３１Ｃは再び忍者屋敷へ向かう。\n任務の中、ついに佐月まで存在を忘れ去られてしまう。\nさらには、山脇たちは姿がみえないキャンサーと会敵し…。=With Kanzaki still forgotten, 31C heads back to the ninja mansion.\nDuring the mission, Satsuki is also forgotten.\nFurthermore, Yamawaki and the others are confronted with the invisible Cancer...
+    佐月と神崎が忘れ去られ、柊木と二以奈を加えた３１Ｃ。\n各々が胸に抱える違和感の正体を探るため、忍者屋敷を進むが\n見えないキャンサーが３１Ｃに襲いかかる。=With Satsuki and Kanzaki still forgotten, 31C is joined by Hiiragi and Nina.\nThey go through the ninja mansion to find out the reason for their uneasiness, but the invisible Cancer attacks 31C.
+[Name - Location - etc]
+    スタッフ１=Staff 1
+    スタッフ２=Staff 2
+    忍者屋敷 隠し通路１-１=Ninja Mansion - Hidden Passage 1-1
+    忍者屋敷=Ninja Mansion
+    忍者屋敷 隠し通路１-２=Ninja Mansion - Hidden Passage 1-2
+    忍者屋敷 隠し通路２-１=Ninja Mansion - Hidden Passage 2-1
+    神崎/佐月=Kanzaki/Satsuki
+    山脇/豊後/天音/桜庭/神崎=Yamawaki/Bungo/Tenne/Sakuraba/Kanzaki
+    忍者屋敷 隠し通路３-１=Ninja Mansion - Hidden Passage 3-1
+    忍者屋敷 隠し通路４-２=Ninja Mansion - Hidden Passage 4-2
+    忍者屋敷 隠し通路１-３=Ninja Mansion - Hidden Passage 1-3
+    ヴェイグノッカー=Vague Knocker
+    スタッフ=Staff
+    忍者屋敷 隠し通路４-１=Ninja Mansion Hidden Passage 4-1
+[Prologue]
+    はぁはぁ…拙者、見られているでゴザル…。=Haa, Haa... I'm being watched, de-gozaru...
+    また神崎さんが飛んでいるわ。=Kanzaki-san is flying again.
+    待って、いつもと何かが違うわ。=Wait, something's different this time.
+    基地のみんなから見られてるでごじゃる～！=Everyone at the base ish watching me, de-gojaru～!
+    <style\=RubyPrefixTag></style>\n破廉恥だわ！！=<style\=RubyPrefixTag></style>\nHow shameless!!
+    佐月殿！　見つけたでゴザル！=Satsuki-dono! I found you, de-gozaru!
+    佐月殿、ショップに居なかったから捜したでゴザルよ。=Satsuki-dono, I looked for you because you weren't\nat the shop, de-gozaru.
+    仕入れの手配をしていました♪　それよりアーデルちゃん、その水着は確か…。=I was arranging supplies♪ But more importantly,\nAdel-chan,if I remember correctly, that swimsuit is...
+    <style\=RubyPrefixTag></style>\n仕入れの手配をしていました♪　それよりアーデルちゃん、\r\nその水着は確か…。=<style\=RubyPrefixTag></style>\nI was arranging supplies♪ But more importantly,\nAdel-chan, if I remember correctly, that swimsuit is...
+    ヤー、似合うでゴザろう。=Ja, it suits me well, right de-gozaru?
+    いえ、そうではなく…。=No, that's not what I mean...
+    …任務です。=...It's a mission.
+    星羅ちゃん？　そのカメラはなんですか？　それに任務って…。=Seira-chan? What's with that camera? And what do you\nmean by a mission...?
+    実は拙者！　グラビア撮影のモデルを任されたのでゴザル！=Actually, I was entrusted to be a gravure model, de-gozaru!
+    <style\=RubyPrefixTag></style>\n実は拙者！　グラビア撮影のモデルを任されたのでゴザル！\r\n=<style\=RubyPrefixTag></style>\nActually, I was entrusted to be a gravure model, de-gozaru!
+    …僭越ながら、私が広報部より撮影役を譲っていただきました。=...Humbly, I was assigned the role of photographer\nby the Public Relations department.
+    はあ、グラビアですか。=Haa, gravure, huh?
+    そして、今相方を見つけたでゴザル！=And now I've found my partner, de-gozaru!
+    …今回のグラビアは、ペアでの撮影と広報部から依頼がありました。=...This gravure shoot was requested by the Public\nRelations department to be a pair shoot.
+    雑誌の刊行まであまり時間がないので、相方は３１Ｃの中から選ぶつもりだったのでゴザルよ。=There's not much time until the magazine's publication,\nso I intended to choose a partner from 31C, de-gozaru.
+    もしかして、わたしですか？=Could it be... me?
+    ヤー！　佐月殿！　拙者と一緒に水着撮影するでゴザルよ！=Ja! Satsuki-dono! You'll do the swimsuit shoot with\nme, de-gozaru!
+[Day 1]
+    [Day 1 - Morning]
+        お断りだぞ♪=I refuse♪
+        <style\=RubyPrefixTag></style>\n…そこをなんとか。=<style\=RubyPrefixTag></style>\n...Please reconsider.
+        え？　星羅ちゃんがお願いしてくるんですか？=Eh? Seira-chan is asking me?
+        拙者もお願いするでゴザルよ！=I'm also asking you, de-gozaru!
+        わたしじゃなくても、３１Ｃには水着が似合うひとが居ますよ。=Even if it's not me, there are others in 31C who will\nlooks good in swimsuits.
+        イヴァールちゃんはどうですか♪=How about Ivar-chan♪
+        悪のマッドサイエンティストの威厳が損なわれるのでＮＧでゴザル。=It would ruin the dignity of the evil mad scientist,\nso it's a no-go, de-gozaru.
+        ぶんちゃんや、巫呼ちゃんも可愛いと思います♪=I think Bun-chan and Miko-chan are gonna looks cute\ntoo♪
+        あのふたりだと、いけない絵面でゴザろう。=Those two would create an inappropriate image, de-gozaru.
+        星羅ちゃんはスタイルがとてもいいです♪=Seira-chan also has a great figure♪
+        桜庭殿と水着で並んでは、拙者が目立たないでゴザルよ！=Standing next to Sakuraba-dono in swimsuits would\nmake me not stand out, de-gozaru!
+        …はしたない体で申し訳ありません。=...I apologize for my vulgar body.
+        なるほど、わたしの隣だと目立てるというわけですね。=I see, so you would stand out next to me.
+        け、決してそういうわけでは！=N-No, that's not what I mean!
+        …相乗効果が望めます。=...We can expect a synergistic effect.
+        でも消去法でわたししか残っていないようですし、仕方ありませんか。=But it seems like I'm the only one left by process\nof elimination, so it can't be helped, I guess.
+        え？　あ…いや…そうではないでゴザル…拙者は…。=Eh? Ah... No... That's not it, de-gozaru... I...
+        <style\=RubyPrefixTag></style>\nえ？　あ…いや…そうではないでゴザル…拙者は…。=<style\=RubyPrefixTag></style>\nEh? Ah... No... That's not it, de-gozaru... I...
+        …佐月さん。誤解がないようお伝えしておきます。=...Satsuki-san. Just to avoid any misunderstanding.
+        …神崎さんはこの依頼を受けた時、ノータイムで佐月さんの名前を挙げていました。=...When Kanzaki-san accepted this request, she\nimmediately mentioned your name, Satsuki-san.
+        アーデルちゃん？=Adel-chan is?
+        う…うぅ～…。拙者、佐月殿と一緒に撮影がしたかったのでゴザル…。=U... Uuh... Satsuki-dono, I wanted to do the shoot\nwith you, de-gozaru...
+        ダブル忍者による、悩殺くノ一グラビアで、基地のみんなを魅了したいのでゴザル！=I want to captivate everyone at the base with a\nbewitching kunoichi gravure featuring double ninjas,\nde-gozaru!
+        あれ！？　佐月殿、怒っているでゴザルか！？　笑顔だけど、怒っているでゴザルか！？=Huh!? Satsuki-dono, are you mad, de-gozaru!?\nYou're smiling, but are you mad, de-gozaru!?
+        …佐月さん、水着はわたしのほうで選ばせてもらっています。=...Satsuki-san, I've chosen the swimsuits.
+        以前、どうして２着買っていったのか不思議でしたが、どういうつもりだ♪=I wondered why you bought two swimsuits before, So,\nwhat were you planning♪
+        …いつかこの日が来ると、信じていました。=...I BELIEVED this day would come.
+        …気分転換くらいに考えて、お付き合いください。=...Think of it as a change of pace and please go along\nwith us.
+        はあ…星羅ちゃんに言われると、不思議と断りづらくなりますね。=Sigh... When Seira-chan is the one asking, it's\nstrangely hard to refuse.
+        …ひとは、自然と期待に応えたくなるものです。=...People naturally want to meet the expectations.
+        佐月殿、この通りでゴザル！=Satsuki-dono, I'm begging you, de-gozaru!
+        …この通りです。=...I'm begging you.
+        わかりました、今回だけですよ。=I understand, just this once, okay?
+        やったでゴザルーー！=We did it, de-gozaru!
+        …感無量。=...I'm overcome with emotion.
+        ところで、撮影は基地のどこかでするんでしょうか？=By the way, where will the shoot be at the base?
+        …いえ、もう決めています。=...No, it's already decided.
+        あ、こんな所に居たのねあんたたち。そろそろ任務よ。=Ah, there you guys are. It's time for the mission.
+        山脇殿。もうそんな時間でゴザったか？=Yamawaki-dono. Is it that time already?
+        今日は日光で確認された、キャンサーの小規模な群れの索敵と討伐でしたね♪=Today, we were scouting and exterminating a small\nCancer swarms detected in Nikko, right♪?
+        ヤー。鬼怒川沿いを行軍するでゴザル。=Ja. We'll march along the Kinugawa River, de-gozaru.
+        …そして、そここそが撮影場所。=...And that'll be our photoshoot location.
+        一応、桜庭に言われていたから、任務中のグラビア撮影の許可は取っておいたわよ。=Just in case, I got permission for the gravure shoot\nduring the mission, as Sakuraba told me to do.
+        <style\=RubyPrefixTag></style>\n一応、桜庭に言われていたから、任務中のグラビア撮影の\r\n許可は取っておいたわよ。=<style\=RubyPrefixTag></style>\nJust in case, I got permission for the gravure shoot\nduring the mission, as Sakuraba told me to do.
+        休息中や、安全が確保出来ている時なら問題ないってさ。=They said it's okay as long as it's during breaks or\nwhen safety is ensured.
+        …ありがとうございます。この命に代えても、撮影をこなしてみせます。=...Thank you. I'll complete the shoot even if it costs\nmy life.
+        こなすのは哨戒任務よ！=Complete the patrol mission!
+        とりあえず準備が出来次第ヘリポートに来なさい。=Come to the heliport as soon as you're ready.
+        私は豊後を拾ってから向かうわ。=I'll go there after picking up Bungo.
+    [Before Mission]
+        出発まで、基地の中で注目を浴びていくとするでゴザルか。=Let's attract attention around the base until departure,\nde-gozaru.
+        注目を浴びよう！=Let's get some attention!
+        はっ…！　\n強い念を感じます…。=Hah...!\nI feel a strong aura...
+        …おひとりですが、\n撮っておきましょう。=...There's only one person,\nbut let's take a picture.
+        わしにもいずれ、\nグラビア撮影の依頼がくるのだろうな。=Someday,\nI'll get a gravure shoot request too.
+        山脇様、ぐらびあってなんでゲス？=Yamawaki-sama, what's a gra-pu-re, gesu?
+        あんたにはまだ早い大人の娯楽ってやつさ。=It's an adult entertainment\nthat's too early for you.
+        なかなか大胆な格好じゃねーか。=That's quite a daring outfit.
+        この先にはひとはあまり居ないでゴザルな。=There aren't many people ahead, de-gozaru.
+        <style\=RubyPrefixTag></style>\nこの先にはひとはあまり居ないでゴザルな。=<style\=RubyPrefixTag></style>\nThere aren't many people ahead, de-gozaru.
+        ジーザス…。\nニンジャ、まだ目立つ気ね。=Jesus...\nNinja, you still want to stand out...?
+        おい、伊達を見なかったか？=Oi, have you seen Date?
+        何を言っている。\nそこに居るじゃないか。=What are you talking about?\nShe's right there.
+        どうして水着特集の撮影は\n私ではないのでしょうか…。=Why am I not the one chosen\nfor the swimsuit photo shoot...?
+        きっと美しすぎるからよ！　\n刺激が強すぎるの！=Surely because you're too beautiful!\nIt'll be too stimulating!
+        （拙者、見られてるでゴザルな～）=(I'm being watched, de-gozaru～)
+        （注目されているでゴザル～）=(I'm the center of the attention, de-gozaru～)
+        （うへへ…拙者、目立っているでごじゃる～）=(Ehehe... I'm standing out, de-gojaru～)
+        佐月殿、お待たせでゴザル。=Satsuki-dono, sorry to keep you waiting, de-gozaru.
+        大丈夫です、まだ他の方も来ていませんので♪=It's okay, no one else has arrived yet♪
+        いえ、ひとりだけ来ていますね。視線を感じます。=No, one more person has arrived. I feel their eyes\non us.
+        …こっそりとおふたりを撮ろうと思ったのですが、難度が高いようですね。=...I thought I'd secretly snap a photo of you two,\nbut it seems quite difficult.
+        桜庭殿！？　拙者全然気づかなかったでゴザル！=Sakuraba-dono!? I totally didn't notice, de-gozaru!
+        浮かれて集中力が切れてんぞ♪=You're getting carried away and losing concentration♪
+        危ないから、もう少し任務に身を入れやがれ♪=That's dangerous, so focus a bit more on the damn\nmission♪
+        そうでゴザルな。いつ撮影されてもいいように気を引き締めるでゴザル。=You're right, de-gozaru. I'll tighten up and be ready\nfor the shoot anytime, de-gozaru.
+        それが浮かれてると言ってやがんだぞ♪=That's called getting carried away, you fool♪
+        待たせたわね。=Sorry to keep you waiting.
+        山脇様。大物は最後に登場するものでゲスよ、けっひっひ。=Yamawaki-sama. Big shots always come last-gesu, kekeke.
+        <style\=RubyPrefixTag></style>\n山脇様。大物は最後に登場するものでゲスよ、けっひっひ。\r\n=<style\=RubyPrefixTag></style>\nYamawaki-sama. Big shots always come last-gesu, kekeke.
+        …まだ天音さんが来ていません。=...Tenne-san's not here yet.
+        待たせたな。=Sorry to keep you waiting.
+        遅いでゲス！　のろまでゲスね！　山脇様を待たせて何様でゲスか！=You're late-gesu! Slowpoke! Making Yamawaki-sama wait,\nwho do you think you are-gesu!?
+        <style\=RubyPrefixTag></style>\n何故ここまで罵倒されねばならんのだーー！=<style\=RubyPrefixTag></style>\nWhy do I have to be scolded this much!?
+        とりあえず、準備は出来たわね。行くわよ。=Anyway, preparations are done. Let's go.
+        <style\=RubyPrefixTag></style>\n…了解しました=<style\=RubyPrefixTag></style>\n...Understood.
+        <style\=RubyPrefixTag></style>\n了解でゴザル！=<style\=RubyPrefixTag></style>\nUnderstood, de-gozaru!
+        <style\=RubyPrefixTag></style>\n了解です♪=<style\=RubyPrefixTag></style>\nUnderstood♪
+    [Mission start]
+        自然がたっぷりでゴザルなー。=Plenty of nature here, de-gozaru～
+        …これは、身も心も解放的になるロケーションです。=...This location is liberating for both body and soul.
+        それにしても、キャンサーはおらんようだな。=Still, there doesn't seem to be any Cancer here.
+        小規模な群れって言ってたし、それを探すのが任務みたいなものでしょ。=They said it was a small swarms of Cancer, so finding\nthem is like a mission.
+        では、今のうちに撮影をしておくでゴザル。=Then, let's take some photos while we can, de-gozaru.
+        待て。=Wait.
+        …どうかしましたか？=...Is something wrong?
+        より奥のほうが神秘的な景色に出会えるかもしれんぞ。=You might find more mystical scenery further in.
+        …慧眼。=...Keen observation.
+        あんたたち…グラビアもいいけど、任務はちゃんとこなしなさいよ。=You guys... gravure photo shoot are nice and all,\nbut make sure to do your mission properly.
+        …もちろんです。この命に代えても、撮影をこなしてみせます。=...Of course. I will fulfill this photoshoot even at\nthe cost of my life.
+        だからこなすのは哨戒任務よ！　同じこと言わせるな！=Like I said, do your patrol mission properly! Don't\nmake me say it twice!
+        お前、その格好のまま写真を撮るでゲスか？=Are you going to have your picture taken dressed like\nthat-gesu?
+        いいえ、わたしも水着を用意されています。=No, I also have a swimsuit prepared.
+        …そろそろ着替えておきますか？=...Should you change into it soon?
+        そうですね、いつでも撮れるように着替えておきましょうか。=Yeah, I'll get changed so we'll be ready for the photo\nshoot anytime.
+        ここ外だぞ？=We're outside, you know?
+        女子だけだし、問題ないのではゴザらんか？=Since we're all girls, isn't it alright, de-gozaru?
+        <style\=RubyPrefixTag></style>\n女子だけだし、問題ないのではゴザらんか？=<style\=RubyPrefixTag></style>\nSince we're all girls, isn't it alright, de-gozaru?
+        問題あるでしょ！　恥じらいなさい！=There's all kinds of problems! Show some modesty!
+        大丈夫です。あっ…。=It's okay. Ah...
+        何もないじゃな…えええええーー！！=There's nothing ther-... EEEEEEHHH!!
+        <style\=RubyPrefixTag></style>\n着替えてるでゴザルーー！！=<style\=RubyPrefixTag></style>\nShe's done changing, de-gozaru!!
+        <style\=RubyPrefixTag></style>\nなんという早業だーー！！=<style\=RubyPrefixTag></style>\nWhat a quick movement!!
+        <style\=RubyPrefixTag></style>\n…とてもよくお似合いです。=<style\=RubyPrefixTag></style>\n...It suits you very well.
+        ショップ店員の嗜みです♪=It's the charm of being a shop attendant♪
+        でも一度全部脱いだんでゲスよね？　外で裸になるとか、お前変態でゲスか？=But you took everything off once, right-gesu? Getting\nnaked outside, are you a pervert-gesu?
+        ぶんちゃん。上手に脱ぎ着すれば、裸にならずに着替えられますよ♪=Bun-chan, if you skillfully change clothes, you can\ndo it without getting naked♪
+        山脇様、本当でゲスか？=Yamawaki-sama, is that true-gesu?
+        確かに、いかに服を脱がずに着替えられるかというのは、学校のプールの授業とかでやっていたわね。=Indeed, we used to practice how to change clothes\nwithout getting naked during school swimming classes.
+        さすが佐月殿でゴザル。拙者なら間違いなく全部脱いでいたでゴザルよ。=As expected of Satsuki-dono, de-gozaru. If it were\nme, I would definitely take everything off, de-gozaru.
+        はしたねーぞ♪=That's indecent♪
+        まあ、わしならこのローブの下で安全に着替えられるがな。=Well, if it's me, I can change safely under this robe.
+        お前水着を着たいんでゲスか？　誰に求められてるでゲス？=You want to wear a swimsuit-gesu? Who will want to\nsee it-gesu?
+        どっかに需要はあるわーー！　絶対あるわーー！=There must be some demand for it somewhere! Definitely!
+        そうね。でも、その需要はちょっと危険よ。=True. But that demand is a bit dangerous.
+        どうして優しい目で言うーー！=Why are you saying that with such kindness!?
+        …山脇さん、哨戒前に少し撮影をしてよろしいでしょうか？=...Yamawaki-san, can we take a few shots before patrol?
+        別にいいわよ。=Sure, go ahead.
+        あっちのほうから水が流れる音がするでゴザルな。=I hear the sound of water flowing from over there,\nde-gozaru.
+        せっかくの水着、最初のスナップは水辺にするでゴザルよ。=Since we're in swimsuits, let's take the first snap\nby the water's edge, de-gozaru.
+    [Beach photoshoot]
+        …神崎さん、佐月さん。戯れてください。=...Kanzaki-san, Satsuki-san,\nplease play with each other.
+        指示、雑いな。=Your instructions is sloppy.
+        忍法、水遁の術（小）！=Ninja Art, Water Style Technique (Small), de-gozaru!
+        激しいぞ♪=That's too intense♪
+        このくらい水飛沫が飛んでいるほうが見栄えもいいでゴザルよ。=It'll looks better when the water splashes like this,\nde-gozaru.
+        ではわたしも、えい♪=Then I'll do it too, take this♪
+        ぷひゃー！　的確な顔への水の投擲でゴザルー！=PYAH! A perfect throw of water to the face, de-gozaru～!
+        あ、グラビア撮影で顔を濡らすのはＮＧだったでしょうか？=Ah, was it not okay to get our face wet during a\ngravure photo shoot?
+        …乙女の戯れにＮＧなど皆無。=...There is no prohibition against a maiden playing\nwith each other.
+        あははははは、では忍法、水遁の術（大）でゴザル！=Ahahaha, then Ninja Art, Water Style Technique (Large),\nde-gozaru!
+        落ち着け♪=Calm down♪
+        ごー、よーん、さーん、にー、いーち、ぜろでゲス！=Five, four, three, two, one, zero-gesu!
+        はい終了ー。=Okay, done!
+        …ありがとうございます。良い写真がたくさん撮れました。=...Thank you very much. I got a lot of good shots.
+        本当に多かったな！=You sure are!
+        そんなに連射するなら動画で撮ったほうがいいんじゃないの？=If you're going to shoot that many shots, wouldn't\nit be better to take a video?
+        …画質が、劣化します。=...The image quality would degrade.
+        お…おう、なんか、ごめん。=O...Oh, well, sorry.
+        シャッター音というのは、いいものでゴザルな。聞いていると気持ちが高揚してくるでゴザル。=The shutter sound is a nice thing, de-gozaru. Hearing\nit gets me excited, de-gozaru.
+        軍の雑誌に掲載されるものですから、きちんとしなければいけませんよ。=Since it'll be published in the military magazine,\nwe have to do it properly.
+        もちろんでゴザル。佐月殿とのツーショットを、基地のみんなにたくさん見てもらうでゴザルよ。=Of course, de-gozaru. I'll make sure to show the base\na lot of two-shot with Satsuki-dono, de-gozaru.
+        <style\=RubyPrefixTag></style>\nもちろんでゴザル。佐月殿とのツーショットを、基地のみ\r\nんなにたくさん見てもらうでゴザルよ。=<style\=RubyPrefixTag></style>\nOf course, de-gozaru. I'll make sure to show the base\na lot of two-shot with Satsuki-dono, de-gozaru.
+        でも、セラフ部隊の水着姿なんて、基地のどの層に需要があるんでしょうか。=But is there demand for the Seraph unit swimsuit shots\namong everyone at the base?
+        …かつて、手塚司令官のグラビアは、図書館に長蛇の列が出来たそうです。=...Apparently, there was a long line at the library\nfor Commander Tezuka's photo book.
+        …おふたりのツーショットも、それに負けないクオリティで撮らせていただきます。=...I'll take your two-shot with the same quality as\nthat.
+        …命を賭してでも。=...Even if it costs me my life.
+        あいつ、なんか恐いでゲスね。=She is kinda scary-gesu.
+        ああ、拗らせておるな。だが、あの熱意は嫌いではない。=Yeah, she's quite the enthusiast. But I don't dislike\nthat passion.
+        お前に言ってないでゲス。山脇様に言ったんでゲス。=I wasn't talking to you-gesu. I was talking to Yamawaki-sama.
+        自意識過剰ですまんなーーー！=Sorry for being self-conscious!!!
+        やめるでゲス！　ヘルメットをグリグリするなでゲス！=Stop that-gesu! Don't noogie my helmet-gesu!
+        …さあ、任務を続けましょう。ベストショットを持ち帰ります。=...Let's continue the mission. Let's bring back the\nbest shots.
+        任務は哨戒よ！=Our mission is patrol!
+        …あの木の下など、木漏れ日が降り注いで良い撮影スポットですね。=...Like under that tree, the sunlight filtering through is a good spot for photos.
+        そこの白い花が咲いている辺りはどうだ？　水着が映えるぞ。=How about near those white flowers? The swimsuits will look great there.
+        <style\=RubyPrefixTag></style>\n…天音さん、わかっていますね。ナイススポットです。=<style\=RubyPrefixTag></style>\n...Tenne-san, you understand well. Nice spot.
+        佐月殿、背中を合わせてみるでゴザルよ！=Satsuki-dono, let's try back-to-back, de-gozaru!
+        こんな感じですか？=Is it like this?
+        <style\=RubyPrefixTag></style>\n…女神たちの降臨。=<style\=RubyPrefixTag></style>\n...Goddesses have descended.
+    [Cancer battle]
+        あのキャンサーの隣とかどうでゲス？=How about next to that Cancer-gesu?
+        <style\=RubyPrefixTag></style>\n…豊後さん、ナイススポットです。=<style\=RubyPrefixTag></style>\n...Bungo-san, nice spot.
+        会敵だぞ♪=It's the enemy♪
+        <style\=RubyPrefixTag></style>\n全員戦闘準備よ！！=<style\=RubyPrefixTag></style>\nEveryone, prepare for combat!!
+        使わせてもらうわ。=I'll use it.
+        びっくりしたでゴザル。完全に油断していたでゴザルよ。=I was surprised, de-gozaru. I was completely off guard,\nde-gozaru.
+        …撮影に夢中になっていました。申し訳ありません。=...I was too focused on the photos. My apologies.
+        でも、さすが佐月殿でゴザル。キャンサーを冷静に対処していたでゴザルな。=But, as expected of Satsuki-dono, de-gozaru. You handled\nthe Cancer calmly, de-gozaru.
+        マルチタスクはショップ店員の嗜みだぞ♪=Multitasking is a shopkeeper's virtue♪
+        みんな注意散漫になっていたから、警戒だけは怠らないようにしやがれ♪=Everyone was distracted, so keep your damn guard up♪
+        ありがとう、佐月。助かったわ。=Thanks, Satsuki. You saved us.
+        <style\=RubyPrefixTag></style>\nがさがさ=<style\=RubyPrefixTag></style>\nRustle
+        山脇様、あそこにもう一匹居るでゲス！=Yamawaki-sama, there's another one over there-gesu!
+        奥に向かって移動しているぞ。=It's moving deeper inside.
+        群れを見つけられるかもしれない。追いましょう。=We might find their swarms. Let's follow it.
+    [Mansion D1 - Part 1]
+        これは…。=This is...
+        ずいぶんと立派なお屋敷ですね。=Such a grand mansion.
+        …水晶に陰りが見えます。とても不吉な気配を感じます。=...I see a shadow in the crystal. It feels very ominous.
+        中にキャンサーがおってもおかしくないということか。=Does that mean it's not weird that there could be\nCancer inside?
+        ナイン。恐らく居るでゴザルよ。キャンサーの足跡が屋敷の中に続いているでゴザル。=Nein. There likely are, de-gozaru. I see Cancer tracks\nleading into the mansion, de-gozaru.
+        そうですね、まだ新しいですし、先程見かけたキャンサーと考えて間違いないと思います。=Indeed, they are still new, and it makes sense to\nassume it's the one we saw earlier.
+        忍者の追跡能力は優秀だな。=Ninja tracking skills are impressive.
+        わたしは忍者じゃありません♪=I'm not a ninja♪
+        山脇様、入るでゲスか？=Yamawaki-sama, should we gesu in?
+        ええ、当然ね。このまま帰ったんじゃ、哨戒任務の意味がないわ。=Yes, of course. Returning just like this would make\nthe patrol mission pointless.
+        <style\=RubyPrefixTag></style>\nええ、当然ね。このまま帰ったんじゃ、哨戒任務の意味が\r\nないわ。=<style\=RubyPrefixTag></style>\nYes, of course. Returning just like this would make\nthe patrol mission pointless.
+        行くわよ！=Let's go!
+        …これは。=...This is.
+        うむ、思ったよりも小さな建て付けだな。=Mhm, it's smaller than I thought.
+        …純和風の様式。神崎さんと佐月さんの撮影になんと相応しいスポット。=...A purely Japanese style. It's a perfect spot for\na photo shoot with Kanzaki-san and Satsuki-san.
+        <style\=RubyPrefixTag></style>\n頭を切り替えろーー！\n撮影しておる場合かーー！=<style\=RubyPrefixTag></style>\nGet your head in the game!\nThis is not the time for a photo shoot!
+        …え。=...Eh...
+        そんな声初めて聞いたぞ！　どれだけグラビアが撮りたいんだ！=I've never heard that kind of voice from you before!\nHow badly do you want to take gravure shoot!?
+        …不自然な部屋ね。確かに外観から考えると、部屋が小さすぎるわ。=...This room feels odd. Indeed, from the exterior,\nthe room seems too small.
+        それにキャンサーも居ないわ。=And there are no Cancers here.
+        ほぁ～…。=Ahh...
+        アーデルちゃん、どうしました？=Adel-chan, what's wrong?
+        佐月殿。ここは、ひょっとしたらひょっとするかもしれないでゴザルな。=Satsuki-dono. This place might be that kind of place,\nde-gozaru.
+        怪人金髪水着。お前ここを知ってるでゲスか？=Blonde swimsuit fiend. Do you know this place-gesu?
+        <style\=RubyPrefixTag></style>\n怪人金髪水着。お前ここを知ってるでゲスか？=<style\=RubyPrefixTag></style>\nBlonde swimsuit fiend. Do you know this place-gesu?
+        えーと…例えばでゴザルが、この柱を…てやっ！=Well... For example, if you push this pillar... There,\nde-gozaru!
+        <style\=RubyPrefixTag></style>\nバシン！=<style\=RubyPrefixTag></style>\nBam!
+        <style\=RubyPrefixTag></style>\nパカっ！=<style\=RubyPrefixTag></style>\nWham!
+        <style\=RubyPrefixTag></style>\nぎゃーーーーーーーー！=<style\=RubyPrefixTag></style>\nGYAAAAAA!!
+        <style\=RubyPrefixTag></style>\n天音殿ーーー！=<style\=RubyPrefixTag></style>\nTenne-dono!
+        <style\=RubyPrefixTag></style>\n天音ーーー！？=<style\=RubyPrefixTag></style>\nTenne!?
+        よいしょっと。=Heave-ho.
+        アーデルちゃん、不用意にカラクリに触ってはいけませんよ♪=Adel-chan, don't touch the mechanisms so carelessly♪
+        はぁはぁ…佐月が居なかったら、真っ逆さまだった…。=Haa haa... If it weren't for Satsuki, I'd have fallen\nheadfirst...
+        <style\=RubyPrefixTag></style>\n殺す気かーー！=<style\=RubyPrefixTag></style>\nAre you trying to kill me!?
+        申し訳ないでゴザル。拙者もなにぶん初めての仕掛けでゴザったので。=I apologize, de-gozaru. This is my first time with\nsuch mechanisms, de-gozaru.
+        …ここをご存知のようでしたが、初めてとは？=...You seem familiar with this place, yet it's your\nfirst time?
+        <style\=RubyPrefixTag></style>\n…ここをご存知のようでしたが、初めてとは？=<style\=RubyPrefixTag></style>\n...You seem familiar with this place, yet it's your\nfirst time?
+        ヤー。これがかの有名な、カラクリ忍者屋敷でゴザルな。=Ja. This is the famous Karakuri Ninja Mansion.
+        遊園地にあるやつでゲスか？=Like the ones at amusement parks?
+        それの本物版でゴザろうな。まさかこんなところで出会えるとは。=This seems to be the real version, de-gozaru. I didn't\nexpect to find one here.
+        …なんと。=...Oh my.
+        …ダブル忍者による、悩殺くノ一グラビアのベストスポット。=...The best spot for a bewitching kunoichi gravure\nfeaturing double ninjas photo shoot.
+        自重しやがれ♪=Control your effin' self♪
+        しかしこの落とし穴、かなり深いようだぞ。=But this pitfall seems quite deep.
+        落とし穴ではなく、入り口の可能性もあるでゴザルよ。=It might not be a pitfall but an entrance, de-gozaru.
+        <style\=RubyPrefixTag></style>\n落とし穴ではなく、入り口の可能性もあるでゴザルよ。=<style\=RubyPrefixTag></style>\nIt might not be a pitfall but an entrance, de-gozaru.
+        外から見た通りの屋敷の広さではないということか。=So the mansion's size isn't as it seems from the outside.
+        面白そうでゲス！　山脇様、探検したいでゲス！=This sounds exciting-gesu! Yamawaki-sama, I want to\nexplore-gesu!
+        <style\=RubyPrefixTag></style>\n面白そうでゲス！　山脇様、探検したいでゲス！=<style\=RubyPrefixTag></style>\nThis sounds exciting-gesu! Yamawaki-sama, I want to\nexplore-gesu!
+        この屋敷の中にキャンサーは居るのかしら。=Could there be Cancers inside this mansion?
+        ちょっと待つでゴザルよ。=Wait a moment, de-gozaru.
+        どうですか、アーデルちゃん。=How is it, Adel-chan?
+        …伝わってくる音が、複雑に反響してるでゴザルなぁ。=...The sounds are complex and echoing, de-gozaru.
+        一体この建物に、どれだけの部屋や通路があるのか追い切れないでゴザル。=It's impossible to track how many rooms and passages\nthere are in this building, de-gozaru.
+        <style\=RubyPrefixTag></style>\nカシャカシャ=<style\=RubyPrefixTag></style>\nClick click
+        桜庭殿！？=Sakuraba-dono!?
+        …すみません、接近するおふたりのポーズに我慢出来ませんでした。=...Sorry, I couldn't resist the pose you two were\nmaking as you got closer.
+        そろそろカメラ没収するか。=Should we confiscate the camera soon?
+        目を見せるくらいショックなのか！？=Is it so shocking that you show your eyes!
+        で、神崎。キャンサーは？=So, Kanzaki. Are there Cancers?
+        居るでゴザルな。覚えのある足音が微かにでゴザルが、聞こえるでゴザル。=There are, de-gozaru. I can faintly hear familiar\nfootsteps, de-gozaru.
+        これはなんでゲス？=What is this-gesu?
+        <style\=RubyPrefixTag></style>\nぺちっ！=<style\=RubyPrefixTag></style>\nClack!
+        <style\=RubyPrefixTag></style>\n天音ーーー！=<style\=RubyPrefixTag></style>\nTenne!!!
+        ぶんちゃん、不用意にカラクリに触ってはいけませんよ♪=Bun-chan, don't touch the mechanisms so carelessly♪
+        はぁはぁ…殺す気かーー！=Haa haa... Are you trying to kill me!?
+        この忍者屋敷、かなり厄介そうな建物ね。知識のある神崎と佐月に先導してもらうことになるわ。=This ninja mansion seems like a tricky place. Kanzaki\nand Satsuki, since you're knowledgeable with it, you'll\nhave to guide us.
+        ヤー！　任せるでゴザルよ！=Ja! Leave it to me, de-gozaru!
+        アーデルちゃんほど詳しくはないと思いますが、やってみます。=I'm not as knowledgeable as Adel-chan, but I'll try.
+        まずはこの部屋のどこかに、隠し通路みたいなのがあると思っていいの？=First, should we look for hidden passages in this\nroom?
+        ヤー！　忍者屋敷とはそういうものでゴザル。=Ja! That's what ninja mansions are like, de-gozaru.
+        …色々な場所を調べる必要があるということですね。=...We'll need to check various places.
+        <style\=RubyPrefixTag></style>\n…色々な場所を調べる必要があるということですね。=<style\=RubyPrefixTag></style>\n...We'll need to check various places.
+        宝探しみたいで面白そうでゲス！=It sounds interesting, like a treasure hunt-gesu!
+        落とし穴はもう嫌だぞ！　絶対に嫌だぞ！=I don't want any more pitfalls! Absolutely not!
+        そうですね。どんなカラクリがあるかわかりませんし、物を動かすときは慎重にしましょう。=Yeah. We don't know what kinds of mechanisms there\nare, so let's be careful when moving things.
+        <style\=RubyPrefixTag></style>\nそうですね。どんなカラクリがあるかわかりませんし、物\r\nを動かすときは慎重にしましょう。=<style\=RubyPrefixTag></style>\nYeah. We don't know what kinds of mechanisms there\nare, so let's be careful when moving things.
+        それじゃ探索開始。=Well then, let's start exploring.
+    [Exploration D1 - Part 1]
+        部屋の中を調べよう！=Let's search the room!
+        これは相当な業物ですね…。=This is quite a fine sword...
+        …着物…和服…忍び装束。おふたりにはさぞ似合うことでしょう。=...Kimono...Japanese clothing...ninja attire. It will\nsurely suit the two of you.
+        …ああ、見えます。=...Aah, I can see it.
+        …神崎さんと佐月さんが忍術修行する姿が見えます。=...I can see the form of Kanzaki-san and Satsuki-san\ntraining ninja arts.
+        掛け軸の裏には…何もないわね。=Behind the hanging scroll...there's nothing here.
+        はぁはぁ…くっ、稀代の魔術師たるわしがタンスの一段一段を開けるのにこれほど恐怖するとは…。=Huff, huff... Ugh, to think that me, a great magician,\nto be so terrified of opening each drawer of a dresser...
+        <style\=RubyPrefixTag></style>\nスッ=<style\=RubyPrefixTag></style>\nSlide
+        セーーーフ！=SAAAAAFE!!
+        ゲス！　ゲス！　ゲス！=Gesu! Gesu! Gesu!
+        壁を叩いても何も起きないでゲスね。=Even banging on the wall does nothing-gesu.
+        はぁはぁ…カラクリなぞどこにもなかったぞ！=Huff, huff...there was no mechanism anywhere!
+        なんでタンス開けるだけで息が上がってるのよ…。=Why are you out of breath just from opening a dresser...?
+        山脇様ー！　変な壁を見つけたでゲス！=Yamawaki-sama! I found a strange wall-gesu!
+        変な壁？=A strange wall?
+        普通の壁じゃない。=Isn't it just an ordinary wall?
+        叩いたら、音が違うでゲス。=When I knock on it, the sounds different-gesu.
+        <style\=RubyPrefixTag></style>\nこんこんっ=<style\=RubyPrefixTag></style>\nKnock knock
+        ほんとね…他の壁と違って軽いわ。=You're right...it's thinner than the other walls.
+        ふむ…それは恐らくあれでゴザルな。=Hmm...it's probably that, de-gozaru.
+        <style\=RubyPrefixTag></style>\nくるん=<style\=RubyPrefixTag></style>\nSwivel
+        壁がひっくり返ったでゲス！=The wall flipped-gesu!
+        忍者屋敷の定番、どんでん返しです♪=The classic revolving door of a ninja mansion♪
+        山脇殿、この先道が続いてるでゴザルよ。=Yamawaki-dono, there's a path from here, de-gozaru.
+        でかしたわ豊後！　神崎、先導して。キャンサーを探すわよ。=Well done, Bungo! Kanzaki, take the lead. We're searching\nfor the Cancer.
+        最深部を目指そう！=Let's aim for the deepest part!
+        優秀なしもべなら罠になんて\nハマらないでゲス。=A capable servant wouldn't fall into traps-gesu.
+        こっちを見て言うなーー！！=Don't say that while looking at me!!
+        あれって\n値打ちものかしら？=Is that a valuable item?
+        …かしゃり。=...Click.
+        ほう、いけるじゃない。=Oh, we've got it, don't you think?
+        やはりキャンサーが居たでゴザルな。=As expected, there's a Cancer here, de-gozaru.
+        だが、追いかけていた個体ではないぞ。=But it's not the one we were chasing.
+        これは想像以上にキャンサーが潜伏していると考えたほうがよさそうね。=It seems there are more Cancers hiding than we imagined.
+        しかし、こんな狭い通路だと戦いにくいな。=But, it's difficult to fight in such a narrow passage.
+        さきほども佐月殿とぶつかりそうになったでゴザルよ。=I almost bumped to Satsuki-dono earlier, de-gozaru.
+        …ぶつか…はっ！=...Bump-...ah!
+        …戦闘中…衝突…転がるふたり…くんずほぐれつ…床どん…急接近…絡みあう視線…緩む水着…ぱさっ。=...During battle...collision...rolling together...\ninter-twined...floor-slam...sudden closeness...interlocking\ngazes...loosening swimsuits...flutter.
+        …これは戦闘中もカメラが離せなくなりました。=...I can't take my hands off the camera even during\nbattle.
+        こいつ、何を言ってるんでゲス？=What is she talking about-gesu?
+        <style\=RubyPrefixTag></style>\nこいつ、何を言ってるんでゲス？=<style\=RubyPrefixTag></style>\nWhat is she talking about-gesu?
+        あんたは気にしなくていいの。ほら、行くよ。=You don't need to worry about it. Come on, let's go.
+        <style\=RubyPrefixTag></style>\nあんたは気にしなくていいの。ほら、行くよ。=<style\=RubyPrefixTag></style>\nYou don't need to worry about it. Come on, let's go.
+        忍者の案内人がふたりも居てくれて\n助かるわね。=It's helpful to have two ninja guides.
+        忍者じゃねーぞ♪=I'm not a ninja♪
+    [Exploration D1 - Part 2]
+        …行き止まりですね。=...It's a dead end.
+        道を間違えたでゲス？=Did we take a wrong turn-gesu?
+        奥の壁がどんでん返しのようでゴザルな。=The wall on the back seems to be another revolving\ndoor, de-gozaru.
+        …さすがです。神崎さん。=...As expected of Kanzaki-san.
+        さあ、先に進むわよ。=Alright, let's move forward.
+        忍者のお宝でゲス！=Ninja treasure-gesu!
+        佐月の実家もこんなんなの？=Is your family home like this too, Satsuki?
+        そんなわけねーぞ♪=Of course not♪
+        <style\=RubyPrefixTag></style>\nなんてこと…輝いています！=<style\=RubyPrefixTag></style>\nMy goodness...it's shining!
+        …さて。=...Now then.
+        強敵ね、\nみんな気を引き締めていくわよ！=A strong enemy, everyone stay sharp!
+        …これは難敵！=...This is a tough one!
+        ショップにも置ける\nいい品がありますね♪=There are some good items that\ncould be placed in　the shop♪
+        <style\=RubyPrefixTag></style>\nものすごい運気を感じます…！=<style\=RubyPrefixTag></style>\nI feel a tremendous aura...!
+        少しは相性を考えやがれ♪=Consider the compatibility a little♪
+        ありがとうございます♪=Thank you very much♪
+        あなた\nそれ効いてると思ってるの？=Do you think that's effective?
+        手強そうなキャンサー！\nみんな、用心するでゴザル。=Looks like a tough Cancer! Everyone, be cautious.
+        …凶兆！=...An ominous sign!
+        …あれは。\n…拾っておきましょうか。=...Is that? Shall we pick it up?
+        忍者の腕が試されるでゴザルな！=This is where ninja skills are tested, de-gozaru!
+    [Mansion D1 - Part 2]
+        <style\=RubyPrefixTag></style>\nはっ！　誰だ！=<style\=RubyPrefixTag></style>\nHah! Who's there!?
+        落ち着きなさいよ。鏡に映ったあんたよ。=Calm down. It's your reflection in the mirror.
+        ぬ…むぐぐ…。=Ugh...uhhh...
+        お前、びびりでゲスねぇ。=You're such a scaredy cat-gesu.
+        返す言葉もないわーー！　すまんなーー！=I can't say anything back! I'm sorry!!
+        なかなか年期の入った鏡でゴザルな。=This is quite an old mirror, de-gozaru.
+        何か仕掛けがあるかもしれないので、触らないほうがいいですよ。=There might be a mechanism, so it's best not to touch\nit.
+        触るなって言ってんだろ♪=I said don't touch it♪
+        は、はいでゴザル！=Y-yes, de-gozaru!
+        この先にも部屋があるみたいね。行ってみましょう。=Looks like there's another room ahead. Let's check\nit out.
+        さて、この部屋の仕掛けは…。=Now, what's the mechanism in this room...?
+        招き猫でゲス！=A beckoning cat-gesu!
+        待て！　それにはさわ…。=Wait! Don't touch th-...
+        <style\=RubyPrefixTag></style>\n待て！　それにはさわ…。=<style\=RubyPrefixTag></style>\nWait! Don't touch th-...
+        <style\=RubyPrefixTag></style>\n…あら=<style\=RubyPrefixTag></style>\n...Oh my
+        <style\=RubyPrefixTag></style>\n天音じゃなかったーーー！=<style\=RubyPrefixTag></style>\nIt wasn't Tenne!!
+        <style\=RubyPrefixTag></style>\nわしじゃなかったーーー！=<style\=RubyPrefixTag></style>\nIt wasn't me!!
+        あ…巫呼ちゃんより重いです。=Ah...you're heavier than Miko-chan.
+        <style\=RubyPrefixTag></style>\nあ…巫呼ちゃんより重いです。=<style\=RubyPrefixTag></style>\nAh...you're heavier than Miko-chan.
+        佐月殿！　桜庭殿！=Satsuki-dono! Sakuraba-dono!
+        <style\=RubyPrefixTag></style>\n佐月殿！　桜庭殿！=<style\=RubyPrefixTag></style>\nSatsuki-dono! Sakuraba-dono!
+        忍具！　鉤縄ーー！=Ninja tool! Hook rope!
+        <style\=RubyPrefixTag></style>\n忍具！　鉤縄ーー！=<style\=RubyPrefixTag></style>\nNinja tool! Hook rope!
+        おお！　鉤付きの縄が天井の{梁:はり}に絡んだ！=Ooh! The rope with a hook is caught on the ceiling\nbeam!
+        <style\=RubyPrefixTag></style>\nおお！　鉤付きの縄が天井の梁<space\=-47.217px><voffset\=1em><size\=50%><cspace\=0px>はり</cspace></size></voffset><space\=0.5289996px><style\=RubySuffixTag></style>に絡んだ！=<style\=RubyPrefixTag></style>\nOoh! The rope with a hook is caught on the ceiling\nbeam!
+        佐月殿、桜庭殿、大丈夫でゴザルか。=Satsuki-dono, Sakuraba-dono, are you alright, de-gozaru?
+        ありがとうございます、アーデルちゃん。助かりました。=Thank you, Adel-chan. You saved us.
+        佐月殿を助ける側に回れる日が来るとは重畳でゴザルな。=I never thought a day would come when I could be the\none saving Satsuki-dono.
+        でも、この鉤縄はふたりぶんほどの体重しか支えられないので、早く上にあがるでゴザル。=But this hook rope can only support the weight of\ntwo people, we have to climb up quickly, de-gozaru.
+        桜庭殿も大丈夫でゴザルかー？=Sakuraba-dono, are you okay?
+        桜庭殿…？=Sakuraba-dono...?
+        …情熱が、抑えられません。=...I can't suppress my passion.
+        桜庭殿！？　何故カメラを取り出しているでゴザル！？=Sakuraba-dono!? Why are you taking out your camera,\nde-gozaru!?
+        星羅ちゃん、自重しやがれ♪=Seira-chan, control your effin' self♪
+        <style\=RubyPrefixTag></style>\nカシャカシャカシャ！=<style\=RubyPrefixTag></style>\nClick Click Click
+        何故落とし穴の中でシャッター音が！？=Why is there a shutter sound inside the pitfall!?
+        桜庭あんた何してんの！？=Sakuraba, what the heck are you doing!?
+        <style\=RubyPrefixTag></style>\n桜庭あんた何してんの！？=<style\=RubyPrefixTag></style>\nSakuraba, what the heck are you doing!?
+        はっ…！　縄が限界に近いでゴザル！=Ah...! The rope is reaching its limit, de-gozaru!
+        星羅ちゃん、登りますよ！=Seira-chan, climb up!
+        …あ…は、はい。=...Ah...Y-yes.
+        <style\=RubyPrefixTag></style>\n…あ…は、はい。=<style\=RubyPrefixTag></style>\n...Ah...Y-yes.
+        <style\=RubyPrefixTag></style>\nプチッ…=<style\=RubyPrefixTag></style>\nSnap...
+        切れたでゴザルーー！=It snapped, de-gozaru!
+        さすがに戻れません…！　安全な着地を優先しましょう！=We can't go back now...! Let's prioritize a safe landing!
+        ヤー！　山脇殿！　天音殿！　なんとか先に進むでゴザル！　きっとどこかで合流出来るはずでゴザルーー！=Ja! Yamawaki-dono! Tenne-dono! You guys move forward,\nde-gozaru! We should be able to regroup somewhere,\nde-gozaru!
+        <style\=RubyPrefixTag></style>\nヤー！　山脇殿！　天音殿！　なんとか先に進むでゴザル！\r\nきっとどこかで合流出来るはずでゴザルーー！=<style\=RubyPrefixTag></style>\nJa! Yamawaki-dono! Tenne-dono! You guys move forward,\nde-gozaru! We should be able to regroup somewhere,\nde-gozaru!
+        …！　そろそろ底でゴザル！=...! We're almost at the bottom, de-gozaru!
+        <style\=RubyPrefixTag></style>\n…！　そろそろ底でゴザル！=<style\=RubyPrefixTag></style>\n...! We're almost at the bottom, de-gozaru!
+        <style\=RubyPrefixTag></style>\n着地でゴザル！=<style\=RubyPrefixTag></style>\nWe're landing, de-gozaru!
+        <style\=RubyPrefixTag></style>\n…無理。=<style\=RubyPrefixTag></style>\n...Impossible.
+        <style\=RubyPrefixTag></style>\n佐月殿！　桜庭殿をキャーッチでゴザル！=<style\=RubyPrefixTag></style>\nSatsuki-dono!\nCatch Sakuraba-dono, de-gozaru!
+        <style\=RubyPrefixTag></style>\nひゅひゅんっ！=<style\=RubyPrefixTag></style>\nWhoosh!
+        <style\=RubyPrefixTag></style>\nシュタタ！=<style\=RubyPrefixTag></style>\nSwoosh!
+        <style\=RubyPrefixTag></style>\nばふっ…！=<style\=RubyPrefixTag></style>\nThud...!
+        桜庭殿、大丈夫でゴザルか？=Sakuraba-dono, are you alright, de-gozaru?
+        …は…挟まってしまいました。=...I'm...getting sandwiched.
+        <style\=RubyPrefixTag></style>\n…は…挟まってしまいました。=<style\=RubyPrefixTag></style>\n...I'm...getting sandwiched.
+        …？　何にですか？=...? Sandwiched in what?
+        …ああ、おふたりに挟まってしまうとは。=...Ah, to think I'd be sandwiched between the two\nof you...
+        桜庭殿は何を言っているのでゴザルか？=Sakuraba-dono, what are you saying, de-gozaru?
+        重いからさっさと立ちやがれ♪=You're heavy, so get your ass up♪
+        …失礼しました。もう大丈夫です。=...Excuse me. I'm fine now.
+        …落ちて来た穴は塞がりましたね。=...The hole we fell through is now closed.
+        ひとまずイヴァールちゃんたちと合流しましょう。=Let's regroup with Ivar-chan and the others.
+    [Exploration D1 - Part 3]
+        シャッター音が減りましたね♪\n星羅ちゃんもやっと真面目に…。=The shutter sound has decreased♪\nSeira-chan is finally getting serious...
+        …あの品物、\n水晶は良き物品だと告げています。=...That item, the crystal says it's a good one.
+        桜庭殿～！\nシャッターチャンスでゴザルよ！=Sakuraba-dono～!\nIt's a photo opportunity, de-gozaru!
+        忍者ではありませんが、\nこうも目立つ格好だと\n忍べませんね…。=I'm not a ninja, but in such conspicuous\nclothing, I can't sneak aroound...
+        あの敵と三人で対峙するのは\n避けたほうがいいです。=We should avoid facing that\nenemy with just the threeof us.
+        役に立ちそうでゴザル！=It looks useful, de-gozaru!
+        もっと目立つでゴザル。=I'm going to stands\nout even more, de-gozaru.
+        このままぶっ倒して\nやりましょう♪=Let's take them down as we go♪
+        この戦いに役立ちそうな\n品物でゴザルな！=That item looks useful for\nthis battle, de-gozaru!
+        そこの床板は踏むと\n罠が作動するでゴザルな。=If you step on that floorboard,\na trap will activate, de-gozaru.
+        …？\n…何か違和感があります。=...?\n...I feel something odd.
+        <style\=RubyPrefixTag></style>\nなんと！ 黄金でゴザル！=<style\=RubyPrefixTag></style>\nOh my! It's gold, de-gozaru!
+        …この部屋は…戻ってきましたね。=...This room... Looks like we've returned.
+        そのようでゴザルな。=Seems so, de-gozaru.
+        …佐月さん、正しい道はわかりますか？=...Satsuki-san, do you know the correct path?
+        そうですね、ひとまずはわたしたちが落ちたところまで進みましょう。=Well, let's move back to where we fell for now.
+        …私のせいで申し訳ありません。=...I'm sorry for causing this.
+        <style\=RubyPrefixTag></style>\nカシャ=<style\=RubyPrefixTag></style>\nClick
+        そうですね。そろそろカメラ、ぶっ壊すぞ♪=Yeah, it's about time to break that camera♪
+        …ご容赦を。=...Please forgive me.
+        <style\=RubyPrefixTag></style>\n…ご容赦を。=<style\=RubyPrefixTag></style>\n...Please forgive me.
+        まあまあ、それよりも山脇殿たちと合流するでゴザルよ。進むでゴザル。=Now now, more importantly, let's regroup with\nYamawaki-dono and the others, de-gozaru. Let's go on,\nde-gozaru.
+        ヤー！　山脇殿に豊後殿に天音殿！=Ja! Yamawaki-dono, Bungo-dono, and Tenne-dono!
+        あんたたち！　無事だったのね！=You guys! You're safe!
+        イヴァールちゃんたちも、ご無事でなによりです♪=And I'm glad to see you all safe as well♪
+        …落チルノ…恐イ…モウ…落チタク…ナイ…。=...Falling...scary...don't want to fall... again...
+        …天音さんの様子がおかしいようですが。=...Tenne-san seems a bit off.
+        こいつ、すぐに落とし穴に落ちて、役に立たないでゲス。=She keeps falling into pitfalls immediately, she's\nuseless-gesu.
+        お前が壁なり柱なりポンポンと触るからだろうがーー！　明らかに怪しい招き猫を何度も触りおってーー！=That's because you keep poking and touching suspicious\nwalls and columns! Also that obviously suspicious\nbeckoning cat!
+        <style\=RubyPrefixTag></style>\nお前が壁なり柱なりポンポンと触るからだろうがーー！　\r\n明らかに怪しい招き猫を何度も触りおってーー！=<style\=RubyPrefixTag></style>\nThat's because you keep poking and touching suspicious\nwalls and columns! Also that obviously suspicious\nbeckoning cat!
+        やめるでゲス！　役立たず！　ヘルメットをグリグリするなでゲス！=Stop it-gesu! You're useless! Don't noogie my helmet-gesu!
+        ヤー、いつも通りでゴザルなー。=Ja, same as always, de-gozaru.
+    [The disappearance of Kanzaki Adelheid]
+        ふたりと合流出来たし、先に進むとしましょうか。=We've reunited with the two of them, shall we move\non?
+        ふたり…ですか？=Two of them...?
+        山脇殿、待つでゴザル。ふたりと合流とはどういうことでゴザルか？=Yamawaki-dono, wait, de-gozaru. What do you mean by\n"Two of them", de-gozaru?
+        キャンサーが巣くってることは確認出来てるし、気を引き締めていくわよ。=We confirmed that the cancer is nesting here, so stay\nalert.
+        や、山脇殿…？=Y-Yamawaki-dono...?
+        イヴァールちゃん、ちょっといいでしょうか。=Ivar-chan, may I speak with you for a moment?
+        何？=What is it?
+        今、ここに誰が居ますか？=Who did you see over here right now?
+        誰って…佐月と桜庭が居るわよ？=Who...? Satsuki and Sakuraba, right?
+        アーデルちゃんは…見えていないと？=Are you saying...you can't see Adel-chan?
+        <style\=RubyPrefixTag></style>\nアーデルちゃんは…見えていないと？=<style\=RubyPrefixTag></style>\nAre you saying...you can't see Adel-chan?
+        あーでる？=Adel?
+        …誰ですか？=...Who?
+        誰だ？=Who?
+        誰でゲス？=Who is that-gesu?
+        誰？=Who?
+        冗談…だったら、怒りますよ。=If this is a joke... I'll be very angry.
+        冗談も何も、あんたこそ何を言ってんのよ。=I'm not joking, what are YOU talking about?
+        別れている間に何かあったのか？=Did something happen while we were separated?
+        星羅ちゃん、わたしたちはさっきまでアーデルちゃんと三人で行動をしていましたよね。=Seira-chan, we were just with Adel-chan until now,\nright?
+        わたしとペアの写真を撮っていて…。=You were taking photos of us...
+        <style\=RubyPrefixTag></style>\nわたしとペアの写真を撮っていて…。=<style\=RubyPrefixTag></style>\nYou were taking photos of us...
+        …えと、先ほど撮っていた写真ですが…こちらのことでしょうか？=...Um, the photos I just took... is this what you\nmean?
+        そんな…わたししか写っていない…。=No way... I'm the only one in the picture...
+        さ、佐月殿…拙者、みんなから忘れられているでゴザルか…？=S-Satsuki-dono... am I being forgotten by everyone,\nde-gozaru...?
+        …いえ、それどころか、存在そのものがなかったことに。=...No, rather, it's like your existence itself was\nerased.
+        お前、誰と話してるでゲス？　幽霊でも居るんでゲスか？=Who are you talking to-gesu? Is there a ghost or\nsomething-gesu?
+        や、山脇殿！　本当に拙者が見えてないのでゴザルか！？=Y-Yamawaki-dono! Can you really not see me, de-gozaru!?
+        <style\=RubyPrefixTag></style>\nすかっ…=<style\=RubyPrefixTag></style>\nWhoosh...
+        さ、触れない…？=I-I can't touch her...?
+        アーデルちゃん。わたしの手は握れますか…？=Adel-chan. Can you hold my hand?
+        …握れるでゴザル。佐月殿にだけは触れられるでゴザル！=...I can hold it, de-gozaru. I can only touch\nSatsuki-dono, de-gozaru!
+        <style\=RubyPrefixTag></style>\n…握れるでゴザル。佐月殿にだけは触れられるでゴザル！\r\n=<style\=RubyPrefixTag></style>\n...I can hold it, de-gozaru. I can only touch\nSatsuki-dono, de-gozaru!
+        一体何が起こって…。=What on earth is happening...?
+        どうも様子がおかしいな。山脇、そろそろ時間も時間だ。一旦基地へ戻るぞ。=Something seems off. Yamawaki, it's about time. Let's\nhead back to the base.
+        そうね。帰還ルートは大丈夫？=Yeah. Do you remember the way back?
+        ふっ…来た道を戻れるよう、特殊な魔法薬でマーキングしておいた。=Heh... I marked the path we came with a special magical\npotion.
+        落とし穴周辺には、特別たっぷり撒いておいたぞ！=I made sure to spread it generously around the pitfall\narea!
+        <style\=RubyPrefixTag></style>\n落とし穴周辺には、特別たっぷり撒いておいたぞ！=<style\=RubyPrefixTag></style>\nI made sure to spread it generously around the pitfall\narea!
+        お前、役に立つことあるんでゲスね。=You do something useful for once-gesu.
+        お前は絶対に壁や招き猫に触るなよ！　絶対だからな！=Don't ever touch the wall or the beckoning cat! Never,\ngot it!?
+        佐月殿には…拙者が認識出来ているでゴザルか…？=Can Satsuki-dono... recognize me, de-gozaru...?
+        <style\=RubyPrefixTag></style>\n佐月殿には…拙者が認識出来ているでゴザルか…？=<style\=RubyPrefixTag></style>\nCan Satsuki-dono... recognize me, de-gozaru...?
+        はい…大丈夫です。ちゃんと触れることも出来ます。=Yes... it's okay. I can touch you properly too.
+        キャンサーによる幻惑のような攻撃の可能性も考えましたが、それだとわたしたちと一緒に居た星羅ちゃんに影響があることがおかしいです。=I considered the possibility of it being an illusion attack\nby Cancer, but if that were the case, it would be strange\nthat Seira-chan, who was with us, wasn't affected.
+        なにより…。=More importantly...
+        <style\=RubyPrefixTag></style>\nなにより…。=<style\=RubyPrefixTag></style>\nMore importantly...
+        写真から拙者の姿が消えていたでゴザル…。=My image disappeared from the photos, de-gozaru...
+        <style\=RubyPrefixTag></style>\n写真から拙者の姿が消えていたでゴザル…。=<style\=RubyPrefixTag></style>\nMy image disappeared from the photos, de-gozaru...
+        アーデルちゃん、安心してください。わたしはちゃんと覚えていますから。=Adel-chan, please don't worry. I remember you properly.
+        佐月殿…。=Satsuki-dono...
+        桜庭、あんたこんな時に何してるのよ。=Sakuraba, what are you doing at a time like this?
+        …すみません。何故かシャッターチャンスを感じました。=...I'm sorry. For some reason, I felt it was a photo\nchance.
+        さあ、戻るぞ。わしについてこい。=Alright, let's go back. Follow me.
+        山脇様！　あそこの招き猫撫でてきていいでゲスか？=Yamawaki-sama! May I pet the beckoning cat over there-gesu?
+        <style\=RubyPrefixTag></style>\n山脇様！　あそこの招き猫撫でてきていいでゲスか？=<style\=RubyPrefixTag></style>\nYamawaki-sama! May I pet the beckoning cat over there-gesu?
+        <style\=RubyPrefixTag></style>\n絶対に触るなーー！！=<style\=RubyPrefixTag></style>\nAbsolutely not!!
+    [Back to Base]
+        佐月、大丈夫なのか？=Satsuki, are you okay?
+        もう大丈夫です。すみません、少々取り乱してしまいました。=I'm okay now. Sorry, I lost my composure a bit.
+        じゃあ、私は司令部に報告へ行ってくるわ。=Then, I'll go report to the HQ.
+        わたしも行きます。確認したいことがありますので。=I'll go too. There's something I want to check.
+        わしは豊後の面倒を見ておくとしよう。=I'll take care of Bungo.
+        お前、暇なんでゲスか？=You got nothing to do-gesu?
+        暇じゃないわーー！　研究したいわーー！　でも遊びた…げふ、面倒をみてやるわーー！=I'm not free!! I want to do my research!! But also\nwant to pla-... Ahem, I'll take care of you!
+        …私は広報部と雑誌の打ち合わせをしてきます。=...I'm going to the PR department for the magazine\narrangement.
+        <style\=RubyPrefixTag></style>\n…私は広報部と雑誌の打ち合わせをしてきます。=<style\=RubyPrefixTag></style>\n...I'm going to the PR department for the magazine\narrangement.
+        拙者は…少し基地の中を見て回るでゴザ…。=I... will take a look around the base, de-goza-...
+        アーデルちゃん、すぐに戻ってきますので。ショップで待ち合わせをしましょう。=Adel-chan, I'll be back soon. Let's meet at the shop.
+        ヤー…。=Ja...
+        （本当に拙者、みんなから忘れられているのでゴザルか…？）=(Have they really forgotten about me, de-gozaru...?)
+        （基地の中で確認してみるでゴザル）=(I'll check around the base, de-gozaru)
+        基地内をまわって確認しよう！=Let's go around the base and check!
+        拙者が見えているでゴザルか？=Can you see me, de-gozaru?
+        グラビア撮影…佐月さんが選ばれたそうです…私に足りないのはたわわですか？=It seems Satsuki-san was chosen for a gravure photo\nshoot... Is it my lack of curves?
+        そんなことないわ！　二以奈が水着を着た時に出来るブラの隙間も魅力的よ！=That's not true! Even the gap in your bra when you\nwear it is charming!
+        …？　気のせいかな？=...? Was it just my imagination?
+        伊達殿、拙者が見えているでゴザルか？=Date-dono, can you see me, de-gozaru?
+        わたし…どうして忍術みたいなものを使えるんでしょう…。=Why can I use something akin to ninja arts...?
+        いちご殿、拙者が見えているでゴザルか？=Ichigo-dono, can you see me, de-gozaru?
+        ３１Ｃの奴ら、いつも五人で頑張ってんな。=Those people from 31C are always working hard as 5\nmember unit.
+        <style\=RubyPrefixTag></style>\n３１Ｃの奴ら、いつも五人で頑張ってんな。=<style\=RubyPrefixTag></style>\nThose people from 31C are always working hard as 5\nmember unit.
+        すももたちも負けていられないにゃ。=We can't lose to them either, nya.
+        （…３１Ｃは五人の部隊という認識でゴザルか）=(...31C is recognized as a unit of five members, de-gozaru?)
+        （山脇殿たちだけでなく、基地のみんなも拙者を忘れているでゴザル…）=(Not only Yamawaki-dono and the others, but everyone\nin the base has forgotten about me, de-gozaru...)
+        （話しかけても気づかれないとは…）=(Even when I talk to them, they don't notice me...)
+        拙者…一体どうなってしまったのでゴザろうか…。=What on earth has happened to me, de-gozaru...?
+        もし、佐月殿にまで忘れられてしまったら…。=If Satsuki-dono forgets about me too, I...?
+        アーデルちゃん。=Adel-chan.
+        大丈夫ですか？　ひとまずショップの中へ。=Are you okay? Let's enter the shop for now.
+        <style\=RubyPrefixTag></style>\n大丈夫ですか？　ひとまずショップの中へ。=<style\=RubyPrefixTag></style>\nAre you okay? Let's enter the shop for now.
+        ヤー。=Ja.
+    [Mari shop]
+        結論から言うと、司令官もアーデルちゃんのことを覚えていませんでした。=To conclude, even the commander didn't remember Adel-chan.
+        <style\=RubyPrefixTag></style>\n結論から言うと、司令官もアーデルちゃんのことを覚えて\r\nいませんでした。=<style\=RubyPrefixTag></style>\nTo conclude, even the commander didn't remember Adel-chan.
+        そうでゴザルか。拙者も基地の中を回ったのでゴザルが、みんなに気づかれることもなかったでゴザル。=I see, de-gozaru. I also went around the base, but\nno one noticed me, de-gozaru.
+        もしかしたら…わたしのせいかもしれません。=Maybe... it's my fault.
+        どういうことでゴザルか？=What do you mean, de-gozaru?
+        わたしのショップに置かれる水着は、何故か不思議なものが多くて…。=The swimsuits in my shop are often strange...
+        今回のことも、その水着が関係している可能性が考えられます。=It is possible that this incident is also related to\nthat swimsuit.
+        <style\=RubyPrefixTag></style>\n今回のことも、その水着が関係している可能性が考えられ\r\nます。=<style\=RubyPrefixTag></style>\nIt is possible that this incident is also related to\nthis swimsuit.
+        なら、この水着を脱げば解決するかもしれないでゴザルな。=Then, taking off this swimsuit might solve the problem,\nde-gozaru.
+        <style\=RubyPrefixTag></style>\nすぽーん=<style\=RubyPrefixTag></style>\nWhup
+        佐月殿だけだし、問題ないのではゴザらんか？=Since it's only Satsuki-dono here, there shouldn't\nbe any problem, right, de-gozaru?
+        この水着…どうしてこんなところに？　それに温かい？　誰が…。=Why is this swimsuit here...? And it's warm? Who...?
+        <style\=RubyPrefixTag></style>\nこの水着…どうしてこんなところに？　それに温かい？　\r\n誰が…。=<style\=RubyPrefixTag></style>\nWhy is this swimsuit here...? And it's warm? Who...?
+        <style\=RubyPrefixTag></style>\n佐月殿！？=<style\=RubyPrefixTag></style>\nSatsuki-dono!?
+        そんな…水着を脱いだからでゴザルか？=No way... Is it because I took off the swimsuit, de-gozaru?
+        も、もう一度着れば…。=I-If I wear it again...
+        あ…アーデルちゃん？　一瞬消えていたような…忍術ですか？=Ah... Adel-chan? You seemed to disappear for a moment...\nWas it ninja arts?
+        <style\=RubyPrefixTag></style>\nあ…アーデルちゃん？　一瞬消えていたような…忍術です\r\nか？=<style\=RubyPrefixTag></style>\nAh... Adel-chan? You seemed to disappear for a moment...\nWas it ninja arts?
+        …よかったでゴザル。思い出してもらえたでゴザル～。=I'm so glad, de-gozaru. You remembered me, de-gozaru～!
+        <style\=RubyPrefixTag></style>\n…よかったでゴザル。思い出してもらえたでゴザル～。=<style\=RubyPrefixTag></style>\nI'm so glad, de-gozaru. You remembered me, de-gozaru～!
+        わ…わたし、まさかアーデルちゃんのことを忘れて…。=Don't tell me... I forgot about Adel-chan just now...?
+        ヤー…。でも水着を着直したら思い出してくれたでゴザルよ。=Ja... But when I put the swimsuit back on, you\nremembered, de-gozaru.
+        <style\=RubyPrefixTag></style>\nヤー…。でも水着を着直したら思い出してくれたでゴザル\r\nよ。=<style\=RubyPrefixTag></style>\nJa... But when I put the swimsuit back on, you\nremembered, de-gozaru.
+        やはり、この水着には不思議な力があるでゴザ…はっ！=Indeed, this swimsuit has some strange power, de-goza-...\nAH!
+        待つでゴザルよ佐月殿！　だとすると、佐月殿が着ているその水着も危険なのではゴザらんか！？=Wait, Satsuki-dono! If that's the case, isn't the\nswimsuit you're wearing also dangerous, de-gozaru!?
+        …どうでしょう。確かにアーデルちゃんよりあとに着たので、不思議な効果がまだ発生していないだけかもしれません。=...I wonder. It might just be that the strange effect\nhasn't activated yet, since I wore it much later than\nAdel-chan.
+        早く脱ぐでゴザル！　佐月殿までみんなに忘れられてしまう前に脱ぐでゴザルよ！=Take it off quickly, de-gozaru! Before everyone forgets\nyou too, de-gozaru!
+        <style\=RubyPrefixTag></style>\n早く脱ぐでゴザル！　佐月殿までみんなに忘れられてしま\r\nう前に脱ぐでゴザルよ！=<style\=RubyPrefixTag></style>\nTake it off quickly, de-gozaru! Before everyone forgets\nyou too, de-gozaru!
+        脱ぎません。=I won't take it off.
+        どうしてでゴザル！？=Why not, de-gozaru!?
+        わたしだけがアーデルちゃんを覚えているのは…思い出せたのは、この水着を着ているからなのかもしれません。=The reason I could remember Adel-chan might be\nbecause I'm wearing this swimsuit.
+        その可能性がある限り、脱ぐわけにはいきません。=With that as a possibilities, then I can't take it\noff.
+        <style\=RubyPrefixTag></style>\nその可能性がある限り、脱ぐわけにはいきません。=<style\=RubyPrefixTag></style>\nWith that as a possibilities, then I can't take it\noff.
+        佐月殿…でも…。=Satsuki-dono... but...
+        <style\=RubyPrefixTag></style>\n佐月殿…でも…。=<style\=RubyPrefixTag></style>\nSatsuki-dono... but...
+        アーデルちゃんをもうひとりにはしません。=I won't let Adel-chan be alone.
+        ありがとうでゴザル…。=Thank you, de-gozaru...
+        佐月殿にそう言ってもらえて、心強いでゴザル。=I feel so much stronger hearing that from you\n, de-gozaru.
+        くよくよしても何も解決しないでゴザルな。=There's no point in worrying, de-gozaru.
+        突然不思議なことが起こったのなら、突然直ることもあるでゴザろう。=If something strange happened suddenly, it might also\nsuddenly be fixed, de-gozaru.
+        拙者！　前向きに考えるでゴザルよ！=I'll think positively, de-gozaru!
+        それでこそアーデルちゃんです。=That's Adel-chan for you.
+        すみませーん、レジよろしいでしょうかー。=Excuse me, I'd like to check out.
+        あ…はい、少々お待ちください。=Ah... yes, just a moment.
+        <style\=RubyPrefixTag></style>\nあ…はい、少々お待ちください。=<style\=RubyPrefixTag></style>\nAh... yes, just a moment.
+        佐月殿はお仕事でゴザルな。邪魔にならないよう拙者は外に行ってるでゴザルよ。=Satsuki-dono is currently working, de-gozaru. I will\nstep outside so as not to disturb, de-gozaru.
+        すみません。ではまたあとで。=I'm sorry. I'll see you later, then.
+    [Night - Kozue]
+        アーデルちゃん、お待たせしました。=Adel-chan, sorry to keep you waiting.
+        <style\=RubyPrefixTag></style>\nアーデルちゃん、お待たせしました。=<style\=RubyPrefixTag></style>\nAdel-chan, sorry to keep you waiting.
+        ヤー、全然待っていないでゴザルよ。=Ja, I haven't been waiting at all, de-gozaru.
+        実は人を呼んでいるので、もう少しここで待ってもらってもいいですか？=Actually, I've called someone, so could you wait here\na bit longer?
+        <style\=RubyPrefixTag></style>\n実は人を呼んでいるので、もう少しここで待ってもらって\r\nもいいですか？=<style\=RubyPrefixTag></style>\nActually, I've called someone, so could you wait here\na bit longer?
+        もちろんでゴザルが、誰を…。=Of course, de-gozaru, but who...?
+        <style\=RubyPrefixTag></style>\nもちろんでゴザルが、誰を…。=<style\=RubyPrefixTag></style>\nOf course, de-gozaru, but who...?
+        こんばんは佐月さん。=Good evening, Satsuki-san.
+        <style\=RubyPrefixTag></style>\nこんばんは佐月さん。=<style\=RubyPrefixTag></style>\nGood evening, Satsuki-san.
+        柊木さん。お呼び立てしてすみません。=Hiiragi-san. I'm sorry to call you out.
+        …あの、どうして水着なんですか？=...Um, why are you in a swimsuit?
+        色々と理由があるんです。=There are various reasons.
+        <style\=RubyPrefixTag></style>\n色々と理由があるんです。=<style\=RubyPrefixTag></style>\nThere are various reasons.
+        色々…それはＲＩＮＮＥで相談があった、不可解な出来事と関係があるんでしょうか？=Various reasons... Does it have something to do with\nthe mysterious incident that you discussed at RINNE?
+        <style\=RubyPrefixTag></style>\n色々…それはＲＩＮＮＥで相談があった、不可解な出来事\r\nと関係があるんでしょうか？=<style\=RubyPrefixTag></style>\nVarious reasons... Does it have something to do with\nthe mysterious incident that you discussed at RINNE?
+        その可能性もあります。=Yes, that's a possibility.
+        なるほど。霊障の類いでしたら、きっとお力になれると思います。=I see. If it's a spiritual disturbance, I'm sure I\ncan be of help.
+        おお！　そういえば柊木殿は霊能力者！　この現象にも理解があるかもしれないでゴザル！=Ooh! Speaking of which, Hiiragi-dono is a spiritualist!\nShe might understand this phenomenon, de-gozaru!
+        さすが佐月殿でゴザル！=As expected of Satsuki-dono, de-gozaru!
+        柊木さん…ここに誰が居るかわかりますか？=Hiiragi-san, do you know who is here?
+        え…？　えっと…すみません、ちょっとあたしには視えないです。=Eh...? Um... I'm sorry, I can't see anyone.
+        柊木さんでも駄目ですか…。=Even Hiiragi-san can't see...?
+        ヤー、基地を歩き回っている時も柊木殿に気づかれなかったでゴザル。=Ja, even when I walked around the base, Hiiragi-dono\ndidn't notice me, de-gozaru.
+        では、神崎アーデルハイドという名前に、覚えはありますか？=Then, does the name Kanzaki Adelheid ring a bell?
+        <style\=RubyPrefixTag></style>\nでは、神崎アーデルハイドという名前に、覚えはあります\r\nか？=<style\=RubyPrefixTag></style>\nThen, does the name Kanzaki Adelheid ring a bell?
+        神崎…アーデルハイド…。妙な引っかかりを感じますが、記憶にありませんね。=Kanzaki... Adelheid... It feels strangely familiar,\nbut I don't remember.
+        ですが、今佐月さんの隣に、その神崎アーデルハイドさんが居るんですね。=But right now, Kanzaki Adelheid-san is beside\nSatsuki-san, right?
+        はい。わたしにしか見えていなくて、他のみんなは忘れてしまっている３１Ｃのセラフ部隊員です。=Yes. Only I can see her, and everyone else has forgotten\nher. She is a member of unit 31C.
+        なるほどなるほど…何かしらの怪異に巻き込まれているといったところですか。=I see, I see... It seems she's caught up in some kind\nof strange phenomenon.
+        理解が早いでゴザル！=She is quick to understand, de-gozaru!
+        信じてくれるんですか？=Do you believe me?
+        原因はわかりませんが、神崎さんという方がみんなから見えない存在になっているんですよね。=I don't know the cause, but it seems Kanzaki-san has\nbecome invisible to everyone.
+        …わかります。その心細さ。=...I understand. That loneliness.
+        あたしも以前、似たような怪異に遭遇しました。あの時は悪霊による呪いでしたが。=I also encountered a similar phenomenon once. That\ntime, it was a curse by an evil spirit.
+        <style\=RubyPrefixTag></style>\nあたしも以前、似たような怪異に遭遇しました。あの時は\r\n悪霊による呪いでしたが。=<style\=RubyPrefixTag></style>\nI also encountered a similar phenomenon once. That\ntime, it was a curse by an evil spirit.
+        でも、茅森さんが見つけてくれて一緒に居てくれたので、心を強く持てました。=But Kayamori-san found me and stayed with me, so I\ncould stay strong.
+        神崎さん。あたしに出来ることをやってみます。=Kanzaki-san, I'll do what I can.
+        色々と不安だとは思いますが、佐月さんがそばに居てくれていますので、希望を諦めないでください。=You may feel anxious, but Satsuki-san is with you,\nso please don't give up hope.
+        拙者はこっちでゴザル。=I'm over here, de-gozaru.
+        見えていないんですから、仕方ないですよ。=Since she can't see you, it can't be helped.
+        あ、あたし、今とても格好悪いことしていました！？=W-was I doing something really uncool just now!?
+        ナイン…とても勇気をくれたでゴザル。=Nein... you gave me a lot of courage, de-gozaru.
+        アーデルちゃんが、とても感謝していますよ。=Adel-chan is very grateful to you.
+        そ、そうですか…よかった…。=R-really... I'm glad...
+        <style\=RubyPrefixTag></style>\nそ、そうですか…よかった…。=<style\=RubyPrefixTag></style>\nR-really... I'm glad...
+        ひとまず、結界の強化からしてみます。明日、改めて報告させてもらいますね。=First, I'll try to strengthen the barrier. I'll report\nback to you tomorrow.
+        柊木さん、ありがとうございます。=Hiiragi-san, thank you very much.
+        いいえ、これは霊能力者の使命のようなものですので。では失礼します。=No, it's like a mission for a spiritualist. Well then,\nexcuse me.
+        佐月殿、ありがとうでゴザル。=Satsuki-dono, thank you, de-gozaru.
+        何が正解かわからないですし、思いついたことはどんなことでも試していきましょう。=We don't know what the right answer is, so let's try\nwhatever comes to mind.
+        <style\=RubyPrefixTag></style>\n何が正解かわからないですし、思いついたことはどんなこ\r\nとでも試していきましょう。=<style\=RubyPrefixTag></style>\nWe don't know what the right answer is, so let's try\nwhatever comes to mind.
+        佐月殿はいつも冷静でゴザルな。拙者、憧れるでゴザルよ。=Satsuki-dono is always so calm, de-gozaru. I admire\nyou, de-gozaru.
+        褒めても何も出ないぞ♪=Flattery won't get you anything♪
+        <style\=RubyPrefixTag></style>\n褒めても何も出ないぞ♪=<style\=RubyPrefixTag></style>\nFlattery won't get you anything♪
+        では、部屋に戻りましょうか。わたしたちの部屋に。=Well, shall we go back? To our room.
+        邪よ退けっ！　\nセイクリッドウォーーール！！=Expel the wicked!\nO Sacred Waaall!!
+        何か聞こえるでゴザル。=I hear something, de-gozaru.
+        きっと、柊木さんがアーデルちゃんのために頑張ってくれているんです。=Hiiragi-san must be working hard for you, Adel-chan.
+        解決したら、お礼を言わなければいけないでゴザルな。=When it's resolved, I must thank her, de-gozaru.
+        そうですね、一緒にお礼を言いにいきましょう。=Yes, let's go thank her together.
+        <style\=RubyPrefixTag></style>\nそうですね、一緒にお礼を言いにいきましょう。=<style\=RubyPrefixTag></style>\nYes, let's go thank her together.
+        <style\=RubyPrefixTag></style>\n邪よ退けっ！　セイクリッドウォーーーーール！！=<style\=RubyPrefixTag></style>\nExpel the wicked! O Sacred Waaaaaaall!!
+[Day 2]
+    [Day 2 - Morning]
+        拙者の身がどうあれ、朝の忍術の修行は続けておくでゴザル。=Regardless of my condition, I will continue my morning\nninja arts training, de-gozaru.
+        忍法、分身の術！=Ninja Art: Clone Technique!
+        からの忍法！　浮雲の術！=Also, Ninja Art: Floating Cloud Technique!
+        そして忍法！　風遁の術！=And then, Ninja Art: Wind Style Technique!
+        見られていないと、やっぱり術にキレがないでゴザルなぁ。=When no one is watching, my techniques lack sharpness,\nde-gozaru.
+        おっ、茅森殿～～。=Oh, Kayamori-dono～
+        ん？　なんかいい風が吹いてるなぁ。=Hmm? There's a nice breeze blowing.
+        やっぱり、見えていないでゴザルか…。=I guess I'm still invisible, de-gozaru...
+        一晩経ったら何か変わるかと思ったでゴザルが、変化なしでゴザルなぁ。=I thought something might change over the night, but\nthere's no change, de-gozaru.
+        <style\=RubyPrefixTag></style>\n一晩経ったら何か変わるかと思ったでゴザルが、変化なし\r\nでゴザルなぁ。=<style\=RubyPrefixTag></style>\nI thought something might change over the night, but\nthere's no change, de-gozaru.
+        アーデルちゃん！=Adel-chan!
+        さ、佐月殿！=Sa-Satsuki-dono!
+        <style\=RubyPrefixTag></style>\nさ、佐月殿！=<style\=RubyPrefixTag></style>\nSa-Satsuki-dono!
+        よかったでゴザル…佐月殿にはまだ拙者が見えているのでゴザルな。=I'm glad, de-gozaru... Satsuki-dono can still see\nme, de-gozaru.
+        はい。わたしのほうも心配しました。=Yes. I was really worried too.
+        どうしてでゴザル？=Why, de-gozaru?
+        <style\=RubyPrefixTag></style>\nどうしてでゴザル？=<style\=RubyPrefixTag></style>\nWhy, de-gozaru?
+        起きた時、アーデルちゃんが居なかったので…。=Because when I woke up, Adel-chan wasn't there...
+        それは申し訳なかったでゴザル。こんな状態ではゴザルが、朝の忍術の修行をしていたのでゴザル。=I'm sorry for that, de-gozaru. Even though I was in\nthis state, I was doing my morning ninja arts training,\nde-gozaru.
+        よかった。わたしまで見えなくなっていたらどうしようかと思いました。=I'm relieved. I don't know what I would do if I\ncouldn't see you anymore.
+        <style\=RubyPrefixTag></style>\nよかった。わたしまで見えなくなっていたらどうしようか\r\nと思いました。=<style\=RubyPrefixTag></style>\nI'm relieved. I don't know what I would do if I\ncouldn't see you anymore.
+        拙者は、佐月殿に見つけてもらえてほっとしたでゴザルよ。=Satsuki-dono, I'm relieved you found me, de-gozaru.
+        わたしもほっとしました。=I'm relieved too.
+        そろそろ朝食の時間ですが、食事はどうしますか？=It's almost breakfast time, what will you do about\nthe meal?
+        食事は普通に食べられるようでゴザル。=Seems like I can eat normally, de-gozaru.
+        ただ、どうも拙者が手にしたものは、認識されなくなるようで、まるで盗人の気分でゴザった。=But, it seems that anything I hold becomes unrecognizable,\nso I feel like a thief, de-gozaru.
+        <style\=RubyPrefixTag></style>\nただ、どうも拙者が手にしたものは、認識されなくなるよ\r\nうで、まるで盗人の気分でゴザった。=<style\=RubyPrefixTag></style>\nBut, it seems that anything I hold becomes unrecognizable,\nso I feel like a thief, de-gozaru.
+        そうですか。では、わたしのぶんを少し多めに盛りますので、そこから取ってください。=I see. Then I'll get a little more on my plate, so\nplease take from it.
+        それはありがたいでゴザル。=That would be appreciated, de-gozaru.
+        さあ、行きましょう。=Well then, let's go.
+    [Breakfast]
+        それじゃ、頂きます。=Well then, let's eat.
+        <style\=RubyPrefixTag></style>\nそれじゃ、頂きます。=<style\=RubyPrefixTag></style>\nWell then, let's eat.
+        <style\=RubyPrefixTag></style>\n…頂きます=<style\=RubyPrefixTag></style>\n...Let's eat.
+        <style\=RubyPrefixTag></style>\n頂くでゲス！=<style\=RubyPrefixTag></style>\nLet's eat!
+        <style\=RubyPrefixTag></style>\n頂くでゴザル=<style\=RubyPrefixTag></style>\nLet's eat!
+        <style\=RubyPrefixTag></style>\n頂きます=<style\=RubyPrefixTag></style>\nLet's eat.
+        これと、これはお前にやるでゲス。=I'll give you this and this-gesu.
+        こら豊後、野菜をちゃんと食べろ。大きくなれんぞ。=Oi, Bungo, eat your vegetables. Or you won't grow\nbig.
+        食べても大きくなってないお前に言われたくないでゲス。=I don't want to hear that from someone who haven't\ngrown big even after eating it-gesu.
+        <style\=RubyPrefixTag></style>\nわしは成長期だーー！\nこれから大きくなるんだーー！=<style\=RubyPrefixTag></style>\nI'm in my growth phase!!!\nI'll get bigger from now on!!!
+        佐月、あんたなんでまだ水着なの？=Satsuki, why are you still in your swimsuit?
+        …まだグラビア撮影を続けるのでしょうか？=...Are you still continuing the gravure shoot?
+        はい。星羅ちゃんもまだベストショットが撮れていないんじゃないですか？=Yes. Seira-chan didn't get the best shot yet, right?
+        …はい。たくさん撮ったのですが、何か物足りなさを感じています。=...Yes. I've taken a lot, but something feels lacking.
+        ふーん、思ったより乗り気だったのね。意外だわ。=Hmm, you're more enthusiastic than I thought. Surprising.
+        だが、撮影をするならそんなに食べてもいいのか？　腹が出るのではないか？=But if you're doing a photoshoot, is it okay to eat\nthat much? Won't your stomach bulge?
+        出ねーぞ♪=It won't♪
+        す、すまん！　一般的な質問だ！　他意はない！=S-Sorry! That was a general question! No ulterior\nmotive!
+        佐月殿、すまないでゴザル。=Satsuki-dono, I'm sorry, de-gozaru.
+        いいんですよ。=It's okay.
+        今日は日光の忍者屋敷に居たキャンサーの討ば…。=Today, we're going to the ninja mansion in Nikko\nexterminating Canc-...
+        …山脇さん、どうかしましたか？=...Yamawaki-san, is something wrong?
+        <style\=RubyPrefixTag></style>\n…山脇さん、どうかしましたか？=<style\=RubyPrefixTag></style>\n...Yamawaki-san, is something wrong?
+        ううん、今何か自分の言葉に引っかかりがあって…なんなのかしら。=No, something about my words just now bothers me...\nI wonder what is it?
+        もしかして忍者…屋敷ですか？=Could it be the ninja... mansion?
+        はっ！　山脇殿、もしかして拙者を思い出して！=Ha! Yamawaki-dono, do you remember me?
+        うーん…わかんないわ。=Hmm... I don't know.
+        ないでゴザルか…。=So, you don't, de-gozaru...?
+        何を狙ってるでゲス？　あちきのデザートは渡さないでゲスよ。=What are you aiming for? I'm not giving you my dessert-gesu.
+        <style\=RubyPrefixTag></style>\n何を狙ってるでゲス？　あちきのデザートは渡さないでゲ\r\nスよ。=<style\=RubyPrefixTag></style>\nWhat are you aiming for? I'm not giving you my dessert-gesu.
+        <style\=RubyPrefixTag></style>\n取らんわーー！=<style\=RubyPrefixTag></style>\nI won't take it!!
+        …なあ、わしらの朝食は、こんなに静かだったか？=...Hey, was our breakfast usually this quiet?
+        さっきからお前がうるさいでゲス。=You've been noisy since earlier-gesu.
+        <style\=RubyPrefixTag></style>\nさっきからお前がうるさいでゲス。=<style\=RubyPrefixTag></style>\nYou've been noisy since earlier-gesu.
+        うぐ…そうではなく…。いや、なんでもない。気のせいだな。=Ugh... That's not it... no, it's nothing. It must be\nmy imagination.
+        佐月殿…拙者、完全には忘れられていないのでゴザらんか。=Satsuki-dono... Looks like I'm not completely forgotten,\nright de-gozaru?
+        はい。わたしたちのこれまでの絆は、簡単に途切れたりはしませんよ。=Yes. The bonds we've built so far won't easily break.
+        原因はまだわかりませんが、もしかすると忍者屋敷にも何かあるのかもしれません。=The cause is still unknown, but maybe there's something\nat the ninja mansion.
+        だから頑張りましょう。=So let's do our best.
+        …佐月って、こんなに独り言多かったかしら？=...Was Satsuki always talking to herself this much?
+        <style\=RubyPrefixTag></style>\n…佐月って、こんなに独り言多かったかしら？=<style\=RubyPrefixTag></style>\n...Was Satsuki always talking to herself this much?
+        ショップ店員を兼任してるのだ。わしらには見えん苦労もあるのだろう。=She's also working as a shop clerk. She must have\nhardships that we can't see.
+        その割には朗らかよ？=Yet she seems cheerful?
+        …恐らく、任務先の忍者屋敷に思いを馳せているのでしょう。=...Perhaps she's thinking about the mission at the\nninja mansion.
+        <style\=RubyPrefixTag></style>\n…恐らく、任務先の忍者屋敷に思いを馳せているのでしょ\r\nう。=<style\=RubyPrefixTag></style>\n...Perhaps she's thinking about the mission at the\nninja mansion.
+        なんででゲス？=Why-gesu?
+        佐月は忍者の家系の出だからな…っと、これ誰から聞いたのだったか？=Satsuki is from a ninja family... wait, who did I\nhear that from?
+        とりあえず、朝食が終わったら出発の準備してヘリポート前に集合よ。=Anyway, let's prepare to deploy and gather at the\nheliport after breakfast.
+    [Before Mission]
+        柊木さんからの連絡ですね。=It's a message from Hiiragi-san.
+        <style\=RubyPrefixTag></style>\n柊木さんからの連絡ですね。=<style\=RubyPrefixTag></style>\nIt's a message from Hiiragi-san.
+        ショップ前で待っているそうです。=She's waiting in front of the shop.
+        行ってみるでゴザル！=Let's go, de-gozaru!
+        ショップへ行こう！=Let's head to the shop!
+        豊後、あんまり忍者屋敷の中の物を\n触るんじゃないよ。=Bungo, don't touch the things\ninside the ninja mansion, okat?
+        わかったでゲス！　\nあんまり触らないでゲス！=Got it-gesu!\nI won't touch MUCH-gesu!
+        ショップへはこっちからのほうが早いですよ。=This way to the shop is faster.
+        今日も撮影をするのか？=Are you doing the photo shoots again today?
+        …はい。ですが不思議と情熱が５３％です。=...Yes. But strangely my passion is at 53%.
+        …姉さん、今回のグラビアはペアと聞いています。\nまだチャンスはあると思いませんか。=...Sis, I heard this gravure shoot is paired.\nDon't you think there's still a chance?
+        二以奈のためなら、\nお姉ちゃん広報部に直談判に行くわ！=For Niina's sake,\nI'll go talk directly to the PR department!
+        今朝の散歩中の風…\nなんか懐かしい気配がしたなぁ。=The breeze during this morning's walk...\nfelt nostalgic.
+        あ、佐月さん、おはようございます。=Ah, good morning, Satsuki-san.
+        <style\=RubyPrefixTag></style>\nあ、佐月さん、おはようございます。=<style\=RubyPrefixTag></style>\nAh, good morning, Satsuki-san.
+        おはようございます。昨晩は遅くまで色々と頑張ってくれていたようで、ありがとうございます。=Good morning. Thank you for working until late last\nnight.
+        いえいえ、自分に出来ることくらいしかしていませんので。=No, I only did what I could.
+        それでその…神崎アーデルハイドさんは、まだ隣に居るんですか？=So, is Kanzaki Adelheid-san still beside you?
+        柊木殿、拙者ここでゴザル。何か感じるでゴザ…。=Hiiragi-dono, I'm here, de-gozaru. Do you feel\nsomething, de-goza...?
+        意思の疎通は出来ているんですよね？=You can communicate, right?
+        聞こえてないでゴザルな…。=She can't hear me, de-gozaru...
+        あの…これを持っておいてもらえませんか。=Um... could you hold this?
+        <style\=RubyPrefixTag></style>\nあの…これを持っておいてもらえませんか。=<style\=RubyPrefixTag></style>\nUm... could you hold this?
+        お札？=A talisman?
+        何か難しい文字が書かれているでゴザルな。読めないでゴザル。=It has some difficult writing on it, de-gozaru. I\ncan't read it, de-gozaru.
+        <style\=RubyPrefixTag></style>\n何か難しい文字が書かれているでゴザルな。読めないでゴ\r\nザル。=<style\=RubyPrefixTag></style>\nIt has some difficult writing on it, de-gozaru. I\ncan't read it, de-gozaru.
+        あたしの霊力を込めて作った魔除けの札です。=This is a protective talisman I made with my spiritual\npower.
+        気を悪くしないでもらいたいんですが、その…万が一の可能性を考えて渡しておきます。=Please don't take this the wrong way, but I'm giving\nit to you just in case.
+        可能性とは？=Just in case of what?
+        佐月さんが、神崎さんという幽霊に取り憑かれているという可能性です。=Just in case that Satsuki-san is possessed by a\nghost named Kanzaki-san.
+        柊木さんっ！　どういうつもりで！=Hiiragi-san! What are you implying!?
+        ひいぃぃぃぃ！　ごめんなさい！　でも、あたしが考え得る限りの可能性をすべてやっておきたいんですーー！=EEEKK! I'm sorry! But I want to do everything I can\nthink of just in case!
+        <style\=RubyPrefixTag></style>\nひいぃぃぃぃ！　ごめんなさい！　でも、あたしが考え得\r\nる限りの可能性をすべてやっておきたいんですーー！=<style\=RubyPrefixTag></style>\nEEEKK! I'm sorry! But I want to do everything I can\nthink of just in case!
+        佐月殿！　柊木殿に悪気はゴザらんよ！=Satsuki-dono! Hiiragi-dono means no harm, de-gozaru!
+        佐月殿がそうやって怒ってくれるのは嬉しいでゴザル。=I'm glad that Satsuki-dono is getting angry for my\nsake, de-gozaru.
+        でも、柊木殿も佐月殿を心配しての行動なのでゴザルよ。=But Hiiragi-dono is also acting out of concern for\nyou, de-gozaru.
+        あわわわ…。=Awawa...
+        …すみませんでした。感情的になってしまいました。=...I'm sorry. I got emotional.
+        <style\=RubyPrefixTag></style>\n…すみませんでした。感情的になってしまいました。=<style\=RubyPrefixTag></style>\n...I'm sorry. I got emotional.
+        そもそもわたしのほうから相談を持ちかけたのに…失礼なことをしました。=I was the one who brought up the issue in the first\nplace, and yet... That was rude of me.
+        <style\=RubyPrefixTag></style>\nそもそもわたしのほうから相談を持ちかけたのに…失礼な\r\nことをしました。=<style\=RubyPrefixTag></style>\nI was the one who brought up the issue in the first\nplace, and yet... That was rude of me.
+        い、いいえ、こういうことにも慣れています。=N-no, I'm used to this kind of thing.
+        なかなか理解されない力ですから。=It's a power that's hard to understand, after all.
+        <style\=RubyPrefixTag></style>\nピラ…=<style\=RubyPrefixTag></style>\nFlutter...
+        …アーデルちゃん、このお札から何かを感じますか？=...Adel-chan, do you feel anything from this talisman?
+        <style\=RubyPrefixTag></style>\n…アーデルちゃん、このお札から何かを感じますか？=<style\=RubyPrefixTag></style>\n...Adel-chan, do you feel anything from this talisman?
+        特に何も。体に変化はゴザらんな。気持ち悪くなったりもしないでゴザル。=Nothing in particular. No changes in my body, de-gozaru.\nI don't feel sick either, de-gozaru.
+        引き続きあたしは、佐月さんの怪異を調べてみます。=I'll continue to investigate Satsuki-san's paranormal\nphenomena.
+        佐月さんのほうも、何か変化があったらどんな小さなことでもいいので連絡してください。=Satsuki-san, please contact me if you notice any\nchanges, no matter how small.
+        怪異は怪異を呼びますので。=Because paranormal phenomena attract more paranormal\nphenomena.
+        それでは失礼します。=Well then, I'll take my leave.
+        柊木殿はとてもいいひとでゴザルな。=Hiiragi-dono is a very good person, de-gozaru.
+        <style\=RubyPrefixTag></style>\n柊木殿はとてもいいひとでゴザルな。=<style\=RubyPrefixTag></style>\nHiiragi-dono is a very good person, de-gozaru.
+        はい。とても心強いです。=Yes. Very reliable.
+        そろそろ任務に向かう時間でゴザル。=It's about time to do our mission, de-gozaru.
+        はい、行きましょう。=Yes, let's go.
+    [Day 2 - Mission Start]
+        <style\=RubyPrefixTag></style>\nぽち…ぽち…=<style\=RubyPrefixTag></style>\nClick... Click...
+        お前、何してるでゲス？=What are you doing-gesu?
+        …昨日撮影した写真を確認していました。=...I was checking the photos I took yesterday.
+        納得のいく写真が撮れてないって言ってたわね。=Oh yeah, you said you weren't satisfied with the photos.
+        …はい。どうにもしっくりこなくて。=...Yes. They just don't feel right.
+        お前、写真ヘタでゲスね。どれも写ってる奴がかたよってるでゲス。=You're bad at taking photos-gesu. They're all unbalanced-gesu.
+        <style\=RubyPrefixTag></style>\nお前、写真ヘタでゲスね。どれも写ってる奴がかたよって\r\nるでゲス。=<style\=RubyPrefixTag></style>\nYou're bad at taking photos-gesu. They're all unbalanced-gesu.
+        …ベストショットを撮っていたはずなのですが…不思議です。=...I thought I was taking the best shots... how strange.
+        <style\=RubyPrefixTag></style>\n…ベストショットを撮っていたはずなのですが…不思議で\r\nす。=<style\=RubyPrefixTag></style>\n...I thought I was taking the best shots... how strange.
+        拙者が居たところがそのまま抜けているでゴザルなぁ。=The spot where I was is completely gone, de-gozaru.
+        …不思議と言えば、どうして私は撮影を買って出たのでしょうか？=...Speaking of strange, why did I volunteer to take\nphotos?
+        何を言っておる。わしらがわかるわけないだろう。=What are you talking about? How should we know?
+        <style\=RubyPrefixTag></style>\n何を言っておる。わしらがわかるわけないだろう。=<style\=RubyPrefixTag></style>\nWhat are you talking about? How should we know?
+        だったらあちきが代わってやるから、そのカメラを貸すでゲス。=Then let me do it instead. Give me the camera-gesu.
+        待ちな豊後。そんな高そうなカメラを壊しちゃとんでもない賠償請求がくるんだから、あんたは触らない。=Wait, Bungo. If you break that expensive-looking\ncamera, we'll get a huge bill. Don't touch it.
+        …掘り出し物の一眼レフカメラです。以前、佐月さんのショップで購入しました。=...It's a bargain SLR camera. I bought it at\nSatsuki-san's shop.
+        それ、私物だったのか。=So it was your personal item?
+        …３１Ｆの柳さんも認める逸品です。=...It's a quality item recognized by Yanagi-san from\n31F.
+        なんだその基準は？=What's with that standard?
+        あ、そろそろ到着しますよ。=Ah, we're almost there.
+        さて、忍者屋敷まで移動するわよ。=Well, let's go to the ninja mansion.
+        …その道中で撮影タイムですね。=...So it's photo time along the way.
+        あちきたちも撮るでゲスか？=Will we be photographed too-gesu?
+        撮るのは佐月だけだ。わしらは水着を着ておらんだろう。=Only Satsuki will be photographed. We're not in swimsuits.
+        そうでゲスね。お前を撮っても、誰も喜ばないでゲス。=That's true-gesu. Nobody would like to see your photos-gesu.
+        誰かは喜ぶわーー！　絶対喜ぶわーー！=Someone would!! Someone definitely would!!
+        だから、その需要を主張するのは危険だからやめなさい。=Like I said, stop insisting on that demand, it's dangerous.
+        星羅ちゃん。昨日と同じシチュエーションで撮影してみましょう。よろしくお願いします♪=Seira-chan, let's take photos in the same situation\nas yesterday. I am counting on you♪
+        <style\=RubyPrefixTag></style>\n星羅ちゃん。昨日と同じシチュエーションで撮影してみま\r\nしょう。よろしくお願いします♪=<style\=RubyPrefixTag></style>\nSeira-chan, let's take photos in the same situation\nas yesterday. I am counting on you♪
+        …はい。情熱を取り戻してみます。=...Yes. I'll try to regain my passion.
+        拙者はどうすればいいでゴザルかなぁ…。=What should I do, de-gozaru?
+        アーデルちゃんは昨日と同じように行動してください。=Adel-chan, please act the same as yesterday.
+        わたしと一緒に水着撮影をしましょう。=Let's do a swimsuit photoshoot together.
+        では、水辺のスナップから撮りましょう♪=Then let's start with some snaps by the water♪
+        水辺で戯れますので、自由に撮ってください♪=I'll play by the water, so feel free to take photos♪
+        忍法、水遁の術（大）！=Ninja Art, Water Style Techniques (large)!
+        いきなり激しいぞ♪=You're intense right from the start♪
+        最初から全力でゴザル！　でもこれ、みんなにはどのように見えているのでゴザろうな？=Giving it my all from the beginning, de-gozaru! But\nhow does this look to everyone else, de-gozaru?
+        いきなり水飛沫が上がったわ！=There's a splash of water all of sudden!
+        手品でゲスか！？=Is this a magic trick-gesu!?
+        いや、まるで忍術だな！=No, it looks like ninja arts!
+        佐月殿が忍術使いになっているでゴザルな。=Satsuki-dono has become a ninja, de-gozaru.
+        だから普通の忍者はこんな術使わねーぞ♪=Like I said, regular ninjas don't use techniques like this♪
+        <style\=RubyPrefixTag></style>\nだから普通の忍者はこんな術使わねーぞ♪=<style\=RubyPrefixTag></style>\nLike I said, regular ninjas don't use techniques like this♪
+        では水遁は控えたほうがよさそうでゴザルな。佐月殿に迷惑を掛けてしまうでゴザル。=Then I should refrain from using Water Style, de-gozaru.\nIt might bother Satsuki-dono, de-gozaru.
+        構いません。やっちゃいましょう♪=It's okay. Let's go all out♪
+        いいのでゴザルか？=Is it really okay, de-gozaru?
+        はい。みんながアーデルちゃんを思い出すきっかけになるかもしれません♪=Yes. It might help everyone remember Adel-chan♪
+        佐月殿…。では、忍法、水遁・風遁合成！　{水嵐:みずあらし}の術！=Satsuki-dono... then, Ninja Art, Water-Wind Combo\nStyle! Water Storm Technique!
+        <style\=RubyPrefixTag></style>\n佐月殿…。では、忍法、水遁・風遁合成！　水嵐<space\=-106.157px><voffset\=1em><size\=50%><cspace\=0px>みずあらし</cspace></size></voffset><space\=-10.941px><style\=RubySuffixTag></style>の術！=<style\=RubyPrefixTag></style>\nSatsuki-dono... then, Ninja Art, Water-Wind Combo\nStyle! Water Storm Technique!
+        <style\=RubyPrefixTag></style>\nぶわっしゃーーーー！！=<style\=RubyPrefixTag></style>\nSplash!!
+        限度があるぞ、こんちくしょーめ♪=There's a limit, you brute♪
+        いい写真は撮れましたか？=Did you get good photos?
+        …はい。被写体が良いので。=...Yes. The subjects are good.
+        では、忍者屋敷までの道中でも撮りましょう。=Then let's take more photos on the way to the ninja\nmansion.
+        …あの木の下は、木漏れ日が降り注いで良い撮影スポットですよ♪=...Under that tree, the sunlight filtering through is a good spot for photos♪
+        そこの白い花が咲いている辺りはどうですか？　水着が映えます♪=How about near those white flowers? The swimsuits will stand out♪
+        …佐月さん、どうして昨日と同じところばかりを選ぶのですか？=...Satsuki-san, why do you keep choosing the same places as yesterday?
+        お気に入りのスポットになったので、よりいい表情とポーズが作れると思ったんです♪=They became my favorite spots, so I thought I could make better expressions and poses there♪
+        佐月、ノリノリだな。=Satsuki, you're really into this.
+        アーデルちゃん、背中を合わせましょう。=Adel-chan, let's do back-to-back.
+        ヤー。こうでゴザルな。=Ja. Like this, de-gozaru.
+        どうしたでゲス？=What's wrong-gesu?
+        …何故か、大きなトキメキの波動を感じました。=...For some reason, I felt a surge of excitement.
+        お前、何を言っておるんだ？=What the heck are you talking about?
+        …指が…シャッターを切る指が止まりません。=...My fingers... my fingers can't stop pressing the shutter.
+    [Mansion D2 - Part 1]
+        さて、こっからは気を引き締めていくわよ。=Well, let's stay focused from here on.
+        そうですね。星羅ちゃん、シャッターチャンスを逃さないでくださいね♪=Yes. Seira-chan, plese don't miss the shutter opportunities♪
+        <style\=RubyPrefixTag></style>\nそうですね。星羅ちゃん、シャッターチャンスを逃さない\r\nでくださいね♪=<style\=RubyPrefixTag></style>\nYes. Seira-chan, plese don't miss the shutter opportunities♪
+        佐月？=Satsuki?
+        どうしたんだお前！？　引き締めるのはキャンサーの討伐任務だぞ！？=What's wrong with you!? The mission is to defeat the\nCancer!
+        <style\=RubyPrefixTag></style>\nどうしたんだお前！？　引き締めるのはキャンサーの討伐\r\n任務だぞ！？=<style\=RubyPrefixTag></style>\nWhat's wrong with you!? The mission is to defeat the\nCancer!
+        グラビア撮影も軍の任務だぞ♪=Gravure photo shoot is also a military mission♪
+        佐月がおかしくなってる気がするわ…。=I feel like Satsuki is acting strange...
+        いや、きっと真面目なのだ。撮影任務も討伐任務も手を抜けんのだ。=No, it must be serious. We can't slack off on either\nthe photo shoot mission or the extermination mission.
+        <style\=RubyPrefixTag></style>\nいや、きっと真面目なのだ。撮影任務も討伐任務も手を抜\r\nけんのだ。=<style\=RubyPrefixTag></style>\nNo, it must be serious. We can't slack off on either\nthe photo shoot mission or the extermination mission.
+        佐月殿、どうして撮影にこだわるのでゴザル？=Satsuki-dono, why are you so fixated on the photo\nshoot, de-gozaru?
+        昨日と同じ行動を取れば、何かのきっかけでみんながアーデルちゃんを思い出すかもしれません。=If we repeat yesterday's actions, everyone might\nremember Adel-chan somehow.
+        そのためには星羅ちゃんの撮影は必要なんです。=That's why, Seira-chan's photo shoot is necessary.
+        なるほど、確かにずっと桜庭殿は拙者たちを撮影していたでゴザったな。=I see, indeed, Sakuraba-dono has been photographing\nus all along, de-gozaru.
+        だから、アーデルちゃんは、わたしのそばから離れないようにしてください。=So, Adel-chan, please don't leave my side.
+        <style\=RubyPrefixTag></style>\nだから、アーデルちゃんは、わたしのそばから離れないよ\r\nうにしてください。=<style\=RubyPrefixTag></style>\nSo, Adel-chan, please don't leave my side.
+        ヤー。拙者、佐月殿から離れないでゴザル。何があってもそばに居るでゴザルよ。=Ja. I won't leave Satsuki-dono's side, de-gozaru.\nI'll stay by your side no matter what, de-gozaru.
+        どうした桜庭。=What's wrong, Sakuraba?
+        <style\=RubyPrefixTag></style>\nどうした桜庭。=<style\=RubyPrefixTag></style>\nWhat's wrong, Sakuraba?
+        …私の胸の中に、何故か情熱の火が灯りました。=...For some reason, a fire of passion has been lit\nin my heart.
+        だから、何を言っておるんだ？=Like I said, what are you talking about?
+        <style\=RubyPrefixTag></style>\nだから、何を言っておるんだ？=<style\=RubyPrefixTag></style>\nLike I said, what are you talking about?
+        ほら、行くよ！=Come on, let's go!
+        <style\=RubyPrefixTag></style>\nほら、行くよ！=<style\=RubyPrefixTag></style>\nCome on, let's go!
+        今日は落とし穴に落ちんぞ。=I won't fall into a pitfall today.
+        <style\=RubyPrefixTag></style>\n今日は落とし穴に落ちんぞ。=<style\=RubyPrefixTag></style>\nI won't fall into a pitfall today.
+        けっひっひ、絶対に落としてやるでゲス。=Kekeke, I'll definitely make you fall into one-gesu.
+        昨日のはわざとだったのか！？=Was yesterday on purpose!?
+        えいっ♪=There you go♪
+        はぁはぁ…何故落とした！？　どういう自作自演だ！？=Huff, huff... Why did you drop me!? What kind of self-sabotage\nis this!?
+        カラクリがちゃんと動作するかの確認です♪=It's to check if the mechanism works properly♪
+        その確認必要なのか！？=Is that "check" necessary!?
+        …佐月殿、深い部分に何やら重い足音がするでゴザル。=...Satsuki-dono, I hear heavy footsteps coming from\ndeep within, de-gozaru.
+        <style\=RubyPrefixTag></style>\n…佐月殿、深い部分に何やら重い足音がするでゴザル。=<style\=RubyPrefixTag></style>\n...Satsuki-dono, I hear heavy footsteps coming from\ndeep within, de-gozaru.
+        なるほど。中型以上のキャンサーが居そうですね。=I see. There might be a medium-sized or larger Cancer\nin there.
+        すごいわね、床を見るだけでキャンサーを探れるの？=That's amazing. You can detect Cancer just by looking\nat the floor?
+        …さすがは忍者の家系です。=...As expected from a ninja family.
+        いえ、今のは…。=No, that was...
+        佐月殿、ここは話を合わせておくでゴザルよ。=Satsuki-dono, let's go along with the story here,\nde-gozaru.
+        …そうですね。アーデルちゃんの手柄を横取りするようで心苦しいですが、なるべくアーデルちゃんの存在を主張しておきましょう。=...You're right. It feels wrong to take credit for\nAdel-chan's achievements, but let's emphasize Adel-chan's\npresence as much as possible.
+        これが忍者の修行の賜物でゴザルぞ♪=This is the result of ninja training, de-gozaru♪
+        おお！　佐月殿がゴザル言葉を！　新鮮でゴザル！=Ooh! Satsuki-dono is using "gozaru" speech!\nHow refreshing, de-gozaru!
+        （これは少々恥ずかしい口調ですね）=(This manner of speaking is a bit embarrassing)
+        <style\=RubyPrefixTag></style>\n（これは少々恥ずかしい口調ですね）=<style\=RubyPrefixTag></style>\n(This manner of speaking is a bit embarrassing)
+        （でも、アーデルちゃんのため…）=(But this is for Adel-chan's sake...)
+        じゃあ昨日と同じように、佐月に先導してもらいましょう。=Then, like yesterday, let's have Satsuki lead the way.
+        ヤー、任せるでゴザル♪=Ja, leave it to me, de-gozaru♪
+        やっぱり佐月、何か変じゃない？=Isn't there clearly something wrong with Satsuki?
+        わしらが思っている以上に疲れているのかもしれん。=She might be more tired than we think.
+        …ですが不思議と尊さを感じます。=...But strangely, I feel something precious.
+        お前はお前で何を言っておる？=And what the heck are YOU saying?
+        い…行くでゴザルよ♪=Le-let's go, de-gozaru♪
+        あれ…？　昨日はここから進めたのに…。=Huh...? We were able to proceed from here yesterday...
+        ビクともしなくなっておるな。=It doesn't budge.
+        入るたびに仕掛けが変わる。それが忍者屋敷でゴザルよ。=The mechanism changes each time we enter. That's a\nninja mansion for you, de-gozaru.
+        自動生成ダンジョンみたいですね。=It's like an auto-generated dungeon.
+        佐月？　何か言った？=Satsuki? Did you say something?
+        いえ、もしかしたら部屋自体がカラクリになっていて、隠し扉の位置が変わっているのかもしれないでゴザル。=Nah, it might be that the room itself is a mechanism,\nand the position of the hidden doors has changed,\nde-gozaru.
+        ってことは、また地道に探すしかなさそうね。=Which means we have to search the room thoroughly\nagain.
+        猫でゲス！=A cat-gesu!
+        <style\=RubyPrefixTag></style>\nお前は招き猫に近づくなーー！=<style\=RubyPrefixTag></style>\nDon't get close to that beckoning cat!!
+    [Exploration D2 - Part 1]
+        着物の裏に隠し通路を見つけたわ。みんな、行くわよ！=I found a hidden passage behind the kimono. Everyone,\nlet's go!
+        …皆さん、端のほうにこんなものが。=...Everyone, there's something here at the edge.
+        <style\=RubyPrefixTag></style>\n宝箱でゲス！=<style\=RubyPrefixTag></style>\nA treasure chest-gesu!
+        <style\=RubyPrefixTag></style>\n千両箱でゴザル！=<style\=RubyPrefixTag></style>\nGold-coins chest, de-gozaru!
+        でも道は行き止まりね。戻りましょう。=But the path ahead is a dead end. Let's go back.
+        <style\=RubyPrefixTag></style>\nでも道は行き止まりね。戻りましょう。=<style\=RubyPrefixTag></style>\nBut the path ahead is a dead end. Let's go back.
+        かけじくの裏にレバーを見つけたぞ！=I found a lever behind the scroll!
+        <style\=RubyPrefixTag></style>\nかけじくの裏にレバーを見つけたぞ！=<style\=RubyPrefixTag></style>\nI found a lever behind the scroll!
+        <style\=RubyPrefixTag></style>\nくいっ=<style\=RubyPrefixTag></style>\nClick.
+        <style\=RubyPrefixTag></style>\nズズズズ…=<style\=RubyPrefixTag></style>\nRumble...
+        ふむ…奥は暗いが、夜目の利く魔法薬を…んぐんぐ…ぷはー！　いざ新たな道へ！=Hmm... It's dark ahead, but I'll use a night vision\npotion... glug, glug... pwah! Onward, to the new path!
+        <style\=RubyPrefixTag></style>\nふむ…奥は暗いが、夜目の利く魔法薬を…んぐんぐ…ぷはー！\r\nいざ新たな道へ！=<style\=RubyPrefixTag></style>\nHmm... It's dark ahead, but I'll use a night vision\npotion... glug, glug... pwah! Onward, to the new path!
+        <style\=RubyPrefixTag></style>\nかちん…=<style\=RubyPrefixTag></style>\nClick...
+        <style\=RubyPrefixTag></style>\nヒュンヒュン…=<style\=RubyPrefixTag></style>\nWhoosh Whoosh...
+        <style\=RubyPrefixTag></style>\nゴロロロロ…=<style\=RubyPrefixTag></style>\nRumble...
+        <style\=RubyPrefixTag></style>\nおおおおおおおおぉぉぉぉぉーーー！=<style\=RubyPrefixTag></style>\nUWAAAAAAAAAAAAHHH!
+        はぁはぁ…み、道の先！　天井が落ちてきて、槍が横から出てきて、岩石が転がってきた！　死ぬかと思った！=Huff, huff... The path ahead! The ceiling fell, spears\ncame out from the sides, and rocks rolled down! I\nthought I was going to die!
+        何をしているんですか？=What are you doing?
+        もしかしたら気づかれると思って桜庭殿の前でポーズをしているでゴザルが…なしのつぶてでゴザルな…。=I thought maybe if I posed in front of Sakuraba-dono,\nI would be noticed... but there was no reaction, de-gozaru...
+        <style\=RubyPrefixTag></style>\nもしかしたら気づかれると思って桜庭殿の前でポーズをし\r\nているでゴザルが…なしのつぶてでゴザルな…。=<style\=RubyPrefixTag></style>\nI thought maybe if I posed in front of Sakuraba-dono,\nI would be noticed... but there was no reaction, de-gozaru...
+        アーデルちゃん…大丈夫ですよ。きっと元に戻れます。=Adel-chan... It's okay. I'm sure you'll be back to\nnormal.
+        …トキメキの波動。=...The surge of excitement.
+        …どうしてでしょう。ベストショットのはずが佐月さんが片側に寄ってしまいます。=...I wonder why? Even though it should be the best\nshot, Satsuki-san ends up on one side.
+        星羅ちゃんは何をしているでゴザル？=Seira-chan, what are you doing, de-gozaru?
+        …シャッターチャンスを探しています。=...Looking for a photo opportunity.
+        探せ♪=Search the room♪
+        タンスの下に道を見つけたでゲス！=I found a path under the cabinet-gesu!
+        でかしたわ！　豊後！=Good job! Bungo!
+        ほう…一番下の引き出しのさらに下に隠し通路があったのか。=I see... There was a hidden passage under the bottom\ndrawer.
+        お前、昨日ここを探してたのに見つけられなかったでゲスか？=You searched here yesterday and yet can't find it-gesu?
+        き、昨日とからくりが変わっているせいかもしれんだろーー！=I-It's because the mechanism has changed since yesterday!!
+        とりあえず、進んでみましょう。=Anyway, let's move forward.
+        前方、キャンサーでゴザル！=There's a Cancer ahead, de-gozaru!
+        なんか…うまく決まらなかったわね。=Somehow... it didn't go so well.
+        いつもなら入ってくる一撃が入ってこんような感じだった。=It feels like the strike that would normally land,\ndidn't land this time.
+        …純粋に火力が落ちてしまっているように感じました。=...It felt like our firepower has dropped.
+        <style\=RubyPrefixTag></style>\n…純粋に火力が落ちてしまっているように感じました。=<style\=RubyPrefixTag></style>\n...It felt like our firepower has dropped.
+        もっと派手だった気がするでゲス。=It felt more flashy before.
+        皆さん…。=Everyone...
+        拙者のことを忘れても、体は覚えてるでゴザルな…。=Even if they forget about me, their body remembers,\nde-gozaru...
+        あー、もやもやする！　とりあえず先に進むわよ！=Ah, it's frustrating! Let's move forward for now!
+        ちっ、行き止まりか。=Tch, it's a dead end.
+        調べたでゴザルがカラクリや隠し扉はなかったでゴザル。=I checked, but there were no mechanisms or hidden\ndoors, de-gozaru.
+        いったん元の部屋に戻るよ！=Let's return to the previous room for now!
+        一通り探したけど、どこにもないわね。=I searched thoroughly, but it's nowhere to be found.
+        <style\=RubyPrefixTag></style>\n一通り探したけど、どこにもないわね。=<style\=RubyPrefixTag></style>\nI searched thoroughly, but it's nowhere to be found.
+        完全に行き止まりか…。=Are we completely stuck...?
+        佐月殿、昨日桜庭殿と一緒に落下した時のことを覚えているでゴザルか？=Satsuki-dono, do you remember what happened when we\nfell with Sakuraba-dono yesterday, de-gozaru?
+        はい。わたしたちは別ルートから元の部屋に戻ってイヴァールちゃんたちに合流しました。=Yes. We took a different route back to the previous\nroom and reunited with Ivar-chan and the others.
+        あ、もしかして…。=Ah, perhaps...
+        そうでゴザル。この部屋の落とし穴もどこか別の部屋に繋がっている可能性があるでゴザル。=That's right, de-gozaru. This room's pitfall might\nalso lead to another room, de-gozaru.
+        提案してみます。=I'll suggest it to them.
+        <style\=RubyPrefixTag></style>\n提案してみます。=<style\=RubyPrefixTag></style>\nI'll suggest it to them.
+        皆さん。昨日、この部屋で巫呼ちゃんが落ちた落とし穴を調べるでゴザルよ。=Everyone, let's investigate the pitfall that Miko-chan\nfell into yesterday in this room, de-gozaru.
+        昨日星羅ちゃんと落とし穴に落ちた時、下は別の通路に繋がっていてそこからイヴァールちゃんたちと合流したでゴザル。=When Seira-chan and I fell into the pitfall yesterday,\nit led to another passage, and we joined Ivar-chan\nand the others from there, de-gozaru.
+        なるほど、この落とし穴で落ちた先から別の場所に行けるかもしれないってわけね。=I see, so maybe we can go somewhere else through this\npitfall too.
+        ヤー。なので先にわたしが降りて下が安全か確認してくるでゴザルよ。=Ja. So, I'll go down first and check if it's safe,\nde-gozaru.
+        ぶんちゃん、お願いするでゴザル。=Bun-chan, I'm counting on you, de-gozaru.
+        ゲース。=GESU.
+        それでは、行ってくるでゴザル♪=Well then, I'm going, de-gozaru!
+        <style\=RubyPrefixTag></style>\n佐月ーーーーー！？=<style\=RubyPrefixTag></style>\nSatsuki!?
+        ただいま戻ったでゴザル♪=I'm back, de-gozaru♪
+        さらっと何事もなかったように戻ってきおった！=She returned as if nothing happened!
+        さ、佐月？　無事なの？=S-Satsuki? Are you okay?
+        ヤー♪=Ja♪
+        予想通り、この下に通路があったでゴザル。灯りも点いていたので皆さん問題なく降りられると思うでゴザルよ。=As expected, there was a passage below, de-gozaru.\nThe lights were on, so I think everyone can go down\nwithout any problems, de-gozaru.
+        全員無事に着地出来たわね。=Everyone landed safely.
+        佐月の予想通り、先に進む道があるな。=As Satsuki predicted, there's a path ahead.
+        よし、このまま進むわよ！=Alright, let's move forward!
+        拙者のマネをする佐月殿、\nなんだか嬉しいでゴザルな！=Satsuki-dono imitating me makes me kind of happy, de-gozaru!
+        …なんのそのです♪=...It's no big deal♪
+        あれはいい品物でゴザルよ、\n山脇殿！=Yamawaki-dono, that's a good item, de-gozaru!
+        …と。\nみんなには聞こえないでゴザルな。=...Oh yeah. Everyone can't hear me, de-gozaru.
+        招き猫はどこでゲス？=Where is the beckoning cat-gesu?
+        見つけても触る前に私に言うんだよ。=When you find it, tell me before you touch it.
+        <style\=RubyPrefixTag></style>\nいらっしゃいませ♪=<style\=RubyPrefixTag></style>\nWelcome♪
+        あっぱれでゴザル！=Splendid, de-gozaru!
+        拙者の忍術を\nお見せするでゴザル！=I'll show you my ninja arts, de-gozaru!
+        あっちにそっちに…\nこっちにも罠があるでゴザル♪=It's all over the place... and there are traps here too, de-gozaru♪
+        なんかいつもより\n部隊が静かな気がするのよね…。=This unit feels quieter than usual...
+        強敵よ！\n…いつもの五人のはずなのに\nなんだか心許ないわね。=A strong enemy! Even though it's five of us as usual, it feels a bit uneasy.
+        すごいでゲス！=Amazing-gesu!
+        うーん、忍者の手下が\nいつもと違う気がするでゲス。=Hmm, the ninja underlings feel different than usual-gesu.
+        もっと拙者を撮るでゴザル♪=Take more pictures of me, de-gozaru♪
+        …情熱は欠けていますが撮りましょう。\n…かしゃり。=...Though it lacks passion, let's take some. ...Click
+        パワーアップでゲス！=Power up-gesu!
+        惚れ惚れとします♪=I'm impressed, de-gozaru!
+        桜庭殿！\nシャッターチャンスでゴザルよ！=Sakuraba-dono! It's a perfect photo opportunity, de-gozaru!
+        …反応なしでゴザルかー。=...No reaction, de-gozaru...
+    [Exploration D2 - Part 2]
+        部屋に出たか。む、あの鏡…。=Are we out of the room? Hmm, that mirror...
+        昨日来た部屋に繋がっていたようね。=It seems connected to the room we were in yesterday.
+        アーデルちゃんどうしました？=Adel-chan, what's wrong?
+        <style\=RubyPrefixTag></style>\nアーデルちゃんどうしました？=<style\=RubyPrefixTag></style>\nAdel-chan, what's wrong?
+        拙者、鏡にも映らないでゴザルなぁ。=I don't reflect in the mirror, de-gozaru.
+        本当ですね。鏡越しだとわたしでもアーデルちゃんが見えません。=Indeed. Even I can't see Adel-chan through the mirror.
+        並んでいるのに不思議な感じでゴザル。=Even though we're standing side by side, it feels\nstrange, de-gozaru.
+        <style\=RubyPrefixTag></style>\nカシャカシャ！=<style\=RubyPrefixTag></style>\nClick click!
+        星羅ちゃん？=Seira-chan?
+        …今湧き上がった感情の名前を知りたい。=...I want to know the name of this feeling that just\ncame up.
+        何を言っておるのだお前は。=What the heck are you talking about?
+        ほら、進むわよ。=Come on, let's continue.
+        …あの品物も\n拾っていきましょうか。=...Shall we pick up that item too?
+        何度忘れられても傍に居続ける\n山脇殿は本当に強いひとでゴザルな。=Yamawaki-dono, who still carry on after being forgotten many times, is truly strong, de-gozaru.
+        豊後、帰ったら\n予定を空けておけ。=Bungo, keep your schedule open when we return.
+        遊んで欲しいんでゲスか？\n手間のかかる奴でゲス。=Do you want to play with me-gesu? What a pain in the ass-gesu.
+        山脇様、強敵が居るでゲス！\n指示を待つでゲス！=Yamawaki-sama, there's a strong enemy-gesu! Waiting for your command-gesu!
+        <style\=RubyPrefixTag></style>\n迎え撃ちます！=<style\=RubyPrefixTag></style>\nLet's intercept them!
+        …占いの結果は、と。=...The fortune-telling result is...
+        お見事でゴザル！=Impressive, de-gozaru!
+        さて、どう料理して\nやろうかしら。=Now, how shall I deal with you?
+        運気が上昇しています。=Your luck is improving.
+        佐月殿、あいつは強敵と\nみんなに伝えて欲しいでゴザル！=Satsuki-dono, please tell everyone that it's a strong enemy, de-gozaru!
+        この戦いに役立ちそうな\n品物でゴザルな♪=This item might be useful in this battle, de-gozaru!
+        狭い通路にしては、\n結構な数のキャンサーが居るな。=There are quite a lot of Cancer in this narrow passage.
+        あれも頂戴していこうかしらね。=Shall we take that too?
+        これで無敵でゲスよ！=Now I'm invincible-gesu!
+        アーデルちゃんを元に戻すには\nどうすれば…。=What should I do to return Adel-chan to normal...
+        佐月殿が居てくれなかったら\n拙者は今頃…。=If it weren't for Satsuki-dono, I would have...
+        …また何もない小部屋に出ました。=...We came across another empty small room.
+        カラクリを探すでゲス！=Search for the mechanism-gesu!
+        無暗に物に触るでないぞ豊後！=Don't touch things carelessly, Bungo!
+        お前に言われなくてもわかってるでゲス！　あ、山脇様、あれなんでゲス？=I understand even without you telling me-gesu! Ah,\nYamawaki-sama, what's that!?
+        <style\=RubyPrefixTag></style>\n絶対にわかっとらんーー！=<style\=RubyPrefixTag></style>\nYou definitely don't!!
+        何かきっかけがあればみんな思い出すかもと思いましたが、中々上手くいきませんね。=I thought everyone might remember if there was a\ntrigger, but it's not going well.
+        けれど、佐月殿のゴザル口調、拙者とお揃いで嬉しかったでゴザル！=But, Satsuki-dono speaking in the same manner as me\nmakes me happy, de-gozaru!
+        <style\=RubyPrefixTag></style>\nけれど、佐月殿のゴザル口調、拙者とお揃いで嬉しかった\r\nでゴザル！=<style\=RubyPrefixTag></style>\nBut, Satsuki-dono speaking in the same manner as me\nmakes me happy, de-gozaru!
+        もう、アーデルちゃん、そんなこと言ってる場合ではないですよ。=Geez, Adel-chan, now is not the time to say that.
+        <style\=RubyPrefixTag></style>\nもう、アーデルちゃん、そんなこと言ってる場合ではない\r\nですよ。=<style\=RubyPrefixTag></style>\nGeez, Adel-chan, now is not the time to say that.
+        <style\=RubyPrefixTag></style>\nカシャッ=<style\=RubyPrefixTag></style>\nClick
+        …何故でしょう。心がシャッターを切りました。=...I wonder why? My heart told me to take a picture.
+        桜庭殿は何か感じ取っているようでゴザルが…。=Sakuraba-dono seems to be sensing something, de-gozaru...
+        本能とか嗅覚のようなものかもしれませんね。=It might be something like instinct or a sense of smell.
+        こっちよ！　隠し通路があったわ！=This way! There was a hidden passage!
+        ひとまず先に進みましょうか。=Let's move forward for now.
+        <style\=RubyPrefixTag></style>\nひとまず先に進みましょうか。=<style\=RubyPrefixTag></style>\nLet's move forward for now.
+        了解でゴザル。=Understood, de-gozaru.
+    [Exploration D2 - Part 3]
+        外と通じる落とし穴でも\nあるのかしら？=Is there a pitfall that connects to the outside?
+        <style\=RubyPrefixTag></style>\n殺ってやりましょう♪=<style\=RubyPrefixTag></style>\nLet's kill them off♪
+        …写真とは思い出を形にするもの。\n…なのに、撮ると\n寂しさを覚えるのはなぜでしょう？=...Photos are for capturing memories. But why do I feel lonely when taking them?
+        この人数で相手するのは\n骨が折れそうだな。=Fighting with this number of people will be tough.
+        忍者のお宝、拾うでゲス！\nもっと探すでゲス！=Ninja treasures, let's take them-gesu! Keep searching-gesu!
+    [Mansion D2 - Part 2]
+        広いでゲスねー。=It's spacious-gesu.
+        なんだか、雰囲気のある場所に出てきちゃったわね。=Somehow, we ended up in a place with certain vibe.
+        …佐月殿、キャンサーがこちらに気づいているようでゴザルよ。=...Satsuki-dono, it seems that Cancer has noticed\nus, de-gozaru.
+        どうやら大物が近くに居るようでゴザル。=It seems there is a big boss nearby, de-gozaru.
+        ふっ…稀代の魔術師がおるのだ。いつも通り四人で充分だろう。=Hmph... You have a great magician with you. The four\nof us should be enough as usual.
+        イヴァールちゃん！？　巫呼ちゃん！？　星羅ちゃん！？=Ivar-chan!? Miko-chan!? Seira-chan!?
+        …進みますか？=...Shall we proceed?
+        もちろんよ。=Of course.
+        そんな…とうとう佐月殿まで忘れられて…。=No way... Even Satsuki-dono has been forgotten...
+        <style\=RubyPrefixTag></style>\nそんな…とうとう佐月殿まで忘れられて…。=<style\=RubyPrefixTag></style>\nNo way... Even Satsuki-dono has been forgotten...
+        山脇様！　何か来るでゲス！=Yamawaki-sama! Something's coming-gesu!
+        <style\=RubyPrefixTag></style>\n山脇様！　何か来るでゲス！=<style\=RubyPrefixTag></style>\nYamawaki-sama! Something's coming-gesu!
+        キャンサーでゴザル！=It's Cancer, de-gozaru!
+        …？　何も居ないわね。=...? There's nothing here.
+        おかしいでゲスね？　何かが近づいてきたと思ったんでゲスが。=That's strange-gesu? I thought something was\napproaching-gesu.
+        だが、何か圧を感じるぞ。=But, I feel some pressure.
+        <style\=RubyPrefixTag></style>\nだが、何か圧を感じるぞ。=<style\=RubyPrefixTag></style>\nBut, I feel some pressure.
+        …水晶玉に陰りが見えますが…目には何も映りません。=...I see a shadow in the crystal ball, but nothing\nis visible to the eye.
+        イヴァールちゃんたちには見えていない？=Ivar-chan and the others can't see it?
+        どういうことでゴザル…？=What does this mean, de-gozaru...?
+        <style\=RubyPrefixTag></style>\nくあっ！！=<style\=RubyPrefixTag></style>\nGAH!!
+        <style\=RubyPrefixTag></style>\n…っ！！=<style\=RubyPrefixTag></style>\n...!!
+        <style\=RubyPrefixTag></style>\nうぐうっ！！=<style\=RubyPrefixTag></style>\nUGH!!
+        <style\=RubyPrefixTag></style>\nゲスッ！？=<style\=RubyPrefixTag></style>\nGESU!?
+        みんなが！？=Everyone!?
+        キャンサーの攻撃は当たるのでゴザルか！？=Is Cancer's attack connecting, de-gozaru!?
+        <style\=RubyPrefixTag></style>\nキャンサーの攻撃は当たるのでゴザルか！？=<style\=RubyPrefixTag></style>\nIs Cancer's attack connecting, de-gozaru!?
+        い、今のは一体何！？　どこから攻撃されたの！？=W-What was that just now!? Where did the attack come\nfrom!?
+        見えんかったぞ！　全員集まれ！　バラバラになっていては危険だ！=I didn't see it! Everyone, stay together!\nIt's dangerous to be scattered!
+        …遠距離攻撃。いいえ、すぐ近くからの物理攻撃のような衝撃でした。=...A long-range attack. No, it felt like a physical\nattack from close range.
+        <style\=RubyPrefixTag></style>\nどこからでもかかってこいでゲス！\n返り討ちにしてやるでゲス！=<style\=RubyPrefixTag></style>\nCome at me wherever you are-gesu! I'll take you down-gesu!
+        <style\=RubyPrefixTag></style>\n全滅のご注文承りました♪=<style\=RubyPrefixTag></style>\nYour order for total annihilation\nhas been received♪
+        <style\=RubyPrefixTag></style>\nイッツニンジャショータイム！=<style\=RubyPrefixTag></style>\nIt's ninja showtime!
+        <style\=RubyPrefixTag></style>\nガギィィィィィン！=<style\=RubyPrefixTag></style>\nClank Bzzzt!
+        イヴァールちゃん！　今のうちに撤退を！=Ivar-chan! Go retreat now!
+        あんたたち！　周囲の変化に集中しなさい！=You all! Focus on the changes around you!
+        桜庭！　占いでどうにかならんか！=Sakuraba! Can't you do something with your fortune-telling!?
+        …的中率は５３％です。=...The accuracy rate is 53%.
+        <style\=RubyPrefixTag></style>\n…的中率は５３％です。=<style\=RubyPrefixTag></style>\n...The accuracy rate is 53%.
+        安心出来ん数字だな！=That's not a reassuring number!
+        駄目でゴザル！　拙者たちの声は届いていないでゴザル！=No good, de-gozaru! Our voices aren't reaching them,\nde-gozaru!
+        なら、わたしたちでこのキャンサーを倒しましょう。=Then, let's take down this Cancer ourselves.
+        で、ゴザルな。=Right, de-gozaru.
+        <style\=RubyPrefixTag></style>\nで、ゴザルな。=<style\=RubyPrefixTag></style>\nRight, de-gozaru.
+        ふふ…。=Hehe...
+        ヤー。佐月殿とふたりで肩を並べて戦う時は、いつも背中に守るものがあるでゴザルな。=Ja. When Satsuki-dono and I fight side by side, we\nalways have something to protect behind us, de-gozaru.
+        <style\=RubyPrefixTag></style>\nヤー。佐月殿とふたりで肩を並べて戦う時は、いつも背中\r\nに守るものがあるでゴザルな。=<style\=RubyPrefixTag></style>\nJa. When Satsuki-dono and I fight side by side, we\nalways have something to protect behind us, de-gozaru.
+        いくでゴザルよ、佐月殿！=Satsuki-dono, let's go, de-gozaru!
+        はい、行きましょう！=Yes, let's go!
+        全力で挑みます！=I'll give my all!
+        取り逃がしてしまった…=We let it escape...
+        取り逃がしましたね。=Yeah, we let it escape.
+        ヤー。ふたりでは、少々決定打に欠けるでゴザルな。=Ja. Just the two of us, we lack a decisive blow, de-gozaru.
+        あのキャンサー…どうしてわたしたちと同じ状態に…。=That Cancer... Why is it in the same state as us...?
+        水着は着ていなかったでゴザルよ？=It wasn't wearing a swimsuit, right de-gozaru?
+        はい。わたしたちのこの状況は、水着以外にも原因があると考えたほうがよさそうです。=Yes. We should consider that there might be other\nreasons for our current situation besides the swimsuits.
+        <style\=RubyPrefixTag></style>\nはい。わたしたちのこの状況は、水着以外にも原因がある\r\nと考えたほうがよさそうです。=<style\=RubyPrefixTag></style>\nYes. We should consider that there might be other\nreasons for our current situation besides the swimsuits.
+        ともあれ、山脇殿たちは今四人でゴザル。このまま進むのは危険でゴザル。=In any case, Yamawaki-dono and the others are in a\ngroup of four right now, de-gozaru. It's dangerous\nfor them to proceed like this, de-gozaru.
+        <style\=RubyPrefixTag></style>\nともあれ、山脇殿たちは今四人でゴザル。このまま進むの\r\nは危険でゴザル。=<style\=RubyPrefixTag></style>\nIn any case, Yamawaki-dono and the others are in a\ngroup of four right now, de-gozaru. It's dangerous\nfor them to proceed like this, de-gozaru.
+        そうですね。あのキャンサーの一方的な攻撃は、イヴァールちゃんたちには危険です。=Yeah. That one-sided attack from Cancer is dangerous\nfor Ivar-chan and the others.
+        それだけではゴザらん。=That's not all, de-gozaru.
+        拙者が聞いた音は、さっきの奴ではないのでゴザル。=The sound I heard wasn't from that one, de-gozaru.
+        もっと大きくて重い存在だったでゴザルよ。=It was something bigger and heavier, de-gozaru.
+        そうですか。ではイヴァールちゃんたちには撤退してもらったほうがいいです。=I see. Then it would be better for Ivar-chan and the\nothers to retreat.
+        山脇様、攻撃が来ないでゲスよ？=Yamawaki-sama, there's no attack coming-gesu.
+        そうね。さっきのはなんだったのかしら…。=Yeah. What was that just now...?
+        不可視の攻撃など厄介極まりない。時間も時間だ。ここは一旦引いたほうがいいのだろうな。=Invisible attacks are extremely troublesome. It's\ntime to go too. It might be best to retreat for now.
+        …山脇さん？=...Yamawaki-san?
+        ここは撤退一択なんでしょうけど…なのにこのまま戻っちゃいけない気がする。=Retreating is the obvious choice, but I feel like we\nshouldn't just return like this.
+        何を言っておる？=What are you saying?
+        仲間は置き去りにしないって、私は決めているのよ！=I've decided not to abandon my comrades!
+        …３１Ｃ、四人とも揃っていますが。=...31C, all four are accounted for, though.
+        そうよ！　わかってる！　みんな居るわよ！=Yes! I know! Everyone's here!
+        なのに、このまま撤退すると、ひどい後悔をしそうな予感がしてるのよ！=But if we retreat now, I have a feeling we'll regret\nit terribly!
+        お前ら、山脇様をいじめるなでゲス！=You guys, stop bullying Yamawaki-sama!
+        いや、いじめておらん。わしも同じ気持ちだ。=No, we're not bullying her. I feel the same way.
+        …はい、ここに何か大切なものがある気がしてならないんです。=...Yes, I can't shake the feeling that there's\nsomething important here.
+        佐月殿、嬉しい言葉が聞こえるでゴザルなぁ。=Satsuki-dono, those are nice words to hear, de-gozaru.
+        <style\=RubyPrefixTag></style>\n佐月殿、嬉しい言葉が聞こえるでゴザルなぁ。=<style\=RubyPrefixTag></style>\nSatsuki-dono, those are nice words to hear, de-gozaru.
+        はい。でも、みんなが撤退してくれないと、わたしたちも動けません。=Yes. But if everyone doesn't retreat, we can't move\neither.
+        どうにかして、撤退の進言が伝えられれば…。=If only we could somehow convey the suggestion to\nretreat...
+        そうだ。あれを使えばもしかしたら…。アーデルちゃん、苦無を少し借りますね。=Oh yeah. Maybe if we use that... Adel-chan, let me\nborrow a kunai.
+        <style\=RubyPrefixTag></style>\nぴっ…=<style\=RubyPrefixTag></style>\nPrick...
+        <style\=RubyPrefixTag></style>\nぎゃーーー！　どうして指先を切ったでゴザルーー！=<style\=RubyPrefixTag></style>\nGYAAAAH! Why did you cut your fingertip, de-gozaru!?
+        そして、こうして…。=And then, like this...
+        <style\=RubyPrefixTag></style>\nぴら…=<style\=RubyPrefixTag></style>\nSwipe...
+        山脇様、変な紙が落ちてるでゲス。=Yamawaki-sama, a strange piece of paper fell-gesu.
+        これはお札…？　はっ！　血で文字が書いてある！　恐っ！=This is a talisman...? Huh! It's written in blood!\nScary!
+        ここは忍者屋敷ではなくオバケ屋敷だったか！=Is this a haunted mansion instead of a ninja mansion!?
+        …血文字はなんと？=...What does the blood writing say?
+        さっさとテッタイしやがれ…どういうこと？="Hurry up and get your ass outta here..."\nWhat does that mean?
+        …従いましょう。=...Let's follow it.
+        …私の占い師としての勘が、そのお札に何かを感じました。=...My intuition as a fortune-teller senses something\nfrom that talisman.
+        占い師が勘に頼っていいのか？=Can a fortune-teller rely on intuition?
+        ３１Ｃ、直ちに撤退するわよ！　天音、帰り道用に薬は撒いてるわね！=31C, retreat immediately! Tenne, you scattered the\nreturn route with medicine, right!?
+        うむ！　途中で切れたがな！=Mhm! Though it ran out halfway!
+        天音ぇーーー！=TENNEEEEE!!
+        やめろ！　魔術師の誇りたる帽子をグリグリするな！=Stop it! Don't noggie the magician's prideful hat!
+        …道は大体覚えています。たくさん撮影したので。=...I remember the way roughly. I took a lot of pictures.
+        そういえばお前、なんで写真を撮ってたんでゲス？=By the way, why were you taking pictures-gesu?
+        <style\=RubyPrefixTag></style>\nそういえばお前、なんで写真を撮ってたんでゲス？=<style\=RubyPrefixTag></style>\nBy the way, why were you taking pictures-gesu?
+        …どうしてでしょうか。=...Why indeed.
+        とにかく、今は撤退を優先よ！　考えるのはあと！　桜庭、先導しなさい！=Anyway, prioritize retreat for now! Think about it\nlater! Sakuraba, lead the way!
+        …迷ったら占います。的中率は５３％ですが。=If we get lost, I will do a fortune-telling. But,\nthe accuracy rate is 53%.
+        柊木殿からもらったお札に血文字とは大胆なことをするでゴザルな。=Writing in blood on the talisman received from\nHiiragi-dono is quite bold, de-gozaru.
+        <style\=RubyPrefixTag></style>\n柊木殿からもらったお札に血文字とは大胆なことをするで\r\nゴザルな。=<style\=RubyPrefixTag></style>\nWriting in blood on the talisman received from\nHiiragi-dono is quite bold, de-gozaru.
+        霊力がと言っていたので、少しぐらい不思議なことが起きるかと思いまして。=Since she mentioned spiritual power, I thought\nsomething mysterious might happen.
+        でも、その指は痛そうでゴザルよ。=But your finger looks painful, de-gozaru.
+        大丈夫です、このくらいの傷なら血もすぐに…。=It's alright, this kind of wound will stop bleeding\nsoon...
+        あむっ…。=Humh...
+        <style\=RubyPrefixTag></style>\nあむっ…。=<style\=RubyPrefixTag></style>\nHumh...
+        アーデルちゃん？　わたしの指なんてくわえては汚いですよ。=Adel-chan? My finger is dirty, don't put it in your\nmouth.
+        ひょうひょくへホハル。\n（消毒でゴザル）=Is fo hifinheftyon, he-hoharu.\n(It's for disinfection, de-gozaru)
+        ぷはっ。天音殿の薬がないぶん、拙者がお世話するでゴザルよ。=Pwah. Since we don't have medicine from Tenne-dono,\nI'll take care of it, de-gozaru.
+        ありがとうございます。でも、このくらいの傷なら本当にすぐに治るんです。=Thank you very much. But really, a wound like this\nwill heal quickly.
+        え？　あれーー！　本当にもう傷が治り始めてるでゴザル！=Eh? What!? The wound is already starting to heal,\nde-gozaru!
+        忍者修行の賜物です♪=It's the result of ninja training♪
+        佐月殿！　その修行方法、是非拙者にも教えて欲しいでゴザル！=Satsuki-dono! Please teach me that training method,\nde-gozaru!
+        そうですね、無事わたしたちが戻れたら、少しだけ教えてあげます。=Yeah, if we can turn back safely, I'll teach you a\nbit.
+        ヤー！　元に戻る意欲がさらに増したでゴザルよ！=Ja! Now I'm even more motivated to turn back!
+    [Back to Base]
+        山脇、大丈夫か？=Yamawaki, are you okay?
+        <style\=RubyPrefixTag></style>\n山脇、大丈夫か？=<style\=RubyPrefixTag></style>\nYamawaki, are you okay?
+        ええ、なんかずっともやもやしているだけよ。=Yes, I've just been feeling uneasy.
+        山脇様…。=Yamawaki-sama...
+        …ですが、司令官への報告は行かなければいけません。私がご一緒します。=...But we must report to the commander. I'll accompany\nyou.
+        ありがと。じゃあ天音、悪いけど豊後の面倒見ててくれる？=Thanks. Tenne, could you take care of Bungo for me?
+        多分…そろそろだと思うから。=I think it's about time...
+        うむ。わかった。=Mhm, got it.
+        山脇殿…沈んでいるでゴザルな。=Yamawaki-dono... seems down, de-gozaru.
+        ぶんちゃんのこともありますし、何かを…誰かを忘れるというのは特に敏感なんだと思います。=Considering Bun-chan situation, I think forgetting\nsomething...or someone, makes her especially sensitive.
+        <style\=RubyPrefixTag></style>\nぶんちゃんのこともありますし、何かを…誰かを忘れると\r\nいうのは特に敏感なんだと思います。=<style\=RubyPrefixTag></style>\nConsidering Bun-chan situation, I think forgetting\nsomething...or someone, makes her especially sensitive.
+        …わたしも本当にみんなから忘れられているのか確認しようと思います。=I think I need to confirm if everyone has really\nforgotten about me.
+        ヤー。一緒に行くでゴザルよ。=Ja. I'll go with you, de-gozaru.
+        ショップ…どうなっているんでしょうか。=I wonder how the shop is doing...
+        ショップへはあっちからのほうが早いでゴザルよ。=It's faster to get to the shop from over there.
+        …頭がくらくらするでゲスね。=I'm feeling a bit dizzy-gesu.
+        そうか。\nだが今日はもう少し頑張ってくれ。=I see.\nBut please hang in there a bit longer today.
+        チャンスの気配を感じます…\nいえ、これは運命！=I sense an opportunity...\nno, this is fate!
+        あなたなら掴みとれるわ、二以奈！=I'm sure you can seize it, Niina!
+        …あれ？　司令官室のほうにお札の気配。\nでもどうして新しいお札を作ったんだろう？=...Huh? I sense a talisman in the commander's room.\nBut why did I make a new one?
+        すごい行列でゴザル。=That's quite a line, de-gozaru.
+        わたしの居ないショップはこんなに繁盛しているんですか…。=Is the shop really this busy without me...?
+        ま、待つでゴザルよ佐月殿！　並んでいる方々の様子がおかしいでゴザル！=W-wait, Satsuki-dono! The people in line are acting\nstrange, de-gozaru!
+        <style\=RubyPrefixTag></style>\nま、待つでゴザルよ佐月殿！　並んでいる方々の様子がお\r\nかしいでゴザル！=<style\=RubyPrefixTag></style>\nW-wait, Satsuki-dono! The people in line are acting\nstrange, de-gozaru!
+        <style\=RubyPrefixTag></style>\nみんなイライラしているでゴザルよ！=<style\=RubyPrefixTag></style>\nEveryone's irritated, de-gozaru!
+        店内を確認してみましょう。=Let's check inside the shop.
+        えっと…えっと…青色のバレッタはどこ～。=Um... um... where's the blue barrette...
+        <style\=RubyPrefixTag></style>\nえっと…えっと…青色のバレッタはどこ～。=<style\=RubyPrefixTag></style>\nUm... um... where's the blue barrette...
+        お買い上げ４点で…１６００ＧＰになります…え？　間違ってますか！？=Four items... that will be 1600 GP... Eh? Did I make\na mistake!?
+        ぐだぐだでゴザルなぁ。=It's a mess, de-gozaru.
+        は…早く戻らないと…皆さんにご迷惑が…。=I... I need to get back quickly... I'm causing trouble\nfor everyone...
+        こうしてみると、やっぱり佐月殿は特別優秀だったのでゴザルな。=Seeing this, Satsuki-dono really was exceptionally\nskilled.
+        そんなことはないですよ。やるべきことを丁寧に無駄なくこなせばいいだけです。=Not at all. You just need to do what you have to do,\ncarefully and efficiently.
+        それをこなせることがすごいのでゴザル。=Being able to do that is amazing, de-gozaru.
+        アーデルちゃんは、物事をとても素直に褒めてくれますね。=Adel-chan, you're so good at praising someone so honestly.
+        …？　普通のことではゴザらんか？=...? Isn't that just normal, de-gozaru?
+        いいえ、それを普通と言えるのは、すごいことですよ。=No, being able to call that normal is amazing.
+        ヤー。佐月殿にすごいと言ってもらえるとは、嬉しいでゴザルな。=Ja. I'm happy to be told called amazing by Satsuki-dono,\nde-gozaru.
+        <style\=RubyPrefixTag></style>\nヤー。佐月殿にすごいと言ってもらえるとは、嬉しいでゴ\r\nザルな。=<style\=RubyPrefixTag></style>\nJa. I'm happy to be told called amazing by Satsuki-dono,\nde-gozaru.
+        …本当に、わたしたちのことはみんな忘れているんですね。=...So, everyone has really forgotten about us.
+        <style\=RubyPrefixTag></style>\n…本当に、わたしたちのことはみんな忘れているんですね。\r\n=<style\=RubyPrefixTag></style>\n...So, everyone has really forgotten about us.
+        昨日まで気さくに挨拶をしていたひとたちから、見てももらえないなんて。=People who greeted us warmly until yesterday don't\neven see us now.
+        佐月殿、大丈夫でゴザルか？=Satsuki-dono, are you alright, de-gozaru?
+        すみません、少し昔を思い出しました。=I'm sorry, I just remembered something from the past.
+        <style\=RubyPrefixTag></style>\nすみません、少し昔を思い出しました。=<style\=RubyPrefixTag></style>\nI'm sorry, I just remembered something from the past.
+        修行していた頃、父に見てもらえなかった時のやるせなさと心細さを。=The frustration and loneliness when my father wouldn't\nwatch me during my training days.
+        こんな気持ちをアーデルちゃんは味わっていたんですね。=So this is what Adel-chan was feeling.
+        <style\=RubyPrefixTag></style>\nこんな気持ちをアーデルちゃんは味わっていたんですね。\r\n=<style\=RubyPrefixTag></style>\nSo this is what Adel-chan was feeling.
+        拙者は大丈夫でゴザった。=I'm doing okay, de-gozaru.
+        <style\=RubyPrefixTag></style>\n拙者は大丈夫でゴザった。=<style\=RubyPrefixTag></style>\nI'm doing okay, de-gozaru.
+        …？　だって、佐月殿が居てくれたでゴザルよ。=...? Because Satsuki-dono was there for me, de-gozaru.
+        きっとひとりだったら、泣いて、叫んで、わめいて、暴れて…そんなみっともないことをしていたと思うでゴザル。=If I had been alone, I would have cried, screamed,\nranted, raged... and done such disgraceful things,\nde-gozaru.
+        だけど、佐月殿が拙者をひとりにはしないと言ってくれたでゴザル。=But Satsuki-dono, you said that you wouldn't leave\nme alone, de-gozaru.
+        その言葉のおかげで、拙者は本当に安心出来たのでゴザルよ。=Those words really made me feel at ease, de-gozaru.
+        だから、拙者も言わせてもらうでゴザル。=So, let me say it too, de-gozaru.
+        佐月殿をひとりにはしないでゴザル。=Satsuki-dono, I won't leave you alone, de-gozaru.
+        アーデルちゃん…。=Adel-chan...
+        <style\=RubyPrefixTag></style>\nアーデルちゃん…。=<style\=RubyPrefixTag></style>\nAdel-chan...
+        どこに連れて行く気でゲス。あちきは山脇様のために特訓をするんでゲスよ。=Where do you think you're taking me-gesu? I'm training\nfor Yamawaki-sama's sake-gesu.
+        山脇からは許可をもらっておる。ヤーヤーするぞ。=I have permission from Yamawaki. Let's do the "Ja-Ja".
+        <style\=RubyPrefixTag></style>\n山脇からは許可をもらっておる。ヤーヤーするぞ。=<style\=RubyPrefixTag></style>\nI have permission from Yamawaki. Let's do the "Ja-Ja".
+        やーやー？　お前、大丈夫でゲスか？=Ja-Ja? Are you okay-gesu?
+        いいから来い！=Just come with me!
+        <style\=RubyPrefixTag></style>\nいいから来い！=<style\=RubyPrefixTag></style>\nJust come with me!
+        やーやー？=Ja-Ja?
+        茅森殿たちのライブでゴザルな。佐月殿も拙者と見にいくでゴザル。=It's Kayamori-dono and the other's live performance,\nde-gozaru. Satsuki-dono, let's go watch it together,\nde-gozaru.
+        <style\=RubyPrefixTag></style>\n茅森殿たちのライブでゴザルな。佐月殿も拙者と見にいく\r\nでゴザル。=<style\=RubyPrefixTag></style>\nIt's Kayamori-dono and the other's live performance,\nde-gozaru. Satsuki-dono, let's go watch it together,\nde-gozaru.
+        いつもショップに居てあまり見たことがないでゴザろう？=You don't get to see it often since you're always in\nthe shop, right de-gozarut?
+        心が昂ぶるでゴザルよ。=It stirs the heart, de-gozaru.
+        そうですね。ではエスコートお願いします♪=Yeah. Please escort me then♪
+        ヤー、フロイライン。=Ja, Fraulein<style\=RubyPrefixTag><space\=-153.367px><voffset\=1em><size\=50%><cspace\=0px>Miss</cspace></size></voffset><space\=-10.68101px>.</style>
+        今日も満員でゴザルなー。=It's packed today too, de-gozaru.
+        <style\=RubyPrefixTag></style>\n今日も満員でゴザルなー。=<style\=RubyPrefixTag></style>\nIt's packed today too, de-gozaru.
+        熱気もすごいですね。=The energy is amazing.
+        天音殿と豊後殿は…丸山殿たちと合流したようでゴザル。=Tenne-dono and Bungo-dono seem to have joined up with\nMaruyama-dono, de-gozaru.
+        ぶんちゃんの記憶は消えるけれど、巫呼ちゃんなりに絆を残そうとしてるんですね。=Bun-chan's memories may fade, but Miko-chan is trying\nto leave some bond behind.
+        そろそろ始まりそうでゴザル。=It's about to start, de-gozaru.
+    [Night - Cafeteria - Bungo]
+        大切なものを思い出させてくれる歌でゴザルな。=This song reminds me of something important, de-gozaru.
+        はい。懐かしさの中に、確かにあった居場所と時代を感じました。=Yes, I felt the place and era that surely existed\namidst the nostalgia.
+        ヤーヤー楽しかったでゲス！=Ja-Ja was fun-gesu!
+        そうか。それはよかっ…。=I see. That's goo-...
+        お前、褒めてやるでゲスよ。=I will praise you-gesu.
+        <style\=RubyPrefixTag></style>\nお前、褒めてやるでゲスよ。=<style\=RubyPrefixTag></style>\nI will praise you-gesu.
+        …？　どうしたでゲス？=...? What's wrong-gesu?
+        いや、ヤー…で何かが頭の隅をよぎったのだが…なんだったかな。=No, something just passed through the corner of my\nmind when you said "Ja" ... I wonder what was it?
+        もうボケたでゲスか？=Are you getting senile already-gesu?
+        豊後ぉーーー！=Bungo!!
+        <style\=RubyPrefixTag></style>\n豊後ぉーーー！=<style\=RubyPrefixTag></style>\nBungo!!
+        ヤー…天音殿、もしかして今拙者を思い出しかけたでゴザルか？=Ja... Tenne-dono, could it be that she almost remembered\nme, de-gozaru?
+        きっとそうです。イヴァールちゃんも星羅ちゃんも、ずっと何かを忘れていると感じています。=I'm sure of it. Both Ivar-chan and Seira-chan have\nfelt like they've been forgetting something for a\nwhile too.
+        <style\=RubyPrefixTag></style>\nきっとそうです。イヴァールちゃんも星羅ちゃんも、ずっ\r\nと何かを忘れていると感じています。=<style\=RubyPrefixTag></style>\nI'm sure of it. Both Ivar-chan and Seira-chan have\nfelt like they've been forgetting something for a\nwhile too.
+        だとしたら、何かをきっかけでみんなが拙者たちを思い出すのかもしれないでゴザルな。=If that's the case, something might trigger everyone\nto remember us, de-gozaru.
+        はい。きっとそうです。=Yes, I'm sure of it.
+        ここはひとつ、このひとがたくさん居る中で、忍法分身浮雲風遁の術で目立ってみるでゴザルか。=In that case, shall we stand out among these people\nwith the Ninja Art: Clone Floating Cloud Wind\nStyle Technique, de-gozaru?
+        アーデルちゃん。忍べ♪=Adel-chan. Be stealthy♪
+        ヤー、もちろん冗談でゴザル。=Ja, of course I'm joking, de-gozaru.
+        <style\=RubyPrefixTag></style>\nきゃーーーー！=<style\=RubyPrefixTag></style>\nKYAAAA!
+        何事でゴザル！？=What's happening, de-gozaru!?
+        アーデルちゃん！　あそこです！=Adel-chan! Over there!
+        天然ちゃん！　ぶんちゃんどうして倒れてんだよ！=Tennen-chan<style\=RubyPrefixTag><space\=-153.367px><voffset\=1em><size\=50%><cspace\=0px>Natural Airhead</cspace></size></voffset><space\=-10.68101px></style>! Why is Bun-chan collapsed!?
+        騒ぐな！　眠っただけだ！=Don't panic! She's just asleep!
+        すぐ…うちの山脇が来る…だから騒ぐなっ。=Yamawaki will be here soon... so don't panic.
+        天音殿…。=Tenne-dono...
+        発作…確かに出ていましたね。=Yes, the attack is indeed coming.
+        ちょっとどいて。通るわよ。=Step aside a bit. I'm coming through.
+        あ…ワッキー。=Ah... Wakki.
+        <style\=RubyPrefixTag></style>\nあ…ワッキー。=<style\=RubyPrefixTag></style>\nAh... Wakki.
+        ごめん、豊後が迷惑掛けたわね。=Sorry, Bungo caused trouble.
+        山脇、すまん…部屋までもたんかった。=Yamawaki, sorry... we didn't make it to the room.
+        いいのよ。豊後は楽しんでた？=It's okay. Did Bungo have fun?
+        うむ、笑顔でサイリウムを振っておった。=Mhm, she was waving her light stick with a smile.
+        そう、ならよかったわ。じゃあ、おぶるから手伝って。=I see, that's good. Then, help me carry her.
+        あのさ、またぶんちゃんとライブ観に来てくれよ。=Hey, come watch the live show with Bun-chan again.
+        もちろんだ。豊後はお前たちのライブが好きなようだしな。=Of course. Bungo seems to like your live shows.
+        あと、天然ではないぞ。=Also, my name is not Tennen<style\=RubyPrefixTag><space\=-153.367px><voffset\=1em><size\=50%><cspace\=0px>Natural Airhead</cspace></size></voffset><space\=-10.68101px></style>.
+        アーデルちゃん、わたしたちも部屋に行きましょう。=Adel-chan, let's go to the room too.
+        <style\=RubyPrefixTag></style>\nアーデルちゃん、わたしたちも部屋に行きましょう。=<style\=RubyPrefixTag></style>\nAdel-chan, let's go to the room too.
+        そうでゴザルな。=Yes, de-gozaru.
+        これでまた記憶を失うのよね…。=She'll lose her memory again...
+        でも大丈夫。=But it's okay.
+        慣れたわけじゃないけど…私だって少しずつ強くなってる。=It's not that I'm used to it, but... I'm also getting\na little stronger.
+        そのはずなんだけどなぁ…。=At least, I think so...
+        今日は…どうしてこんなに心細いんだろ…。=But...why do I feel so lonely today...
+        豊後…あんた以外にもとても大切なものが欠けてるみたいなのよ。=Bungo... It feels like something very important\nbesides you is missing.
+        うむ、そうだな…。=Mhm, you're right...
+        …部屋が静かです。ですが以前はそれでも暖かかった気がします。=...The room is quiet. But it used to feel warmer.
+        山脇殿…。=Yamawaki-dono...
+        イヴァールちゃん…。=Ivar-chan...
+        ごめん…なんか、今日の私変だ…。=Sorry... I'm acting kind of strange today...
+        我慢出来ない…。=I can't hold it in...
+        …桜庭、行くぞ。=...Sakuraba, let's go.
+        <style\=RubyPrefixTag></style>\nパタン…=<style\=RubyPrefixTag></style>\nThud...
+        佐月殿…一日でも…一秒でも早く戻りたいでゴザル。=Satsuki-dono... I want to go back as soon as possible,\neven for one day or one second sooner, de-gozaru.
+        はい。今の私たちでは、イヴァールちゃんを慰めることも支えることも出来ません。=Yes. With our current selves, we can't comfort or\nsupport Ivar-chan.
+        <style\=RubyPrefixTag></style>\nはい。今の私たちでは、イヴァールちゃんを慰めることも\r\n支えることも出来ません。=<style\=RubyPrefixTag></style>\nYes. With our current selves, we can't comfort or\nsupport Ivar-chan.
+        山脇殿だけではないでゴザル。=It's not just Yamawaki-dono, de-gozaru.
+        天音殿も…。=Tenne-dono too...
+        桜庭殿も…。=Sakuraba-dono too...
+        みんながわけもわからないまま苦しい思いだけをしているでゴザル。=Everyone is suffering without understanding why, de-gozaru.
+        はい。みんなのためにも原因を究明しましょう。=Yes. For everyone's sake, let's find out the cause.
+[Day 3]
+    [Day 3 - Morning]
+        …また始まりますね。=...It begins again.
+        こればかりは慣れんな。=I can never get used to this.
+        拙者たちは見えないでゴザルが、一緒に並ぶでゴザルよ。=We're invisible, but let's stand alongside them,\nde-gozaru.
+        はい。わたしたちはイヴァールちゃんの野望を共にする手下ですから。=Yes, we are Ivar-chan's underlings, sharing her ambition.
+        <style\=RubyPrefixTag></style>\nはい。わたしたちはイヴァールちゃんの野望を共にする手\r\n下ですから。=<style\=RubyPrefixTag></style>\nYes, we are Ivar-chan's underlings, sharing her ambition.
+        来たな。=They're here.
+        こいつら誰でゲスか！=Who are these people-gesu!?
+        ふっふっふ、聞いて驚きなさい。野望のために集めた、新しい手下たちよ！=Hehehe, prepare to be amazed. These are the new\nunderlings I gathered for my ambition!
+        新しい手下！？=New underlings!?
+        …桜庭星羅。星の導きに従い、傘下に馳せ参じました。=...Sakuraba Seira. Following the guidance of the stars,\nI have come under your command.
+        <style\=RubyPrefixTag></style>\n…桜庭星羅。星の導きに従い、傘下に馳せ参じました。=<style\=RubyPrefixTag></style>\n...Sakuraba Seira. Following the guidance of the stars,\nI have come under your command.
+        水晶玉を持ってる、怪しい奴でゲス。=She's holding a crystal ball, she's suspicious-gesu.
+        天音巫呼だ。便宜上、手下ということになっている。=I am Tenne Miko. For convenience, I am considered an\nunderling.
+        ちびでゲス！=A shorty-gesu!
+        お前よりはちょっぴり高いわーー！！=I'm a bit taller than you!!!
+        とまあ、今日からこのメンバーでやっていくことになるから、仲良くやるのよ。=Well, from today on, this is our team, so let's get\nalong, okay?
+        どうして急に新しい手下を集めたでゲス？=Why did you suddenly gather new underling-gesu?
+        …実は最近、私たちの世界征服を邪魔する敵が現れたの。=...Actually, enemies who interfere with our world\ndomination have appeared recently.
+        そいつらと戦うために新しい手下が必要だったということよ。=I needed new underlings to fight them.
+        安心しな。手下が増えても私の一番の手下は…。=Don't worry. Even if the number of underlings increases,\nmy number one underling is...
+        <style\=RubyPrefixTag></style>\n安心しな。手下が増えても私の一番の手下は…。=<style\=RubyPrefixTag></style>\nDon't worry. Even if the number of underlings increases,\nmy number one underling is...
+        これだけでゲスか？=Is this everyone-gesu?
+        お前、何を言ってる？=What are you talking about?
+        山脇様の世界征服の野望を支えるなら、あちきを一番にしてその下に四天王くらい居てもいいでゲス。=If we're going to support Yamawaki-sama's ambition for\nworld domination, I should be the number one, and there\nshould be at least four Heavenly Kings below me-gesu.
+        …四天王…あと、ふたりですか？=...Four Heavenly Kings... so, two more?
+        あれ？　変でゲスね…あちきはどうしてそう思ったんでゲス？=Huh? That's strange-gesu... why did I think of that-gesu?
+        <style\=RubyPrefixTag></style>\nあれ？　変でゲスね…あちきはどうしてそう思ったんでゲ\r\nス？=<style\=RubyPrefixTag></style>\nHuh? That's strange-gesu... why did I think of that-gesu?
+        ぶんちゃん…記憶がリセットされているのに。わたしたちを覚えていないはずなのに…。=Bun-chan... even though her memory has been reset,\nand shouldn't remember us...
+        <style\=RubyPrefixTag></style>\nぶんちゃん…記憶がリセットされているのに。わたしたち\r\nを覚えていないはずなのに…。=<style\=RubyPrefixTag></style>\nBun-chan... even though her memory has been reset,\nand shouldn't remember us...
+        何かは残ってくれているのかもしれないでゴザルな。=Maybe something remains, de-gozaru.
+    [Mission briefing]
+        引き続きあなたたちには日光のキャンサー討伐に向かってもらうわ。=I'll have you continue your mission to defeat Nikko's\nCancer.
+        ええ、今日で方を付けてやるわ。=Yeah, we'll finish it today.
+        …？　昨日の不可視のキャンサーからの攻撃に対策はしないのでゴザルか？=...? Isn't she going to take any countermeasures\nagainst the attack from the Invisible Cancer yesterday,\nde-gozaru?
+        いえ…この様子だと、司令官は不可視の攻撃自体を知らないようです。=No... judging by their condition, it seems the commander\ndoesn't even know about the invisible attack.
+        山脇殿は報告をしていないのでゴザルか？=Yamawaki-dono didn't report it, de-gozaru?
+        そう考えるのが自然ですが、でもどうして…。=That's the natural assumption, but why...
+        どうしたの？=What's wrong?
+        でも…どうして私は四人のあなたたちに任務を出したのかしら。=But... why did I assign a mission to the four of you?
+        そんなこと言われてもわからないわよ。=Even if you ask us, I don't know.
+        …３１Ｃはずっとこの形でやってきました。=...31C has always operated this way.
+        ええ、その通りよ。今のあなたたちの並びに疑問を持ってはいないわ。=Yes, indeed. I have no doubts about your current formation.
+        <style\=RubyPrefixTag></style>\nええ、その通りよ。今のあなたたちの並びに疑問を持って\r\nはいないわ。=<style\=RubyPrefixTag></style>\nYes, indeed. I have no doubts about your current formation.
+        本当に司令官も拙者たちのことを忘れているのでゴザルな。=The commander really doesn't remember us, de-gozaru.
+        だけど、そのことが逆に強い違和感になっているの。=Yet that very fact creates a strong sense of unease.
+        気持ちが悪いわね。=It's unsettling.
+        わしらも同じ気分だ。何かがおかしいのに、疑問はなく違和感だけがつきまとっておる。=We feel the same. Something is wrong, but all we have\nis this lingering sense of unease without any doubts.
+        <style\=RubyPrefixTag></style>\nわしらも同じ気分だ。何かがおかしいのに、疑問はなく違\r\n和感だけがつきまとっておる。=<style\=RubyPrefixTag></style>\nWe feel the same. Something is wrong, but all we have\nis this lingering sense of unease without any doubts.
+        だからこそ、今与えられている任務はこなさなきゃいけないわ。=That's why we need to carry out the mission we've\nbeen given.
+        違和感の正体がこの任務に隠されている可能性だってある。=There might be a clue hidden in this mission.
+        わかったわ。３１Ｃの任務は継続よ。=Got it. The mission for 31C continues.
+        ただし、他の部隊からふたり臨時招集しなさい。隊員の選別は一任するわ。=However, temporarily recruit two members from other units.\nYou can select the personnel.
+        助かるわ。=That will be a great help.
+        山脇様、どうしたでゲス？=Yamawaki-sama, what's wrong-gesu?
+        昨日、どうして撤退したのかよく思い出せないのよね。=Yesterday, I can't clearly remember why we retreated.
+        血文字が書かれたお札に従ったのは覚えています。=I remember following the talisman with the blood letters.
+        うむ。だが、その撤退に至る過程が頭から抜けておる。=Mhm. But the process leading to that retreat has slipped\nfrom my mind.
+        佐月殿。みんなあのキャンサーからの攻撃を覚えていないようでゴザル。=Satsuki-dono. It seems no one remembers the attack\nfrom that Cancer, de-gozaru.
+        <style\=RubyPrefixTag></style>\n佐月殿。みんなあのキャンサーからの攻撃を覚えていない\r\nようでゴザル。=<style\=RubyPrefixTag></style>\nSatsuki-dono. It seems no one remembers the attack\nfrom that Cancer, de-gozaru.
+        覚えていないのではなく、認識されなくなったのかもしれません。=It's not that they don't remember, but that they can\nno longer recognize it.
+        どういうことでゴザル？=What do you mean, de-gozaru?
+        <style\=RubyPrefixTag></style>\nどういうことでゴザル？=<style\=RubyPrefixTag></style>\nWhat do you mean, de-gozaru?
+        攻撃された直後は、その衝撃や痛みで攻撃されたと認識出来ていたのでしょう。=Immediately after the attack, they recognized it due\nto the shock and pain.
+        けれど、時間が経つことで体へのダメージがやわらぎ、同時に攻撃されたという認識も薄れていった…。=But as time passed and the damage to their bodies\neased, their recognition of the attack also faded...
+        <style\=RubyPrefixTag></style>\nけれど、時間が経つことで体へのダメージがやわらぎ、同\r\n時に攻撃されたという認識も薄れていった…。=<style\=RubyPrefixTag></style>\nBut as time passed and the damage to their bodies\neased, their recognition of the attack also faded...
+        仮説の域は出ませんが。=This is just a hypothesis, though.
+        不可視の攻撃を覚えていないのは、危険でゴザルな…。=Not remembering the invisible attack is dangerous,\nde-gozaru...
+        はい。アーデルちゃん、３１Ｃのみんなを不可視のキャンサーから守りましょう。=Yes. Adel-chan, let's protect everyone in 31C from\nthe invisible Cancer.
+        <style\=RubyPrefixTag></style>\nはい。アーデルちゃん、３１Ｃのみんなを不可視のキャン\r\nサーから守りましょう。=<style\=RubyPrefixTag></style>\nYes. Adel-chan, let's protect everyone in 31C from\nthe invisible Cancer.
+        元よりそのつもりでゴザルよ。=That was my intention from the start, de-gozaru.
+        <style\=RubyPrefixTag></style>\n元よりそのつもりでゴザルよ。=<style\=RubyPrefixTag></style>\nThat was my intention from the start, de-gozaru.
+    [Mission prep - kozue - Niina]
+        あーもうっ！　考えても答えが出てこないのは気持ち悪いけど、やれることをやるわよ！=it's frustrating when you think about it and can't\nfind the answer, but we'll do what we can!
+        <style\=RubyPrefixTag></style>\nあーもうっ！　考えても答えが出てこないのは気持ち悪い\r\nけど、やれることをやるわよ！=<style\=RubyPrefixTag></style>\nit's frustrating when you think about it and can't\nfind the answer, but we'll do what we can!
+        そうだな。誰に随行してもらう？=Sounds good. Who should we recruit?
+        …占いましょうか？=...Shall I do some fortune-telling?
+        いえ、私たちと同じように、違和感を覚えているひとを招集しましょう。=No, let's recruit someone who feels the same unease\nas we do.
+        足りない何かが重なれば、答えが浮き出てくるかもしれないわ。=If we gather what's missing, the answer might reveal\nitself.
+        手下が増えるでゲスか？=More underlings-gesu?
+        ええ、一時的にね。=Yeah, temporarily.
+        四天王が出来るでゲスね！　世界征服も一歩近づくでゲス！=We'll have the Four Heavenly Kings-gesu! One step\ncloser to world domination-gesu!
+        <style\=RubyPrefixTag></style>\n四天王が出来るでゲスね！　世界征服も一歩近づくでゲス！\r\n=<style\=RubyPrefixTag></style>\nWe'll have the Four Heavenly Kings-gesu! One step\ncloser to world domination-gesu!
+        佐月殿、そんな人物居るでゴザルか？=Satsuki-dono, is there anyone who fits the bill, de-gozaru?
+        そうですね。ひとり心当たりは…あっ、来ました。=Yes, I have someone in mind... Ah, here she is.
+        <style\=RubyPrefixTag></style>\nそうですね。ひとり心当たりは…あっ、来ました。=<style\=RubyPrefixTag></style>\nYes, I have someone in mind... Ah, here she is.
+        あの、山脇さん…あたしのお札を持っていませんか？=Um, Yamawaki-san... do you have my talisman?
+        柊木？　お札って…あ、こいつのこと？=Hiiragi? Talisman...? oh, this one?
+        <style\=RubyPrefixTag></style>\n柊木？　お札って…あ、こいつのこと？=<style\=RubyPrefixTag></style>\nHiiragi? Talisman...? oh, this one?
+        <style\=RubyPrefixTag></style>\nひいいっ！\nなんか血文字が書かれてるぅーー！=<style\=RubyPrefixTag></style>\nEEEKK! It's written in blood!!
+        この札はなんなのだ？=What is this talisman?
+        あたしの霊力を込めた魔除けのお札なんです。だから、どこにあるかわかるんです。=It's a protective talisman imbued with my spiritual\npower. That's why I know where it is.
+        ただ、どうして作ったのか…どうして３１Ｃの皆さんが持っているのかが思い出せなくて。=But I can't remember why I made it... or why it is\nwith everyone in 31C.
+        …山脇さん。=...Yamawaki-san.
+        ええ、柊木。今から向かう任務に臨時招集させてもらうわ。=Yeah, Hiiragi. I'll temporarily recruit you to the\nupcoming mission.
+        はあ…。え？　ええぇーーー！？=Yes...Eh? EEEEEH!?
+        私たちも今、おかしな喪失感に囚われてるのよ。あんたもきっとそのひとりよ。=We're also caught up in a strange sense of loss right\nnow. You must be feeling it too.
+        …確かに何かの怪異を調べていました。=...I was certainly investigating some phenomenon.
+        基地内の結界も強化したんですが、何をきっかけでそうしたのかが思い出せません。=I also strengthened the barriers within the base,\nbut I can't remember what triggered my action.
+        同行させてください。３１ＢにはＲＩＮＮＥで報告しておきます。=Please let me accompany you. I'll report to 31B through\nRINNE.
+        <style\=RubyPrefixTag></style>\n同行させてください。３１ＢにはＲＩＮＮＥで報告してお\r\nきます。=<style\=RubyPrefixTag></style>\nPlease let me accompany you. I'll report to 31B through\nRINNE.
+        こいつすごそうでゲス！　四天王に相応しいでゲス！=This person seems amazing-gesu! Suitable for the Four\nHeavenly Kings-gesu!
+        ふっ…あとひとりだな。=Heh... one more to go.
+        お前は四天王最弱枠でゲスよ。=You are the weakest of the Heavenly Kings-gesu.
+        <style\=RubyPrefixTag></style>\nせめて戦いを見てから格付けをしろーー！=<style\=RubyPrefixTag></style>\nAt least look at our strength in battle before you\nrank us!
+        こいつ、さっきから何やってるでゲス？=What the heck is she doing since earlier-gesu?
+        豊後、見ちゃ駄目よ。=Bungo, don't look.
+        <style\=RubyPrefixTag></style>\n豊後、見ちゃ駄目よ。=<style\=RubyPrefixTag></style>\nBungo, don't look.
+        こほん。桜庭さん。グラビア撮影係を買って出たけれど、被写体がまだ決まっていないそうですね。=Ahem. Sakuraba-san. You volunteered to be the gravure\nphotographer, but it seems the model hasn't been decided\nyet, right?
+        <style\=RubyPrefixTag></style>\nこほん。桜庭さん。グラビア撮影係を買って出たけれど、\r\n被写体がまだ決まっていないそうですね。=<style\=RubyPrefixTag></style>\nAhem. Sakuraba-san. You volunteered to be the gravure\nphotographer, but it seems the model hasn't been decided\nyet, right?
+        わたしたちが認識されなくなったので、グラビアの被写体も白紙に戻っているみたいですね。=It seems that since we are no longer recognized, it\nbecome like they didn't have gravure models yet.
+        読モで軍発行の雑誌に掲載歴のある私はいかがですか？=How about me, with my experience as a reader model\nfeatured in the military-issued magazine?
+        <style\=RubyPrefixTag></style>\n読モで軍発行の雑誌に掲載歴のある私はいかがですか？=<style\=RubyPrefixTag></style>\nHow about me, with my experience as a reader model\nfeatured in the military-issued magazine?
+        …情熱が湧きません。=...I'm not feeling it.
+        <style\=RubyPrefixTag></style>\n…情熱が湧きません。=<style\=RubyPrefixTag></style>\n...I'm not feeling it.
+        <style\=RubyPrefixTag></style>\nすごい駄目出しが来ました！=<style\=RubyPrefixTag></style>\nI got a really bad critique!
+        …いえ、大島二以奈さんのせいではありません。=...No, it's Ohshima Niina-san's fault.
+        …被写体としてはとても優秀なのは理解出来るのですが。=...I can understand that you are a very excellent\nsubject.
+        ど…どこまで脱げば…いいですか…。=Ho-How far should I... undress?
+        二以奈殿…必死でゴザル。=Niina-dono is desperate, de-gozaru.
+        桜庭どうしたの？=Sakuraba, what's wrong?
+        …いえ、確か撮影用にと水着を買った気がするんですが、どこにいったのかと。=...I think I bought swimsuits for the shoot, but I\ncan't remember where I put it.
+        二以奈よ、お前桜庭の撮影に関して何か違和感はないか？=Niina, do you feel any discomfort about Sakuraba's\nshoot?
+        え？　ありますよ。どうして私を選ばなかったのか疑問でなりません。=Eh? Yes, I do. I wonder why I wasn't chosen.
+        ただ、部隊内で撮影と聞かされて、諦めようと思ったんですが…。=But, when I heard it was a shoot within your unit, I\nthought I should give up, but...
+        一体誰を撮るつもりだったんだろうって。=I keep wondering who was going to be photographed.
+        <style\=RubyPrefixTag></style>\n一体誰を撮るつもりだったんだろうって。=<style\=RubyPrefixTag></style>\nI keep wondering who was going to be photographed.
+        失礼ですが、需要が少数派なひとが多いですし。=This might be rude, but there are many people who\nonly fit the niche demand.
+        何故わしを見るーー！=Why are you looking at me!?
+        つまり、３１Ｃに誰かが足りないと感じているのね。=So, you feel like someone is missing in 31C.
+        大島二以奈、今から任務に出るんだけど、あんたも同行しなさい。=Ohshima Niina, we're going on a mission now, and I\nwant you to come along.
+        モデルのスカウトですね。もちろん、お付き合いします。=So, you're scouting me as a model, right? Of course,\nI'll join you.
+        姉さんにはＲＩＮＮＥで連絡しておきます。=I'll contact my sister via RINNE.
+        …写真、楽しみ、に…していてください、と。送りました！=...Please... look... forward... to the... photos...\nI've sent it!
+        安心してください。私を前にすれば、自然とシャッターを切りたくなります。=Don't worry. When you see me, you'll naturally want\nto take photos.
+        ひとまずこれで揃ったな。=We're all set for now.
+        お前、四天王最弱枠でゲス。=You're the weakest of the Four Heavenly Kings.
+        いきなり失礼すぎませんか！？=Aren't you being way too rude right from the get-go!?
+        よっしゃーーーー！=Alright!
+        さあ、行くよ！　あんたたち！=Let's go! Everyone!
+        <style\=RubyPrefixTag></style>\nさあ、行くよ！　あんたたち！=<style\=RubyPrefixTag></style>\nLet's go! Everyone!
+    [Mission Start]
+        …不思議ね、臨時で入ってもらったのに六人でここに立つとしっくりくるわ。=...It's strange. Even though we brought in temporary\nmembers, it feels right with six of us standing here.
+        …何かを思い出すきっかけに出会えそうです。=...I feel like we might find a clue to remembering\nsomething.
+        山脇様、今からどこに向かうでゲス？=Yamawaki-sama, where are we going-gesu?
+        カラクリのある忍者屋敷だよ。そこに世界征服を邪魔する敵が隠れているのさ。=We're heading to a ninja mansion with mechanism. The\nenemies who are hindering our world domination are\nhiding there.
+        <style\=RubyPrefixTag></style>\nカラクリのある忍者屋敷だよ。そこに世界征服を邪魔する\r\n敵が隠れているのさ。=<style\=RubyPrefixTag></style>\nWe're heading to a ninja mansion with mechanism. The\nenemies who are hindering our world domination are\nhiding there.
+        それの本物版だよ…って、これ、私が言ったっけ？=The real version of that... Huh? Am I the one who\nsaid that last time?
+        …今、一瞬だけ情熱の火が灯りかけました。=...Just now, I felt a spark of passion for an instant.
+        本物の忍者屋敷…きっと古い建物なんですよね。何かが『居て』もおかしくないです。=A real ninja mansion... It's probably an old building,\nright? It wouldn't be surprising if "something" is\nthere.
+        怖いことを言うな！=Don't say such scary things!
+        この自然の中でしたら、目的地までいくつか撮影スポットがありそうです。=In this natural setting, there seem to be some good\nphoto spots on the way to our destination.
+        是非、撮りながら進みましょう。=Let's take photos as we go.
+        あ、水着に着替えますね。この日のために姉さんと作った特別な水着です。=Ah, I'll change into my swimsuit. It's a special one\nI made with my sister for this day.
+        <style\=RubyPrefixTag></style>\nシュル=<style\=RubyPrefixTag></style>\nRustle
+        脱ぎおったー！=She stripped down!
+        変態でゲス！=What a pervert-gesu!
+        <style\=RubyPrefixTag></style>\nあの木の下は、木漏れ日が降り注いで\n良い撮影スポットですよ。=<style\=RubyPrefixTag></style>\nUnder that tree, the sunlight filtering\nthrough is agood spot for photos.
+        <style\=RubyPrefixTag></style>\nその水辺はどうですか？\n水着が映えると思います。=<style\=RubyPrefixTag></style>\nHow about by that water? I think\nthe swimsuit will look great there.
+        <style\=RubyPrefixTag></style>\n姉さん…\n辛いです…。=<style\=RubyPrefixTag></style>\nSis...\nThis is painful...
+        佐月殿…見ていて胸が痛むでゴザル。=Satsuki-dono... Watching this is painful, de-gozaru.
+        星羅ちゃんの琴線は特殊ですね♪=Seira-chan's emotional triggers are unique♪
+    [Mansion D3 - Part 1]
+        ここが忍者屋敷…。=So, this is the ninja mansion...
+        <style\=RubyPrefixTag></style>\nここが忍者屋敷…。=<style\=RubyPrefixTag></style>\nSo, this is the ninja mansion...
+        雰囲気があって、撮影にはいいロケーションですが…。=It has a nice atmosphere and is a good location for\nphoto shoot, but...
+        お前、水着はやめたんでゲス？=You're not wearing the swimsuit anymore-gesu?
+        心が折れました…。=My spirit is broken...
+        うぅ…早く基地に帰って姉さんに慰めてもらいたい。=Uhh... I want to go back to the base and be comforted\nby my sister already.
+        柊木、何か感じる？=Hiiragi, do you sense anything?
+        <style\=RubyPrefixTag></style>\n柊木、何か感じる？=<style\=RubyPrefixTag></style>\nHiiragi, do you sense anything?
+        すみません、今のところは何も。=Sorry, not at the moment.
+        柊木さんがここに来れば、何かのきっかけになるかもと思いましたが当てが外れてしまいましたね。=They thought bringing Hiiragi-san here might trigger\nsomething, but looks like they were wrong.
+        <style\=RubyPrefixTag></style>\n柊木さんがここに来れば、何かのきっかけになるかもと思\r\nいましたが当てが外れてしまいましたね。=<style\=RubyPrefixTag></style>\nThey thought bringing Hiiragi-san here might trigger\nsomething, but looks like they were wrong.
+        奥に行けば変わるかもしれないでゴザル。=Maybe it'll change if they go further in, de-gozaru.
+        小さい部屋でゲスね。=It's a small room-gesu.
+        最初だけだ。壁や床が通路に繋がっていて、実際はかなり広い。=Only the first room. The walls and floor connect to\ncorridors, actually making it quite spacious.
+        <style\=RubyPrefixTag></style>\n最初だけだ。壁や床が通路に繋がっていて、実際はかなり\r\n広い。=<style\=RubyPrefixTag></style>\nOnly the first room. The walls and floor connect to\ncorridors, actually making it quite spacious.
+        あと、くれぐれも。くれぐれも招き猫には触るなよ。=And, whatever you do, DON'T touch the beckoning cat,\nokay?
+        そんな怪しいもの、触る奴居るんでゲスか？=Who would touch such a suspicious thing-gesu?
+        <style\=RubyPrefixTag></style>\nそんな怪しいもの、触る奴居るんでゲスか？=<style\=RubyPrefixTag></style>\nWho would touch such a suspicious thing-gesu?
+        <style\=RubyPrefixTag></style>\nぬあああぁーーー！=<style\=RubyPrefixTag></style>\nUWAAAAAAAH!
+        しかし、床や壁に通路があるということは、キャンサーがどこから現れるかわからないということですね。=But if the floor and walls are connected to corridors,\nit means we don't know where the Cancer will appear.
+        …はい。ですが、これまで比較的安全に進めていました。=...Yes. But we've been able to proceed relatively\nsafely so far.
+        <style\=RubyPrefixTag></style>\n…はい。ですが、これまで比較的安全に進めていました。\r\n=<style\=RubyPrefixTag></style>\n...Yes. But we've been able to proceed relatively\nsafely so far.
+        忍者屋敷についての知識があったんですか？=Do you have any knowledge about ninja mansion?
+        <style\=RubyPrefixTag></style>\n忍者屋敷についての知識があったんですか？=<style\=RubyPrefixTag></style>\nDo you have any knowledge about ninja mansion?
+        そういうわけじゃないけど…どうしてかしらね。=Not really, but... I wonder how I know about it.
+        イヴァールちゃんたちだけで、忍者屋敷のカラクリにどこまで対応出来るか…。=How much can Ivar-chan and the others handle the traps\nin the ninja mansion...?
+        <style\=RubyPrefixTag></style>\nイヴァールちゃんたちだけで、忍者屋敷のカラクリにどこ\r\nまで対応出来るか…。=<style\=RubyPrefixTag></style>\nHow much can Ivar-chan and the others handle the traps\nin the ninja mansion...?
+        そこは少し心配でゴザルな。=That part is a little worrying, de-gozaru.
+        <style\=RubyPrefixTag></style>\nそこは少し心配でゴザルな。=<style\=RubyPrefixTag></style>\nThat part is a little worrying, de-gozaru.
+        あとは、山脇殿たちには見えないキャンサーでゴザル。=Also, the invisible Cancer, de-gozaru.
+        <style\=RubyPrefixTag></style>\nあとは、山脇殿たちには見えないキャンサーでゴザル。=<style\=RubyPrefixTag></style>\nAlso, the invisible Cancer, de-gozaru.
+        はい。あのキャンサーが現れたら、わたしたちだけで。=Yes. If that Cancer appears, let's handle it ourselves.
+        <style\=RubyPrefixTag></style>\nはい。あのキャンサーが現れたら、わたしたちだけで。=<style\=RubyPrefixTag></style>\nYes. If that Cancer appears, let's handle it ourselves.
+        ヤー！　拙者たちなら出来るでゴザル！=Ja! I'm sure we can do it, de-gozaru!
+        頼りにさせてもらいますよ。アーデルちゃん♪=I'll be counting on you, Adel-chan♪
+        拙者こそ、佐月殿を頼りにさせてもらうでゴザル。=I'll be counting on you too, Satsuki-dono.
+        今日は隠し扉と落とし穴、どちらのルートで進む？=Today, should we go with the hidden door or the pitfall\nroute?
+        <style\=RubyPrefixTag></style>\n今日は隠し扉と落とし穴、どちらのルートで進む？=<style\=RubyPrefixTag></style>\nToday, should we go with the hidden door or the pitfall\nroute?
+        そうね…ちょっと待ちなさい。=Let's see... hold on a second.
+        <style\=RubyPrefixTag></style>\nそうね…ちょっと待ちなさい。=<style\=RubyPrefixTag></style>\nLet's see... hold on a second.
+        <style\=RubyPrefixTag></style>\nガシャン=<style\=RubyPrefixTag></style>\nWham
+        今日は隠し扉が開くみたいね。落とし穴の先が閉まっていたら詰むわ。こっちにしましょう。=Looks like the hidden door is open today. If the\npath after the pitfall is closed, we're done for.\nLet's go this way.
+        了解だ。=Got it.
+        じゃ、行くわよ！=Alright, let's go!
+        <style\=RubyPrefixTag></style>\n…はい=<style\=RubyPrefixTag></style>\n...Yes
+    [Exploration D3 - Part 1]
+        忍者屋敷に居るのに\n水着を懐かしく思うのは何故だ？=Why do I feel nostalgic about swimsuits even though I'm in a ninja mansion?
+        皆さん、見てください！\nいい物を見つけました。=Everyone, look! I found something good.
+        この違和感はいったい…\n胸にぽっかり穴が空いたような…。=What is this unease... it's like there's a hole in my chest...
+        大丈夫でゲスよ、山脇様！\nあちきが支えるでゲス！=It's okay, Yamawaki-sama! I'll support you-gesu!
+        行き止まりでゲス！=It's a dead end-gesu!
+        <style\=RubyPrefixTag></style>\n行き止まりでゲス！=<style\=RubyPrefixTag></style>\nIt's a dead end-gesu!
+        いいえ、ここに隠し扉があるわ。どんでん返しよ。=No, there's a hidden door here. It's a revolving door.
+        <style\=RubyPrefixTag></style>\nいいえ、ここに隠し扉があるわ。どんでん返しよ。=<style\=RubyPrefixTag></style>\nNo, there's a hidden door here. It's a revolving door.
+        忍者屋敷のカラクリをみんな覚えているでゴザルな。=Everyone remembers the mechanism of the ninja mansion,\nright?
+        はい。これをきっかけにアーデルちゃんのことも思い出してくれるといいんですけれど。=Yes. It will be nice if it can make them remember\nyou, Adel-chan.
+        <style\=RubyPrefixTag></style>\nはい。これをきっかけにアーデルちゃんのことも思い出し\r\nてくれるといいんですけれど。=<style\=RubyPrefixTag></style>\nYes. It will be nice if it can make them remember\nyou, Adel-chan.
+        拙者だけでは意味がないでゴザル。佐月殿も一緒でゴザルよ。=It means nothing if it's just me, de-gozaru.\nSatsuki-dono, you must come back too, de-gozaru.
+        <style\=RubyPrefixTag></style>\n拙者だけでは意味がないでゴザル。佐月殿も一緒でゴザル\r\nよ。=<style\=RubyPrefixTag></style>\nIt means nothing if it's just me, de-gozaru.\nSatsuki-dono, you must come back too, de-gozaru.
+        ふふ、そうですね。=Hehe, you're right.
+        <style\=RubyPrefixTag></style>\nふふ、そうですね。=<style\=RubyPrefixTag></style>\nHehe, you're right.
+        え？　今私、美しいポージングをしていましたか？=Eh? Was I posing beautifully just now?
+        <style\=RubyPrefixTag></style>\nえ？　今私、美しいポージングをしていましたか？=<style\=RubyPrefixTag></style>\nEh? Was I posing beautifully just now?
+        …いえ。ですが、何かが私の指を動かしました。=...No. But something moved my fingers.
+        あたしも今、何かを感じました。=I felt something too.
+        <style\=RubyPrefixTag></style>\nあたしも今、何かを感じました。=<style\=RubyPrefixTag></style>\nI felt something too.
+        心霊写真でも撮ったのではないか？=Could it be a spirit photograph?
+        桜庭、ちょっと見せて。=Sakuraba, let me see.
+        …何も写ってないわね。=...Nothing's there.
+        <style\=RubyPrefixTag></style>\n…何も写ってないわね。=<style\=RubyPrefixTag></style>\n...Nothing's there.
+        ですが、確かに何かがありそうです。=But it certainly feels like something is there.
+        佐月殿！　柊木殿が拙者たちに気づきかけているようでゴザルよ！=Satsuki-dono! It seems Hiiragi-dono is starting to\nnotice us, de-gozaru!
+        はい、光明が見えましたね。=Yes, we can see the ray of hope.
+    [Exploration D3 - Part 2]
+        …なんで私はこんなに\n忍者屋敷に詳しいのかしら。=...Why am I so knowledgeable about the ninja mansion?
+        …タダより安いものはありません。\n…いつもは誰かが\nそう言っていた気がします。=...Nothing is cheaper than free. ...I feel like someone always said that.
+        <style\=RubyPrefixTag></style>\nやるしかないですよね…。=<style\=RubyPrefixTag></style>\nWe have no choice but to do it...
+        隙の無いポージングですね。=It's a flawless pose.
+        この調子で行きましょう。=Let's keep this pace.
+        図に乗るなよ！=Don't get carried away!
+        姉さんに会いたい…。\n早く帰って\n慰めてもらいたい…。=I want to see my sister... I want to go home and be comforted by her soon...
+        あら、忍者屋敷のお宝ね！\n誰かが喜びそうな…。=Oh my, the treasure of the ninja mansion! I feel like someone will be happy about it...
+        …油断大敵です。\n…いつもより人手は多いはずなのに\n何故、心許ないのでしょう。=...We must not let our guard down. ...There should be more of us than usual, but why do I feel so uneasy?
+        やってやろうじゃない！=Let's do this, shall we!?
+        …嫌な感じがします。=...I have a bad feeling.
+        <style\=RubyPrefixTag></style>\n…嫌な感じがします。=<style\=RubyPrefixTag></style>\n...I have a bad feeling.
+        ええ、気配はないけど敵意のようなものだけを向けられている、気持ちの悪いやつね。=Yeah, there's no presence, but it feels like there's\nonly malice directed at us, it's creepy.
+        ですが霊の気配はありません。=But there's no sign of spirits.
+        <style\=RubyPrefixTag></style>\nですが霊の気配はありません。=<style\=RubyPrefixTag></style>\nBut there's no sign of spirits.
+        二以奈、わしの後ろに居ろ。=Niina, stay behind me.
+        四天王最弱だから仕方ないでゲスね。=It's understandable since you're the weakest of the\nFour Heavenly Kings.
+        私、もしかして見下されてます！？=Am I being looked down at!?
+        ち、違うぞ！　お前に何かあったら四ツ葉に申し訳が立たんからだぞ！=N-no! It's just that if anything happens to you, I\nwon't be able to face Yotsuha!
+        佐月殿、昨日の奴でゴザルな。=Satsuki-dono, it's the one from yesterday, de-gozaru.
+        <style\=RubyPrefixTag></style>\n佐月殿、昨日の奴でゴザルな。=<style\=RubyPrefixTag></style>\nSatsuki-dono, it's the one from yesterday, de-gozaru.
+        はい。このキャンサーの相手はわたしたちで。=Yes. We'll handle this Cancer.
+        <style\=RubyPrefixTag></style>\nはい。このキャンサーの相手はわたしたちで。=<style\=RubyPrefixTag></style>\nYes. We'll handle this Cancer.
+        また逃げたでゴザル！　佐月殿！　追うでゴザル！=It ran away again, de-gozaru! Satsuki-dono! Let's\nchase it, de-gozaru!
+        <style\=RubyPrefixTag></style>\nまた逃げたでゴザル！　佐月殿！　追うでゴザル！=<style\=RubyPrefixTag></style>\nIt ran away again, de-gozaru! Satsuki-dono! Let's\nchase it, de-gozaru!
+        アーデルちゃん待って！　今イヴァールちゃんたちと離れるのはよくありません！=Adel-chan, wait! It's not good to separate from\nIvar-chan and the others right now!
+        くっ…そうでゴザルな。=Ugh... you're right, de-gozaru.
+        <style\=RubyPrefixTag></style>\nくっ…そうでゴザルな。=<style\=RubyPrefixTag></style>\nUgh... you're right, de-gozaru.
+        嫌な感じ、消えたわね。=The bad feeling is gone.
+        <style\=RubyPrefixTag></style>\n嫌な感じ、消えたわね。=<style\=RubyPrefixTag></style>\nThe bad feeling is gone.
+        うむ、またしても不可思議だな。=Mhm, yet again another mystery.
+        …進みましょう。=...Let's move on.
+        …なぜ私が撮影係になったのか\n思い出せません。=...Why can't I remember the reason I became the photographer?
+        あれと戦うなら\n用心が必要だな。=We need to be careful if we're going to fight that.
+        ふん、やるではないか。=Hmph, well done.
+        いい決めポーズです。=Nice victory pose.
+        得体の知れない違和感に\n血塗られたお札。\nいったい何が起きてるのでしょう？=What's going on with this blood-stained talismans and this unease feeling?
+        忍者が手下に居てもいいでゲスね。\nお前、忍者になるでゲス。=It would be good to have a ninja as a subordinate-gesu. Oi you, go become a ninja-gesu.
+        あ、あたしですか～！？=M-me～!?
+    [Mansion D3 - Part 2]
+        またあの鏡のある部屋でゴザルな。=We're in that room with the mirror again, de-gozaru.
+        ここは何度も通っていますね。=We've passed through here many times.
+        何か感じたの？=Did you feel something?
+        <style\=RubyPrefixTag></style>\n何か感じたの？=<style\=RubyPrefixTag></style>\nDid you feel something?
+        少しですが、霊力のようなものを…。=A little, it feels like spiritual power...
+        <style\=RubyPrefixTag></style>\n少しですが、霊力のようなものを…。=<style\=RubyPrefixTag></style>\nA little, it feels like spiritual power...
+        皆さんはどうですか？　さっき言っていた嫌な感じはしますか？=What about everyone else? Do you still feel that bad\nfeeling you mentioned earlier?
+        特にはせんな。=Not particularly.
+        …はっ！　あれは！=...Huh! That!
+        何か見つけたの！？=Did you find something!?
+        ああ…鏡に映る私、美しい…。=Ah... my reflection in the mirror, beautiful...
+        ねえ、鏡の向こうの私は笑っている？　私は…ふふ、美しいあなたを見たおかげで笑えています。=Hey, is the me in the mirror smiling? Hehe, because\nI see your beauty, I can smile.
+        紛らわしいわね！=How distracting!
+        四天王最弱は迷惑しかかけないでゲスね。=The weakest of the Four Heavenly Kings only causes\ntrouble-gesu.
+        それやめてもらえませんか！=Can you stop saying that!?
+        <style\=RubyPrefixTag></style>\nそれやめてもらえませんか！=<style\=RubyPrefixTag></style>\nCan you stop saying that!?
+        はっ…！　またあの嫌な感じがするぞ。=Huh...! That bad feeling is back.
+        <style\=RubyPrefixTag></style>\nはっ…！　またあの嫌な感じがするぞ。=<style\=RubyPrefixTag></style>\nHuh...! That bad feeling is back.
+        最弱、何したでゲス？=Weakest, what did you do-gesu?
+        何もしてません！=I didn't do anything!
+        とにかく周囲を警戒！=Anyway, stay alert!
+        <style\=RubyPrefixTag></style>\nとにかく周囲を警戒！=<style\=RubyPrefixTag></style>\nAnyway, stay alert!
+        <style\=RubyPrefixTag></style>\n今度こそ倒すでゴザル！=<style\=RubyPrefixTag></style>\nThis time, we'll defeat it, de-gozaru!
+        気を引き締めるでゴザルよ！=Stay focused, de-gozaru!
+        ふんふん♪=Hmm hmm♪
+        背中は任せたでゴザル！=I've got your back, de-gozaru!
+        いい攻撃でゴザル！=Nice attack, de-gozaru!
+        やっと倒せましたね。=We finally defeated it.
+        これで山脇殿たちも安心して進めるでゴザルな。=Now Yamawaki-dono and the others can move on with\npeace of mind, de-gozaru.
+        <style\=RubyPrefixTag></style>\nこれで山脇殿たちも安心して進めるでゴザルな。=<style\=RubyPrefixTag></style>\nNow Yamawaki-dono and the others can move on with\npeace of mind, de-gozaru.
+        …嫌な感じが消えました。=...The bad feeling is gone.
+        まったく…わけがわからんな。=Seriously... What the heck is happening.
+        その鏡が気になるの？=Are you concerned about that mirror?
+        <style\=RubyPrefixTag></style>\nその鏡が気になるの？=<style\=RubyPrefixTag></style>\nAre you concerned about that mirror?
+        鏡は呪術にも使われるもの。姿を映すと同時に、魂も映すと言います。=Mirrors are also used in witchcraft. They reflect\nnot only your appearance but also your soul.
+        そして、『映す』は『移す』。異界への扉ともなります。=And "reflect" (映す) can also mean "transfer" (移す).\nThey can become a gateway to another world.
+        鏡の向こうには本当にもうひとりの私が居るかもしれないんですね！=So, there really is another me on the other side of\nthe mirror!
+        こいつ、相当にポンコツのようだぞ。=This girl seems to be an airhead.
+        柊木。この部屋で霊力を感じたって言ったけど、私たちの違和感とこの鏡って関係あると思う？=Hiiragi. You mentioned sensing spiritual power in\nthis room, but do you think there's a connection between\nour unease and this mirror?
+        判断に困ります。少なくとも今、この鏡にひとへ影響を及ぼすほどの強い霊力は感じませんので。=It's hard to say. At least for now, I don't sense\nany strong spiritual power from this mirror that would\naffect us.
+        <style\=RubyPrefixTag></style>\n判断に困ります。少なくとも今、この鏡にひとへ影響を及\r\nぼすほどの強い霊力は感じませんので。=<style\=RubyPrefixTag></style>\nIt's hard to say. At least for now, I don't sense\nany strong spiritual power from this mirror that would\naffect us.
+        …試しに壊してみますか？=...Shall we try breaking it?
+        <style\=RubyPrefixTag></style>\n…試しに壊してみますか？=<style\=RubyPrefixTag></style>\n...Shall we try breaking it?
+        そうですね…何かしらの呪術だった場合はあまり動かしたりしないほうがいいんですが…。=Well, if it's some kind of witchcraft, it's best not\nto move it too much...
+        え…！　鏡の向こうに居るかもしれないもうひとりの私を斬るというんですか！？=What...!? Are you suggesting we cut down the other\nme that might be in the mirror!?
+        お前、本当にポンコツだなーー！=You really are an airhead, aren't you!?
+        すみません…鏡を前にするとどうしても美しさに対する欲求が抑えられなくて…。=Sorry... I just can't suppress my desire for beauty\nwhen I'm in front of a mirror...
+        ですが、柊木さんが言っていたじゅじゅちゅだった場合…。=But if it really is the wichlaff Hiiragi-san mentioned...
+        呪術な。=It's witchcraft, okay?
+        じゅ…呪術だった場合、よくないことが起きる可能性もありますよね？=If it really is witchcraft, something bad might happen,\nright?
+        え？　は、はい、そうです。=Eh? Y-Yes, that's right.
+        じゃあこのままにしておいたほうがいいってこと？=So we should just leave it as it is?
+        …はい、今は気に留めておくくらいにしておきましょう。=...Yes, for now, let's just keep an eye on it.
+        <style\=RubyPrefixTag></style>\n…はい、今は気に留めておくくらいにしておきましょう。\r\n=<style\=RubyPrefixTag></style>\n...Yes, for now, let's just keep an eye on it.
+        そう…。それじゃあ先に進むわよ。=I see... Let's move on then.
+    [Mansion D3 - Part 3]
+        ずいぶんと深いところにたくさん隠れていたじゃない。=They were hiding quite deep in here.
+        <style\=RubyPrefixTag></style>\nずいぶんと深いところにたくさん隠れていたじゃない。=<style\=RubyPrefixTag></style>\nThey were hiding quite deep in here.
+        こいつらが報告にあった群れだな。ひとまず、討伐任務を済ませておくとするか。=These must be the swarms mentioned in the report.\nLet's complete the extermination mission first.
+        …その後でゆっくりと忍者屋敷を調べましょう。=...Then we can slowly investigate this ninja mansion.
+        <style\=RubyPrefixTag></style>\n目標小型キャンサー多数！　みんな気合入れなさい！=<style\=RubyPrefixTag></style>\nMultiple small Cancers detected! Everyone, get ready!
+        え！？　小型！？=Eh!? Small ones!?
+        みんな青いキャンサーが見えていない！？=Can't anyone see the blue Cancers!?
+        まさか不可視のキャンサーは一体ではなかったのでゴザルか！=Could it be there's more than one invisible Cancer\nhere, de-gozaru!?
+        <style\=RubyPrefixTag></style>\nまさか不可視のキャンサーは一体ではなかったのでゴザル\r\nか！=<style\=RubyPrefixTag></style>\nCould it be there's more than one invisible Cancer\nhere, de-gozaru!?
+        いけない！　イヴァールちゃんたちは青いキャンサーに全く気づいていません！=Not good! Ivar-chan and the others aren't aware of\nthe blue Cancers at all!
+        <style\=RubyPrefixTag></style>\nいけない！　イヴァールちゃんたちは青いキャンサーに全\r\nく気づいていません！=<style\=RubyPrefixTag></style>\nNo! Ivar and the others aren't aware of the blue Cancers\nat all!
+        拙者たちで抑えるでゴザル！=We'll hold it off, de-gozaru!
+        <style\=RubyPrefixTag></style>\n拙者たちで抑えるでゴザル！=<style\=RubyPrefixTag></style>\nWe'll hold it off, de-gozaru!
+        <style\=RubyPrefixTag></style>\nイヴァールちゃんたちの\nほうへは行かせません！=<style\=RubyPrefixTag></style>\nWe won't let it get to\nIvar-chan and the others!
+        <style\=RubyPrefixTag></style>\nやああああああっ！=<style\=RubyPrefixTag></style>\nYAAAAAAA!
+        こいつ…強いでゴザル！=This one's strong, de-gozaru!
+        ふたりでは対処しきれませんっ…！=We can't handle this alone...!
+        <style\=RubyPrefixTag></style>\nふたりでは対処しきれませんっ…！=<style\=RubyPrefixTag></style>\nWe can't handle this alone...!
+        でも、ここで拙者たちが倒れたら…。=But if we fall here...
+        はい…みんなが危険です。だからそれだけは絶対に避けないと…。=Yes... everyone would be in danger. We absolutely\nhave to avoid that...
+        <style\=RubyPrefixTag></style>\nきゃあああぁぁぁぁっ！=<style\=RubyPrefixTag></style>\nKYAAAAAAA!
+        <style\=RubyPrefixTag></style>\nあああああぁぁぁぁっ！=<style\=RubyPrefixTag></style>\nAAAAAAAAH!
+        うう…さ、佐月殿…だ、大丈夫で…ゴザ、ルか…？=Ugh... Sa-Satsuki-dono... a-are you okay..., de-goza...ru...?
+        <style\=RubyPrefixTag></style>\nうう…さ、佐月殿…だ、大丈夫で…ゴザ、ルか…？=<style\=RubyPrefixTag></style>\nUgh... Sa-Satsuki-dono... a-are you okay..., de-goza...ru...?
+        は…い、でも…すぐには動けそうに…ないで…す…。=Ye... yes, but... I can't move... right now...
+        <style\=RubyPrefixTag></style>\nは…い、でも…すぐには動けそうに…ないで…す…。=<style\=RubyPrefixTag></style>\nYe... yes, but... I can't move... right now...
+        …山脇さん、あの嫌な感じが。=...Yamawaki-san, that bad feeling...
+        ええ…何かが近づいてるわね…でも、こいつらから目を離せない！=Yeah... something's approaching... but we can't take\nour eyes off these things!
+        柊木！　二以奈！　常にデフレクタを意識しろ！　不測の事態に備えるのだ！=Hiiragi! Niina! Keep the deflectors up at all times!\nBe ready for anything!
+        わかりました！=Got it!
+        <style\=RubyPrefixTag></style>\nっあ！！=<style\=RubyPrefixTag></style>\nAHH!
+        <style\=RubyPrefixTag></style>\nくうっ！！=<style\=RubyPrefixTag></style>\nGUH!
+        <style\=RubyPrefixTag></style>\nゲスッ！！=<style\=RubyPrefixTag></style>\nGESU!
+        <style\=RubyPrefixTag></style>\nうあっ！！=<style\=RubyPrefixTag></style>\nUWAH!
+        <style\=RubyPrefixTag></style>\nううっ！=<style\=RubyPrefixTag></style>\nUGH!
+        な…何が起こったの！？=Wh-what just happened?
+        ま、まったく攻撃の気配が感じられないです！=I-I can't sense any attack at all!
+        <style\=RubyPrefixTag></style>\nま、まったく攻撃の気配が感じられないです！=<style\=RubyPrefixTag></style>\nI-I can't sense any attack at all!
+        なんですかこれ…こんなの防ぎようがないじゃないですか！=What is this... there's no way to defend against it!
+        <style\=RubyPrefixTag></style>\nなんですかこれ…こんなの防ぎようがないじゃないですか！\r\n=<style\=RubyPrefixTag></style>\nWhat is this... there's no way to defend against it!
+        不可視の…まるで別次元から攻撃をされている気分だ。=It's like... an invisible attack... from another dimension.
+        <style\=RubyPrefixTag></style>\n不可視の…まるで別次元から攻撃をされている気分だ。=<style\=RubyPrefixTag></style>\nIt's like... an invisible attack... from another dimension.
+        …別次元…別の世界。=...Another dimension... another world.
+        山脇さん…ひとつ試したいことがあります。=Yamawaki-san... there's something I want to try.
+        途中にあった鏡…やっぱりあれを割ってみます。{雲外鏡:うんがいきょう}という怪異にキャンサーも取り込まれているのかもしれません。=The mirror we passed by earlier... I'm going to break it.\nIt might be that the Cancers are being absorbed by\nan Ungai-kyo (a possessed mirror).
+        <style\=RubyPrefixTag></style>\n途中にあった鏡…やっぱりあれを割ってみます。雲外鏡<space\=-153.367px><voffset\=1em><size\=50%><cspace\=0px>うんがいきょう</cspace></size></voffset><space\=-10.68101px><style\=RubySuffixTag></style>と\r\nいう怪異にキャンサーも取り込まれているのかもしれませ\r\nん。=<style\=RubyPrefixTag></style>\nThe mirror we passed by earlier... I'm going to break it.\nIt might be that the Cancers are being absorbed by\nan Ungai-kyo (a possessed mirror).
+        <style\=RubyPrefixTag></style>\n途中にあった鏡…やっぱりあれを割ってみます。雲外鏡<space\=-120.5472px><voffset\=1em><size\=50%><cspace\=0px>うんがいきょう</cspace></size></voffset><space\=-9.0136px><style\=RubySuffixTag></style>という怪異にキャンサーも取り込まれているのかもしれません。=<style\=RubyPrefixTag></style>\nThe mirror we passed by earlier... I'm going to break it.\nIt might be that the Cancers are being absorbed by\nan Ungai-kyo (a possessed mirror).
+        このままじゃジリ貧だし…可能性があるのならやってみましょう。=We're at a disadvantage like this... if there's a\nchance, let's try it.
+        <style\=RubyPrefixTag></style>\nこのままじゃジリ貧だし…可能性があるのならやってみま\r\nしょう。=<style\=RubyPrefixTag></style>\nWe're at a disadvantage like this... if there's a\nchance, let's try it.
+        なら…二以奈も一緒に行け。柊木ひとりで行かせるのも危険だ。=Then... Niina, go with her. It's too dangerous to\nlet Hiiragi go alone.
+        <style\=RubyPrefixTag></style>\nなら…二以奈も一緒に行け。柊木ひとりで行かせるのも危\r\n険だ。=<style\=RubyPrefixTag></style>\nThen... Niina, go with her. It's too dangerous to\nlet Hiiragi go alone.
+        そして、もし当てが外れたら、あんたたちはそのままこの忍者屋敷から撤退しなさい。=And if it turns out to be nothing, retreat from this\nninja mansion immediately.
+        何を言うんですか！=What are you saying!?
+        <style\=RubyPrefixTag></style>\n何を言うんですか！=<style\=RubyPrefixTag></style>\nWhat are you saying!?
+        そんなこと出来るわけが…。=We can't just...
+        ３１Ｃの任務で他部隊の大事な隊員を犠牲に出来るわけないでしょ！=We can't sacrifice important members from another\nunit for our mission!
+        なら皆さんも一緒に！=Then we all should get out together!
+        <style\=RubyPrefixTag></style>\nなら皆さんも一緒に！=<style\=RubyPrefixTag></style>\nThen we all should get out together!
+        言い合ってる時間はない！=We don't have time to argue!
+        <style\=RubyPrefixTag></style>\n言い合ってる時間はない！=<style\=RubyPrefixTag></style>\nWe don't have time to argue!
+        豊後！　天音！　桜庭！　ふたりがこの戦域から離れるまで踏ん張るよ！=Bungo! Tenne! Sakuraba! Hold out until they leave\nthe battlefield!
+        <style\=RubyPrefixTag></style>\n…はいっ=<style\=RubyPrefixTag></style>\n...Yes!
+        <style\=RubyPrefixTag></style>\nうむ…！=<style\=RubyPrefixTag></style>\nMhm...!
+        <style\=RubyPrefixTag></style>\nはいでゲス…！=<style\=RubyPrefixTag></style>\nGot it-gesu!
+        行け！=Go!
+        …っ！　必ず戻ります！　二以奈さん！=...We will definitely return! Niina-san!
+        <style\=RubyPrefixTag></style>\n…っ！　必ず戻ります！　二以奈さん！=<style\=RubyPrefixTag></style>\n...We will definitely return! Niina-san!
+        ええ！=Yes!
+    [Boss Fight]
+        みんな、ごめんね。無茶に付き合わせて。=Everyone, sorry for dragging you into this.
+        …どうしてか、ここから私たちは離れちゃいけない気がするのよ。=...I feel like we just can't leave from here.
+        大切なものを置いて行く気が…永遠に後悔するくらいのことが起きそうなの。=I feel like I'm leaving something important behind...\nIt feels like something will happen that I'll regret\nforever.
+        うむ、漠然としているが、お前の言うことはわかる。=Mhm, I understand what you mean, even if it's vague.
+        …私たちは、ここで待ちましょう。=...Let's wait here.
+        あちきは、山脇様と常に一緒でゲスよ。=Yamawaki-sama, I will stay with you-gesu.
+        ふふ、３１Ｃは諦めが悪いってことをキャンサーに教えてやりましょう！=Hehe, let's show these Cancers that 31C never gives\nup!
+        みんなが…戦っているでゴザル…。=They're... fighting, de-gozaru.
+        どうして逃げないのでゴザル…あのままでは…。=Why don't they run, de-gozaru... at this rate...
+        きっと、わたしたちが居るからです。=I'm sure it's because we're here.
+        <style\=RubyPrefixTag></style>\nきっと、わたしたちが居るからです。=<style\=RubyPrefixTag></style>\nI'm sure it's because we're here.
+        覚えていないのに…見えていないのに、それでも、ここに居ると感じてくれているんです。=Even though they don't remember... even though they\ncan't see us, they can still feel our presence here.
+        <style\=RubyPrefixTag></style>\n覚えていないのに…見えていないのに、それでも、ここに\r\n居ると感じてくれているんです。=<style\=RubyPrefixTag></style>\nEven though they don't remember... even though they\ncan't see us, they can still feel our presence here.
+        だから、撤退すると、動けないわたしたちに危害が及ぶと…そう考えているんです。=That's why, if they retreat, they believe that harm\nwill come to us who can't move... That's what I think.
+        <style\=RubyPrefixTag></style>\nだから、撤退すると、動けないわたしたちに危害が及ぶと\r\n…そう考えているんです。=<style\=RubyPrefixTag></style>\nThat's why, if they retreat, they believe that harm\nwill come to us who can't move... That's what I think.
+        山脇殿…豊後殿…天音殿…桜庭殿…。=Yamawaki-dono... Bungo-dono... Tenne-dono... Sakuraba-dono...
+        <style\=RubyPrefixTag></style>\n山脇殿…豊後殿…天音殿…桜庭殿…。=<style\=RubyPrefixTag></style>\nYamawaki-dono... Bungo-dono... Tenne-dono... Sakuraba-dono...
+        アーデルちゃん。泣いている場合じゃありません。=Adel-chan. This is not the time to cry.
+        足掻きましょう。イヴァールちゃんも言っていましたよ。=Let's strive to the very end. Ivar-chan said so too.
+        <style\=RubyPrefixTag></style>\n足掻きましょう。イヴァールちゃんも言っていましたよ。\r\n=<style\=RubyPrefixTag></style>\nLet's strive to the very end. Ivar-chan said so too.
+        そうでゴザルな…ぐす。=Yeah, de-gozaru... sniff
+        <style\=RubyPrefixTag></style>\nそうでゴザルな…ぐす。=<style\=RubyPrefixTag></style>\nYeah, de-gozaru... sniff
+        ３１Ｃは諦めが悪いのでゴザル！=31C doesn't give up easily, de-gozaru!
+        <style\=RubyPrefixTag></style>\n３１Ｃは諦めが悪いのでゴザル！=<style\=RubyPrefixTag></style>\n31C doesn't give up easily, de-gozaru!
+        不可視の攻撃が弱まった…？=The invisible attack has weakened...?
+        でも油断するんじゃないよ！=But don't let your guard down!
+        はぁはぁ…ここです。=Haa haa... Here it is.
+        <style\=RubyPrefixTag></style>\nはぁはぁ…ここです。=<style\=RubyPrefixTag></style>\nHaa haa... Here it is.
+        この鏡を割ればいいんですね。=We only need to break this mirror, right?
+        <style\=RubyPrefixTag></style>\nこの鏡を割ればいいんですね。=<style\=RubyPrefixTag></style>\nWe only need to break this mirror, right?
+        はい。可能性のひとつですが…でもこれに賭けるしかありません。=Yes. It's one possibility... But we have to bet on\nit.
+        <style\=RubyPrefixTag></style>\nはい。可能性のひとつですが…でもこれに賭けるしかあり\r\nません。=<style\=RubyPrefixTag></style>\nYes. It's one possibility... But we have to bet on\nit.
+        では私が…。=Then I'll do it...
+        <style\=RubyPrefixTag></style>\nパキーーーン！=<style\=RubyPrefixTag></style>\nCrack!
+        今、まるで空間そのものが割れたような気配が…。=It feels like the very space itself has shattered...
+        柊木さん！　いきなりキャンサーが現れました！=Hiiragi-san! A Cancer suddenly appeared!
+        <style\=RubyPrefixTag></style>\n柊木さん！　いきなりキャンサーが現れました！=<style\=RubyPrefixTag></style>\nHiiragi-san! A Cancer suddenly appeared!
+        え…！　別次元に『移って』いたキャンサーは他にも居たんですか！？=Eh...! There were other Cancers that had\n"transferred" to another dimension!?
+        山脇さんたちの元に早く戻らないといけないのに…。=Even though we need to get back to Yamawaki-san\nand the others quickly...
+        <style\=RubyPrefixTag></style>\n山脇さんたちの元に早く戻らないといけないのに…。=<style\=RubyPrefixTag></style>\nEven though we need to get back to Yamawaki-san\nand the others quickly...
+        そうですね…早く加勢に行かないと。=Yes... We need to go assist them quickly.
+        <style\=RubyPrefixTag></style>\nそうですね…早く加勢に行かないと。=<style\=RubyPrefixTag></style>\nYes... We need to go assist them quickly.
+        それだけじゃありません。鏡はもう一枚あります。=That's not all. There is another mirror.
+        恐らく３１Ｃの皆さんの様子が変なのはそれが原因です。=That's likely the reason why everyone in 31C is acting\nstrange.
+        では、ここに居るキャンサーを倒して、一刻も早く山脇さんと合流しましょう。=Then let's defeat the Cancer here and join up with\nYamawaki-san as soon as possible.
+        <style\=RubyPrefixTag></style>\nでは、ここに居るキャンサーを倒して、一刻も早く山脇さ\r\nんと合流しましょう。=<style\=RubyPrefixTag></style>\nThen let's defeat the Cancer here and join up with\nYamawaki-san as soon as possible.
+        …空間が割れた？=...The space shattered?
+        山脇様！　でっかいのがいきなり出てきたでゲス！=Yamawaki-sama! A huge one suddenly appeared-gesu!
+        柊木の考えは正しかったってことね。見えないとこから散々やってくれたじゃない。=That means Hiiragi's idea were correct. You've been\ndoing whatever you want from somewhere we can see,\nhaven't you?
+        <style\=RubyPrefixTag></style>\n柊木の考えは正しかったってことね。見えないとこから散々\r\nやってくれたじゃない。=<style\=RubyPrefixTag></style>\nThat means Hiiragi's idea were correct. You've been\ndoing whatever you want from somewhere we can see,\nhaven't you?
+        見えれば対処も出来るわ。=Now that we can see it, we can deal with it.
+        よかったでゴザル！　これで山脇殿たちが不可視の攻撃に晒されることはないでゴザルな。=That's good, de-gozaru! Now Yamawaki-dono and the\nothers won't suffer from invisible attacks, de-gozaru.
+        <style\=RubyPrefixTag></style>\nよかったでゴザル！　これで山脇殿たちが不可視の攻撃に\r\n晒されることはないでゴザルな。=<style\=RubyPrefixTag></style>\nThat's good, de-gozaru! Now Yamawaki-dono and the\nothers won't suffer from invisible attacks, de-gozaru.
+        でも、わたしたちはまだ見えていないようです。=But it seems they still can't see us.
+        <style\=RubyPrefixTag></style>\nでも、わたしたちはまだ見えていないようです。=<style\=RubyPrefixTag></style>\nBut it seems they still can't see us.
+        もしかしたら、拙者たちは戻れないのかもしれないでゴザルな。=Maybe we can't return, de-gozaru.
+        かもしれません。=Yes, perhaps.
+        でも、今は構わないでゴザル。=But that's okay for now, de-gozaru.
+        見えずとも、共に戦うでゴザルよ。=Even if we can't see each other, we'll fight together,\nde-gozaru.
+        そうですね。わたしたちは全員揃ってこその３１Ｃです。=Yes. We are 31C when we are all together.
+        <style\=RubyPrefixTag></style>\nそうですね。わたしたちは全員揃ってこその３１Ｃです。\r\n=<style\=RubyPrefixTag></style>\nYes. We are 31C when we are all together.
+        うむ…不思議だな。わしも感じておる。=Mhm... It's strange. I feel it too.
+        <style\=RubyPrefixTag></style>\nうむ…不思議だな。わしも感じておる。=<style\=RubyPrefixTag></style>\nMhm... It's strange. I feel it too.
+        …とても懐かしくて、安心出来る空気です。=...It's a very nostalgic and reassuring feeling.
+        <style\=RubyPrefixTag></style>\n…とても懐かしくて、安心出来る空気です。=<style\=RubyPrefixTag></style>\n...It's a very nostalgic and reassuring feeling.
+        四天王が揃った気分でゲス。=It feels like the Four Heavenly Kings are together-gesu.
+        <style\=RubyPrefixTag></style>\n四天王が揃った気分でゲス。=<style\=RubyPrefixTag></style>\nIt feels like the Four Heavenly Kings are together-gesu.
+        誰なのか、なんなのかわからないけど…。=I don't know who or what, but...
+        はは…なんでよ。泣きそうになるくらい嬉しいじゃない。=Haha... I wonder why? It makes me so happy I could cry.
+        <style\=RubyPrefixTag></style>\n負ける気が…全くしない！　行くわよ！=<style\=RubyPrefixTag></style>\nI don't feel like losing at all! Let's go!
+        やりますね。=Well done.
+        ノって来ましたね♪=I see, you're getting into it♪
+    [Aftermath]
+        終わったでゴザルな。=It's over, de-gozaru.
+        <style\=RubyPrefixTag></style>\n終わったでゴザルな。=<style\=RubyPrefixTag></style>\nIt's over, de-gozaru.
+        はい、みんな無事です。=Yes, everyone is safe.
+        よかったでゴザル。でも、やっぱり拙者たちは戻らないでゴザルな。=That's good, de-gozaru. But it seems we still can't\nreturn, de-gozaru.
+        佐月！　神崎！=Satsuki! Kanzaki!
+        イヴァールちゃん…わたしたちが見えて？=Ivar-chan... you can see us?
+        い…今、私何を…誰の名前を呼んだのよ。=Wh... What did I just... whose name did I call?
+        わからん…なんだこれは、今山脇が叫んだ名前が…もう頭の中に残っておらん！=I don't know... What is this, the name Yamawaki shouted...\nit's no longer in my head!
+        <style\=RubyPrefixTag></style>\nわからん…なんだこれは、今山脇が叫んだ名前が…もう頭\r\nの中に残っておらん！=<style\=RubyPrefixTag></style>\nI don't know... What is this, the name Yamawaki shouted...\nit's no longer in my head!
+        …こんなにも恐ろしい喪失感があるなんて。=...I never knew such a terrifying sense of loss existed.
+        山脇様…大丈夫でゲスか？　どうして泣いているでゲス？=Yamawaki-sama... are you alright-gesu? Why are you\ncrying-gesu?
+        わからない…でも、なんかを忘れてる。=I don't know... but I feel like I'm forgetting something.
+        豊後と同じくらい大切で…忘れちゃいけない大切なものを忘れてるのよ！=Something as important as Bungo... something precious\nthat I must not forget!
+        嫌だ…この感覚は、わしはこんな忘却の悲劇をもう望んではおらんのに…！=I hate this... Even though I don't want this tragic\nfeeling of completely forgetting something anymore...!
+        <style\=RubyPrefixTag></style>\n嫌だ…この感覚は、わしはこんな忘却の悲劇をもう望んで\r\nはおらんのに…！=<style\=RubyPrefixTag></style>\nI hate this... Even though I don't want this tragic\nfeeling of completely forgetting something anymore...!
+        …欠けていく。取り戻せたと思ったものが零れていく。=...It's slipping away. What I thought I had regained\nis slipping away.
+        …佐月殿、みんなが泣いているでゴザル。=...Satsuki-dono, everyone is crying, de-gozaru.
+        なのに、少し嬉しく感じている拙者はきっとひどい人間なのでゴザろうな。=And yet, I feel a bit happy, which makes me a terrible\nperson, right de-gozaru?
+        いいえ、わたしも…ちょっと嬉しいんです。=No, I'm also... a bit happy.
+        こんなにも大切に思ってもらえていたんですね。=We're so cherished like this.
+        ゲースゲスゲスゲス！=GESU-GESU-GESU-GESU!
+        どうしたんだい、佐月。=What's wrong, Satsuki?
+        <style\=RubyPrefixTag></style>\nどうしたんだい、佐月。=<style\=RubyPrefixTag></style>\nWhat's wrong, Satsuki?
+        使い魔でゲス！=I'm a familiar-gesu!
+        <style\=RubyPrefixTag></style>\n使い魔でゲス！=<style\=RubyPrefixTag></style>\nI'm a familiar-gesu!
+        仲間が増えたでゲス！=We've gained another comrade-gesu!
+        ふ…面白いでゲス！=Heh... interesting-gesu!
+        <style\=RubyPrefixTag></style>\nふ…面白いでゲス！=<style\=RubyPrefixTag></style>\nHeh... interesting-gesu!
+        …いいでゲス。=...That's good-gesu.
+        ゴザルでゲス！！=Gozaru, de-gesu!!
+        <style\=RubyPrefixTag></style>\nゴザルでゲス！！=<style\=RubyPrefixTag></style>\nGozaru, de-gesu!!
+        <style\=RubyPrefixTag></style>\n使い魔だらけになったぁーー！！=<style\=RubyPrefixTag></style>\nThis room is full of familiars!!
+        <style\=RubyPrefixTag></style>\n私の部隊員をそう簡単に死なせてたまるかーー！=<style\=RubyPrefixTag></style>\nI won't let my unit\nmembers die so easily!!
+        <style\=RubyPrefixTag></style>\nお前、生意気でゲス！=<style\=RubyPrefixTag></style>\nYou are so cheeky-gesu!
+        イヴァールちゃん！　ぶんちゃん！=Ivar-chan! Bun-chan!
+        …酷い。=...How terrible.
+        ふん、このくらいの傷、稀代の魔術師の秘薬を使えばいちころだ。=Hmph, with the great magician's secret potion, this\nkind of injury is nothing.
+        <style\=RubyPrefixTag></style>\nふん、このくらいの傷、稀代の魔術師の秘薬を使えばいち\r\nころだ。=<style\=RubyPrefixTag></style>\nHmph, with the great magician's secret potion, this\nkind of injury is nothing.
+        ３１Ｃという場所は、確かにわたしたちの居場所でした。=The place called 31C was indeed our place.
+        でも、見守ることは出来そうでゴザルよ。=But it seems we can still watch over them, de-gozaru.
+        <style\=RubyPrefixTag></style>\nでも、見守ることは出来そうでゴザルよ。=<style\=RubyPrefixTag></style>\nBut it seems we can still watch over them, de-gozaru..
+        目立つことは出来ないでゴザルが、陰から支えるのは正しい忍者でゴザルな。=I won't be able to stand out, but supporting from\nthe shadows is what a true ninja does, de-gozaru.
+        <style\=RubyPrefixTag></style>\n目立つことは出来ないでゴザルが、陰から支えるのは正し\r\nい忍者でゴザルな。=<style\=RubyPrefixTag></style>\nI won't be able to stand out, but supporting from\nthe shadows is what a true ninja does, de-gozaru.
+        アーデルちゃんは前向きですね。=You're so positive, Adel-chan.
+        ひとりではゴザらんからな。=Because I'm not alone, de-gozaru.
+        ええ、この先どうなるかはわかりませんが、ふたりで３１Ｃを見守りましょう。=Yes, we don't know what will happen next, but let's\nwatch over 31C together.
+        はぁはぁ…よかった！　無事でした！　なら後は…。=Haa haa... Thank goodness! You're safe! Now then...
+        <style\=RubyPrefixTag></style>\nはぁはぁ…よかった！　無事でした！　なら後は…。=<style\=RubyPrefixTag></style>\nHaa haa... Thank goodness! You're safe! Now then...
+        柊木…？=Hiiragi...?
+        <style\=RubyPrefixTag></style>\n柊木…？=<style\=RubyPrefixTag></style>\nHiiragi...?
+        二以奈さん！　あれです！=Niiina-san! It's that!
+        …あ…あ、あぁ。=...Ah...Ah, aah.
+        <style\=RubyPrefixTag></style>\n星羅ちゃん！=<style\=RubyPrefixTag></style>\nSeira-chan!
+        <style\=RubyPrefixTag></style>\n桜庭殿！=<style\=RubyPrefixTag></style>\nSakuraba-dono!
+        <style\=RubyPrefixTag></style>\n桜庭！=<style\=RubyPrefixTag></style>\nSakuraba!
+        …わ、私のカメラが。真っ二つに。=...My camera... It's split in half.
+        <style\=RubyPrefixTag></style>\n…わ、私のカメラが。真っ二つに。=<style\=RubyPrefixTag></style>\n...My camera... It's split in half.
+        それが、今回の怪異を引き起こしていたもうひとつの雲外鏡です。=That was the other possessed mirror causing this phenomenon.
+        一眼レフカメラの中には鏡が入っていますので。=There's a mirror inside an SLR camera.
+        どういうことでゲス？=What do you mean-gesu?
+        <style\=RubyPrefixTag></style>\nどういうことでゲス？=<style\=RubyPrefixTag></style>\nWhat do you mean-gesu?
+        そのカメラで撮られて『移った』ひとが戻ってきます。=Those captured by that camera and "transferred" will\nreturn.
+        およ？=Oh?
+        あら？=Oh?
+        あ…佐月！　神崎！=Ah...Satsuki! Kanzaki!
+        <style\=RubyPrefixTag></style>\nあ…佐月！　神崎！=<style\=RubyPrefixTag></style>\nAh...Satsuki! Kanzaki!
+        おおっ…思い出せる！　どうして忘れていたんだ！　佐月だ！　神崎だ！=Ooh... I can remember them! Why did I forget!?\nIt's Satsuki and Kanzaki!
+        <style\=RubyPrefixTag></style>\nおおっ…思い出せる！　どうして忘れていたんだ！　佐月\r\nだ！　神崎だ！=<style\=RubyPrefixTag></style>\nOoh... I can remember them! Why did I forget!?\nIt's Satsuki and Kanzaki!
+        佐月…神崎…佐月マリ、神崎アーデルハイド…うん、大丈夫。全部思い出した。=Satsuki... Kanzaki... Satsuki Mari, Kanzaki Adelheid...\nYes, it's okay. I remember everything.
+        …佐月さん、神崎さん…ご無事で。=...Satsuki-san, Kanzaki-san... You're safe.
+        どうやら、山脇様の手下のようでゲスね。四天王に相応しい顔でゲス。=Looks like they are Yamawaki-sama's underlings-gesu.\nThey have the look of the Four Heavenly Kings-gesu.
+        えっと…ただいま～…で、ゴザル？=Um... We're back～... I guess, de-gozaru?
+        ずっとそばに居ましたが、ただいまです♪=We've always been by your side, but we're back♪
+        <style\=RubyPrefixTag></style>\n…おかえりなさい=<style\=RubyPrefixTag></style>\n...Welcome back.
+        <style\=RubyPrefixTag></style>\nおかえりでゲス=<style\=RubyPrefixTag></style>\nWelcome back-gesu
+        <style\=RubyPrefixTag></style>\nおかえり！=<style\=RubyPrefixTag></style>\nWelcome back!
+[Epilogue]
+    忍法…。=Ninja arts...
+    <style\=RubyPrefixTag></style>\n忍法…。=<style\=RubyPrefixTag></style>\nNinja arts...
+    <style\=RubyPrefixTag></style>\n忍法、分身浮雲風遁の術ーー！=<style\=RubyPrefixTag></style>\nNinja arts: Clone Floating Cloud Wind Style Technique!
+    <style\=RubyPrefixTag></style>\nカットカット、カーーーーット！=<style\=RubyPrefixTag></style>\nCUT, CUT, CUUUUUT!!
+    およ？　どうしたでゴザル？=Oh? What's wrong, de-gozaru?
+    派手にやりすぎよ！　どこまで目立つ気なの！=You overdid it! How flashy do you want to get!?
+    <style\=RubyPrefixTag></style>\n派手にやりすぎよ！　どこまで目立つ気なの！=<style\=RubyPrefixTag></style>\nYou overdid it! How flashy do you want to get!?
+    全力でゴザルよ。松岡殿に頼んで、風には炎のエフェクトを加えてもらうでゴザル。=I'm going all out, de-gozaru. I asked Matsuoka-dono\nto add flame effects to the wind, de-gozaru.
+    Ｎｏ！　これ以上忍者は目立たなくていいわ！　分身もリジェクトよ！=No! Ninjas don't need to stand out any more! No clones\neither!
+    <style\=RubyPrefixTag></style>\nＮｏ！　これ以上忍者は目立たなくていいわ！　分身もリ\r\nジェクトよ！=<style\=RubyPrefixTag></style>\nNo! Ninjas don't need to stand out any more! No clones\neither!
+    ねえ、なんで私たちは映画撮影の見学をしてるの？=Hey, why are we watching a movie being filmed?
+    <style\=RubyPrefixTag></style>\nねえ、なんで私たちは映画撮影の見学をしてるの？=<style\=RubyPrefixTag></style>\nHey, why are we watching a movie being filmed?
+    神崎がどうしても見に来て欲しいと言うのだ。=Kanzaki insisted we come and watch.
+    <style\=RubyPrefixTag></style>\n神崎がどうしても見に来て欲しいと言うのだ。=<style\=RubyPrefixTag></style>\nKanzaki insisted we come and watch.
+    山脇様、あちきたちも映画に出るんでゲスか？=Yamawaki-sama, are we also going to be in the movie-gesu?
+    共演者が濃すぎて、出たくないわね…。=The co-stars are too intense, I don't want to be in it...
+    キャロル殿。そろそろ、エキストラの出番ではゴザらんか？=Carole-dono. Isn't it about time for the extras to\nappear?
+    <style\=RubyPrefixTag></style>\n何！？=<style\=RubyPrefixTag></style>\nWhat!?
+    <style\=RubyPrefixTag></style>\nおお！！=<style\=RubyPrefixTag></style>\nOoh!!
+    まったく…勝手にキャストを追加するなんて。=Seriously... Adding cast members on your own.
+    登場人物が六人だけゆーんもそろそろ限界じゃったろ。映画に幅持たせんのに丁度えぇ。=T'was about time to expand beyond just six characters,\nright? It adds depth to the movie.
+    エキストラでも見映えが変わってええやん。=Even with extras, the visuals changes, which is good.
+    ちょっと神崎！　聞いてないわよ！=Wait, Kanzaki! I wasn't informed!
+    見学だけではなかったのか！？=Weren't we just a visitor!?
+    嘘でゴザル。=I lied, de-gozaru.
+    <style\=RubyPrefixTag></style>\nしれっと言ったーー！=<style\=RubyPrefixTag></style>\nShe said it so casually!
+    映画に出られるでゲス？　山脇様はラスボスでゲスね！=Can we be in the movie-gesu? Yamawaki-sama is the\nfinal boss, right-gesu?
+    ヤー！　豊後殿は一番の手下で、拙者たちは四天王でゴザル！=Ja! Bungo-dono is the number one underling, and we\nare the Four Heavenly Kings, de-gozaru!
+    <style\=RubyPrefixTag></style>\nヤー！　豊後殿は一番の手下で、拙者たちは四天王でゴザ\r\nル！=<style\=RubyPrefixTag></style>\nJa! Bungo-dono is the number one underling, and we\nare the Four Heavenly Kings, de-gozaru!
+    けっひっひっひ。お前、最弱枠でゲスよ。=Kekeke. You're in the weakest role-gesu.
+    <style\=RubyPrefixTag></style>\nまさかの役どころが帰ってきたーー！=<style\=RubyPrefixTag></style>\nMy previous role is back!
+    神崎がどうしても、３１Ｃで何か形に残るもんを作りてーんだとよ。=Kanzaki desperately wanted to create something memorable\nwith 31C.
+    <style\=RubyPrefixTag></style>\n神崎がどうしても、３１Ｃで何か形に残るもんを作りてー\r\nんだとよ。=<style\=RubyPrefixTag></style>\nKanzaki desperately wanted to create something memorable\nwith 31C.
+    付き合ってやれ。=Go along with it.
+    あり？　でも四天王があとふたり居ないでゲスよ？=Huh? But we're still missing two of the Four Heavenly\nKings-gesu.
+    そろそろ来ると思うのでゴザルが…あ、来たでゴザル。=I think they'll be here soon, de-gozaru... Ah, they're\nhere, de-gozaru.
+    …お待たせしました。=...Sorry to keep you waiting.
+    いいものを持ってきました♪=I brought something good♪
+    いいもの？　ファンレターでゴザルか！=Something good? A fan letter, de-gozaru?
+    <style\=RubyPrefixTag></style>\nいいもの？　ファンレターでゴザルか！=<style\=RubyPrefixTag></style>\nSomething good? A fan letter, de-gozaru?
+    もうファンレターがトラウマになっとるやないか…。=Fan letters have become a trauma, huh...
+    …手紙ではなく、神崎さんと佐月さんのグラビアが載った雑誌です。=...It's not a letter, but a magazine with Kanzaki-san\nand Satsuki-san's gravure photos.
+    <style\=RubyPrefixTag></style>\n…手紙ではなく、神崎さんと佐月さんのグラビアが載った\r\n雑誌です。=<style\=RubyPrefixTag></style>\n...It's not a letter, but a magazine with Kanzaki-san\nand Satsuki-san's gravure photos.
+    …あの…この度は私のカメラが原因でご迷惑をおかけしました。=...Um... I apologize for the trouble my camera caused.
+    いえ、元はといえばわたしのショップで販売していた物です。=Nah, it was originally something I sold in my shop.
+    調べてみたところ、何度も修理されていたカメラで、その際に古い鏡を流用したそうです。=Upon investigation, it turned out to be a camera that\nhad been repaired multiple times, using an old mirror.
+    ではあの水着のせいではなかったのでゴザルな。=So, it wasn't the swimsuit that caused it, de-gozaru.
+    はい。ですが、あの水着もやっぱり少し不思議なものだったようです。=Yes. But, that swimsuit also seemed to have some\nmysterious properties.
+    <style\=RubyPrefixTag></style>\nはい。ですが、あの水着もやっぱり少し不思議なものだっ\r\nたようです。=<style\=RubyPrefixTag></style>\nYes. But, that swimsuit also seemed to have some\nmysterious properties.
+    そうなのでゴザルか？=Really, de-gozaru?
+    装飾に使われていたリボンに、縁結びの願掛けがされた糸を使用していたそうです。=It seems the ribbon used for decoration was made with\nthread used in matchmaking charms.
+    ほー、縁結びでゴザルか。=Oh, matchmaking, de-gozaru?
+    恐らくそのおかげで、アーデルちゃんが先に『移った』のに、わたしは認識出来ていたんだと思います。=I think that's why, despite you "transferring" first,\nI was still able to recognize you.
+    木漏れ日がいい感じに映えてるじゃない。=The sunlight filtering through the trees looks nice.
+    こいつら、たわわでゲスね。=These two are stacked-gesu.
+    何故わしを見て言うーー！=Why are you looking at me when you say that!?
+    白い花と一緒に写っとるんは可憐じゃのぉ。=The white flowers in the photo look so lovely.
+    <style\=RubyPrefixTag></style>\n白い花と一緒に写っとるんは可憐じゃのぉ。=<style\=RubyPrefixTag></style>\nThe white flowers in the photo look so lovely.
+    岩に腰掛けとるんも、ええ雰囲気や。=Sittin' on the rock, it gives a nice vibe.
+    <style\=RubyPrefixTag></style>\n岩に腰掛けとるんも、ええ雰囲気や。=<style\=RubyPrefixTag></style>\nSittin' on the rock, it gives a nice vibe.
+    ぐぬぬぬ…次はアタシが脱ぐわ！=Grrr... Next time, I'll undress!
+    水着で勝負しろよ。=Go compete in a swimsuit.
+    まずマスクを脱げ。=Take off your mask first.
+    <style\=RubyPrefixTag></style>\nまずマスクを脱げ。=<style\=RubyPrefixTag></style>\nTake off your mask first.
+    なんだか照れるでごじゃるなぁ～。拙者見られているでごじゃる～。=I feel a bit embarrassed, de-gojaru... It feels like\nI'm being watched, de-gojaru...
+    <style\=RubyPrefixTag></style>\nなんだか照れるでごじゃるなぁ～。拙者見られているでご\r\nじゃる～。=<style\=RubyPrefixTag></style>\nI feel a bit embarrassed, de-gojaru... It feels like\nI'm being watched, de-gojaru...
+    言語中枢が壊れてやがるぞ♪=Your speech center is out of whack♪
+    でも、カメラは二以奈さんに破壊されたのに写真はよく残っていましたね。=But, even though Niina-san destroyed the camera, the\nphotos are well preserved.
+    <style\=RubyPrefixTag></style>\nでも、カメラは二以奈さんに破壊されたのに写真はよく残っ\r\nていましたね。=<style\=RubyPrefixTag></style>\nBut, even though Niina-san destroyed the camera, the\nphotos are well preserved.
+    …毎日電子軍人手帳にデータをバックアップしていましたので。=...I backed up the data on an Electronic Military\nNotebook every day.
+    …あの、実はグラビアとして掲載されなかったのですが、私の中での会心の一枚があるんです。=...Actually, there's one picture that wasn't included\nin the gravure magazine but is my favorite.
+    会心の一枚なのに掲載されないんですか？=Your favorite picture wasn't included?
+    …色々と掲載にもルールがあるようで。=...It seems there are various rules for what can be\nincluded.
+    <style\=RubyPrefixTag></style>\n…色々と掲載にもルールがあるようで。=<style\=RubyPrefixTag></style>\n...It seems there are various rules for what can be\nincluded.
+    …ですが、おふたりにはお渡ししておきたいと思いまして。=...But, I'd like to give it to both of you.
+    おお、それは是非頂きたいでゴザル！=Oh, I'd love to have it, de-gozaru!
+    <style\=RubyPrefixTag></style>\nおお、それは是非頂きたいでゴザル！=<style\=RubyPrefixTag></style>\nOh, I'd love to have it, de-gozaru!
+    頂けますか？=Can we?
+    …はい、こちらです。=...Yes, here it is.
+    <style\=RubyPrefixTag></style>\n…はい、こちらです。=<style\=RubyPrefixTag></style>\n...Yes, here it is.
+    …タイトルを付けるなら、『<cspace\=0.2em>Silhouette</cspace> <cspace\=0.2em>of</cspace> <cspace\=0.2em>Summer</cspace> <cspace\=0.2em>Light</cspace> <cspace\=0.2em>Square</cspace>』。=...If I were to give it a title, it would be\n『 Silhouette of Summer Light Square』
+    <style\=RubyPrefixTag></style>\n…タイトルを付けるなら、『<cspace\=0.2em>Silhouette</cspace> <cspace\=0.2em>of</cspace> <cspace\=0.2em>Summer\r\n</cspace><cspace\=0.2em>Light</cspace> <cspace\=0.2em>Square</cspace>』。=<style\=RubyPrefixTag></style>\n...If I were to give it a title, it would be\n『 Silhouette of Summer Light Square』
+    ストーリーイベント「Silhouette of Summer Light Square」をクリア=Story event 「Silhouette of Summer Light Square」 cleared.
