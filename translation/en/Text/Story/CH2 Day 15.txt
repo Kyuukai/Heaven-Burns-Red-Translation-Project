@@ -1,0 +1,302 @@
+[Misc. Arasuji]
+    市街地=Urban Area
+    Phase04訓練最終日、31Aと31Bは見事突破する。\nそんな中、茅森は蒼井に特別哨戒任務を手伝ってほしいと頼む。=On the final day of training Phase 04, 31A and 31B successfully make it through.\nAmidst this, Kayamori asks Aoi to help with a special patrol mission.
+[Morning - Cafeteria]
+    難しいでゲスよ！=It's difficult-gesu!
+    あー、もー！　ここにこいつを代入するのよ！　ほら解けるでしょ！=Ah, geez! Just substitute this here! See, you can solve\nit this way!
+    <style\=RubyPrefixTag></style>\nあー、もー！　ここにこいつを代入するのよ！　ほら解け\r\nるでしょ！=<style\=RubyPrefixTag></style>\nAh, geez! Just substitute this here! See, you can solve\nit this way!
+    すごいでゲス！　すらすらでゲスよ！！=Amazing-gesu!  You're solving it so smoothly-gesu!!
+    <style\=RubyPrefixTag></style>\nすごいでゲス！　すらすらでゲスよ！！=<style\=RubyPrefixTag></style>\nAmazing-gesu!  You're solving it so smoothly-gesu!!
+    おー、やってるなぁ。=Oh, you're working hard.
+    <style\=RubyPrefixTag></style>\nおー、やってるなぁ。=<style\=RubyPrefixTag></style>\nOh, you're working hard.
+    なんでゲスか！！=What do you want-gesu!?
+    邪魔しにきたの！？=Did you come to bother us!?
+    いやいや、お互い大変だなぁって。=No, no, I was just thinking that we're both having a\ntough time.
+    馬鹿さがでゲスか！？=Are you calling us stupid-gesu!?
+    私たちを馬鹿にするっていうの…。=Are you saying we're stupid...?
+    <style\=RubyPrefixTag></style>\n私たちを馬鹿にするっていうの…。=<style\=RubyPrefixTag></style>\nAre you saying we're stupid...?
+    馬鹿なんて一言も言ってないんだけどな。=I didn't call you stupid even once.
+    <style\=RubyPrefixTag></style>\n馬鹿なんて一言も言ってないんだけどな。=<style\=RubyPrefixTag></style>\nI didn't call you stupid even once.
+    あんたと一緒にされたら誰でも馬鹿だと思うわよ。=If anyone's grouped with you, they'd think they're\nstupid.
+    ひどい言われようだ…みんな言い返してやってくれ！=What a terrible thing to say... Everyone, please say\nsomething to them!
+    <style\=RubyPrefixTag></style>\nひどい言われようだ…みんな言い返してやってくれ！=<style\=RubyPrefixTag></style>\nWhat a terrible thing to say... Everyone, please say\nsomething to them!
+    なにこれ…。=What's this...?
+    すごいチーズの量！=Look at the amount of cheese!
+    ハチミツつけたら、もはやスイーツ！=With honey, it's practically a dessert!
+    食事と甘味を兼ねとるやないか！=It's both a meal and a sweet treat!
+    <style\=RubyPrefixTag></style>\n別のことで盛り上がってるーー！=<style\=RubyPrefixTag></style>\nThey're getting excited over something else!
+    はっ、哀れな奴ね。=Ha, pathetic.
+    <style\=RubyPrefixTag></style>\nはっ、哀れな奴ね。=<style\=RubyPrefixTag></style>\nHa, pathetic.
+    え、なになに！？=Eh, what, what!?
+    いや、チーズナンがすげー美味いってだけだけど？=No, it's just that the cheese Naan is really delicious.
+    <style\=RubyPrefixTag></style>\nいや、チーズナンがすげー美味いってだけだけど？=<style\=RubyPrefixTag></style>\nNo, it's just that the cheese Naan is really delicious.
+    リーダーが馬鹿にされてるのに、そんなことでぇ！？=Your leader is being mocked, and yet you're fussing\nover that!?
+    <style\=RubyPrefixTag></style>\nリーダーが馬鹿にされてるのに、そんなことでぇ！？=<style\=RubyPrefixTag></style>\nYour leader is being mocked, and yet you're fussing\nover that!?
+    馬鹿にされるのはお前の普段の行いのせいだろ。あたしらには関係ない。=Getting mocked is because of your usual behavior.\nThat has nothing to do with us.
+    <style\=RubyPrefixTag></style>\n馬鹿にされるのはお前の普段の行いのせいだろ。あたしら\r\nには関係ない。=<style\=RubyPrefixTag></style>\nGetting mocked is because of your usual behavior.\nThat has nothing to do with us.
+    よし、あたしも食おう！=Alright, I'll eat too!
+    <style\=RubyPrefixTag></style>\nよし、あたしも食おう！=<style\=RubyPrefixTag></style>\nAlright, I'll eat too!
+    なんて切り替えの速さ！　恐いでゲスよ！=What a quick change of attitude-gesu! She's scary-gesu!
+    <style\=RubyPrefixTag></style>\nなんて切り替えの速さ！　恐いでゲスよ！=<style\=RubyPrefixTag></style>\nWhat a quick change of attitude-gesu! She's scary-gesu!
+    まったくだね…関わらないでおきましょ…。=For real... let's not get involved with her...
+[Arena]
+    フェーズ４訓練も本日で最後ね。=Today is the final day of Phase 4 training.
+    次のエミュレーションは実際のフェーズ４を想定して、ハード設定で行います。=The next emulation will be set to a hard difficulty,\nsimulating the actual Phase 4.
+    <style\=RubyPrefixTag></style>\n次のエミュレーションは実際のフェーズ４を想定して、ハー\r\nド設定で行います。=<style\=RubyPrefixTag></style>\nThe next emulation will be set to a hard difficulty,\nsimulating the actual Phase 4.
+    一瞬の油断も許されません。=Not even a moment's carelessness is allowed.
+    もし油断したら…。=If we let our guard down...
+    はい、おしゃべりはそこまで。エミュレーターに入りなさい。=Alright, that's enough chatting. Get into the emulator.
+    訓練内容はわかってるわよね？　引き続き輸送車の護衛よ。=You know the training details, right? You'll continue\nto guard the transport vehicle.
+    <style\=RubyPrefixTag></style>\n訓練内容はわかってるわよね？　引き続き輸送車の護衛よ。\r\n=<style\=RubyPrefixTag></style>\nYou know the training details, right? You'll continue\nto guard the transport vehicle.
+    ほいよ。=Uh-huh.
+    <style\=RubyPrefixTag></style>\nほいよ。=<style\=RubyPrefixTag></style>\nUh-huh.
+    とにかく正確に最速で、な。=Anyway, be as accurate and fast as possible.
+    そんなこと出来たら、すでに猛者じゃん！　敵さんも来たよぉ！=If we could do that, we'd already be experts!\nThe enemies are here!
+    <style\=RubyPrefixTag></style>\nそんなこと出来たら、すでに猛者じゃん！　敵さんも来た\r\nよぉ！=<style\=RubyPrefixTag></style>\nIf we could do that, we'd already be experts!\nThe enemies are here!
+    よし！　バリバリ進んで終わらせちゃうぞ！=Alright! Let's power through and finish it!
+    <style\=RubyPrefixTag></style>\nよし！　バリバリ進んで終わらせちゃうぞ！=<style\=RubyPrefixTag></style>\nAlright! Let's power through and finish it!
+    訓練終了です。輸送車はポイントデルタまで護送完了しました。=Training is over. The transport vehicle has been\nescorted to Point Delta.
+    輸送車の損耗率は４％です。５％以内でしたら許容範囲です。=The transport vehicle's damage rate is 4%. Within the\n5% tolerance.
+    <style\=RubyPrefixTag></style>\n輸送車の損耗率は４％です。５％以内でしたら許容範囲で\r\nす。=<style\=RubyPrefixTag></style>\nThe transport vehicle's damage rate is 4%. Within the\n5% tolerance.
+    ギリギリ及第点って感じね。=Barely passing, I see.
+    <style\=RubyPrefixTag></style>\nギリギリ及第点って感じね。=<style\=RubyPrefixTag></style>\nBarely passing, I see.
+    よしゃあ！=Alright!
+    そりゃあたしらが居たらな。=That's because we were here.
+    姉さんと組めば最強にゃあ。=If I team up with my sister, we're the strongest, nya.
+    大量の輸送車を護衛すると、どうしても陣形が長くなる。今回は両部隊で何を優先させるべきかの判断が優秀だったわ。=Escorting a large number of transport vehicles inevitably\nlengthens the formation. This time, both units made\nexcellent decisions about what to prioritize.
+    あと、デフレクタ残量によって、とるべき行動が変わるということはちゃんと理解できてるみたいね。=Also, you seem to understand that the actions you should\ntake depend on the remaining deflector.
+    それじゃあ、今日はこれで解散とするわ。=Well then, we'll call it a day.
+    <style\=RubyPrefixTag></style>\nそれじゃあ、今日はこれで解散とするわ。=<style\=RubyPrefixTag></style>\nWell then, we'll call it a day.
+    <style\=RubyPrefixTag></style>\n３１Ａは、至急出撃準備を済ませて司令官室まで出頭してください=<style\=RubyPrefixTag></style>\n31A, prepare for immediate deployment and report to\nthe commander's office.
+    いい予感しかしねーな。=I have nothing but good feelings about this.
+    <style\=RubyPrefixTag></style>\nいい予感しかしねーな。=<style\=RubyPrefixTag></style>\nI have nothing but good feelings about this.
+    なんだよ、お前のその前向きさは。この戦時下で、そのぶれない前向きさすげーよ。すごすぎて、リスペクトの念を抱き始めてる自分がいるよ。=What's with your positivity? It's impressive how unwavering\nyou are, even in a time of war. So impressive that I'm\nbeginning to respect you.
+    なんやしらんけど、急いだほうがええんとちゃう？=I don't know, but we should hurry, don't ya think?
+    その通りだよ。なんであたしはどーーーでもいいリスペクトの念を伝えるために長尺で喋ってたんだよ。そして、結果これもなげーよ。=That's right. Why did I waste time talking about respect?\nAnd this is too long, too.
+    急ぎましょう！！=Let's hurry!!
+    揃った？=Everyone here?
+    <style\=RubyPrefixTag></style>\n揃った？=<style\=RubyPrefixTag></style>\nEveryone here?
+    おうよ。=Uh-huh.
+    <cspace\=0.2em>RotaryMole</cspace>をパトロール中の哨戒部隊が発見したわ。=The patrol unit discovered Rotary Mole.
+    してやられたー。=They stole the spot, huh.
+    何言ってるの。あなたたちが割り当ての地域を埋めたから、場所が絞れたのよ？=What are you saying? It's because you covered your assigned\nareas, we were able to narrow down the location.
+    <style\=RubyPrefixTag></style>\n何言ってるの。あなたたちが割り当ての地域を埋めたから、\r\n場所が絞れたのよ？=<style\=RubyPrefixTag></style>\nWhat are you saying? It's because you covered your assigned\nareas, we were able to narrow down the location.
+    いやー、個室が遠ざかったと思って。=Well, I thought my private rooms were getting further\nand further out of my reach.
+    <style\=RubyPrefixTag></style>\nいやー、個室が遠ざかったと思って。=<style\=RubyPrefixTag></style>\nWell, I thought my private rooms were getting further\nand further out of my reach.
+    セラフ部隊に個室などありません。=There are no private rooms in the Seraph unit.
+    <style\=RubyPrefixTag></style>\nセラフ部隊に個室などありません。=<style\=RubyPrefixTag></style>\nThere are no private rooms in the Seraph unit.
+    ３１Ａは有明区域の指定ポイントに急行し、<cspace\=0.2em>RotaryMole</cspace>を討伐しなさい。=31A, proceed to the designated point in the Ariake\narea and exterminate Rotary Mole.
+    <style\=RubyPrefixTag></style>\n３１Ａは有明区域の指定ポイントに急行し、<cspace\=0.2em>RotaryMol\r\ne</cspace>を討伐しなさい。=<style\=RubyPrefixTag></style>\n31A, proceed to the designated point in the Ariake\narea and exterminate Rotary Mole.
+    了解、言っとけ。=Say, "Roger that".
+    <style\=RubyPrefixTag></style>\nロータリーモール\n推奨戦力：<cspace\=0.2em>5</cspace>,<cspace\=0.2em>000</cspace>\n弱点情報：突属性\n耐性情報：打属性=<style\=RubyPrefixTag></style>\nRotary Mole\nRecommended combat power: 5,000\nWeakness: Pierce\nResistance: Strike
+[Rotary Mole]
+    哨戒で見落としてたのかなぁ。=I wonder if we missed it during patrol.
+    司令官から資料をもらったが、ご丁寧にさらに奥の地域に潜んでいやがったようだ。=I got the documents from the commander, and looks like\nit was lurking even further inside.
+    ずっと襲ってくる存在だと思ってたけど、そんなキャンサーも居るんだねぇ。=I always thought they were just mindlessly attacking\nus, but there are some Cancers like that too, huh.
+    <style\=RubyPrefixTag></style>\nずっと襲ってくる存在だと思ってたけど、そんなキャンサー\r\nも居るんだねぇ。=<style\=RubyPrefixTag></style>\nI always thought they were just mindlessly attacking\nus, but there are some Cancers like that too, huh.
+    情報が少ないから、油断は禁物だぞ。=We have little information, so don't let your guard\ndown.
+    <style\=RubyPrefixTag></style>\n情報が少ないから、油断は禁物だぞ。=<style\=RubyPrefixTag></style>\nWe have little information, so don't let your guard\ndown.
+    <style\=RubyPrefixTag></style>\nこの先に進むと戦闘が始まります。\n進みますか？=<style\=RubyPrefixTag></style>\nProceeding further will initiate combat. Do you want\nto proceed?
+    <style\=RubyPrefixTag></style>\n見つけた、あれだ！=<style\=RubyPrefixTag></style>\nThere it is, found it!
+    なんやけったいな姿しよる奴やな。=What a weird-lookin' thing.
+    <style\=RubyPrefixTag></style>\nなんやけったいな姿しよる奴やな。=<style\=RubyPrefixTag></style>\nWhat a weird-lookin' thing.
+    けったいな形じゃなかったキャンサーなんて居なかった気がするのですが！！=I don't think there was ever a Cancer that didn't have\na weird shape!!
+    もし、地球外生命体がおったら、もっとけったいな姿やで。=If extraterrestrial beings exist, they'd look even weirder.
+    それがまさにキャンサーだわ。何と戦ってると思ってたんだ。=That's exactly what a Cancer is. What did you think\nwe were fighting against?
+    <style\=RubyPrefixTag></style>\nそれがまさにキャンサーだわ。何と戦ってると思ってたん\r\nだ。=<style\=RubyPrefixTag></style>\nThat's exactly what a Cancer is. What did you think\nwe were fighting against?
+    月歌、どうする？=Ruka, what do we do?
+    <style\=RubyPrefixTag></style>\n月歌、どうする？=<style\=RubyPrefixTag></style>\nRuka, what do we do?
+    中央にユッキー、前にめぐみんとあたし、一拍待ってつかさっちの順番で一気に叩く。=Yukki in the middle, Megumin and I in the front, we'll\nall attack together on Tsukasachi's turn after waiting\nfor a beat.
+    おタマさんとかれりんは後ろで周囲の牽制とフォローをしてくれ。=O-tama-san and Karerin, you guys stay in the back and\nprovide support and cover.
+    <style\=RubyPrefixTag></style>\nおタマさんとかれりんは後ろで周囲の牽制とフォローをし\r\nてくれ。=<style\=RubyPrefixTag></style>\nO-tama-san and Karerin, you guys stay in the back and\nprovide support and cover.
+    でけぇけど、今のあたしらにとっては敵じゃねーな。=It's big, but it's no match for us now.
+    はっ、そうよ！　ズタズタに切り刻んでやるわい！！=Ha, that's right! I'll shred it to pieces!!
+    うちはサイキックで輪切りにしたるで！！=I'll slice it up with my psychic powers!!
+    んなこと出来ねーだろ。=Like you can do that with your psychic.
+    逃亡=Flee
+    逃げられてもうたな…。=It got away...
+    想像以上に速かったです…。=It was faster than I imagined...
+    攻撃する隙すらなかったな…。=We didn't even have a chance to attack...
+    ああ。外殻を壊しただけに終わっちまった…。=Yeah. All we did was break its outer shell...
+    空いた穴から追わんでええんか？=Shouldn't we chase it through the hole it made?
+    止めとけ。行った先に酸素があるかどうかも怪しいし、地中で穴が崩れたら即座に生き埋めだぞ。=Stop. We don't even know if there's oxygen, and if the\ntunnel collapses, we'll be buried alive immediately.
+    危険すぎでしょう！！=That's way too dangerous!!
+    くっそぅ、退却しかないか…。=Damn it, guess there's no choice but retreat...?
+    <style\=RubyPrefixTag></style>\nくっそぅ、退却しかないか…。=<style\=RubyPrefixTag></style>\nDamn it, guess there's no choice but retreat...?
+    ああ、分が悪すぎる。=Yeah, it's too risky.
+    こちら３１Ａ茅森。司令官に繋いでおくれ。=This is Kayamori from 31A. Connect me to the commander,\nplease.
+    了解しました。少々お待ちください。=Understood. Please wait a moment.
+    そう、逃げられたのね。=I see, it escaped.
+    ごめん。=Sorry.
+    謝ることはないわ。地中に逃げ込むなんて想定外よ。=No need to apologize. We didn't anticipate it would burrow underground.
+    あなたたちから逃げられるなら、他の部隊でも撃破率は低いわ。=If it can escape from you, other units will have a low kill rate as well.
+    確認するけど、外殻を破壊してから敵は逃げたのよね？=Just to confirm, the enemy fled after you broke its outer shell, right?
+    ああ、その手応えはあったよ。=Yeah, it feels that way.
+    戦ってみてどうだった？=How was the battle?
+    そんなに強いとは感じなかったかな。逃げられなきゃ倒せてたと思う。=It didn't feel that strong. I think we could have\ntaken it down if it hadn't escaped.
+    わかったわ。ヘリを飛ばすから、帰投しなさい。=Got it. I'm sending a helicopter, so return to base.
+    戻っていいの？=We can go back?
+    <style\=RubyPrefixTag></style>\n戻っていいの？=<style\=RubyPrefixTag></style>\nWe can go back?
+    代わりに監視の部隊を寄越すわ。それとも、徹夜で歩哨に立つ？　私はそれでもいいわよ？=I'll send a surveillance unit instead. Or do you want to stand guard overnight? I'm fine with that too.
+    作戦の訓練もあるし、それはさすがに無理ぃ。=We have training exercises, so we can't do that.
+    <style\=RubyPrefixTag></style>\n作戦の訓練もあるし、それはさすがに無理ぃ。=<style\=RubyPrefixTag></style>\nWe have training exercises, so we can't do that.
+    でしょう？　哨戒任務は現時刻をもって中断します。=Right? Patrol duty is suspended as of now.
+    あなたたちの成果で危険度は格段に下がったわ。数日は通常の哨戒網で対応できるでしょう。=Thanks to your efforts, the danger level has significantly decreased. We can manage with the regular patrol network for a few days.
+    <cspace\=0.2em>RotaryMole</cspace>が発見できたら出撃命令を出すわ。しばらく待機してて。=We'll issue a sortie order when Rotary Mole is found. Stand by for a while.
+[Cafe]
+    （たまにはひとりでゆっくりしたいな…<cspace\=0.2em>RotaryMole</cspace>問題も抱えちゃってるし…）=(Sometimes I just want to relax alone... There's this\nRotary Mole issue too...)
+    <style\=RubyPrefixTag></style>\n（たまにはひとりでゆっくりしたいな…<cspace\=0.2em>RotaryMole</cspace>問題\r\nも抱えちゃってるし…）=<style\=RubyPrefixTag></style>\n(Sometimes I just want to relax alone... There's this\nRotary Mole issue too...)
+    （よし、このカフェで過ごそう）=(Alright, I'll spend some time at this cafe)
+    （ウィンナーコーヒー…名前だけは聞いたことあるけど、どんなコーヒーなんだろう…）=(Wiener<space\=-103.367px><voffset\=1em><size\=50%><cspace\=0px>Vienna</cspace></size></voffset><space\=50.367px>coffee... I've heard the name, but what\nkind of coffee it is...?)
+    （まあ、少なくともウィンナーは入ってるだろうし、肉大好きなあたしが嫌いなはずがない）=(Well, I'm sure there are wieners in it, and as a meat\nlover, I can't say no to that)
+    注文お願いしまーす！　ウィンナーコーヒーひとつ！=Excuse me! One wiener<space\=-103.367px><voffset\=1em><size\=50%><cspace\=0px>Vienna</cspace></size></voffset><space\=50.367px>coffee, please!
+    （なんだ、これは…！！）=(What is this...!?)
+    （え、この泡の下にウィンナーが隠れてるの！？）=(Eh, is there a wiener hidden under this foam!?)
+    （甘い！！　これは生クリームだ！！）=(So sweet!! This is whipped cream!!)
+    <style\=RubyPrefixTag></style>\n（甘い！！　これは生クリームだ！！）=<style\=RubyPrefixTag></style>\n(So sweet!! This is whipped cream!!)
+    （コーヒーとは合うけど、ウィンナーとは合わないよ！？）=(It goes well with the coffee, but not with a wiener,\nyou know!?)
+    （でも、コーヒーとしては美味しい！！）=(But it's delicious as coffee!!)
+    （飲み終わったけど…ウィンナーは入ってなかった…）=(I finished drinking it... but there was no wiener...)
+    <style\=RubyPrefixTag></style>\n（飲み終わったけど…ウィンナーは入ってなかった…）=<style\=RubyPrefixTag></style>\n(I finished drinking it... but there was no wiener...)
+    （ウィンナー入れ忘れてますよ！！　と言うべきだろうか）=(Should I complain that they forgot the wiener?)
+    （いやいや、頑張って経営してるんだろうし、そんな細かいことにクレームを言えるようなご時世じゃない）=(No, no, they must be doing their best to run the place,\nand it's not the time to nitpick)
+    （きっとウィンナーが品切れだったんだろう）=(They must have run out of wieners)
+    ふーー、いい気分転換になった。=Phew, that was a nice break.
+    いい店だったな。ウィンナー入ってなかったけど。=It was a good place. There's no wiener, though.
+[Studio]
+    えーと、前回はどこまで行ったんだっけ？=Soo, where were we last time?
+    <style\=RubyPrefixTag></style>\nえーと、前回はどこまで行ったんだっけ？=<style\=RubyPrefixTag></style>\nSoo, where were we last time?
+    新曲作ろうと息巻いて、それぞれの演奏スキルがあまりになさすぎて、ぐだぐだになって解散になったところまでですね！=We were all excited to create a new song, but everyone's\nplaying skills were so bad that we ended the practice\nin a mess!
+    <style\=RubyPrefixTag></style>\n新曲作ろうと息巻いて、それぞれの演奏スキルがあまりに\r\nなさすぎて、ぐだぐだになって解散になったところまでで\r\nすね！=<style\=RubyPrefixTag></style>\nWe were all excited to create a new song, but everyone's\nplaying skills were so bad that we ended the practice\nin a mess!
+    まあ、そっから続きが気になって、それぞれイメトレして確実にスキルアップを果たしてるだろうから大丈夫さ。=Well, since then, I've been curious about it. I'm sure\neveryone has probably improved their skills through \nimage training, so it'll be okay.
+    そんな暇あったと思うか。訓練に任務に必死だったろ。=Do you think we had that much free time? We were busy\nwith training and missions.
+    とにかく始めよう。新曲があたしらを呼んでいる。=Anyway, let's start. The new song is calling us.
+    <style\=RubyPrefixTag></style>\nとにかく始めよう。新曲があたしらを呼んでいる。=<style\=RubyPrefixTag></style>\nAnyway, let's start. The new song is calling us.
+    まとまりがないわね。=There's no unity.
+    集中力が足りてない感じがする。=Feels like we're lacking concentration.
+    うーーーん、新曲はあたしらを呼んでなかったか…。=Hmmmm, I guess the new song wasn't calling us after all...
+    月歌、あれが気になってんだろ。=Ruka, you're still thinking about that, right?
+    <style\=RubyPrefixTag></style>\n月歌、あれが気になってんだろ。=<style\=RubyPrefixTag></style>\nRuka, you're still thinking about that, right?
+    まーね。=Kinda.
+    <style\=RubyPrefixTag></style>\nまーね。=<style\=RubyPrefixTag></style>\nKinda.
+    ああ…。<cspace\=0.2em>RotaryMole</cspace>をもう少しのところで逃がしちまってな。=Yeah... We almost had the Rotary Mole but it escaped.
+    ろーたりーもーる、とは？=What is Ro-ta-ry-Mo-le?
+    キャンサー。有明ドーム近隣にそいつが出現して、その討伐を命じられたんだよ。=It's a Cancer. It appeared near Ariake Dome, and we\nwere ordered to exterminate it.
+    そんな忙しいことに…！？=You were doing something like that...!?
+    強い敵じゃなかったんだけどさ、地面に穴を掘って逃げるなんて思わなくて。=It wasn't a strong enemy, but we didn't expect it to\ndig a hole and escape.
+    だから、どうにか逃さない方法を考えないといけないんだけど…。=So, we need to think of a way to prevent it from escaping...
+    わかります。私も作戦行動を考える時が一番悩みます。よろしければ話を聞かせてください。=I know how you feel. I also struggle the most when it\ncomes to planning operations. If you don't mind, please\ntell me about it.
+    <style\=RubyPrefixTag></style>\nわかります。私も作戦行動を考える時が一番悩みます。よ\r\nろしければ話を聞かせてください。=<style\=RubyPrefixTag></style>\nI know how you feel. I also struggle the most when it\ncomes to planning operations. If you don't mind, please\ntell me about it.
+    逃げるキャンサーなんだよ。=It's a Cancer that runs away.
+    なあ、あんときは距離取っとったやんか。貼り付いてしばき続けたらあかんのか？=Hey, at that time we kept our distance, right?\nWhat if we stuck close and kept hittin' it?
+    <style\=RubyPrefixTag></style>\n逃げるキャンサーなんだよ。=<style\=RubyPrefixTag></style>\nIt's a Cancer that runs away.
+    あたしも、最初は近距離でって考えたんだけど…。=I also thought about close-range combat at first, but...
+    <style\=RubyPrefixTag></style>\nあたしも、最初は近距離でって考えたんだけど…。=<style\=RubyPrefixTag></style>\nI also thought about close-range combat at first, but...
+    こっちに攻撃意識が向いてるなら可能だが、逃げに回られたら質量差で止められないんだ。=If it's focused on attacking us, that might work, but\nif it tries to run, we can't stop it due to the difference\nin mass.
+    <style\=RubyPrefixTag></style>\nこっちに攻撃意識が向いてるなら可能だが、逃げに回られ\r\nたら質量差で止められないんだ。=<style\=RubyPrefixTag></style>\nIf it's focused on attacking us, that might work, but\nif it tries to run, we can't stop it due to the difference\nin mass.
+    地中に引きずり込まれでもしたら戦闘継続どころか、命が危ない。=If it drags us underground, not only will we be unable\nto continue fighting, but our lives will be in danger.
+    <style\=RubyPrefixTag></style>\n地中に引きずり込まれでもしたら戦闘継続どころか、命が\r\n危ない。=<style\=RubyPrefixTag></style>\nIf it drags us underground, not only will we be unable\nto continue fighting, but our lives will be in danger.
+    なるほど…。逃がさない戦い方を考えないといけないわけですね。=I see... So you need to figure out a way to fight that\nprevents it from escaping.
+    <style\=RubyPrefixTag></style>\nなるほど…。逃がさない戦い方を考えないといけないわけ\r\nですね。=<style\=RubyPrefixTag></style>\nI see... So you need to figure out a way to fight that\nprevents it from escaping.
+    とにかくくっついて逃げる隙を与えない、というのはどうでしょう！？=What if we just stick to it and not give it a chance \nto run!?
+    手段としては正しいんだが、そもそも３１Ａの戦い方から外れた戦術だ。=That's the right approach, but it's a tactic that\ndoesn't fit the way 31A fights.
+    短時間で最大火力をぶつけるスタイルだから、回避出来ない距離で耐える能力は元々求められてない。=We fight by delivering maximum firepower in a short\ntime, so we're not trained to endure in close combat.
+    つまり…？=In other words...?
+    それぐらいわかれよ、元艦長。被弾率が跳ね上がる戦いは、誰かが犠牲になる可能性があるし、それで倒しきれるかどうかも不明。=You should understand from that much, former captain.\nIn a fight with a high hit rate, someone might get\nsacrificed, and it's not even certain if we can take it down.
+    <style\=RubyPrefixTag></style>\nそれぐらいわかれよ、元艦長。被弾率が跳ね上がる戦いは、\r\n誰かが犠牲になる可能性があるし、それで倒しきれるかど\r\nうかも不明。=<style\=RubyPrefixTag></style>\nYou should understand from that much, former captain.\nIn a fight with a high hit rate, someone might get\nsacrificed, and it's not even certain if we can take it down.
+    ギャンブルに同意するわけにはいかないっつーことだ。=I can't agree to a gamble like that.
+    <style\=RubyPrefixTag></style>\nギャンブルに同意するわけにはいかないっつーことだ。=<style\=RubyPrefixTag></style>\nI can't agree to a gamble like that.
+    ま、こんな感じ。必死に考えてはいるんだけど、答えが見つからないんだよなあ…。=Well, something like that. I'm really trying to figure\nit out, but I just can't find the answer...
+    もしかしてわたしたちと相性が悪い敵、ということじゃない？=Could it be that this enemy is just a bad match for\nus?
+    <style\=RubyPrefixTag></style>\nもしかしてわたしたちと相性が悪い敵、ということじゃな\r\nい？=<style\=RubyPrefixTag></style>\nCould it be that this enemy is just a bad match for\nus?
+    もしかしてじゃなく、そーだよ。戦って逃げられたろ。確信を持って言えよ、諜報員。=It's not 'could be', it exactly what it is. We fought\nit and it got away. Say it with certainty, Secret Agent.
+    うーーん。=Hmmm.
+    <style\=RubyPrefixTag></style>\nうーーん。=<style\=RubyPrefixTag></style>\nHmmm.
+    いっそ司令官へ願い出て、討伐は他の部隊に代わってもらったほうがいいかもな。=We might as well ask the commander to have another\nunit take over the extermination.
+    <style\=RubyPrefixTag></style>\nいっそ司令官へ願い出て、討伐は他の部隊に代わってもらっ\r\nたほうがいいかもな。=<style\=RubyPrefixTag></style>\nWe might as well ask the commander to have another\nunit take over the extermination.
+    それも中途半端でねぇ…ＡメロとＢメロまで作ったのに、サビだけ未完成で諦めるみたいな…。=It feels so half-assed... Like making an A melody and\nB melody, but giving up on the chorus...
+    そんな作曲するみたいに上手くはいかねーよ。お前は音楽の天才ってだけだろ。=It's not as easy as composing a song. You're just a\nMusic prodigy.
+    やだー！　キャンサーを倒す天才でもありたーい！！=No way! I want to be a prodigy at defeating Cancer too!!
+    すげー欲張りだな…。まあ、今はそっちのほうが必要とされる才能だけどさ。=That's so greedy... But right now, that's the kind of\ntalent we need I guess.
+    それだけはすぐに手に入らない能力ですね…。=That's not a skill you can acquire quickly...
+    は！=Ah!
+    蒼井！！=Aoi!!
+    え、私が何か…？=Eh, did I do something...?
+    <style\=RubyPrefixTag></style>\nえ、私が何か…？=<style\=RubyPrefixTag></style>\nEh, did I do something...?
+    なあ、覚えてるか？　訓練中にセラフを飛ばしてキャンサーの攻撃を防いでくれただろ？=Hey, remember? During training, you used Seraph to\nblock Cancer's attack, right?
+    はい、そんなこともありましたね…私のスキルで。=Yes, that did happen... with my skill.
+    <style\=RubyPrefixTag></style>\nはい、そんなこともありましたね…私のスキルで。=<style\=RubyPrefixTag></style>\nYes, that did happen... with my skill.
+    蒼井に手伝ってもらったら、逃げられずに倒せるんじゃないかな？=If we get Aoi to help, maybe we can defeat it without\nit escaping.
+    ええーっ！？=EEEH!?
+    蒼井、<cspace\=0.2em>RotaryMole</cspace>の情報、デンチョで調べられるだろうから、確かめてみてくれ。=Aoi, you can look up information about Rotary Mole in\nthe E-Pad, please check it out.
+    どうだ？　<cspace\=0.2em>RotaryMole</cspace>を逃がさないように足止めして欲しい。出来るか？=How about it? Can you help us stop Rotary Mole from\nescaping? Can you do it?
+    やったことがないので、あまり自信はありませんが、たぶん…。=I've never done it before, so I'm not very confident,\nbut probably...
+    <style\=RubyPrefixTag></style>\nやったことがないので、あまり自信はありませんが、たぶ\r\nん…。=<style\=RubyPrefixTag></style>\nI've never done it before, so I'm not very confident,\nbut probably...
+    …確かにいけるかもしれない。=...That might actually work.
+    ユッキーのお墨付きまでもらえちまった。これは勝ち確です。ありがとうございました。=We even got Yukki's approval. This is definitely a win.\nThank you.
+    <style\=RubyPrefixTag></style>\nユッキーのお墨付きまでもらえちまった。これは勝ち確で\r\nす。ありがとうございました。=<style\=RubyPrefixTag></style>\nWe even got Yukki's approval. This is definitely a win.\nThank you.
+    本当にやるんでしょうか…？=Are we really going to do this...?
+    <style\=RubyPrefixTag></style>\n本当にやるんでしょうか…？=<style\=RubyPrefixTag></style>\nAre we really going to do this...?
+    ああ。次現れたらまた出撃命令が出るから、その時は蒼井、手伝ってくれ。一緒に<cspace\=0.2em>RotaryMole</cspace>を倒そう。=Yeah. We'll get another sortie order when it reappears.\nSo help us at that time, Aoi. Let's defeat Rotary Mole\ntogether.2em>RotaryMole</cspace>Let's defeat.
+    <style\=RubyPrefixTag></style>\nああ。次現れたらまた出撃命令が出るから、その時は蒼井、\r\n手伝ってくれ。一緒に<cspace\=0.2em>RotaryMole</cspace>を倒そう。=<style\=RubyPrefixTag></style>\nYeah. We'll get another sortie order when it reappears.\nSo help us at that time, Aoi. Let's defeat Rotary Mole\ntogether.
+    わ、わかりました。=I-I understand.
+    よし、バンド練習に戻るぞ！=Alright, let's get back to band practice!
+    <style\=RubyPrefixTag></style>\nよし、バンド練習に戻るぞ！=<style\=RubyPrefixTag></style>\nAlright, let's get back to band practice!
+    結局戻るのかよ…。=We're going back to that, in the end...
+    <style\=RubyPrefixTag></style>\n結局戻るのかよ…。=<style\=RubyPrefixTag></style>\nWe're going back to that, in the end...
+    まず、ドラムのユッキー！=First, Yukki on drums!
+    ドンパン！　ドドパン！　このぐらいのＢＰＭでリズムをキープしておくれ。=Don-pan! Do-do-pan! Keep the rhythm at this BPM.
+    <style\=RubyPrefixTag></style>\nドンパン！　ドドパン！　このぐらいのＢＰＭでリズムを\r\nキープしておくれ。=<style\=RubyPrefixTag></style>\nDon-pan! Do-do-pan! Keep the rhythm at this BPM.
+    ここにそうだなぁ…おタマさん、こんな感じでベースをおくれ！=Let's see, on this part... O-tama-san, play the bass\nlike this!
+    うんうん、いいね…。=Yeah, that's good...
+    <style\=RubyPrefixTag></style>\nうんうん、いいね…。=<style\=RubyPrefixTag></style>\nYeah, that's good...
+    蒼井も、パワーコードでじゃらーん！と弾いちゃって！=Aoi, play a power chord, like "Jraaan"!
+    おお、ロックになってきたな。=Ooh, it's starting to sound like rock.
+    これにあたしがリフを乗せる。=I'll add my riff to this.
+    こんな感じ！=Like this!
+    すごい。=Amazing.
+    さすが元プロやな。=As expected from a former pro.
+    だったらわたしはこういう感じで入ろうかしら。=Then I'll join in like this.
+    <style\=RubyPrefixTag></style>\nだったらわたしはこういう感じで入ろうかしら。=<style\=RubyPrefixTag></style>\nThen I'll join in like this.
+    かれりん、あたしが鼻歌を歌っていくから、それについてこい！=Karerin, I'll hum a tune, so follow along!
+    ならうちは、こんな感じの音をどーん！と入れていくで！=Then I'll add this kind of sound, boom!
+    みんな、すごかった…。=You guys are amazing...
+    訓練でもねーのに、なんでこんな体力使わせるんだよ…。=Why do we spend so much energy when it's not even\ntraining...
+    <style\=RubyPrefixTag></style>\n訓練でもねーのに、なんでこんな体力使わせるんだよ…。\r\n=<style\=RubyPrefixTag></style>\nWhy do we spend so much energy when it's not even\ntraining...
+    曲になってきましたね！！=It's starting to sound like a song!!
+    <style\=RubyPrefixTag></style>\n曲になってきましたね！！=<style\=RubyPrefixTag></style>\nIt's starting to sound like a song!!
+    １コーラスは出来た。二回繰り返して、最後にもう一回Ｂメロとサビをやればフルコーラス完成さ。=We've got one chorus in. If we repeat it twice and add\nthe B melody and chorus again at the end, we'll have\na full song.
+    でもすぐ忘れてしまいそうですが…。=But it feels like I'll forget it soon...
+    大丈夫。デンチョに録音してあるから。こいつを繰り返し聴いて、体に染み込ませればＯＫ。=It's okay. I've recorded it in the E-Pad. Just listen\nto it repeatedly until it's ingrained in you.
+    <style\=RubyPrefixTag></style>\n大丈夫。デンチョに録音してあるから。こいつを繰り返し\r\n聴いて、体に染み込ませればＯＫ。=<style\=RubyPrefixTag></style>\nIt's okay. I've recorded it in the E-Pad. Just listen\nto it repeatedly until it's ingrained in you.
+    え？　譜面は！？=Eh? What about the sheet music!?
+    <style\=RubyPrefixTag></style>\nえ？　譜面は！？=<style\=RubyPrefixTag></style>\nEh? What about the sheet music!?
+    ん？　あたしは書いたことないけど？=Hm? I've never written sheet music before.
+    一度も！？=Not even once!?
+    さすが天才…。=As expected of prodigy...
+    は、うちかてそんなん要らんわ。=Ha, I don't need that either.
+    お前は効果音出してるだけだからいいよな…。=That's easy for you to say, since you're just making\nsound effects...
+    でもノイズはノイズでもっと奥が深いぜ？=Even noise has its depths.
+    <style\=RubyPrefixTag></style>\nでもノイズはノイズでもっと奥が深いぜ？=<style\=RubyPrefixTag></style>\nEven noise has its depths.
+    ええやん。受けてたったるわ。=Fine. Bring it on.
+[Night]
+    …あれ？=...Huh?
+    特技に寝ることって書けるぐらいなのに、目が冴えて眠れない…。=Even though my special skill is sleeping, I'm wide\nawake and can't sleep...
+    元気があり余ってるのかな？=Do I just have too much energy?
+    散歩でもしてくるかぁ。=Maybe I should go for a walk.
+    <style\=RubyPrefixTag></style>\n散歩でもしてくるかぁ。=<style\=RubyPrefixTag></style>\nMaybe I should go for a walk.
+    はぁ…一気に上まで駆け上がってくると、流石に息が上がるね…。=Haaa... Climbing all the way up in one go is really\ntiring...
+    <style\=RubyPrefixTag></style>\nはぁ…一気に上まで駆け上がってくると、流石に息が上が\r\nるね…。=<style\=RubyPrefixTag></style>\nHaaa... Climbing all the way up in one go is really\ntiring...
+    お、見たことない鳥だな…よしよし、ちっちっち。=Oh, a bird I've never seen before...\nhey there, chirp chirp.
+    <style\=RubyPrefixTag></style>\nお、見たことない鳥だな…よしよし、ちっちっち。=<style\=RubyPrefixTag></style>\nOh, a bird I've never seen before...\nhey there, chirp chirp.
+    おっと、もう行っちゃうのか。=Oh, it flew away.
+    明日も変わらず、晴れるかな？=I wonder if it'll be sunny tomorrow too?
+    …晴れるといいな。=...I hope it will.
+    <style\=RubyPrefixTag></style>\n…晴れるといいな。=<style\=RubyPrefixTag></style>\n...I hope it will.
+    よーし、ちょっとした運動も出来たし、いい加減眠れるだろ。帰ろうっと。=Alright, I got some exercise, so I should be able to\nsleep now. Let's head back.
+    <style\=RubyPrefixTag></style>\nよーし、ちょっとした運動も出来たし、いい加減眠れるだ\r\nろ。帰ろうっと。=<style\=RubyPrefixTag></style>\nAlright, I got some exercise, so I should be able to\nsleep now. Let's head back.
+    <style\=RubyPrefixTag></style>\n『オペレーション・プレアデス』決行まで あと８日=<style\=RubyPrefixTag></style>\n'Operation Pleiades' will commence in 8 days.
+[Extra]
+    [Option - Ultra soul]
+        灰！=Hai (灰)!<space\=-83.367px><voffset\=1em><size\=50%><cspace\=0px>Ash</cspace></size></voffset>\n<size\=75%>(*Lyric from B'z song: Ultra Soul)</size>
+        え！？　お前ら何言ってんの！？=Eh!? What are you guys talking about!?
