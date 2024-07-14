@@ -1,101 +1,92 @@
--------------------------------------
-- Bond 1 TL Added
--
--
--
--------------------------------------
-第四章 前編 Day 9 19 : 00=Chapter 4 Part 1 - Day 9 - 19:00
-つかさっちＶＳカレンちゃん再び=Tsukasacchi vs Karen-chan again
-第三章 Day 3 16 : 30=Chapter 3 - Day 3 - 16:30
-つかさっちは読書が趣味？Ⅱ=Is reading Tsukasacchi's Hobby? II
-つかさっちは読書が趣味？=Is reading Tsukasacchi's Hobby?
-------------------------
-------Tsukasacchi BOND 1
-------------------------
-つかさっちが迷子らしい。図書館に連れて行ってあげよう。=Tsukasacchi seems to be lost. Let's take her to the library.
-よう、つかさっち。こんなところでなにうろうろしてるんだ？=Yo, Tsukasacchi. What are you doing wandering around \nhere?
-図書館を探しているのだけど、どこにあるのかよくわからなくって。=I'm looking for the library, but I can't figure \nout where it is.
-要は迷子なんだな。=In short, you're lost.
-決してそんなことはないわ。すでにこの一帯は把握してるもの。=Absolutely not. I already have a good grasp of this \narea.
-なら、大丈夫だな。=Then you're fine on your own.
-<style\=RubyPrefixTag></style>\nなら、大丈夫だな。=<style\=RubyPrefixTag></style>\nThen you're fine on your own.
-でも、暇なら付き合ってもらえると…。=But, if you're free, it would help if you could \ncome with me...
-え？　ごにょごにょ言ってて、よく聞こえなかった。=Eh? I couldn't hear you well.
-<style\=RubyPrefixTag></style>\nえ？　ごにょごにょ言ってて、よく聞こえなかった。=<style\=RubyPrefixTag></style>\nEh? I couldn't hear you well.
-でも、暇なら付き合ってもらえると助かる！=But, if you're free, it would help if you could \ncome with me!
-やっぱ困ってたんだな。うんうん、いいよ。つかさっちのためなら、張り切っちゃう！=So you were in trouble. Sure, I'll help! For you, \nI'll give it my all!
-よ、よろしく…。=T-Thank you...
-で、図書館だっけ？　歩いていればいつか辿り着くんじゃない？=So, the library, right? If we keep walking, we'll \nget there eventually.
-図書館に向かおう！=Let's head to the library!
-<style\=RubyPrefixTag></style>\n着いたーーー！！=<style\=RubyPrefixTag></style>\nWe've arrived!!
-ありがとう。助かったわ。=Thank you. That was a big help.
-見て。こんな時代なのに、紙の書籍がこんなに膨大にあるの。=Look. Despite the era we're in, there are still so many \npaper books.
-<style\=RubyPrefixTag></style>\n見て。こんな時代なのに、紙の書籍がこんなに膨大にある\r\nの。=<style\=RubyPrefixTag></style>\nLook. Despite the era we're in, there are still so many \npaper books.
-いやぁ、活字が大の苦手で…。=Well, I'm really bad with printed text...
-<cspace\=0.2em>She</cspace> <cspace\=0.2em>is</cspace> <cspace\=0.2em>Legend</cspace>で作詞してたのに！？=Even though you write lyrics for She is Legend!?
-<style\=RubyPrefixTag></style>\n<cspace\=0.2em>She</cspace> <cspace\=0.2em>is</cspace> <cspace\=0.2em>Legend</cspace>で作詞してたのに！？=<style\=RubyPrefixTag></style>\nEven though you write lyrics for She is Legend!?
-歌詞がぎりぎりだねぇ。歌詞より多い文章は読めない。=Lyrics are the most I can do. I can't handle more text \nthan that.
-それであんな歌詞書けてたの！？　作詞で受賞もしていなかった！？=And you wrote such great lyrics!? You even won awards \nfor songwriting!?
-<style\=RubyPrefixTag></style>\nそれであんな歌詞書けてたの！？　作詞で受賞もしていな\r\nかった！？=<style\=RubyPrefixTag></style>\nAnd you wrote such great lyrics!? You even won awards \nfor songwriting!?
-あんなノートの落書きで、なんでもらえたかねぇ。=Yeah, how did I win anything with those notebook doodles?
-さすが、異名が天才過ぎるロッカー！！=You truly live up to your nickname, a prodigy rocker!!
-もう過去の話だから。=That's all in the past.
-<style\=RubyPrefixTag></style>\nもう過去の話だから。=<style\=RubyPrefixTag></style>\nThat's all in the past.
-本当に天才だったのね…。=You really were a prodigy...
-つかさっちは読書が好きなの？=Do you like reading, Tsukasacchi?
-<style\=RubyPrefixTag></style>\nつかさっちは読書が好きなの？=<style\=RubyPrefixTag></style>\nDo you like reading, Tsukasacchi?
-ええ、趣味なの。だから、この場所に居ると、知的好奇心を刺激されて堪らないわ。=Yes, it's my hobby. That's why being here stimulates \nmy intellectual curiosity so much.
-あたしからすれば訓練で体を酷使した後に、本を読んで頭も酷使するだなんて拷問に思える…。=To me, it sounds like torture to read after our \nphysically exhausting training...
-そう？　結構面白いのよ。もちろん勉強にもなるし。=Really? It's quite interesting, you know? And educational, \ntoo.
-えー、どんな難しい本を読んでるの？=Eeh, what kind of difficult books do you read?
-続きが読みたかったのは『異世界に転生したのにワイちゃん鬱でひきこもってる件』という小説。=The book I wanted to continue was a novel called [I've \nbeen reincarnated in another world, but I'm depressed \nand become a shut-in]
-<style\=RubyPrefixTag></style>\n続きが読みたかったのは『異世界に転生したのにワイちゃ\r\nん鬱でひきこもってる件』という小説。=<style\=RubyPrefixTag></style>\nThe book I wanted to continue was a novel called [I've \nbeen reincarnated in another world, but I'm depressed \nand become a shut-in]
-<style\=RubyPrefixTag></style>\n意外とライトなタイトルだ！！=<style\=RubyPrefixTag></style>\nThat's a surprisingly light title!
-そうね。かつては『なってやろう系』と呼ばれたライト寄りなジャンルね。=Yes, it belongs to the "Let's become" genre, which is \non the lighter side.
-<style\=RubyPrefixTag></style>\nそうね。かつては『なってやろう系』と呼ばれたライト寄\r\nりなジャンルね。=<style\=RubyPrefixTag></style>\nYes, it belongs to the "Let's become" genre, which is \non the lighter side.
-諜報員だから、もっと難しい本を読んでると思ってた！！=I thought, as a secret agent, you'd read more challenging \nbooks!!
-<style\=RubyPrefixTag></style>\n諜報員だから、もっと難しい本を読んでると思ってた！！\r\n=<style\=RubyPrefixTag></style>\nI thought, as a secret agent, you'd read more challenging \nbooks!!\r\n
-ミステリーやＳＦ、ノンフィクション、文学作品、哲学書の類いまで一通り読んでみたのだけど、なんだかんだでファンタジーが一番面白いということに気づいたの。=I've tried reading a variety of books, from mysteries, \nSF, non-fiction, and literary works to philosophy. \nBut I realized fantasy is the most interesting.
-ちゃんと他のも読んでみたんだ。=So you did try reading other types.
-読んでみた、は正確ではないわね。１ページ目ですぐ『無理！』って拒絶反応起こしちゃった。=Saying "I tried reading" isn't quite accurate. \nThe moment I open one page, I've experienced a strong \nrejection within me.
-もしかしてわたしって活字が苦手なの？って不安になっていたの。=I started worrying that maybe I was bad at reading text.
-<style\=RubyPrefixTag></style>\nもしかしてわたしって活字が苦手なの？って不安になって\r\nいたの。=<style\=RubyPrefixTag></style>\nI started worrying that maybe I was bad at reading text.
-…それで？=...And then?
-<style\=RubyPrefixTag></style>\n…それで？=<style\=RubyPrefixTag></style>\n...And then?
-そんな時出会ったのがこの『異世界に転生したのにワイちゃん鬱でひきこもってる件』シリーズなの。=That's when I found the [I've been reincarnated in \nanother world, but I'm depressed and become a shut-in] \nseries.
-<style\=RubyPrefixTag></style>\nそんな時出会ったのがこの『異世界に転生したのにワイちゃ\r\nん鬱でひきこもってる件』シリーズなの。=<style\=RubyPrefixTag></style>\nThat's when I found the [I've been reincarnated in \nanother world, but I'm depressed and become a shut-in] \nseries.
-<style\=RubyPrefixTag></style>\nこれは、すらすらと読めるの！=<style\=RubyPrefixTag></style>\nI could read this one so smoothly!
-わたしは活字が苦手なんじゃなく、ジャンルが合わなかっただけなんだ！とわかってほっとしたわ。=I realized that it wasn't that I was bad with text. \nIt was just that the genre didn't suit me! I felt \nrelieved.
-<style\=RubyPrefixTag></style>\nわたしは活字が苦手なんじゃなく、ジャンルが合わなかっ\r\nただけなんだ！とわかってほっとしたわ。=<style\=RubyPrefixTag></style>\nI realized that it wasn't that I was bad with text. \nIt was just that the genre didn't suit me! I felt \nrelieved.
-そっかー…。=So it's like that...
-ううん、知的好奇心を満たしまくってくれ。=Naah, it satisfies my intellectual curiosity to the \nfullest.
-------------------------
-bath
-------------------------
-（つかさっちを誘ってお風呂に行こうかな）=(Should I invite Tsukasacchi to the bath?)
-つかさっち、一緒にお風呂行かない？=Tsukasacchi, do you want to go to the bath together?
-<style\=RubyPrefixTag></style>\nつかさっち、一緒にお風呂行かない？=<style\=RubyPrefixTag></style>\nTsukasacchi, do you want to go to the bath together?
-ええ、いいわよ。=Sure, that's ok for me.
-月歌さんって、スタイル、いいのね…。=Ruka-san, you have a great figure...
-<style\=RubyPrefixTag></style>\n月歌さんって、スタイル、いいのね…。=<style\=RubyPrefixTag></style>\nRuka-san, you have a great figure...
-よく言われる。=People often say that.
-<style\=RubyPrefixTag></style>\nよく言われる。=<style\=RubyPrefixTag></style>\nPeople often say that.
-さすが、一世を風靡した大人気アーティストね。=As expected of a hugely popular artist.
-つかさっちも、負けず劣らず素敵だと思うよ？=I think you're just as wonderful, Tsukasacchi.
-そう？　女性として少しは気をつけてるつもりだから、嬉しいわ。=Really? As a woman, I try to take care of myself, \nso that makes me happy.
-<style\=RubyPrefixTag></style>\nそう？　女性として少しは気をつけてるつもりだから、嬉\r\nしいわ。=<style\=RubyPrefixTag></style>\nReally? As a woman, I try to take care of myself, \nso that makes me happy.
-どういうとこに気をつけてるの？=What do you pay attention of?
-<style\=RubyPrefixTag></style>\nどういうとこに気をつけてるの？=<style\=RubyPrefixTag></style>\nWhat do you pay attention of?
-食べるもの。それに尽きるわ。今食べたものが明日からの自分の肌を作るの。=What I eat. It's all about that. What I eat today \nwill create my skin from tomorrow.
-あたしも気を遣ってる！　お肉たくさん食べてる！=I also pay attention to it! I eat lots of meat!
-<style\=RubyPrefixTag></style>\nあたしも気を遣ってる！　お肉たくさん食べてる！=<style\=RubyPrefixTag></style>\nI also pay attention to it! I eat lots of meat!
-それだけ…？=Is that all you eat...?
-タンパク質もいいけど、食物繊維や、ビタミンＢ群をバランスよく摂るべきよ。=Protein is good and all, but you should balance it \nwith dietary fiber and vitamin B complex.
-<style\=RubyPrefixTag></style>\nタンパク質もいいけど、食物繊維や、ビタミンＢ群をバラ\r\nンスよく摂るべきよ。=<style\=RubyPrefixTag></style>\nProtein is good and all, but you should balance it \nwith dietary fiber and vitamin B complex.
-お肉にはないの？=Does meat have none of that?
-<style\=RubyPrefixTag></style>\nお肉にはないの？=<style\=RubyPrefixTag></style>\nDoes meat have none of that?
-肉に食物繊維は０グラムよ。=Meat has 0 grams of dietary fiber.
-<style\=RubyPrefixTag></style>\n肉に食物繊維は０グラムよ。=<style\=RubyPrefixTag></style>\nMeat has 0 grams of dietary fiber.
-月歌ちゃーーーーん、ショック！=RUKA-CHAAAAAN SHOCK!
-ふふっ、月歌さんていつも面白いわね。=Hehe, you're always so funny, Ruka-san.
--------------------------------------
+[Misc]
+    第四章 前編 Day 9 19 : 00=Chapter 4 Part 1 - Day 9 - 19:00
+    つかさっちＶＳカレンちゃん再び=Tsukasacchi vs Karen-chan again
+    第三章 Day 3 16 : 30=Chapter 3 - Day 3 - 16:30
+    つかさっちは読書が趣味？Ⅱ=Is reading Tsukasacchi's Hobby? II
+    つかさっちは読書が趣味？=Is reading Tsukasacchi's Hobby?
+[Tsukasa 1]
+    [start]
+        つかさっちが迷子らしい。図書館に連れて行ってあげよう。=Tsukasacchi seems to be lost. Let's take her to the library.
+        よう、つかさっち。こんなところでなにうろうろしてるんだ？=Yo, Tsukasacchi. What are you doing wandering around \nhere?
+        図書館を探しているのだけど、どこにあるのかよくわからなくって。=I'm looking for the library, but I can't figure \nout where it is.
+        要は迷子なんだな。=In short, you're lost.
+        決してそんなことはないわ。すでにこの一帯は把握してるもの。=Absolutely not. I already have a good grasp of this \narea.
+        なら、大丈夫だな。=Then you're fine on your own.
+        <style\=RubyPrefixTag></style>\nなら、大丈夫だな。=<style\=RubyPrefixTag></style>\nThen you're fine on your own.
+        でも、暇なら付き合ってもらえると…。=But, if you're free, it would help if you could \ncome with me...
+        え？　ごにょごにょ言ってて、よく聞こえなかった。=Eh? I couldn't hear you well.
+        <style\=RubyPrefixTag></style>\nえ？　ごにょごにょ言ってて、よく聞こえなかった。=<style\=RubyPrefixTag></style>\nEh? I couldn't hear you well.
+        でも、暇なら付き合ってもらえると助かる！=But, if you're free, it would help if you could \ncome with me!
+        やっぱ困ってたんだな。うんうん、いいよ。つかさっちのためなら、張り切っちゃう！=So you were in trouble. Sure, I'll help! For you, \nI'll give it my all!
+        よ、よろしく…。=T-Thank you...
+        で、図書館だっけ？　歩いていればいつか辿り着くんじゃない？=So, the library, right? If we keep walking, we'll \nget there eventually.
+        図書館に向かおう！=Let's head to the library!
+        <style\=RubyPrefixTag></style>\n着いたーーー！！=<style\=RubyPrefixTag></style>\nWe've arrived!!
+        ありがとう。助かったわ。=Thank you. That was a big help.
+        見て。こんな時代なのに、紙の書籍がこんなに膨大にあるの。=Look. Despite the era we're in, there are still so many \npaper books.
+        <style\=RubyPrefixTag></style>\n見て。こんな時代なのに、紙の書籍がこんなに膨大にある\r\nの。=<style\=RubyPrefixTag></style>\nLook. Despite the era we're in, there are still so many \npaper books.
+        いやぁ、活字が大の苦手で…。=Well, I'm really bad with printed text...
+        <cspace\=0.2em>She</cspace> <cspace\=0.2em>is</cspace> <cspace\=0.2em>Legend</cspace>で作詞してたのに！？=Even though you write lyrics for She is Legend!?
+        <style\=RubyPrefixTag></style>\n<cspace\=0.2em>She</cspace> <cspace\=0.2em>is</cspace> <cspace\=0.2em>Legend</cspace>で作詞してたのに！？=<style\=RubyPrefixTag></style>\nEven though you write lyrics for She is Legend!?
+        歌詞がぎりぎりだねぇ。歌詞より多い文章は読めない。=Lyrics are the most I can do. I can't handle more text \nthan that.
+        それであんな歌詞書けてたの！？　作詞で受賞もしていなかった！？=And you wrote such great lyrics!? You even won awards \nfor songwriting!?
+        <style\=RubyPrefixTag></style>\nそれであんな歌詞書けてたの！？　作詞で受賞もしていな\r\nかった！？=<style\=RubyPrefixTag></style>\nAnd you wrote such great lyrics!? You even won awards \nfor songwriting!?
+        あんなノートの落書きで、なんでもらえたかねぇ。=Yeah, how did I win anything with those notebook doodles?
+        さすが、異名が天才過ぎるロッカー！！=You truly live up to your nickname, a prodigy rocker!!
+        もう過去の話だから。=That's all in the past.
+        <style\=RubyPrefixTag></style>\nもう過去の話だから。=<style\=RubyPrefixTag></style>\nThat's all in the past.
+        本当に天才だったのね…。=You really were a prodigy...
+        つかさっちは読書が好きなの？=Do you like reading, Tsukasacchi?
+        <style\=RubyPrefixTag></style>\nつかさっちは読書が好きなの？=<style\=RubyPrefixTag></style>\nDo you like reading, Tsukasacchi?
+        ええ、趣味なの。だから、この場所に居ると、知的好奇心を刺激されて堪らないわ。=Yes, it's my hobby. That's why being here stimulates \nmy intellectual curiosity so much.
+        あたしからすれば訓練で体を酷使した後に、本を読んで頭も酷使するだなんて拷問に思える…。=To me, it sounds like torture to read after our \nphysically exhausting training...
+        そう？　結構面白いのよ。もちろん勉強にもなるし。=Really? It's quite interesting, you know? And educational, \ntoo.
+        えー、どんな難しい本を読んでるの？=Eeh, what kind of difficult books do you read?
+        続きが読みたかったのは『異世界に転生したのにワイちゃん鬱でひきこもってる件』という小説。=The book I wanted to continue was a novel called [I've \nbeen reincarnated in another world, but I'm depressed \nand become a shut-in]
+        <style\=RubyPrefixTag></style>\n続きが読みたかったのは『異世界に転生したのにワイちゃ\r\nん鬱でひきこもってる件』という小説。=<style\=RubyPrefixTag></style>\nThe book I wanted to continue was a novel called [I've \nbeen reincarnated in another world, but I'm depressed \nand become a shut-in]
+        <style\=RubyPrefixTag></style>\n意外とライトなタイトルだ！！=<style\=RubyPrefixTag></style>\nThat's a surprisingly light title!
+        そうね。かつては『なってやろう系』と呼ばれたライト寄りなジャンルね。=Yes, it belongs to the "Let's become" genre, which is \non the lighter side.
+        <style\=RubyPrefixTag></style>\nそうね。かつては『なってやろう系』と呼ばれたライト寄\r\nりなジャンルね。=<style\=RubyPrefixTag></style>\nYes, it belongs to the "Let's become" genre, which is \non the lighter side.
+        諜報員だから、もっと難しい本を読んでると思ってた！！=I thought, as a secret agent, you'd read more challenging \nbooks!!
+        <style\=RubyPrefixTag></style>\n諜報員だから、もっと難しい本を読んでると思ってた！！\r\n=<style\=RubyPrefixTag></style>\nI thought, as a secret agent, you'd read more challenging \nbooks!!\r\n
+        ミステリーやＳＦ、ノンフィクション、文学作品、哲学書の類いまで一通り読んでみたのだけど、なんだかんだでファンタジーが一番面白いということに気づいたの。=I've tried reading a variety of books, from mysteries, \nSF, non-fiction, and literary works to philosophy. \nBut I realized fantasy is the most interesting.
+        ちゃんと他のも読んでみたんだ。=So you did try reading other types.
+        読んでみた、は正確ではないわね。１ページ目ですぐ『無理！』って拒絶反応起こしちゃった。=Saying "I tried reading" isn't quite accurate. \nThe moment I open one page, I've experienced a strong \nrejection within me.
+        もしかしてわたしって活字が苦手なの？って不安になっていたの。=I started worrying that maybe I was bad at reading text.
+        <style\=RubyPrefixTag></style>\nもしかしてわたしって活字が苦手なの？って不安になって\r\nいたの。=<style\=RubyPrefixTag></style>\nI started worrying that maybe I was bad at reading text.
+        …それで？=...And then?
+        <style\=RubyPrefixTag></style>\n…それで？=<style\=RubyPrefixTag></style>\n...And then?
+        そんな時出会ったのがこの『異世界に転生したのにワイちゃん鬱でひきこもってる件』シリーズなの。=That's when I found the [I've been reincarnated in \nanother world, but I'm depressed and become a shut-in] \nseries.
+        <style\=RubyPrefixTag></style>\nそんな時出会ったのがこの『異世界に転生したのにワイちゃ\r\nん鬱でひきこもってる件』シリーズなの。=<style\=RubyPrefixTag></style>\nThat's when I found the [I've been reincarnated in \nanother world, but I'm depressed and become a shut-in] \nseries.
+        <style\=RubyPrefixTag></style>\nこれは、すらすらと読めるの！=<style\=RubyPrefixTag></style>\nI could read this one so smoothly!
+        わたしは活字が苦手なんじゃなく、ジャンルが合わなかっただけなんだ！とわかってほっとしたわ。=I realized that it wasn't that I was bad with text. \nIt was just that the genre didn't suit me! I felt \nrelieved.
+        <style\=RubyPrefixTag></style>\nわたしは活字が苦手なんじゃなく、ジャンルが合わなかっ\r\nただけなんだ！とわかってほっとしたわ。=<style\=RubyPrefixTag></style>\nI realized that it wasn't that I was bad with text. \nIt was just that the genre didn't suit me! I felt \nrelieved.
+        そっかー…。=So it's like that...
+        ううん、知的好奇心を満たしまくってくれ。=Naah, it satisfies my intellectual curiosity to the \nfullest.
+    [Bath]
+        （つかさっちを誘ってお風呂に行こうかな）=(Should I invite Tsukasacchi to the bath?)
+        つかさっち、一緒にお風呂行かない？=Tsukasacchi, do you want to go to the bath together?
+        <style\=RubyPrefixTag></style>\nつかさっち、一緒にお風呂行かない？=<style\=RubyPrefixTag></style>\nTsukasacchi, do you want to go to the bath together?
+        ええ、いいわよ。=Sure, that's ok for me.
+        月歌さんって、スタイル、いいのね…。=Ruka-san, you have a great figure...
+        <style\=RubyPrefixTag></style>\n月歌さんって、スタイル、いいのね…。=<style\=RubyPrefixTag></style>\nRuka-san, you have a great figure...
+        よく言われる。=People often say that.
+        <style\=RubyPrefixTag></style>\nよく言われる。=<style\=RubyPrefixTag></style>\nPeople often say that.
+        さすが、一世を風靡した大人気アーティストね。=As expected of a hugely popular artist.
+        つかさっちも、負けず劣らず素敵だと思うよ？=I think you're just as wonderful, Tsukasacchi.
+        そう？　女性として少しは気をつけてるつもりだから、嬉しいわ。=Really? As a woman, I try to take care of myself, \nso that makes me happy.
+        <style\=RubyPrefixTag></style>\nそう？　女性として少しは気をつけてるつもりだから、嬉\r\nしいわ。=<style\=RubyPrefixTag></style>\nReally? As a woman, I try to take care of myself, \nso that makes me happy.
+        どういうとこに気をつけてるの？=What do you pay attention of?
+        <style\=RubyPrefixTag></style>\nどういうとこに気をつけてるの？=<style\=RubyPrefixTag></style>\nWhat do you pay attention of?
+        食べるもの。それに尽きるわ。今食べたものが明日からの自分の肌を作るの。=What I eat. It's all about that. What I eat today \nwill create my skin from tomorrow.
+        あたしも気を遣ってる！　お肉たくさん食べてる！=I also pay attention to it! I eat lots of meat!
+        <style\=RubyPrefixTag></style>\nあたしも気を遣ってる！　お肉たくさん食べてる！=<style\=RubyPrefixTag></style>\nI also pay attention to it! I eat lots of meat!
+        それだけ…？=Is that all you eat...?
+        タンパク質もいいけど、食物繊維や、ビタミンＢ群をバランスよく摂るべきよ。=Protein is good and all, but you should balance it \nwith dietary fiber and vitamin B complex.
+        <style\=RubyPrefixTag></style>\nタンパク質もいいけど、食物繊維や、ビタミンＢ群をバラ\r\nンスよく摂るべきよ。=<style\=RubyPrefixTag></style>\nProtein is good and all, but you should balance it \nwith dietary fiber and vitamin B complex.
+        お肉にはないの？=Does meat have none of that?
+        <style\=RubyPrefixTag></style>\nお肉にはないの？=<style\=RubyPrefixTag></style>\nDoes meat have none of that?
+        肉に食物繊維は０グラムよ。=Meat has 0 grams of dietary fiber.
+        <style\=RubyPrefixTag></style>\n肉に食物繊維は０グラムよ。=<style\=RubyPrefixTag></style>\nMeat has 0 grams of dietary fiber.
+        月歌ちゃーーーーん、ショック！=RUKA-CHAAAAAN SHOCK!
+        ふふっ、月歌さんていつも面白いわね。=Hehe, you're always so funny, Ruka-san.
