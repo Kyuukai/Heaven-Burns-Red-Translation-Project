@@ -1,0 +1,122 @@
+[Arasuji - Misc]
+    訓練も大詰めの中、休日を満喫する一同は、\n新曲をフルコーラスでやることに…。\n※自由時間：フレーバー通りオープン=Amid the final stages of training, everyone enjoys their\nday off and decides to perform the new song in full chorus.\n※Free Time: Flavor Street Open
+    蒼井=Aoi
+[Free Time]
+    まだまだ行ったことのない施設がたくさん見えるな。=There's still a lot of facilities I haven't been to yet.
+    いつかこの橋を爆破するスタントやってみたいなー=I want to try a stunt where\nI blow up this bridge someday.
+    …君が為め 尽くす心は 水の泡 消えにし後は 澄みわたる空。=...For you, I dedicate my heart, like bubbles in water,\ndisappearing leaves, a clear sky.
+    <style\=RubyPrefixTag></style>\n…君が為め 尽くす心は 水の泡 消えにし後は 澄みわたる\r\n空。=<style\=RubyPrefixTag></style>\n...For you, I dedicate my heart, like bubbles in water,\ndisappearing leaves, a clear sky.
+    森林浴には\nリラックス効果があるの。=Forest Bathing (森林浴)\nhas a relaxing effect.
+    訓練漬けの私たちには\nもってこいですね！！=Perfect for us\nwho are always training!
+    この私に相応しいペンを、君が選んでくれないかい。=Can you choose a pen suitable for me?
+    気合いがありゃ、\nよいよできんこたぁなぁ。=If ya got the gumption, ya can do anythin'
+    柳、訳せ。=Yanagi, translate.
+    気合いがあれば、\n何でもできる。\nと申しております。=She says,\n"If you have the willpower, you can do anything"
+    こいつらの生きてる目的ってなんなんやろうな。=I wonder what they are livin' for.
+    <style\=RubyPrefixTag></style>\nこいつらの生きてる目的ってなんなんやろうな。=<style\=RubyPrefixTag></style>\nI wonder what they are livin' for.
+[Free Time 2]
+    茅森、ちょっといいか。=Kayamori, do you have time?
+[Studio]
+    新曲の練習ですよね=We have practice for\nthe new song, right?
+    どこまでできるか楽しみです！=I'm excited to see\nhow far we can get!
+    スタジオに集合=Gather at the studio.
+    さーて、新曲をフルコーラスでやってみますか。=Alright, shall we try the new song in full chorus?
+    <style\=RubyPrefixTag></style>\nさーて、新曲をフルコーラスでやってみますか。=<style\=RubyPrefixTag></style>\nAlright, shall we try the new song in full chorus?
+    はえーよ。=That's so fast.
+    いけるって！=We can do it!
+    <style\=RubyPrefixTag></style>\nいけるって！=<style\=RubyPrefixTag></style>\nWe can do it!
+    やったろうやないか。=Bring it on.
+    お前は効果音出してるだけだからな…。=You're just providing sound effects, okay...?
+    やったりましょう！=Let's do this!
+    いいわよ。=Sure!
+    頑張ります！=I'll do my best!
+    まだ歌詞がないのだけど…。=But we don't have lyrics yet...
+    なんちゃって英語でいいんだよ。=We can use Whatever-English for now.
+    <style\=RubyPrefixTag></style>\nなんちゃって英語でいいんだよ。=<style\=RubyPrefixTag></style>\nWe can use Whatever-English for now.
+    なんちゃって英語…？=Whatever-English...?
+    <style\=RubyPrefixTag></style>\nなんちゃって英語…？=<style\=RubyPrefixTag></style>\nWhatever-English...?
+    不思議なことに英語っぽく歌うと気持ちいいんだよ。後でそれが作詞のヒントにもなるからけっこー有意義。=Surprisingly, singing in Whatever-English feels good.\nIt can even inspire lyrics later on, so it's quite useful.
+    やってみる…。=I'll try...
+    ユッキー、よろしく！=Yukki, I'm counting on you!
+    <style\=RubyPrefixTag></style>\nユッキー、よろしく！=<style\=RubyPrefixTag></style>\nYukki, I'm counting on you!
+    ワン、ツー…！=One, two...!
+    もうちょいだな！　もう一回！=Almost there! One more time!
+    あー、惜しいな！　もう一回！=Ah, so close! One more time!
+    <style\=RubyPrefixTag></style>\nあー、惜しいな！　もう一回！=<style\=RubyPrefixTag></style>\nAh, so close! One more time!
+    キメどころもうちょっと合わせよう！　もう一回！=Let's sync up the key moments a bit more! One more time!
+    <style\=RubyPrefixTag></style>\nキメどころもうちょっと合わせよう！　もう一回！=<style\=RubyPrefixTag></style>\nLet's sync up the key moments a bit more! One more time!
+    あとちょっとだ！　もう一回！=Just a little more! One more time!
+    <style\=RubyPrefixTag></style>\nあとちょっとだ！　もう一回！=<style\=RubyPrefixTag></style>\nJust a little more! One more time!
+    んー、ほんとに惜しいな！　もう一回！=Hmm, almost had it! One more time!
+    <style\=RubyPrefixTag></style>\nんー、ほんとに惜しいな！　もう一回！=<style\=RubyPrefixTag></style>\nHmm, almost had it! One more time!
+    …って無限ループか！=...Is this an endless loop!?
+    お前同じこと言い出したからな。永遠に続くのかと戦慄が走ったわ。=You started repeating yourself, I was horrified thinking\nit would go on forever.
+    <style\=RubyPrefixTag></style>\nお前同じこと言い出したからな。永遠に続くのかと戦慄が\r\n走ったわ。=<style\=RubyPrefixTag></style>\nYou started repeating yourself, I was horrified thinking\nit would go on forever.
+    でも惜しいのは本当よ？=But the fact that we almost had it is true, though?
+    <style\=RubyPrefixTag></style>\nでも惜しいのは本当よ？=<style\=RubyPrefixTag></style>\nBut the fact that we almost had it is true, though?
+    ここまで合ってきたんですから、やりましょう！=Since we've come this far, let's do it!
+    <style\=RubyPrefixTag></style>\nここまで合ってきたんですから、やりましょう！=<style\=RubyPrefixTag></style>\nSince we've come this far, let's do it!
+    ええやないか！=Fine, bring it on!
+    <style\=RubyPrefixTag></style>\nええやないか！=<style\=RubyPrefixTag></style>\nFine, bring it on!
+    お前だけは気楽でいいよな…。=You're the only one who had it easy...
+    じゃ、ラストだ！　ワン、ツー…！=Alright, last one! One, two...!
+    合った…。=It came together...
+    出来た…。=It's complete...
+    完璧！=Perfect!
+    やってやりました！！=We did it!!
+    <style\=RubyPrefixTag></style>\nやってやりました！！=<style\=RubyPrefixTag></style>\nWe did it!!
+    ふぅー…。=Phew...
+    <style\=RubyPrefixTag></style>\nふぅー…。=<style\=RubyPrefixTag></style>\nPhew...
+    なかなかええ曲やな。これは売れるで。=This is a great song. It'll sell well.
+    お前だけはプロデューサー的な感想だな…。=Why are you the only one who sounds like a producer...
+    <style\=RubyPrefixTag></style>\nお前だけはプロデューサー的な感想だな…。=<style\=RubyPrefixTag></style>\nWhy are you the only one who sounds like a producer...
+[Night - Rooftop]
+    みんなー！　外、すげーいい風吹いてるからさ、夕涼みにいかない？=Everyone! The breeze outside feels great, let's go\nenjoy the night breeze!
+    まず、こっちこっち。=First off, over here.
+    夕涼みって言ったら、炭酸でプシュッと行きたいじゃん？=When enjoying the night breeze, you want pull the tab,\nright?
+    <style\=RubyPrefixTag></style>\n夕涼みって言ったら、炭酸でプシュッと行きたいじゃん？\r\n=<style\=RubyPrefixTag></style>\nWhen enjoying the night breeze, you want pull the tab,\nright?
+    ビールなんて売ってないからな。=They don't sell beer here.
+    わかってるよ。でも、それに近いのを見つけたんだ。これだ！=I know. But I found something close to it. This!
+    <style\=RubyPrefixTag></style>\nわかってるよ。でも、それに近いのを見つけたんだ。これ\r\nだ！=<style\=RubyPrefixTag></style>\nI know. But I found something close to it. This!
+    炭酸水？=Sparkling water?
+    え、うちらも買わなあかんの？=Wait, we hafta buy one too?
+    <style\=RubyPrefixTag></style>\nえ、うちらも買わなあかんの？=<style\=RubyPrefixTag></style>\nWait, we hafta buy one too?
+    いかん。=Yep.
+    では、乾杯！=Well then, cheers!
+    <style\=RubyPrefixTag></style>\nでは、乾杯！=<style\=RubyPrefixTag></style>\nWell then, cheers!
+    乾杯！=Cheers!
+    うん、乾杯。=Yeah, cheers.
+    うえ…味せーへん…。=Ugh... It has no taste...
+    味があったらビールじゃん。=If it had taste, it would be beer.
+    サイダーだろ。=Cider have taste too.
+    あれ、そう？=Oh, really?
+    本当、いい風…。=The breeze really is nice...
+    <style\=RubyPrefixTag></style>\n本当、いい風…。=<style\=RubyPrefixTag></style>\nThe breeze really is nice...
+    春も終わって、いよいよ夏が来るって感じ…。=Spring is ending, and it really feels like summer is\ncoming...
+    この春はまさに出会いの季節だったなー。=This spring was truly a season of encounters.
+    それと同時に戦いの始まりでもあったんだぞ。=At the same time, it was the beginning of battles.
+    そりゃ訓練や任務で大変なことばかりだけど、あたしはみんなと出会えたことのほうが大事だよ。=Sure, the training and missions are tough, but meeting\neveryone is more important to me.
+    <style\=RubyPrefixTag></style>\nそりゃ訓練や任務で大変なことばかりだけど、あたしはみ\r\nんなと出会えたことのほうが大事だよ。=<style\=RubyPrefixTag></style>\nSure, the training and missions are tough, but meeting\neveryone is more important to me.
+    なんでやねん。うちら斬り込み隊やで。その隊長がなにのんきなこと言うとるんや。=What the heck? We're an assault unit. The leader\nshouldn't be talkin' all carefree like that.
+    まあまあ、いいじゃないですか。兵士でもありますが、私たちは女の子でもあるんですから。=Now now, it's fine, isn't it? We're soldiers, but we're\nalso girls.
+    タマまでなに言うとんねん…みんなのんきなもんやで…。=Even Tama is sayin' that... Everyone is so carefree...
+    <style\=RubyPrefixTag></style>\nタマまでなに言うとんねん…みんなのんきなもんやで…。\r\n=<style\=RubyPrefixTag></style>\nEven Tama is sayin' that... Everyone is so carefree...
+    みんなが無事なら、いつまででも続いて欲しいぐらいだ。=As long as everyone's safe, I wish this could go on\nforever.
+    残念ながら、無事な保証はまったくねーな。=Unfortunately, there's no guarantee that we'll be safe\nat all.
+    <style\=RubyPrefixTag></style>\n残念ながら、無事な保証はまったくねーな。=<style\=RubyPrefixTag></style>\nUnfortunately, there's no guarantee that we'll be safe\nat all.
+    ユッキーでも！？=Not even for Yukki!?
+    むしろハッカーは一番体よえーわ。ギター背負ってツアー回ってたお前より強いと思えたか。=If anything, hackers are the most physically weak.\nDid you think I was stronger than someone who toured\nwith a guitar on their back?
+    めっちゃ頑丈に見えるよ？　象に踏まれても平気そうじゃん？=You seem really tough  though? Like you could be stepped\non by an elephant and be fine.
+    <style\=RubyPrefixTag></style>\nめっちゃ頑丈に見えるよ？　象に踏まれても平気そうじゃ\r\nん？=<style\=RubyPrefixTag></style>\nYou seem really tough  though? Like you could be stepped\non by an elephant and be fine.
+    女性としてひでー言われようだ…。=That's a terrible thing to say to a woman...
+    <style\=RubyPrefixTag></style>\n女性としてひでー言われようだ…。=<style\=RubyPrefixTag></style>\nThat's a terrible thing to say to a woman...
+    でもメンタルはそうかも。いつもみんなにずばずば言うし。=Though mentally, maybe. She always says things straight\nto everyone.
+    たまに恐いし…！！=But sometimes, you're scary...!!
+    <style\=RubyPrefixTag></style>\nたまに恐いし…！！=<style\=RubyPrefixTag></style>\nBut sometimes, you're scary...!!
+    好きでツッコミやってるわけじゃないからな。=I don't do it because I want to be the straight-man.
+    ほんま、先が思いやられるチームやで。=Seriously, this team has a mighty bleak future.
+    <style\=RubyPrefixTag></style>\nほんま、先が思いやられるチームやで。=<style\=RubyPrefixTag></style>\nSeriously, this team has a mighty bleak future.
+    お前が言うなよ。=You don't get to say that.
+    こんな日常がずっと続けばいいのになぁ。=I wish this daily life could last forever.
+    <style\=RubyPrefixTag></style>\nこんな日常がずっと続けばいいのになぁ。=<style\=RubyPrefixTag></style>\nI wish this daily life could last forever.
+    <style\=RubyPrefixTag></style>\n『オペレーション・プレアデス』決行まで あと７日=<style\=RubyPrefixTag></style>\n'Operation Pleiades' will commence in 7 days.
