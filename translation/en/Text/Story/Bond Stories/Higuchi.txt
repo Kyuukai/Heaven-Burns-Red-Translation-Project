@@ -1,0 +1,110 @@
+[Higuchi 1]
+    [Misc]
+        切れ味のいいアレⅣ=The Sharp Thing IV
+        第四章 後編 Day 13 12 : 30=Chapter 4 Part 2 - Day 13 - 12:30
+        切れ味のいいアレⅢ=The Sharp Thing III
+        第二章 Day 19 17 : 30=Chapter 2 - Day 19 - 17:30
+        切れ味のいいアレⅡ=The Sharp Thing II
+        第一章 Day 5 19 : 00=Chapter 1 - Day 5 - 19:00
+        切れ味のいいアレ=The Sharp Thing
+        第五章 前編 Day 8 19 : 00=Chapter 5 Part 1 - Day 8 - 19:00
+    [Req etc]
+        ひぐみんがあたしの切れ味のいいアレを見たいらしい。見せつけて仲を深めよう！=<size\=75%>Higumin want to see my 'sharp thing'. Let's show it off and deepen our bond!</size>
+    [start]
+        だから、お前の切れ味のいいアレを見てやろう=So, let me see your 'sharp thing'.
+        （あたしのアレって、切れ味がいいのか…なら自信を持って見せにいこう）=(That 'thing' of mine is that 'sharp'...?\nI'll confidently show it then)
+        <style\=RubyPrefixTag></style>\n（あたしのアレって、切れ味がいいのか…なら自信を持って\r\n見せにいこう）=<style\=RubyPrefixTag></style>\n(That 'thing' of mine is that 'sharp'...?\nI'll confidently show it then)
+        研究所で切れ味のいいアレを見せに行こう！=Let's show the 'sharp thing' to the research building!
+        来たか。どれ、見せてみろ。=You've come. Show it to me.
+        おうッ、何ができる？=Ooh, what can you make?
+        <style\=RubyPrefixTag></style>\nおうッ、何ができる？=<style\=RubyPrefixTag></style>\nOoh, what can you make?
+        花巻にしっぽく？　しっぽくひとつこしらいてくんねえ。寒いなァ。=Hanamaki ni shippoku*? Make me one, it's cold.\n<size\=80%>(*a soba in soup with slices of boiled fish paste.)</size>
+        <style\=RubyPrefixTag></style>\n花巻にしっぽく？　しっぽくひとつこしらいてくんねえ。\r\n寒いなァ。=<style\=RubyPrefixTag></style>\nHanamaki ni shippoku*? Make me one, it's cold.\n<size\=80%>(*a soba in soup with slices of boiled fish paste.)</size>
+        今夜はたいへんお寒うございます。=It's very cold tonight.
+        どうでえ商売は？=How's business?
+        お前は何をやっているんだ。=What the hell are you doing?
+        切れ味のいい寄席。=A 'sharp/witty' comedy theatre.
+        <style\=RubyPrefixTag></style>\nそんなものを見たいと思ったか！\nしかも一番ベタなときそばじゃないか！\n切れ味もクソもないわ！=<style\=RubyPrefixTag></style>\nDid you really think I want to see such\na thing!? Also it's the cliche Tokisoba\nstory! There's no sharpness or shit!
+        自信あったのに。=I was so confident, though.
+        今までウケてきたとでも言うのか。=Do people find it funny so far?
+        <style\=RubyPrefixTag></style>\n今までウケてきたとでも言うのか。=<style\=RubyPrefixTag></style>\nDo people find it funny so far?
+        披露するのは初めて。=It's my first time performing it.
+        <style\=RubyPrefixTag></style>\n初めてで、よくときそばなんて\nぶっ込んでくる気になったな！=<style\=RubyPrefixTag></style>\nIt's your first time,\nand you chose to perform Tokisoba!?
+        一周…いや、１００周ぐらいして、逆に面白くなってきた、みたいな？=After one... no, after a hundred rounds, it becomes\nsurprisingly funny, doesn't it?
+        <style\=RubyPrefixTag></style>\n一周…いや、１００周ぐらいして、逆に面白くなってきた、\r\nみたいな？=<style\=RubyPrefixTag></style>\nAfter one... no, after a hundred rounds, it becomes\nsurprisingly funny, doesn't it?
+        <style\=RubyPrefixTag></style>\nつまんないだろ！！\n１００周もしたら、\nもう古典の域だろ！！=<style\=RubyPrefixTag></style>\nIt's not funny at all! After a hundred rounds,\nit's already a classic!
+        そのいぶし銀な感じが堪らないんじゃん？=That aged charm is irresistible, isn't it?
+        くだらんわ。馬鹿らしい。もう帰れ。=Nonsense. How ridiculous. Just leave.
+        <style\=RubyPrefixTag></style>\nくだらんわ。馬鹿らしい。もう帰れ。=<style\=RubyPrefixTag></style>\nNonsense. How ridiculous. Just leave.
+        （切れ味のいいアレか…。仕入れ先としては図書館が適切だろうな）=(A 'sharp thing'... The library is a good place to start)
+        <style\=RubyPrefixTag></style>\n（切れ味のいいアレか…。仕入れ先としては図書館が適切だ\r\nろうな）=<style\=RubyPrefixTag></style>\n(A 'sharp thing'... The library is a good place to start)
+        図書館で切れ味のいいネタを仕入れよう！=Let's gather some 'sharp' material at the library!
+    [Library]
+        （どれどれ…）=(Let's see...)
+        <style\=RubyPrefixTag></style>\nやべ…これは面白い…=<style\=RubyPrefixTag></style>\nOh man, this is hilarious...
+        腹がよじれてイテェ…。=My stomach hurts from laughing...
+        <style\=RubyPrefixTag></style>\n腹がよじれてイテェ…。=<style\=RubyPrefixTag></style>\nMy stomach hurts from laughing...
+        研究棟に戻ろう！=Let's go back to the research building!
+        またお前か。今度こそ切れ味のいいアレを見せる気になったか。=You again. Are you ready to show your 'sharp thing'\nthis time?
+        お前のアレは特殊だからな。興味が尽きないのだよ。=Your thing is unique. It never ceases to intrigue me.
+        <style\=RubyPrefixTag></style>\nお前のアレは特殊だからな。興味が尽きないのだよ。=<style\=RubyPrefixTag></style>\nYour thing is unique. It never ceases to intrigue me.
+        どうしたんだい。=What's wrong?
+        恐いものを思い出しちまった。=I remembered something scary.
+        <style\=RubyPrefixTag></style>\n恐いものを思い出しちまった。=<style\=RubyPrefixTag></style>\nI remembered something scary.
+        それはなんだい。ぜひ教えてくれよ。=What is it? Please tell me.
+        まん、まんじゅうが恐い。=Ma-manju, I'm scared of manju.
+        <style\=RubyPrefixTag></style>\nまん、まんじゅうが恐い。=<style\=RubyPrefixTag></style>\nMa-manju, I'm scared of manju.
+        <style\=RubyPrefixTag></style>\nまんじゅうこわいだろ！！=<style\=RubyPrefixTag></style>\nThat's the "Manju Kowai" story!
+        え、よく知ってんな、その若さで。=Wow, you know it well for your age.
+        <style\=RubyPrefixTag></style>\nそれが響くと思ったか！！\nときそばと同じ過ち犯してるだろ！！=<style\=RubyPrefixTag></style>\nDid you think that would make an impression!?\nYou're making the same mistake as with\nTokisoba!!
+        見せる気がないんだったら帰れ。=If you didn't feel like showing it to me, then leave.
+        <style\=RubyPrefixTag></style>\n見せる気がないんだったら帰れ。=<style\=RubyPrefixTag></style>\nIf you didn't feel like showing it to me, then leave.
+        もう持ちネタがないんだ。期待に応えられなくてごめん、ひぐみん。=I'm out of material. I'm sorry I can't meet your\nexpectations, Higumin.
+        何後ろ振り返ってんの？=Why do you keep looking behind you?
+        <style\=RubyPrefixTag></style>\n何後ろ振り返ってんの？=<style\=RubyPrefixTag></style>\nWhy do you keep looking behind you?
+        いや、お前の言うひぐみんとやらが後ろに居るのかと思って。=Nah, I just thought that there's someone that you call\nHigumin behind me.
+        ひぐみんは、ひぐみんじゃん。=Higumin is Higumin.
+        <style\=RubyPrefixTag></style>\nひぐみんは、ひぐみんじゃん。=<style\=RubyPrefixTag></style>\nHigumin is Higumin.
+        まさか…この私のことか…！？=Don't tell me... you meant me...!?
+        ひぐ…みん…。=Higu...min...
+        <style\=RubyPrefixTag></style>\nひぐ…みん…。=<style\=RubyPrefixTag></style>\nHigu...min...
+        可愛いじゃん。=Isn't it cute?
+        なんだ…この感情は…！？=What is this feeling...!?
+        照れ。=Bashfulness.
+        <style\=RubyPrefixTag></style>\n照れ。=<style\=RubyPrefixTag></style>\nBashfulness.
+        それはない。=That's impossible.
+        <style\=RubyPrefixTag></style>\nそれはない。=<style\=RubyPrefixTag></style>\nThat's impossible.
+        ああ、これは屈辱だ。=Ah, this is humiliation.
+        <style\=RubyPrefixTag></style>\nああ、これは屈辱だ。=<style\=RubyPrefixTag></style>\nAh, this is humiliation.
+        長く味わってなかったから忘れていた。=I haven't felt this in so long, I forgot how it felt.
+        思い出せてよかったな。=I'm glad you remembered it.
+        <style\=RubyPrefixTag></style>\n思い出せてよかったな。=<style\=RubyPrefixTag></style>\nI'm glad you remembered it.
+        お前はひとをイラつかせる天才だな。それで採用されたか。キャンサーをもイラつかさせて、共食いさせられると軍は考えたか。=You're a prodigy at irritating people, huh!?\nIs that why you were hired!? To irritate the Cancer\ninto eating each other!?
+        だが残念。キャンサーは共食いはしない。=But, too bad. Cancer won't cannibalize each other.
+        <style\=RubyPrefixTag></style>\nだが残念。キャンサーは共食いはしない。=<style\=RubyPrefixTag></style>\nBut, too bad. Cancer won't cannibalize each other.
+        また切れ味のいいネタを仕入れたら見せにくるよ。=I'll show you another sharp jokes when I get one.
+        そんなもん見たいと思うか。=Do you think I want to see that?
+    [Bath]
+        （ひぐみんを誘ってお風呂に行こうかな）=(Should invite Higumin to the bath?)
+        <style\=RubyPrefixTag></style>\n（ひぐみんを誘ってお風呂に行こうかな）=<style\=RubyPrefixTag></style>\n(Should invite Higumin to the bath?)
+        ひぐみん、一緒にお風呂行かない？=Higumin, want to go to the bath together?
+        <style\=RubyPrefixTag></style>\nひぐみん、一緒にお風呂行かない？=<style\=RubyPrefixTag></style>\nHigumin, want to go to the bath together?
+        なんだ、お前も風呂か。奇遇だな。=What, you're going to the bath too? What a coincidence.
+        <style\=RubyPrefixTag></style>\nなんだ、お前も風呂か。奇遇だな。=<style\=RubyPrefixTag></style>\nWhat, you're going to the bath too? What a coincidence.
+        じゃあ行こう。=Alright, let's go.
+        あれ？　眼鏡ないと、全然印象が変わる！=Huh? Without glasses, you look totally different!
+        どのようにだ。=How so?
+        ひぐみんという愛称がぴったりなプリティな女の子に。=Like a pretty girl who suits the nickname Higumin.
+        こんな恥辱は初めてだ。一生風呂に入らずに居よう。=This is the first time I've experienced such humiliation.\nI'll never bathe again.
+        臭くなっちゃうじゃん！=You'll stink!
+        <style\=RubyPrefixTag></style>\n臭くなっちゃうじゃん！=<style\=RubyPrefixTag></style>\nYou'll stink!
+        科学者なんて大抵研究に没頭しすぎて、着の身着のままで臭いものだ。=Scientists are often so absorbed in their research that\nthey become smelly.
+        <style\=RubyPrefixTag></style>\n科学者なんて大抵研究に没頭しすぎて、着の身着のままで\r\n臭いものだ。=<style\=RubyPrefixTag></style>\nScientists are often so absorbed in their research that\nthey become smelly.
+        そんな可愛いんだからもったいない！　洗ってあげる！=That's such a waste, since you're cute! Let me wash\nyou!
+        くそ！　力だけは馬鹿みたいに強いな！！=Damn it! You're ridiculously strong!!
+        <style\=RubyPrefixTag></style>\nくそ！　力だけは馬鹿みたいに強いな！！=<style\=RubyPrefixTag></style>\nDamn it! You're ridiculously strong!!
+        はーい、力抜いてー。=Alright, relax～
+        なんて屈辱…。=What a humiliation...
+        <style\=RubyPrefixTag></style>\nなんて屈辱…。=<style\=RubyPrefixTag></style>\nWhat a humiliation...
+        これが最後の風呂になるだろうから好きにするがいい…。=This might be my last bath, so do as you please.
+        <style\=RubyPrefixTag></style>\nこれが最後の風呂になるだろうから好きにするがいい…。\r\n=<style\=RubyPrefixTag></style>\nThis might be my last bath, so do as you please.

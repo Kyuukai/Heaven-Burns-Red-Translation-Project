@@ -1,0 +1,155 @@
+[Koju 1]
+    [misc]
+        第四章 前編 Day 10 19 : 00=Chapter 4 Part 1 - Day 10 - 19:00
+        心霊ハンターこじゅ=Spirit Hunter Koju
+        第二章 Day 14 19 : 00=Chapter 2 - Day 14 - 19:00
+        柊木梢の伝染るんです=Kozue Hiiragi's Contagion
+        柊木梢の除霊大作戦=Kozue Hiiragi's Big Exorcism Operation
+    [req etc]
+        こじゅがアリーナで除霊をしたいらしい。手伝って仲を深めよう！=<size\=75%>Koju wants to perform an exorcism in the arena. Let's help and deepen your bond!</size>
+    [Start]
+        よお、こじゅ。=Yo, Koju.
+        はっ…！？　あなたは…生身の人間ですよね。=Hah...!? You're...a living human, right?
+        いえ、人面キャンサーですがなにか。=No, I'm a humanoid cancer. What's up?
+        <style\=RubyPrefixTag></style>\nいやあああぁぁぁぁぁーーーー！！\n人面キャンサーが基地内にぃぃーーー！！=<style\=RubyPrefixTag></style>\nNooooooo!!! There's a humanoid cancer inside\nthe base!!!
+        ああーーーー！！　こじゅ！　待って！！　嘘だから！！　人間だから！！=Ahhh!!! Koju! Wait!! I was lying!! I'm human!!
+        <style\=RubyPrefixTag></style>\nああーーーー！！　こじゅ！　待って！！　嘘だから！！\r\n人間だから！！=<style\=RubyPrefixTag></style>\nAhhh!!! Koju! Wait!! I was lying!! I'm human!!
+        はっ…確かに…よく見れば３１Ａの茅森さんですね。=Hah... indeed... if I look closely, you're Kayamori-san\nfrom 31A.
+        <style\=RubyPrefixTag></style>\nはっ…確かに…よく見れば３１Ａの茅森さんですね。=<style\=RubyPrefixTag></style>\nHah... indeed... if I look closely, you're Kayamori-san\nfrom 31A.
+        何してんの？　どこか行くみたいだけど。=What are you doing? Looks like you are planning to go\nsomewhere, though.
+        <style\=RubyPrefixTag></style>\n何してんの？　どこか行くみたいだけど。=<style\=RubyPrefixTag></style>\nWhat are you doing? Looks like you are planning to go\nsomewhere, though.
+        ちょっと悪い気が溜まっているようなので、除霊をしに行こうと。=There's a bit of bad energy building up, so I'm going\nto perform exorcism.
+        よろしければ、一緒にアリーナへ除霊に行きませんか？=Would you like to join me in the arena for the exorcism?
+        <style\=RubyPrefixTag></style>\nよろしければ、一緒にアリーナへ除霊に行きませんか？=<style\=RubyPrefixTag></style>\nWould you like to join me in the arena for the exorcism?
+        あれ？　ちょっと待って。ＯＫしちゃったけど…。=Huh? Wait a minute. I accidentally said yes...
+        なにか問題でも？=Is something the matter?
+        <style\=RubyPrefixTag></style>\nなにか問題でも？=<style\=RubyPrefixTag></style>\nIs something the matter?
+        ジャンルが違うじゃん。=The genre is different.
+        ジャンル、とは…？=Genre... what do you mean?
+        だって、あたしら宇宙からの侵略者と戦ってるじゃん。=I mean, we're fighting against invaders from space.
+        いわばＳＦじゃん。こじゅは正反対のスピリチュアルな心霊モノをひとりでやってることになるじゃん。=In other words, it's SF. You're doing the exact opposite,\ndealing with spiritual ghosts by yourself.
+        ＳＦとはサイエンスフィクションの略。つまり虚構なのです。=SF stands for science fiction. In other words, it's a\nfiction.
+        現実には科学もスピリチュアルなことも渾然一体。=SF stands for science fiction. In reality, science and\nspiritual things are blending with each other.
+        <style\=RubyPrefixTag></style>\n現実には科学もスピリチュアルなことも渾然一体。=<style\=RubyPrefixTag></style>\nSF stands for science fiction. In reality, science and\nspiritual things are blending with each other.
+        なので、どれだけ科学が進歩しようとも、幽霊が消え去る世界は来ないのです。=So, no matter how advanced science gets, there will\nnever be a world without ghosts.
+        <style\=RubyPrefixTag></style>\nなので、どれだけ科学が進歩しようとも、幽霊が消え去る\r\n世界は来ないのです。=<style\=RubyPrefixTag></style>\nSo, no matter how advanced science gets, there will\nnever be a world without ghosts.
+        でも、会ったことないからなー。=But, I've never met one.
+        アリーナにいるエミュレーションのキャンサーは一種の幽霊です。=The emulated cancers in the arena are a ghost of sorts.
+        <style\=RubyPrefixTag></style>\n会ってたーーーーーー！\n嘘ーーー！\nあれこそ科学の結晶だろ！？=<style\=RubyPrefixTag></style>\nI met them!!! No way!!! That's science at its finest,\nright!?
+        プログラムに感情がないと思いますか？=Do you think programs do not have emotions?
+        <style\=RubyPrefixTag></style>\n心霊少女なのに、\n言ってることが超ＳＦーー！=<style\=RubyPrefixTag></style>\nEven though you're a spiritualist, what you're saying\nis so sci-fi!
+        安心してください。あたしが居れば除霊出来ます。=Don't worry. As long as I'm here, I can exorcise them.
+        うーん、うちの部隊から、もう一人連れてきてもいい？=Hmm, can I bring someone else from my unit?
+        いいですよ。出来れば、霊感が強い人だと嬉しいです。=Sure. If possible, someone with a strong spiritual sense\nwould be great.
+        <style\=RubyPrefixTag></style>\nいいですよ。出来れば、霊感が強い人だと嬉しいです。=<style\=RubyPrefixTag></style>\nSure. If possible, someone with a strong spiritual sense\nwould be great.
+        すでにあたしが霊感ないんだけどなあ。=I don't even have any spiritual sense myself.
+        31Aで霊感が強い隊員を探してアリーナへ連れて行こう！=Let's find someone in 31A with strong spiritual sense\nand take them to the arena!
+        かれりん、霊感もってるかい？=Karerin, do you have spiritual sense?
+        どうだろう？　あたしより、カレンちゃんの方が詳しいかも。ちょっと待ってね。=I don't know? Maybe Karen-chan knows better than I do.\nWait a moment.
+        ひっひっひっひ、なるほどのう。=Heh heh heh, I see.
+        つまり貴様、実はワシの正体は霊で、朝倉に取り憑いていると考えたわけじゃな？=So you think my true form is a ghost possessing Asakura,\ndon't you?
+        <style\=RubyPrefixTag></style>\nつまり貴様、実はワシの正体は霊で、朝倉に取り憑いてい\r\nると考えたわけじゃな？=<style\=RubyPrefixTag></style>\nSo you think my true form is a ghost possessing Asakura,\ndon't you?
+        え？　そうなの？=Eh? Is that true?
+        ハズレじゃ。あくまでワシは朝倉の内より生まれし人格よ！=Wrong. I am just a personality born within Asakura!
+        そっか、霊感ないかー。=I see, no spiritual sense here.
+        つかさっち、霊感もってるかい？=Tsukasachi, do you have spiritual sense?
+        霊感？　悪いけど、わたしは諜報員よ。=Spiritual sense? Sorry, but I'm an intel agent.
+        自分の行動さえ俯瞰で見ることができる超現実主義なの。=I'm a super realist who can even overlook my own actions.
+        <style\=RubyPrefixTag></style>\n自分の行動さえ俯瞰で見ることができる超現実主義なの。\r\n=<style\=RubyPrefixTag></style>\nI'm a super realist who can even overlook my own actions.
+        じゃあ、幽霊とかは？=So, what about ghosts?
+        見たことないけどめちゃくちゃ興味があるわ！　いつかＸファイルを暴いてやるんだから！=I've never seen one, but I'm super interested!\nI will uncover the X-Files someday!
+        <style\=RubyPrefixTag></style>\n見たことないけどめちゃくちゃ興味があるわ！　いつかＸ\r\nファイルを暴いてやるんだから！=<style\=RubyPrefixTag></style>\nI've never seen one, but I'm super interested!\nI will uncover the X-Files someday!
+        そっか。世界が平和になったらアメリカに行こうな。=I see. Let's go to America when the world is at peace.
+        おタマさん、霊感もってるかい？=O-Tama-san, do you have spiritual sense?
+        <style\=RubyPrefixTag></style>\nおタマさん、霊感もってるかい？=<style\=RubyPrefixTag></style>\nO-Tama-san, do you have spiritual sense?
+        持ってません。=I don't.
+        あらら、そうなんだ。=Oh, I see.
+        断じて持っていません。見えません、見てません。=I definitely don't. I can't see or sense anything.
+        <style\=RubyPrefixTag></style>\n断じて持っていません。見えません、見てません。=<style\=RubyPrefixTag></style>\nI definitely don't. I can't see or sense anything.
+        おタマさん？=O-Tama-san?
+        艦長時代に幽霊船と遭遇したりとかしてません。=I haven't encountered ghost ships or anything during\nmy time as a captain.
+        船幽霊とか、戦艦には効きません。=Ghost ships can't affect warships.
+        バミューダー海域とかプラズマです！=The Bermuda region is just plasma!
+        海域がプラズマはまずいと思うよ。=If the sea is plasma, that's a big problem.
+        <style\=RubyPrefixTag></style>\n海域がプラズマはまずいと思うよ。=<style\=RubyPrefixTag></style>\nIf the sea is plasma, that's a big problem.
+        <style\=RubyPrefixTag></style>\n私はなにも見てませんーーー！=<style\=RubyPrefixTag></style>\nI haven't seen anything!!!
+        あっ！　おタマさーーーん！=Ah! O-Tama-san!!
+        ああ……逃げられた。=Ah! O-Tama-san!!
+        何か、トラウマを呼び起こしてしまったみたいだ。=Looks like I triggered some trauma.
+        <style\=RubyPrefixTag></style>\n何か、トラウマを呼び起こしてしまったみたいだ。=<style\=RubyPrefixTag></style>\nLooks like I triggered some trauma.
+        めぐみん、霊感もってるかい？=Megumin, do you have spiritual sense?
+        <style\=RubyPrefixTag></style>\nめぐみん、霊感もってるかい？=<style\=RubyPrefixTag></style>\nMegumin, do you have spiritual sense?
+        うちはサイキッカーやで？　そんなオカルトと一緒にすんなや。=I'm a psychic! Don't lump me in with that occult stuff.
+        <style\=RubyPrefixTag></style>\nうちはサイキッカーやで？　そんなオカルトと一緒にすん\r\nなや。=<style\=RubyPrefixTag></style>\nI'm a psychic! Don't lump me in with that occult stuff.
+        サイキックもジャンルとしてはオカルトなんじゃ？=Isn't psychic power also considered occult?
+        あほか！　この力は人間を超越した選ばれたもんだけが持つ力や！=Are ya stupid!? This power is a gift that surpasses\nhuman abilities!
+        霊感も超越した力だと思うんだけどなあ。=I think spiritual sense also surpasses human abilities.
+        幽霊とか怖いやろ！　死んだ人間見えるとかちびるわ！=Ghosts are scary! Seein' dead people would make me pee\nmyself!
+        あ…めぐみん、肩になにか見える。=Ah... Megumin, there's something on your shoulder.
+        <style\=RubyPrefixTag></style>\nあ…めぐみん、肩になにか見える。=<style\=RubyPrefixTag></style>\nAh... Megumin, there's something on your shoulder.
+        ひいいい！　なんや！　いややーーーー！　幽霊なんておらへんのやーーーー！=EEEEEK! What is it!? Nooooo! There are no ghosts!!!
+        <style\=RubyPrefixTag></style>\nひいいい！　なんや！　いややーーーー！　幽霊なんてお\r\nらへんのやーーーー！=<style\=RubyPrefixTag></style>\nEEEEEK! What is it!? Nooooo! There are no ghosts!!!
+        あ！　めぐみん！　冗談だからーーー！=Ah! Megumin! It was just a joke!!
+        ユッキー、霊感持ってる？=Yukki, do you have spiritual sense?
+        <style\=RubyPrefixTag></style>\nユッキー、霊感持ってる？=<style\=RubyPrefixTag></style>\nYukki, do you have spiritual sense?
+        おい、あたしはハッカーだぞ？　そんなスピリチュアルみたいなのと正反対に居る人間だ。=Oi, I'm a hacker, okay? I'm the complete opposite of\nthat spiritual stuff.
+        だよねー。=I know, right?
+        ちなみに、プログラムに感情ってある？=By the way, do programs have emotions?
+        はあ〜〜…お前なぁ…。=Ha〜〜... seriously...?
+        うわー…傷つきそうなくらいのため息。=Wow... that sigh is enough to hurt my feelings.
+        <style\=RubyPrefixTag></style>\nうわー…傷つきそうなくらいのため息。=<style\=RubyPrefixTag></style>\nWow... that sigh is enough to hurt my feelings.
+        そんなもん、当たり前だろ。プログラムは生き物なんだ。=Of course they do. Programs are living things.
+        <style\=RubyPrefixTag></style>\nそんなもん、当たり前だろ。プログラムは生き物なんだ。\r\n=<style\=RubyPrefixTag></style>\nOf course they do. Programs are living things.
+        ユッキーに決めた！　一緒に来てくれ！=I've decided! Yukki, come with me!
+        ったく、なんだよもう…。=Jeez, what now...
+        <style\=RubyPrefixTag></style>\nったく、なんだよもう…。=<style\=RubyPrefixTag></style>\nJeez, what now...
+        いや、また今度にしよう。=No, let's do it another time.
+        <style\=RubyPrefixTag></style>\nいや、また今度にしよう。=<style\=RubyPrefixTag></style>\nNo, let's do it another time.
+    [Arena]
+        こじゅ、連れてきた。うちのユッキーだ。=Koju, I brought someone. This is Yukki from our unit.
+        こらこら、ちゃんと紹介しろ。３１Ａの和泉だ。よろしくな。=Hey, introduce me properly. I'm Izumi from 31A.\nNice to meet you.
+        ３１Ｂの柊木梢です。=I'm Hiiragi Kozue from 31B.
+        <style\=RubyPrefixTag></style>\n３１Ｂの柊木梢です。=<style\=RubyPrefixTag></style>\nI'm Hiiragi Kozue from 31B.
+        アリーナの中には、随分と悪い気が溜まっています。=There's a lot of bad energy accumulating in the arena.
+        <style\=RubyPrefixTag></style>\nアリーナの中には、随分と悪い気が溜まっています。=<style\=RubyPrefixTag></style>\nThere's a lot of bad energy accumulating in the arena.
+        さっそく除霊といきましょう。=Let's get right to the exorcism.
+        お疲れ様でした。無事除霊完了です。=Good job. Exorcism complete.
+        うーん、いつも通りプログラムをクリアしただけだ。=Hmm, we just cleared the program as usual.
+        いや、柊木の着眼は悪くないぜ。=No, Kozue's insight wasn't bad.
+        あたしもハッキングをしている時、ネットの海そのものが巨大な生命に感じる時がある。=When I'm hacking, there are times when the ocean of\nthe internet feels like a gigantic living being.
+        でも、ちゃんとした幽霊は結局見たことないしなあ。=But I've never seen a proper ghost.
+        <style\=RubyPrefixTag></style>\nでも、ちゃんとした幽霊は結局見たことないしなあ。=<style\=RubyPrefixTag></style>\nBut I've never seen a proper ghost.
+        幽霊でも、いい子はお祓いする必要はありませんよ。=If a ghost is a good one, there's no need for exorcism.
+        <style\=RubyPrefixTag></style>\n幽霊でも、いい子はお祓いする必要はありませんよ。=<style\=RubyPrefixTag></style>\nIf a ghost is a good one, there's no need for exorcism.
+        …こじゅ。なんであたしの後ろを見てんの…？=...Koju. Why are you looking behind me...?
+        <style\=RubyPrefixTag></style>\n…こじゅ。なんであたしの後ろを見てんの…？=<style\=RubyPrefixTag></style>\n...Koju. Why are you looking behind me...?
+        大丈夫です。悪い子じゃありません。=It's okay. It's not a bad one.
+        嫌ーーーー！　なんか居るみたいーーー！=No way!! It feels like something is there!!
+        ずっと、一緒に居ます。=It's always been with you.
+        <style\=RubyPrefixTag></style>\nずっと、一緒に居ます。=<style\=RubyPrefixTag></style>\nIt's always been with you.
+        後ろに幽霊がいただなんて、そんなの知らないまま生きたかったよぉ。=I didn't want to know I had a ghost behind me!
+        でも視えないのであればいいじゃないですか。あたしには視えてしまうのです。=But, isn't it fine since you can't see them? As for\nme, I can see them even when I don't want to.
+        嫌だーーーーーーー！=Noooooo!!
+        <style\=RubyPrefixTag></style>\n嫌だーーーーーーー！=<style\=RubyPrefixTag></style>\nNoooooo!!
+    [Bath]
+        （こじゅを誘ってお風呂に行こうかな）=(Should I invite Koju to take a bath?)
+        こじゅ、一緒にお風呂行かない？=Koju, want to take a bath together?
+        こじゅ、シャンプーとって。=Koju, pass me the shampoo.
+        はい、どうぞ。=Here you go.
+        <style\=RubyPrefixTag></style>\nシャカシャカ=<style\=RubyPrefixTag></style>\nRustle Rustle
+        大浴場なのに、結構いいシャンプー使わせてくれるよな。=Even though it's a public bath, they use really nice\nshampoo here.
+        <style\=RubyPrefixTag></style>\n大浴場なのに、結構いいシャンプー使わせてくれるよな。\r\n=<style\=RubyPrefixTag></style>\nEven though it's a public bath, they use really nice\nshampoo here.
+        そうですね、匂いもいいですし、髪の艶も違います。=Yes, it smells nice and makes your hair shiny.
+        あたしらは、髪がまだ短い方だから、洗うのも楽そうだ。=Our hair is still short, so it's easier to wash.
+        なるべく早く髪を洗いたいので。=I want to wash my hair quickly.
+        髪を洗う時に目を閉じてると、たまに視線を感じるんです…。=When I close my eyes to wash my hair, sometimes I feel\na gaze...
+        <style\=RubyPrefixTag></style>\n髪を洗う時に目を閉じてると、たまに視線を感じるんです\r\n…。=<style\=RubyPrefixTag></style>\nWhen I close my eyes to wash my hair, sometimes I feel\na gaze...
+        やめてくれ…それ以上は言わないでくれ。あたしも髪洗えなくなる。=Stop... don't say any more. I won't be able to wash\nmy hair either.
+        <style\=RubyPrefixTag></style>\nやめてくれ…それ以上は言わないでくれ。あたしも髪洗え\r\nなくなる。=<style\=RubyPrefixTag></style>\nStop... don't say any more. I won't be able to wash\nmy hair either.
+        すみません。=I'm sorry.
+        よし！　あたしがこじゅの髪を洗ってやるよ。=Alright! I'll wash your hair, Koju.
+        そんな、悪いですよ。=No, that's not necessary.
+        いいからいいから。=It's fine, it's fine.
+        はっ！　背後に視線を感じます！！=Ah! I feel a gaze from behind!!
+        そりゃ見ないと洗えないよ。=Well, I can't wash it without looking.
+        <style\=RubyPrefixTag></style>\nそりゃ見ないと洗えないよ。=<style\=RubyPrefixTag></style>\nWell, I can't wash it without looking.

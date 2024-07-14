@@ -1,0 +1,113 @@
+[Ichigo 1]
+    [Misc]
+        第三章 Day 17 17 : 30=Chapter 3 - Day 17 - 17:30
+        いちごの丸い想い！=Ichigo's pure feelings!
+        第二章 Day 21 19 : 00=Chapter 2 - Day 21 - 19:00
+        いちごとキャンサー狩り=Ichigo and Cancer Hunting
+        いちご、妹離れ！？=Ichigo's separation from her sister!?
+        いちご、思い人を待つ？=Ichigo is waiting for special someone?
+        第五章 前編 Day 6 19 : 00=Chapter 5 Part 1 - Day 6, 19:00
+    [Req etc]
+        キャンサー狩りに付き合ってくれねぇか。=Won't you come along for some Cancer hunting?
+        いちごと一緒にキャンサー狩りして仲を深めるぞ！=Go Cancer hunting with Ichigo and deepen your bond!
+        カリスマが13以上(現在:67)=Charisma of 13 or higher (Current: 67)
+        [Start]
+        いちご=Ichigo
+        おい、茅森=Oi, Kayamori.
+        おう、来たか。=Oh, you came.
+        よし、キャンサーと一緒にいちご狩りして仲を深めるぞ！=Alright, let's go Ichigo<space\=-120px><voffset\=1em><size\=50%><cspace\=0px>Strawberry</cspace></size></voffset> 'hunting' with Cancer and\ndeepen our bond!
+        <style\=RubyPrefixTag></style>\nよし、キャンサーと一緒にいちご狩りして仲を深めるぞ！\r\n=<style\=RubyPrefixTag></style>\nAlright, let's go Ichigo<space\=-120px><voffset\=1em><size\=50%><cspace\=0px>Strawberry</cspace></size></voffset> 'hunting' with Cancer and\ndeepen our bond!
+        <style\=RubyPrefixTag></style>\n逆だ！！　舐めてんのか、てめー！=<style\=RubyPrefixTag></style>\nThe opposite!!\nAre you messing with me!?
+        <style\=RubyPrefixTag></style>\nカチャ=<style\=RubyPrefixTag></style>\nClack
+        言い間違えただけだから！　狩るっていったらいちごじゃん？=It was just a slip of the tongue! When you think of\nhunting/harvest, it's strawberries, right?
+        <style\=RubyPrefixTag></style>\n言い間違えただけだから！　狩るっていったらいちごじゃ\r\nん？=<style\=RubyPrefixTag></style>\nIt was just a slip of the tongue! When you think of\nhunting/harvest, it's strawberries, right?
+        それでキャンサーと仲良くなれることもありえねーだろ！　そもそも一緒に、が無理だろ！　襲われるだろ！！=There's no way you can deepen your bond with Cancers!\nIn the first place, it's impossible to get along with\nthem, they'll attack you!
+        <style\=RubyPrefixTag></style>\nそれでキャンサーと仲良くなれることもありえねーだろ！\r\nそもそも一緒に、が無理だろ！　襲われるだろ！！=<style\=RubyPrefixTag></style>\nThere's no way you can deepen your bond with Cancers!\nIn the first place, it's impossible to get along with\nthem, they'll attack you!
+        そうだね。あいつらに情なんてなさそう。=That's true. They don't seem to have any compassion.
+        <style\=RubyPrefixTag></style>\nそうだね。あいつらに情なんてなさそう。=<style\=RubyPrefixTag></style>\nThat's true. They don't seem to have any compassion.
+        でもどうして、作戦間近にキャンサー狩りなんてするの？=But why are we Cancer hunting right before the mission?
+        <style\=RubyPrefixTag></style>\nでもどうして、作戦間近にキャンサー狩りなんてするの？\r\n=<style\=RubyPrefixTag></style>\nBut why are we Cancer hunting right before the mission?
+        訓練じゃ相手が常にデータだろ。本物のキャンサー相手に肩慣らししておきてぇんだよ。=In training, the opponent is always data. I want to\nget used to fighting real Cancers.
+        あたしなんかでいいの？　すももは？=Is it okay with someone like me? What about Sumomo?
+        あいつは感性に任せて戦うタイプだから、そういう準備は要らないってよ…。=She fights based on instinct, so she doesn't need this\nkind of preparation...
+        <style\=RubyPrefixTag></style>\nあいつは感性に任せて戦うタイプだから、そういう準備は\r\n要らないってよ…。=<style\=RubyPrefixTag></style>\nShe fights based on instinct, so she doesn't need this\nkind of preparation...
+        フラれてない？=Were you rejected?
+        <style\=RubyPrefixTag></style>\nうっせー！　んなわけねーーだろ！！=<style\=RubyPrefixTag></style>\nShut up! Of course not!!
+        暴力反対！！=No violence!!
+        <style\=RubyPrefixTag></style>\n暴力反対！！=<style\=RubyPrefixTag></style>\nNo violence!!
+        とっとといくぞ！！=Let's go already!!
+        <style\=RubyPrefixTag></style>\nとっとといくぞ！！=<style\=RubyPrefixTag></style>\nLet's go already!!
+        うへー、はいはい…。=Uwah, okay okay...
+        いざ、ダンジョンへ！=Onwards, to the dungeon!
+        ありがとよ。いい肩慣らしになった。=Thanks. That was a good warm-up.
+        ところで、その銃って本物なの？　どうして持ってるの？=By the way, is that gun real? Why do you have one?
+        軍人なんだから持ってたっておかしくないだろ。=It's not all that strange for a soldier to have one.
+        <style\=RubyPrefixTag></style>\n軍人なんだから持ってたっておかしくないだろ。=<style\=RubyPrefixTag></style>\nIt's not all that strange for a soldier to have one.
+        あたしも欲しいー！　申請しよ！=I want one too! I'm going to apply for one!
+        <style\=RubyPrefixTag></style>\nあたしも欲しいー！　申請しよ！=<style\=RubyPrefixTag></style>\nI want one too! I'm going to apply for one!
+        通るかよ。=Like it'll get approved.
+        そんな審査厳しいの？=Is the approval process that strict?
+        あたしらにはセラフという武器がすでに与えられてるからな。キャンサーに効かない銃の許可が下りるはずがねぇ。=We already have Seraphs as weapons. There's no way they'd\napprove a gun that doesn't work on Cancers.
+        じゃあ、どうやって手に入れたんだよ、それ。=So, how did you get that one?
+        闇で手に入れたのさ。=I got it on the black market.
+        じゃ、ちょっと闇行ってくる。=I'll just head to the black market, then.
+        <style\=RubyPrefixTag></style>\nじゃ、ちょっと闇行ってくる。=<style\=RubyPrefixTag></style>\nI'll just head to the black market, then.
+        どこかわかってるのかよ？=Do you even know where that is?
+        <style\=RubyPrefixTag></style>\nどこかわかってるのかよ？=<style\=RubyPrefixTag></style>\nDo you even know where that is?
+        じめっとした裏路地。=A damp back alley.
+        <style\=RubyPrefixTag></style>\nじめっとした裏路地。=<style\=RubyPrefixTag></style>\nA damp back alley.
+        ただのイメージじゃねーか！=That's just the stereotype!
+        違うの？=Am I wrong?
+        ちげーよ。警察や法の手が届かない場所さ。=You are. It's a place out of reach of the police and\nthe law.
+        教えて。=Tell me.
+        素人が行ったら危険だ。やめときな。=It's dangerous for an amateur. Don't do it.
+        <style\=RubyPrefixTag></style>\n素人が行ったら危険だ。やめときな。=<style\=RubyPrefixTag></style>\nIt's dangerous for an amateur. Don't do it.
+        銃欲しい。=I want a gun.
+        なんでさ。=Why?
+        セラフと合成したいから。=I want to combine it with the Seraph.
+        <style\=RubyPrefixTag></style>\nセラフと合成したいから。=<style\=RubyPrefixTag></style>\nI want to combine it with the Seraph.
+        は！？　セラフと銃が合成出来るってのか！？=Ha!? You can combine the Seraph with a gun!?
+        <style\=RubyPrefixTag></style>\nは！？　セラフと銃が合成出来るってのか！？=<style\=RubyPrefixTag></style>\nHa!? You can combine the Seraph with a gun!?
+        属性が銃になる。=Its attribute will become a gun.
+        そんな話、聞かされてないぜ！？　だったら、あたしのセラフにも合成してーよ！！=I haven't heard of this!? Then combine it with my Seraph\ntoo!!
+        <style\=RubyPrefixTag></style>\nそんな話、聞かされてないぜ！？　だったら、あたしのセ\r\nラフにも合成してーよ！！=<style\=RubyPrefixTag></style>\nI haven't heard of this!? Then combine it with my Seraph\ntoo!!
+        といいなあって。=I wish I could.
+        <style\=RubyPrefixTag></style>\n出来ねーのかよ！！=<style\=RubyPrefixTag></style>\nSo you can't!?
+        いや、試してないからわからない。その銃で試してみようぜ。=I don't know, I haven't tried. Let's try it with that\ngun.
+        <style\=RubyPrefixTag></style>\n嫌だよ！！=<style\=RubyPrefixTag></style>\nNo way!!
+        合成出来るならこの銃の魂的なものは残り続けるから命を託す相棒としてそれもいいなって一瞬思ったけど、そんなゲームみたいなこと起こるわけねえだろ！！=<size\=85%>If it could be combined, the soul of this gun would remain as\na partner, which I thought would be nice for a moment, but\nthere's no way anything game-like would happen!!</size>
+        確かに。ゲーム的な感覚で合成しようとしてた。=Indeed. I was trying to combine it in a game-like sense.
+        しかも自分で言っておいてなんだが、なんだよ、銃の魂的なものって！！=And I said it myself, but what the heck is "soul of\nthe gun"!?
+        <style\=RubyPrefixTag></style>\nしかも自分で言っておいてなんだが、なんだよ、銃の魂的\r\nなものって！！=<style\=RubyPrefixTag></style>\nAnd I said it myself, but what the heck is "soul of\nthe gun"!?
+        ほんとに。=For real.
+        でも欲しい。=But I still want it.
+        <style\=RubyPrefixTag></style>\nでも欲しい。=<style\=RubyPrefixTag></style>\nBut I still want it.
+        モデルガンぐらいにしておきな。=Just get a model gun.
+        <style\=RubyPrefixTag></style>\nモデルガンぐらいにしておきな。=<style\=RubyPrefixTag></style>\nJust get a model gun.
+        本物欲しいー。=I want the real thing.
+        <style\=RubyPrefixTag></style>\n本物欲しいー。=<style\=RubyPrefixTag></style>\nI want the real thing.
+        無理だっつってんだろ。帰るぞ。=I told you it's impossible. Let's go back.
+        はーーい。='Kaay.
+        <style\=RubyPrefixTag></style>\nはーーい。=<style\=RubyPrefixTag></style>\n'Kaay.
+    [Bath]
+        （いちごを誘ってお風呂に行こうかな）=(Should I invite Ichigo to the bath?)
+        なんだ、てめぇも今から風呂かよ。=What, are you going to the bath too?
+        <style\=RubyPrefixTag></style>\nなんだ、てめぇも今から風呂かよ。=<style\=RubyPrefixTag></style>\nWhat, are you going to the bath too?
+        裸の付き合いしようぜ！=Let's have a 'bare' conversation!
+        お風呂には銃を持ち込まないんだな。やっぱ濡れると撃てなくなるから？=You don't bring the gun to the bath, huh? I guess it\nwon't fire if it gets wet?
+        いや、薬莢は防水だから濡れようが水の中だろうが撃てる。=No, the cartridge is waterproof so it can shoot even\nif it's wet or underwater.
+        けどな、裸で銃を持ってたら目立つだろ。=But it would stand out if I was naked with a gun.
+        ごもっとも。そもそもなんで銃なんて持ってるの？=Makes sense. Why do you carry a gun in the first place?
+        殺し屋だからさ。=Because I'm an assassin.
+        そんな恐ろしいひとと仲深めようとしてたの！？=Was I trying to deepen my bond with such a scary person!?
+        妹のすももも、殺し屋だぜ？=My sister Sumomo is an assassin too.
+        恐ろしい姉妹だった！=What a scary pair of sisters!
+        長生きしたいなら、あたしらを怒らせないことだな。=If you want to live long, don't make us angry.
+        せせせ、背中を、おおお、お流しします…！！=I-I-I'll wash your back…!!
+        <style\=RubyPrefixTag></style>\nせせせ、背中を、おおお、お流しします…！！=<style\=RubyPrefixTag></style>\nI-I-I'll wash your back…!!
+        びびりすぎだ。=You're overreacting.
+        <style\=RubyPrefixTag></style>\nびびりすぎだ。=<style\=RubyPrefixTag></style>\nYou're overreacting.
+        そんな簡単に怒らねーから、安心しな。=We won't get mad so easily, so relax.
+        <style\=RubyPrefixTag></style>\nそんな簡単に怒らねーから、安心しな。=<style\=RubyPrefixTag></style>\nWe won't get mad so easily, so relax.
+        ほっ…！=Ah...!
+        <style\=RubyPrefixTag></style>\nほっ…！=<style\=RubyPrefixTag></style>\nAh...!

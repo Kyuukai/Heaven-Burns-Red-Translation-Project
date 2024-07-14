@@ -1,0 +1,77 @@
+[Byakko 1]
+    [misc]
+        第四章 後編 Day 9 19 : 00=Chapter 4 Part 2 - Day 9 - 19:00
+        カルパスは難しい=Calpas is Complicated
+        第三章 Day 16 19 : 00=Chapter 3 - Day 16 - 19:00
+        ビャッコ、ダイエット大作戦！=Byakko's Big Diet Operation!
+        ビャッコと追いかけっこ=Playing Tag with Byakko
+    [Req etc]
+        蒼井に手伝ってもらってビャッコとの距離を縮めよう！=Let's get closer to Byakko with Aoi's help!
+        優しさが5以上(現在:64)=Kindness is 5 or higher (Currently: 64)
+    [Start]
+        お、ビャッコじゃん。=Oh, it's Byakko.
+        え、そんなこと言われたって…。=Eh? Even if you say that...
+        ヴァゥゥ…としか聞こえないんだよなぁ。=I can only hear 'grrau...'
+        <style\=RubyPrefixTag></style>\nヴァゥゥ…としか聞こえないんだよなぁ。=<style\=RubyPrefixTag></style>\nI can only hear 'grrau...'
+        茅森さん、ビャッコとお話出来るんですか？=Kayamori-san, you can talk to Byakko?
+        <style\=RubyPrefixTag></style>\n茅森さん、ビャッコとお話出来るんですか？=<style\=RubyPrefixTag></style>\nKayamori-san, you can talk to Byakko?
+        いや、ヴァゥゥ…としか聞こえなくて困ってたところ。=No, I can only hear 'grrau...' and am troubled.
+        そうですか。ビャッコは退屈しているようです。遊んであげてはどうですか？=I see. Byakko seems to be bored. How about playing with\nher?
+        <style\=RubyPrefixTag></style>\nそうですか。ビャッコは退屈しているようです。遊んであ\r\nげてはどうですか？=<style\=RubyPrefixTag></style>\nI see. Byakko seems to be bored. How about playing with\nher?
+        どんな遊びなら出来るの？=What kind of play can we do?
+        一番簡単なのは追いかけっこですね。=The simplest is tag.
+        <style\=RubyPrefixTag></style>\n一番簡単なのは追いかけっこですね。=<style\=RubyPrefixTag></style>\nThe simplest is tag.
+        追いかけるにしても、追いかけられるにしても、勝ち目なくない？=Whether chasing or being chased, isn't there no chance\nof winning?
+        <style\=RubyPrefixTag></style>\n追いかけるにしても、追いかけられるにしても、勝ち目な\r\nくない？=<style\=RubyPrefixTag></style>\nWhether chasing or being chased, isn't there no chance\nof winning?
+        ビャッコは賢いので、ちゃんと手加減してくれます。=Byakko is smart, so she'll go easy on you.
+        へー、すごい。=Hee, amazing.
+        では、走ってみてください。=Well then, please try running.
+        おう！　遊ぼうぜ、ビャッコ！　追いつけるものなら追いついてみな！=Okay! Let's play, Byakko! Catch me if you can!
+        <style\=RubyPrefixTag></style>\nおう！　遊ぼうぜ、ビャッコ！　追いつけるものなら追い\r\nついてみな！=<style\=RubyPrefixTag></style>\nOkay! Let's play, Byakko! Catch me if you can!
+        ビャッコから離れてみよう！=Let's get away from Byakko!
+        …全然、追ってこないじゃん。=...She isn't chasing at all.
+        <style\=RubyPrefixTag></style>\n…全然、追ってこないじゃん。=<style\=RubyPrefixTag></style>\n...She isn't chasing at all.
+        スタート地点から微動だにしていない！！=She hasn't moved a bit from the starting point!!
+        賢いんですが、すごく人見知りでもあるんです。=She's smart, but she's also very shy.
+        <style\=RubyPrefixTag></style>\n賢いんですが、すごく人見知りでもあるんです。=<style\=RubyPrefixTag></style>\nShe's smart, but she's also very shy..
+        ビャッコ、このひとと遊ぶんだよ？　いい？=Byakko, play with this person, okay?
+        <style\=RubyPrefixTag></style>\nビャッコ、このひとと遊ぶんだよ？　いい？=<style\=RubyPrefixTag></style>\nByakko, play with this person, okay?
+        これで大丈夫です。=It'll be fine now.
+        <style\=RubyPrefixTag></style>\nこれで大丈夫です。=<style\=RubyPrefixTag></style>\nIt'll be fine now.
+        じゃ、気を取り直して…。=Alright, let's try again...
+        遊ぼうぜ、ビャッコ！　追いつけるものなら追いついてみな！=Let's play, Byakko! Catch me if you can!
+        <style\=RubyPrefixTag></style>\n…ノーー！！　孤独のランナウェイ！！=<style\=RubyPrefixTag></style>\n...Nooo!! A lonely runaway!!
+        相変わらずスタート地点から微動だにしていない！！=She's still not moving from the starting point!!
+        あたし、嫌われてない？=Am I being hated?
+        <style\=RubyPrefixTag></style>\nあたし、嫌われてない？=<style\=RubyPrefixTag></style>\nAm I being hated?
+        そもそも逃げられずに話しかけられてたじゃないですか。=You were able to talk to her without her running away,\nright?
+        それはある程度は、心を開いてくれてるってことなの？=Does that mean she's opened her heart to me to some\nextent?
+        <style\=RubyPrefixTag></style>\nそれはある程度は、心を開いてくれてるってことなの？=<style\=RubyPrefixTag></style>\nDoes that mean she's opened her heart to me to some\nextent?
+        はい。見知らぬひとが寄ってくると、警戒してその場から居なくなります。=Yes. When strangers approach, she gets cautious and\nleaves the area.
+        <style\=RubyPrefixTag></style>\nはい。見知らぬひとが寄ってくると、警戒してその場から\r\n居なくなります。=<style\=RubyPrefixTag></style>\nYes. When strangers approach, she gets cautious and\nleaves the area.
+        なんでそんないけずなの。遊ぼうよ、ビャッコ。こちょこちょこちょー。=Why are you so aloof? Let's play, Byakko.\nTickle, tickle, tickle.
+        ヴァゥゥ…！=Grrau...!
+        今です！！=Now!!
+        やった！　追いかけっこが成立している！　感動！！=Yes! The tag is happening! I'm moved!!
+        <style\=RubyPrefixTag></style>\nやった！　追いかけっこが成立している！　感動！！=<style\=RubyPrefixTag></style>\nYes! The tag is happening! I'm moved!!
+        いやー、遊んだ、遊んだ。楽しかったねぇ、ビャッコ。=Wow, we played a lot. It was fun, Byakko.
+        <style\=RubyPrefixTag></style>\nいやー、遊んだ、遊んだ。楽しかったねぇ、ビャッコ。=<style\=RubyPrefixTag></style>\nWow, we played a lot. It was fun, Byakko.
+        こんな一気に仲良くなるなんて、ほんとにすごいです、茅森さん。=To become this close so quickly, you're really amazing,\nKayamori-san.
+        蒼井の、今です！！のおかげだよ。=It's thanks to your 'Now!!', Aoi.
+    [bath]
+        （お風呂に行こうと思ったら、蒼井とビャッコがいる）=(I was about to go to the bath, but Aoi and Byakko is\nthere)
+        あ、茅森さん。ちょうどビャッコとお風呂に入るんです。一緒にどうですか？=Oh, Kayamori-san. I was just about to take a bath with\nByakko. Would you like to join us?
+        <style\=RubyPrefixTag></style>\nあ、茅森さん。ちょうどビャッコとお風呂に入るんです。\r\n一緒にどうですか？=<style\=RubyPrefixTag></style>\nOh, Kayamori-san. I was just about to take a bath with\nByakko. Would you like to join us?
+        すごいね、お風呂まで一緒なんだ。=That's amazing, you two are even taking a bath together.
+        <style\=RubyPrefixTag></style>\nすごいね、お風呂まで一緒なんだ。=<style\=RubyPrefixTag></style>\nThat's amazing, you two are even taking a bath together.
+        こうして近くで見ると、でかいねー。=Seeing her up close like this, she's huge.
+        そうですね。立派な大人ですから。=Yes, she's an adult.
+        あたしも洗うの手伝うよ。=I'll help with washing too.
+        筋肉も固い…！=Her muscles are firm...!
+        <style\=RubyPrefixTag></style>\n筋肉も固い…！=<style\=RubyPrefixTag></style>\nHer muscles are firm...!
+        ビャッコも日々鍛えてますから。=Byakko trains daily, after all.
+        では、流します。=Then, let's rinse.
+        <style\=RubyPrefixTag></style>\nブルブルブルブル！=<style\=RubyPrefixTag></style>\nBrrrrrr!
+        <style\=RubyPrefixTag></style>\n水を払うのも大迫力だ…！=<style\=RubyPrefixTag></style>\nEven the way she shakes off the water is powerful...!
+        水を払うのも大迫力だ…！=Even the way she shakes off the water is powerful...!
+        これからもよろしくな、ビャッコ。=Let's get along from now on, Byakko.

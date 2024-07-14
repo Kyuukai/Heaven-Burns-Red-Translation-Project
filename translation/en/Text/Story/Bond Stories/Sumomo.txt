@@ -1,0 +1,132 @@
+[Sumomo 1]
+    [Misc]
+        第四章 前編 Day 3 19 : 00=Chapter 4 Part 1 - Day 3 - 19:00
+        すももとビャッコの友情度=Sumomo and Byakko's Friendship Level
+        第三章 Day 15 19 : 00=Chapter 3 - Day 15 - 19:00
+        すももと調べ物=Sumomo and Research
+        第二章 Day 15 19 : 00=Chapter 2 - Day 15 - 19:00
+        すももの的当て=Sumomo's Target Practice
+    [Req etc]
+        すももの銃の腕前を見せてもらいたい。的を見つけてこよう！=I want to see Sumomo's shooting skills. Let's find a target!
+        クレイジーが14以上(現在:69)=Craziness is 14 or higher (current: 69)
+    [Start]
+        すももみっけ！　よう！=Sumomo, found ya! Yo!
+        …うるさいのが来たにゃぁ。気安く呼ぶにゃ。=...The noisy one is here, nya. Don't address me so\ncasually, nya.
+        <style\=RubyPrefixTag></style>\n…うるさいのが来たにゃぁ。気安く呼ぶにゃ。=<style\=RubyPrefixTag></style>\n...The noisy one is here, nya. Don't address me so\ncasually, nya.
+        そんなこと言わないで仲良くしようよ。同じセラフ部隊なんだからさ。=Don't say that, let's get along. We're in the same Seraph\nunit, after all.
+        すももは姉さんだけ居ればいいのにゃ。=I only needs my sister, nya.
+        え、モデルガン？=Eh, iss that a model gun?
+        もう一度コケにしてくれたらわかるにゃ。=Try mocking me again, and you'll find out, nya.
+        殺気がすごい！　本物！？　だとしたらなんで持ってるの？=The killing intent is strong! Is it real!? If so, why\ndo you have it?
+        <style\=RubyPrefixTag></style>\n殺気がすごい！　本物！？　だとしたらなんで持ってるの？\r\n=<style\=RubyPrefixTag></style>\nThe killing intent is strong! Is it real!? If so, why\ndo you have it?
+        仕事上の問題にゃぁ。=It's work-related, nya.
+        すごい！　撃ってみたいなー。お手本見せて欲しいなー。=Awesome! I want to try shooting it. Show me how!
+        ちょうどいい的があるにゃ。=There's a perfect target, nya.
+        <style\=RubyPrefixTag></style>\nちょうどいい的があるにゃ。=<style\=RubyPrefixTag></style>\nThere's a perfect target, nya.
+        的って…ひょっとしてあたし！？=Target... is it me!?
+        <style\=RubyPrefixTag></style>\n的って…ひょっとしてあたし！？=<style\=RubyPrefixTag></style>\nTarget... is it me!?
+        待って！　適当な空き缶とか持ってくるから。=Wait! I'll find some empty cans or something.
+        別にお前でいいにゃ。=You will do just fine, nya.
+        <style\=RubyPrefixTag></style>\n別にお前でいいにゃ。=<style\=RubyPrefixTag></style>\nYou will do just fine, nya.
+        死んじゃうじゃん！=I'll die!
+        <style\=RubyPrefixTag></style>\n死んじゃうじゃん！=<style\=RubyPrefixTag></style>\nI'll die!
+        空き缶の持ち主を探そう！=Let's find someone with an empty can!
+        ユッキー！ 空き缶持ってない！？=Yukki! Do you have any empty cans!?
+        缶蹴りでもすんのか。相変わらず子供みたいな奴だな。=Are you playing kick the can or something? You're as\nchildish as ever.
+        このままじゃあたしが空き缶の代わりにブチ抜かれちまう…！！=If I don't find an empty can soon, I'll get shot instead...!!
+        いきなり物騒な話になったじゃねーか！　一体お前の身に何が起きてるんだよ…。=Suddenly things got dangerous! What the hell is happening\nto you...?
+        とりあえず、自販機の方に向かえば誰か飲みかけのやつとかいるんじゃないか？=If you go to the vending machine area, someone might\nhave a half-finished drink?
+        なるほど！ さすがユッキー、命の恩人！！=I see! As expected of Yukki, you're a lifesaver!!
+        <style\=RubyPrefixTag></style>\nなるほど！ さすがユッキー、命の恩人！！=<style\=RubyPrefixTag></style>\nI see! As expected of Yukki, you're a lifesaver!!
+        殺されそうになってるじゃねーか！　何に巻き込まれてんだよ…。=Are you about to be killed!? What kind of mess have\nyou gotten into...?
+        つかさっち！ 空き缶持ってない！？=Tsukasachi! Do you have any empty cans!?
+        <style\=RubyPrefixTag></style>\nつかさっち！ 空き缶持ってない！？=<style\=RubyPrefixTag></style>\nTsukasachi! Do you have any empty cans!?
+        空き缶？ どうかしら…この辺りには落ちていないみたいだけど。=Empty cans? I don't think there are any around here.
+        <style\=RubyPrefixTag></style>\n空き缶？ どうかしら…この辺りには落ちていないみたいだ\r\nけど。=<style\=RubyPrefixTag></style>\nEmpty cans? I don't think there are any around here.
+        何に首を突っ込んでしまったの！？　ゴミが回収されるのは朝方だから、その時に担当の人に頼めば…！=What have you gotten yourself into!? Trash is usually\ncollected in the morning, so maybe you could ask the\nperson in charge then...!
+        <style\=RubyPrefixTag></style>\n何に首を突っ込んでしまったの！？　ゴミが回収されるの\r\nは朝方だから、その時に担当の人に頼めば…！=<style\=RubyPrefixTag></style>\nWhat have you gotten yourself into!? Trash is usually\ncollected in the morning, so maybe you could ask the\nperson in charge then...!
+        なるほど！ でもそれじゃあ間に合わなそうだ…気持ちだけもらっとくよ！=I see! But that won't be in time... Thanks for the suggestion!
+        くっ…！ 私は、なんて無力なの…！！=Ugh...! I am so powerless...!!
+        かれりん！　空き缶持ってない！？=Karerin! Do you have any empty cans!?
+        <style\=RubyPrefixTag></style>\nかれりん！　空き缶持ってない！？=<style\=RubyPrefixTag></style>\nKarerin! Do you have any empty cans!?
+        空き缶？ ないけど…どうして？=Empty cans? I don't have any... why?
+        それは大変…！　そういえば、自販機の近くにタマさんがいたけど、力になってくれるんじゃないかな。=That's bad...! Speaking of which, I saw Tama-san by\nthe vending machine earlier, maybe she can help.
+        <style\=RubyPrefixTag></style>\nそれは大変…！　そういえば、自販機の近くにタマさんが\r\nいたけど、力になってくれるんじゃないかな。=<style\=RubyPrefixTag></style>\nThat's bad...! Speaking of which, I saw Tama-san by\nthe vending machine earlier, maybe she can help.
+        なるほど！ サンキューかれりん、命の恩人！！=I see! Thanks, Karerin, you're a lifesaver!!
+        気をつけてね。=Be careful.
+        めぐみん！ 空き缶持ってない！？=Megumin! Do you have any empty cans!?
+        はあ？ さっき飲み終わったやつなら潰してもう捨ててもうたわ。=Haa? I crushed the one I just finished and threw it\naway.
+        なんでやねん！　軍の基地内でそんな物騒なこと起こるんかいな！？　そういや、さっきタマのやつが自販機の方におったで。=What the heck!? How can somethin' so dangerous happen\non a military base!? By the way, I saw Tama by the vendin'\nmachine earlier.
+        <style\=RubyPrefixTag></style>\nなんでやねん！　軍の基地内でそんな物騒なこと起こるん\r\nかいな！？　そういや、さっきタマのやつが自販機の方に\r\nおったで。=<style\=RubyPrefixTag></style>\nWhat the heck!? How can somethin' so dangerous happen\non a military base!? By the way, I saw Tama by the vendin'\nmachine earlier.
+        なるほど！ ありがとう、めぐみん！　命の恩人！！=I see! Thanks, Megumin, you're a lifesaver!!
+        <style\=RubyPrefixTag></style>\nなるほど！ ありがとう、めぐみん！　命の恩人！！=<style\=RubyPrefixTag></style>\nI see! Thanks, Megumin, you're a lifesaver!!
+        キャンサーと戦う時より必死やないか…何が巻き起こっとるねん…。=You're more desperate than when fighting Cancers...\nwhat in the world is goin' on...?
+        <style\=RubyPrefixTag></style>\nキャンサーと戦う時より必死やないか…何が巻き起こっと\r\nるねん…。=<style\=RubyPrefixTag></style>\nYou're more desperate than when fighting Cancers...\nwhat in the world is goin' on...?
+        おタマさん！　空き缶持ってないか！？=O-tama-ssan! Do you have any empty cans!?
+        月歌さん…？=Ruka-san...?
+        <style\=RubyPrefixTag></style>\n月歌さん…？=<style\=RubyPrefixTag></style>\nRuka-san...?
+        実はＧＰが足りなくて、ずっと眺めていただけなのです…喉もカラカラです…。=Actually, I'm low on GP and just staring at the vending\nmachine... I'm so thirsty...
+        そんな…このままじゃあたしが空き缶の代わりにブチ抜かれちまうだけじゃなく、おタマさんが干からびてしまう…！！=Oh no... If I don't find an empty can, I'll get shot\ninstead, and O-tama-san will dry out...!!
+        こんなことを頼むのはお恥ずかしいのですが…後生です…お金を貸してくれませんか…？=I'm embarrassed to ask, but... could you lend me some\nmoney...?
+        よし、わかった。事の発端のすももに頼んでみるよ…！　それまでおタマさん、どうにか耐えてくれ！=Alright, I'll go ask Sumomo, the one who started all\nthis...! Hang in there, O-tama-san!
+        <style\=RubyPrefixTag></style>\nよし、わかった。事の発端のすももに頼んでみるよ…！　\r\nそれまでおタマさん、どうにか耐えてくれ！=<style\=RubyPrefixTag></style>\nAlright, I'll go ask Sumomo, the one who started all\nthis...! Hang in there, O-tama-san!
+        すみません、よろしくお願いします…！！=Thank you, please...!!
+        <style\=RubyPrefixTag></style>\nすみません、よろしくお願いします…！！=<style\=RubyPrefixTag></style>\nThank you, please...!!
+        すももにお金を借りに戻ろう！=Let's go back to Sumomo and borrow some money!
+        すもも！ 緊急事態だ！　お金が足りなくてジュースが買えない！！=Sumomo! It's an emergency! I don't have enough money\nto buy a drink!!
+        馬鹿なのかにゃ？=Are you an idiot, nya?
+        このままじゃ、すももがあんなに見せたがってた射撃の腕を披露できない！ 頼む、お金を貸してくれ！！=Then, you can't show off your shooting skills like you\nwanted, please lend me some money!!
+        こっちが見せたがってることにするのやめろにゃ。金も貸さないにゃ。=Don't act like I want to show off, nya. I won't lend\nyou money either, nya.
+        <style\=RubyPrefixTag></style>\nこっちが見せたがってることにするのやめろにゃ。金も貸\r\nさないにゃ。=<style\=RubyPrefixTag></style>\nDon't act like I want to show off, nya. I won't lend\nyou money either, nya.
+        そこをなんとか！ 小銭でもいいから…！=Please! Even just some coins...!
+        ここの自販機、小銭じゃ動かないにゃ。しかも、昨日拾ったゲーセンのコインみたいなのしか持ってないにゃあ。=Vending machine here doesn't take coins, nya. And all\nI have are some arcade tokens I picked up yesterday,\nnya.
+        くそっ、このままじゃ空き缶が手に入らず、すももの射撃の的も見つからない…。=Damn, without an empty can, Sumomo can't show her\nshooting skills...
+        的はあるにゃ。=There's a target, nya.
+        だから死んじゃうじゃん！=But I'll die!
+        …あれ？　そのゲーセンのコイン、的代わりにすればよくない？=...Hey, can't we use those arcade tokens as targets\ninstead?
+        空き缶より狙うの難しいけど、コインを打ち抜くってすげー格好よくない？=It's harder than an empty can, but hitting a flying\ncoin looks really cool, doesn't it?
+        …格好いい。=...Cool.
+        <style\=RubyPrefixTag></style>\nチィーン！=<style\=RubyPrefixTag></style>\nCink!
+        すげー！ 宙を舞うコインを連続で撃ち抜いてる！=Amazing! She's continuously shooting down the flying\ncoins!
+        <style\=RubyPrefixTag></style>\nすげー！ 宙を舞うコインを連続で撃ち抜いてる！=<style\=RubyPrefixTag></style>\nAmazing! She's continuously shooting down the flying\ncoins!
+        撃つのを止めるまでコインは宙を舞い続けるにゃ。=The coins will keep flying as long as I keep shooting,\nnya.
+        <style\=RubyPrefixTag></style>\n撃つのを止めるまでコインは宙を舞い続けるにゃ。=<style\=RubyPrefixTag></style>\nThe coins will keep flying as long as I keep shooting,\nnya.
+        すももすごい！　すもも格好いい！=Sumomo, you're amazing! Sumomo, you're so cool!
+        <style\=RubyPrefixTag></style>\nすももすごい！　すもも格好いい！=<style\=RubyPrefixTag></style>\nSumomo, you're amazing! Sumomo, you're so cool!
+        なんで黙ってるの？=Why are you quiet?
+        なんでこんな奴におだてられ見せびらかしているんだ？と我に返ったにゃ。=I'm wondering why I'm showing off to someone like you,\nnya.
+        <style\=RubyPrefixTag></style>\nなんでこんな奴におだてられ見せびらかしているんだ？と\r\n我に返ったにゃ。=<style\=RubyPrefixTag></style>\nI'm wondering why I'm showing off to someone like you,\nnya.
+        すべてなかったことにするにゃぁ。=Pretend none of this happened, nya.
+        恐い！　銃口向けないで！　暴力反対！！=Scary! Don't point the gun at me! No violence!!
+        <style\=RubyPrefixTag></style>\n恐い！　銃口向けないで！　暴力反対！！=<style\=RubyPrefixTag></style>\nScary! Don't point the gun at me! No violence!!
+        ふ…冗談にゃ。=Heh... Just kidding.
+        助かった！=My life is saved!
+        お前みたいな奴の相手は疲れるにゃ。もうどっかへ行くにゃ。=Dealing with someone like you is exhausting, nya.\nGo away, nya.
+        いいもん見せてもらったなー。ありがとな、すもも。=That was awesome. Thanks, Sumomo.
+        <style\=RubyPrefixTag></style>\nいいもん見せてもらったなー。ありがとな、すもも。=<style\=RubyPrefixTag></style>\nThat was awesome. Thanks, Sumomo.
+        …次の的がお前にならないよう、せいぜい気をつけるにゃぁ。=...Make sure you don't become the next target, nya.
+        <style\=RubyPrefixTag></style>\n…次の的がお前にならないよう、せいぜい気をつけるにゃぁ。\r\n=<style\=RubyPrefixTag></style>\n...Make sure you don't become the next target, nya.
+        …月歌さん。=...Ruka-san.
+        ジュース…まだですか…。=Not yet...?
+    [Bath]
+        （すももを誘ってお風呂に行こうかな）=(Should I invite Sumomo to the bath?)
+        おーい、すももー。=Ooi, Sumomo.
+        <style\=RubyPrefixTag></style>\nおーい、すももー。=<style\=RubyPrefixTag></style>\nOoi, Sumomo.
+        くんくん…硝煙の匂いにゃ。=Sniff sniff... the smell of gunpowder, nya.
+        え？　本当？　自分じゃわからないや。=Really? I can't tell myself.
+        一緒にお風呂行くにゃ。この匂いは落ち着かないのにゃ。=Let's go to the bath together, nya. This smell is\nunsettling, nya.
+        <style\=RubyPrefixTag></style>\n一緒にお風呂行くにゃ。この匂いは落ち着かないのにゃ。\r\n=<style\=RubyPrefixTag></style>\nLet's go to the bath together, nya. This smell is\nunsettling, nya.
+        すもも、お風呂大丈夫なの？=Are you okay with baths, Sumomo?
+        <style\=RubyPrefixTag></style>\nすもも、お風呂大丈夫なの？=<style\=RubyPrefixTag></style>\nAre you okay with baths, Sumomo?
+        大丈夫じゃない理由があるのかにゃ？=Is there a reason I wouldn't be, nya?
+        いやあ、だって、猫をお風呂に入れて洗うのって大変じゃん？=Well, I mean, washing cats in the bath is tough, right?
+        <style\=RubyPrefixTag></style>\nいやあ、だって、猫をお風呂に入れて洗うのって大変じゃ\r\nん？=<style\=RubyPrefixTag></style>\nWell, I mean, washing cats in the bath is tough, right?
+        馬鹿にしてるにゃあ？　血もすぐに洗い流せる風呂は、殺しに最適な場所だって教えてやるかにゃ？=Are you mocking me, nya? Should I teach you that the\nbath, where blood can be washed away quickly, is the\nperfect place for a kill, nya?
+        <style\=RubyPrefixTag></style>\n馬鹿にしてるにゃあ？　血もすぐに洗い流せる風呂は、殺\r\nしに最適な場所だって教えてやるかにゃ？=<style\=RubyPrefixTag></style>\nAre you mocking me, nya? Should I teach you that the\nbath, where blood can be washed away quickly, is the\nperfect place for a kill, nya?
+        ほらほら、物騒なこと言ってないで、頭洗ってやるからさ。=Come on, don't say scary things, I'll wash your hair.
+        すももを洗っていいのは姉さんだけにゃ。=Only my sister can wash me, nya.
+        いいからいいから、ほら、ここ座って。お湯かけるぞー。=It's fine, it's fine, just sit here. I'm going to pour\nsome water.
+        …にゃあ。=...Nyaaa.
+        <style\=RubyPrefixTag></style>\n…にゃあ。=<style\=RubyPrefixTag></style>\n...Nyaaa.
+        目ぇギューっと瞑っちゃって可愛い！　やっぱりお風呂苦手なんじゃん！=You squeezed your eyes shut, so cute! You really don't\nlike baths, do you!
+        絶対に的にしてやるにゃあ…！=I'm definitely going to make you my target, nya...!

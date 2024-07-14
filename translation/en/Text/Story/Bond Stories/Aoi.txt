@@ -1,0 +1,150 @@
+[Aoi 1]
+    [Misc]
+        第二章 Day 23 19 : 00=Chapter 2 - Day 23 - 19:00
+        青より蒼い夢=Bluer Than Blue Dreams
+        第二章 Day 6 16 : 30=Chapter 2 - Day 6 - 16:30
+        蒼井と強さの秘訣=Aoi and the Secret of Strength
+    [Requirement etc]
+        蒼井が思い悩んでるみたいだ。強さの秘訣を伝授して、仲を深めよう！=<size\=75%>It seems Aoi is troubled. Teach her the secret of strength and deepen your bond!</size>
+        交流開始条件をクリアしていません (残り 0/2)=Condition that hasn't been met to start the interaction (Remaining 0/2)
+        器が5以上(現在:65)=Understanding is 5 or higher (currently: 65)
+    [Start]
+        ちーっす。蒼井、調子どう？=Heya. Aoi, how are you doing?
+        茅森さん。調子ですか…どうでしょう。あまりよくないかもしれません。=Kayamori-san. How am I doing, you ask... I'm not sure.\nMaybe not too well.
+        <style\=RubyPrefixTag></style>\n茅森さん。調子ですか…どうでしょう。あまりよくないか\r\nもしれません。=<style\=RubyPrefixTag></style>\nKayamori-san. How am I doing, you ask... I'm not sure.\nMaybe not too well.
+        何か悩んでる？=Are you troubled by something?
+        自信が…ないんです。=I lack... confidence...
+        茅森さんのように入隊初日で訓練もなしに、キャンサーを倒しちゃうなんて、蒼井には真似出来ません。=Being able to defeat a Cancer on the first day of\nenlistment without any training like Kayamori-san,\nis something Aoi cannot imitate.
+        誰かを守るのに必要なのは、盾ではなく剣なのかなって…。=Maybe what's needed to protect someone isn't a shield,\nbut a sword...
+        <style\=RubyPrefixTag></style>\n誰かを守るのに必要なのは、盾ではなく剣なのかなって…。\r\n=<style\=RubyPrefixTag></style>\nMaybe what's needed to protect someone isn't a shield,\nbut a sword...
+        必要なのは、心持ちだ。=What's needed is the mindset.
+        茅森さんは、初めてキャンサーと対峙した時、どんな心持ちでいたんですか？=Kayamori-san, what was your mindset when you first faced\na Cancer?
+    [Option - clear and serene]
+        <style\=RubyPrefixTag></style>\n魑魅魍魎=<style\=RubyPrefixTag></style>\nEvil Spirit (魑魅魍魎)
+        <style\=RubyPrefixTag></style>\n諸行無常=<style\=RubyPrefixTag></style>\nall things are impermanent (諸行無常)
+        <style\=RubyPrefixTag></style>\n明鏡止水=<style\=RubyPrefixTag></style>\nClear and Serene (明鏡止水)
+        <style\=RubyPrefixTag></style>\nあたしの心持ちは…。=<style\=RubyPrefixTag></style>\nMy mindset was...
+        明鏡止水。=Meikyoshisui. (明鏡止水)
+        その心は？=What do you mean by that?
+        <style\=RubyPrefixTag></style>\nその心は？=<style\=RubyPrefixTag></style>\nWhat do you mean by that?
+        もうわけわかんなかったってこと。=It means I didn't understand anything at all.
+        だって、明鏡止水だぜ？　それなんて意味？ってなるじゃん普通。=I mean it's Meikyoshisui (明鏡止水), you know?\nNormally, you'd wonder what that means.
+        <style\=RubyPrefixTag></style>\nだって、明鏡止水だぜ？　それなんて意味？ってなるじゃ\r\nん普通。=<style\=RubyPrefixTag></style>\nI mean it's Meikyoshisui (明鏡止水), you know?\nNormally, you'd wonder what that means.
+        邪念がなく、澄み切って落ち着いた様子のことを意味しますが？=It means to be free of evil thoughts, and to have a\nclear and calm mind, though?
+        え！？　そうなの！？　なるほど、そんな状態でいたのか。そりゃ勝っちゃうわけだ。=Eh, really!? So I was in that state. No wonder I won.
+        <style\=RubyPrefixTag></style>\nえ！？　そうなの！？　なるほど、そんな状態でいたのか。\r\nそりゃ勝っちゃうわけだ。=<style\=RubyPrefixTag></style>\nEh, really!? So I was in that state. No wonder I won.
+        いやいや、意味知らなかったんですよね？=No, no, you didn't know what it meant, right?
+        <style\=RubyPrefixTag></style>\nいやいや、意味知らなかったんですよね？=<style\=RubyPrefixTag></style>\nNo, no, you didn't know what it meant, right?
+        わけわからない状態で戦ってたんですよね？=You fought in a state of not understanding anything,\nright?
+        <style\=RubyPrefixTag></style>\nわけわからない状態で戦ってたんですよね？=<style\=RubyPrefixTag></style>\nYou fought in a state of not understanding anything,\nright?
+        だって、わけわからない状態を四字熟語にすると、無我夢中ですから。=I mean, if you translate 'not understanding anything'\ninto four-character idioms, it's Mugamuchu (無我夢中).
+        <style\=RubyPrefixTag></style>\nだって、わけわからない状態を四字熟語にすると、無我夢\r\n中ですから。=<style\=RubyPrefixTag></style>\nI mean, if you translate 'not understanding anything'\ninto four-character idioms, it's Mugamuchu (無我夢中).
+        明鏡止水じゃなかったんだ…。=So it wasn't Meikyoshisui (明鏡止水)...
+        <style\=RubyPrefixTag></style>\n明鏡止水じゃなかったんだ…。=<style\=RubyPrefixTag></style>\nSo it wasn't Meikyoshisui (明鏡止水)...
+        はい。無我夢中です。=Yes. It was Mugamuchu (無我夢中).
+        <style\=RubyPrefixTag></style>\nはい。無我夢中です。=<style\=RubyPrefixTag></style>\nYes. It was Mugamuchu (無我夢中).
+        蒼井はどんな気持ちでいたんだ？=What were you feeling, Aoi?
+        蒼井、ですか…。=How is Aoi, you ask...?
+        改過自新で居るつもりでした。=I intended to be in a state of Kaikajishin\n(改過自新: Turning over a new leaf).
+        <style\=RubyPrefixTag></style>\n改過自新で居るつもりでした。=<style\=RubyPrefixTag></style>\nI intended to be in a state of Kaikajishin\n(改過自新: Turning over a new leaf).
+        かいかじしん？　聞いたことがない日本語だ。意味は？=Kaikajishin? That's a Japanese phrase I never heard of.\nWhat does it mean?
+        すみません、教えられません。=Sorry, I can't tell you.
+        だって、その気持ちは今蒼井の中から消え去ろうとしているからです。=Because that feeling is trying to disappear from within\nme right now.
+        そんな…何があったんだよ？　まだ訓練は始まったばかりじゃないか。=No way... What happened? Training has just begun,\nyou know?
+        <style\=RubyPrefixTag></style>\nそんな…何があったんだよ？　まだ訓練は始まったばかり\r\nじゃないか。=<style\=RubyPrefixTag></style>\nNo way... What happened? Training has just begun,\nyou know?
+        暗！=So dark!
+        あ、すみません…士気に関わりますよね。=Ah, I'm sorry... It affects morale, doesn't it?
+        <style\=RubyPrefixTag></style>\nあ、すみません…士気に関わりますよね。=<style\=RubyPrefixTag></style>\nAh, I'm sorry... It affects morale, doesn't it?
+        こんなんじゃダメですよね。笑え蒼井！=This won't do. Smile, Aoi!
+        にへらっ。=Nyaha *Smile*
+        いやいや、そんな無理して笑わなくていいよ。=No, no, you don't have to force yourself to smile.
+        よし、蒼井、ちょっと付き合って。=Ok, Aoi, come with me for a bit.
+        え？　どこに行くんですか？=Eh? Where are we going?
+        一緒にアリーナで訓練しよう。=Let's train together in the arena.
+        あたしの心持ちを近くで見せてやる。=I'll show you my mindset up close.
+        <style\=RubyPrefixTag></style>\nあたしの心持ちを近くで見せてやる。=<style\=RubyPrefixTag></style>\nI'll show you my mindset up close.
+        習うより慣れろの精神ですか…。=The spirit of learning by doing, huh...
+        <style\=RubyPrefixTag></style>\n習うより慣れろの精神ですか…。=<style\=RubyPrefixTag></style>\nThe spirit of learning by doing, huh...
+        わかりました。勉強させてもらいます！=Got it. I'll learn from you!
+    [Arena]
+        …少しは強くなれたでしょうか。=...Did I get a bit stronger?
+        蒼井は…変われるのか、それはまだわかりませんが…。=Aoi... Can she change? That remains to be seen...
+        蒼井、蒼井。=Aoi, Aoi.
+        変顔！=Funny face!
+        <style\=RubyPrefixTag></style>\n変顔！=<style\=RubyPrefixTag></style>\nFunny face!
+        {ほりゃ、はほひも、ひぇんぎゃほ:ほら、蒼井も変顔}。=Cmwn, Awoi too. Mwke a fwnny fwce.\n(C'mon, Aoi too. Make a funny face)
+        <style\=RubyPrefixTag></style>\nほりゃ、はほひも、ひぇんぎゃほ<space\=-449.932px><voffset\=1em><size\=50%><cspace\=0px>ほら、蒼井も変顔</cspace></size></voffset><space\=262.414px><style\=RubySuffixTag></style>。=<style\=RubyPrefixTag></style>\nCmwn, Awoi too. Mwke a fwnny fwce.\n(C'mon, Aoi too. Make a funny face)
+        ぷっ。=Pfft.
+        <style\=RubyPrefixTag></style>\nぷっ。=<style\=RubyPrefixTag></style>\nPfft.
+        あれ？　笑った？=Huh? Did you laugh?
+        はい。だって茅森さんの顔おかしいです。=Yes. Because Kayamori-san's face is funny.
+        実は変顔は得意とするところなんだ。=Actually, making funny faces is my forte.
+        <style\=RubyPrefixTag></style>\n実は変顔は得意とするところなんだ。=<style\=RubyPrefixTag></style>\nActually, making funny faces is my forte.
+        しないほうがいいですよ。そんな整った顔立ちしてるのに。=You shouldn't do it. You have such a well-formed face.
+        褒められた！！　いえーい。=I got praised!! Yay!
+        <style\=RubyPrefixTag></style>\n褒められた！！　いえーい。=<style\=RubyPrefixTag></style>\nI got praised!! Yay!
+        なんだかちょっと前向きになれました。=Somehow, I feel a bit more positive.
+        あたし、やるじゃん。=I'm doing a good job then.
+        はい。茅森さんはこんな世界でも、言葉は悪いですけど、ふざけていて、一緒に居ると楽しいです。=Yes. Even in this world, Kayamori-san, your words may\nbe crude, but being with you is fun.
+        まあ、悪いことは考えないようにしてるだけさ。=Well, I just try not to think about bad things.
+        蒼井もそんな風に考えられたらいいのに。=I wish Aoi could think like that too.
+        <style\=RubyPrefixTag></style>\n蒼井もそんな風に考えられたらいいのに。=<style\=RubyPrefixTag></style>\nI wish Aoi could think like that too.
+        出来るさ。=You can do it.
+        性分だから無理です。=It's against my nature, so it's impossible.
+        大丈夫。あたしが汚染していく。=It's okay. I'll contaminate you.
+        汚染って。また、来てくれるんですか？=Contaminate, you say. Will you come see me again?
+        楽しみに待ってます。=I'll be looking forward to it.
+        ああ。また隙見て会いに来るよ。=Yeah. I'll come see you when I can.
+        <style\=RubyPrefixTag></style>\nああ。また隙見て会いに来るよ。=<style\=RubyPrefixTag></style>\nYeah. I'll come see you when I can.
+    [Bath]
+        （蒼井を誘ってお風呂に行こうかな）=(Should I invite Aoi to the bath?)
+        <style\=RubyPrefixTag></style>\n（蒼井を誘ってお風呂に行こうかな）=<style\=RubyPrefixTag></style>\n(Should I invite Aoi to the bath?)
+        蒼井、一緒にお風呂行かない？=Aoi, do you want to go to the bath together?
+        茅森さん、今日のお礼もしたいし、是非。=Kayamori-san, I'd love to, and I want to thank you\nfor today.
+        <style\=RubyPrefixTag></style>\n茅森さん、今日のお礼もしたいし、是非。=<style\=RubyPrefixTag></style>\nKayamori-san, I'd love to, and I want to thank you\nfor today.
+        茅森さん、お背中流させてください。=Let me wash your back, Kayamori-san.
+        <style\=RubyPrefixTag></style>\n茅森さん、お背中流させてください。=<style\=RubyPrefixTag></style>\nLet me wash your back, Kayamori-san.
+        サンキュー、蒼井。それにしても、ちょっとは自信持てたみたいでよかったよ。=Thanks, Aoi. By the way, I'm glad you gained a bit more\nconfidence.
+        はい。茅森さんのおかげです。=Yes. Thanks to you, Kayamori-san.
+        明日から、もう少し前向きに行こうと思うと、少しドキドキしちゃいますけど…。=From tomorrow, I think I'll try to be a bit more\npositive, though it makes me a bit nervous...
+        それぐらいがちょうどいいと思うよ。あたしもステージに立つ時は、慣れちゃうといいライブが出来なかったから。=That level of nervousness is just right. Even when I\nfirst started performing on stage, I couldn't do a good\njob because I was too nervous.
+        ステージ！？　ステージに立っていたんですか！？=Stage!? You performed on a stage!?
+        <style\=RubyPrefixTag></style>\nステージ！？　ステージに立っていたんですか！？=<style\=RubyPrefixTag></style>\nStage!? You performed on a stage!?
+        全国津々浦々とね。あの時代は平和だったなー。=All over the country. Those were peaceful times.
+        <style\=RubyPrefixTag></style>\n全国津々浦々とね。あの時代は平和だったなー。=<style\=RubyPrefixTag></style>\nAll over the country. Those were peaceful times.
+        え、茅森さんって、もしかして、有名人とかですか…。=Eh, Kayamori-san, could it be that you were a celebrity...?
+        <style\=RubyPrefixTag></style>\nえ、茅森さんって、もしかして、有名人とかですか…。=<style\=RubyPrefixTag></style>\nEh, Kayamori-san, could it be that you were a celebrity...?
+        ちょびっとだけね。=Just a little bit.
+        さらにドキドキしてきました…。=Now I'm even more nervous...
+    [Extra option - Performance]
+        諸行無常。=all things are impermanent (諸行無常)
+        <style\=RubyPrefixTag></style>\n諸行無常。=<style\=RubyPrefixTag></style>\nall things are impermanent (諸行無常)
+        やることなすこと、情けをかけない。=To do things without mercy.
+        <style\=RubyPrefixTag></style>\nやることなすこと、情けをかけない。=<style\=RubyPrefixTag></style>\nTo do things without mercy.
+        わかりやすく言えば、容赦しない…？=In simpler terms, without leniency...?
+        漢字が違いませんか？　所業無情じゃないです？=Isn't the kanji different? Isn't it Shogyomujo (所業無情)?
+        <style\=RubyPrefixTag></style>\n漢字が違いませんか？　所業無情じゃないです？=<style\=RubyPrefixTag></style>\nIsn't the kanji different? Isn't it Shogyomujo (所業無情)?
+        諸行無常は、世の中のものは常に変化し続けて、永久に不変なものはないということを意味します。=Shogyomujyo (諸行無常) means that all things in the world\nare constantly changing and nothing is permanent.
+        <style\=RubyPrefixTag></style>\n諸行無常は、世の中のものは常に変化し続けて、永久に不\r\n変なものはないということを意味します。=<style\=RubyPrefixTag></style>\nShogyomujyo (諸行無常) means that all things in the world\nare constantly changing and nothing is permanent.
+        なにそれ？　なんであたし、それで勝っちゃったの？=What's that? Why did I win with that mindset?
+        <style\=RubyPrefixTag></style>\nなにそれ？　なんであたし、それで勝っちゃったの？=<style\=RubyPrefixTag></style>\nWhat's that? Why did I win with that mindset?
+        いえ、でも茅森さんの心持ちは間違ってないですね…。=No, but your mindset wasn't wrong, Kayamori-san...
+        <style\=RubyPrefixTag></style>\nいえ、でも茅森さんの心持ちは間違ってないですね…。=<style\=RubyPrefixTag></style>\nNo, but your mindset wasn't wrong, Kayamori-san...
+        情けとは甘さです。蒼井に足りない物はきっと、茅森さんの心持ちですね。=Leniency is a form of naivety. What Aoi lacks is\nprobably your mindset, Kayamori-san.
+        <style\=RubyPrefixTag></style>\n情けとは甘さです。蒼井に足りない物はきっと、茅森さん\r\nの心持ちですね。=<style\=RubyPrefixTag></style>\nLeniency is a form of naivety. What Aoi lacks is\nprobably your mindset, Kayamori-san.
+    [Extra Option - Evil]
+        魑魅魍魎。=Evil Spirit (魑魅魍魎)
+        <style\=RubyPrefixTag></style>\n魑魅魍魎。=<style\=RubyPrefixTag></style>\nEvil Spirit (魑魅魍魎)
+        え、怖い。=Eh, scary.
+        あたしも怖い。どんな心持ちで戦っていたんだ、あたし？=I'm scared too. What kind of mindset did I have to\nfight in that state?
+        <style\=RubyPrefixTag></style>\nあたしも怖い。どんな心持ちで戦っていたんだ、あたし？\r\n=<style\=RubyPrefixTag></style>\nI'm scared too. What kind of mindset did I have to\nfight in that state?
+        化け物とかのことですよ？=It refers to evil monsters and spirits.
+        <style\=RubyPrefixTag></style>\n化け物とかのことですよ？=<style\=RubyPrefixTag></style>\nIt refers to evil monsters and spirits.
+        …はっ！=...Ah!
+        <style\=RubyPrefixTag></style>\n…はっ！=<style\=RubyPrefixTag></style>\n...Ah!
+        なるほど、蒼井は理解しました。=I see, Aoi understands now.
+        <style\=RubyPrefixTag></style>\nなるほど、蒼井は理解しました。=<style\=RubyPrefixTag></style>\nI see, Aoi understands now.
+        キャンサーという化け物と戦うには自らも化け物と化す必要があるということですね。=To fight a monsters called Cancer, you need to become\na monster yourself.
+        さすがは茅森さんです。=As expected of Kayamori-san.
+        どうして目をそらすんですか？=Why are you looking away?
+        <style\=RubyPrefixTag></style>\nどうして目をそらすんですか？=<style\=RubyPrefixTag></style>\nWhy are you looking away?
