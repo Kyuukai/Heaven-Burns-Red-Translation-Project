@@ -1,0 +1,276 @@
+﻿[Arasuji - misc]
+    訓練を受けようとするも、七瀬が見当たらない。\n彼女の行方を探し、31Aは東奔西走する。=Eager to train, but Nanase is nowhere to be found.\n31A running around frantically, searching for her whereabouts.
+    アリーナ前=Front of the arena
+[Roll call - Option - 2]
+    <style\=RubyPrefixTag></style>\n七！=<style\=RubyPrefixTag></style>\nSeven!
+    七！=Seven!
+    あれ…ひとり多い…！？=Huh... there's one extra person...!?
+    不可思議なことに総員６名現在員７名であります！=Strangely, there are 6 members total, but 7 people present!
+    <style\=RubyPrefixTag></style>\n不可思議なことに総員６名現在員７名であります！=<style\=RubyPrefixTag></style>\nStrangely, there are 6 members total, but 7 people present!
+    茅森さん、あなたが二度点呼に応えていました。=Kayamori-san, you answered the roll call twice.
+    さすがです。お気づきでしたか。=Impressive. You noticed it, huh.
+    <style\=RubyPrefixTag></style>\nさすがです。お気づきでしたか。=<style\=RubyPrefixTag></style>\nImpressive. You noticed it, huh.
+    やり直してください。=Do it again.
+    なんでやねん…。=Why me too...?
+    あたしらまで巻き込む冗談はよしてくれ…。=Please stop with the jokes that involve us all...
+[Finding Nanamin]
+    あれ？　アリーナ開いてない！？=Huh? The arena isn't open!?
+    ほんとだな。=You're right.
+    七瀬さんがいないのかしら。=I wonder if Nanase-san isn't here.
+    お手洗いちゃうか。=Maybe she's in the restroom, y'all.
+    <style\=RubyPrefixTag></style>\nお手洗いちゃうか。=<style\=RubyPrefixTag></style>\nMaybe she's in the restroom, y'all.
+    七瀬さん、全然来ませんね！=Nanase-san isn't coming at all!
+    じゃ、あたしらだけでアリーナ入る方法探すかー。=Then, should we just figure out how to get into the\narena ourselves?
+    いや、誰がエミュレーターの操作すんだよ。=Wait, who's going to operate the emulator?
+    <style\=RubyPrefixTag></style>\nいや、誰がエミュレーターの操作すんだよ。=<style\=RubyPrefixTag></style>\nWait, who's going to operate the emulator?
+    ユッキーが居るじゃん。=Well, we have you, Yukki.
+    あたしは訓練を受ける側だろ。なんであたしが七瀬の代わりをしていいことになってんだよ。=I'm supposed to be the one who gets the training.\nWhy should I take Nanase's place?
+    なってないのか…。=Can't, huh...
+    五人で訓練しても意味ない。=Training with just five people is pointless too.
+    そうかー。じゃあ、司令官入れるしかないね。=I see. Then we'll have to invite the commander.
+    お前の中でどんな画が浮かんでいる。=What sort of scenario are you picturing in your head?
+    え？　ユッキーがエミュレーター操作して、あたしら六人で訓練を受ける。=Eh? Yukki operates the emulator, and the six of us receive\nthe training.
+    通るか。怒られるわ。いや、あのひと強いけど。=Do you think the commander will agree? We'd get in trouble.\nShe's strong, though...
+    それにきっと忙しい。=Besides, she's probably busy.
+    じゃあ、やっぱりななみんが必要だなー。=So, we still need Nanamin after all.
+    まだ戻らんちゅーことはお手洗いでもなさそうやで。=Since she ain't back yet, I guess it ain't a restroom\nbreak.
+    手分けして探すかー。=Should we split up and look for her?
+    そうするしかありませんね！=That's the only option!
+    みんな、ななみんが行きそうな場所を当たってくれ！=Everyone, please check the places Nanamin might go!
+    <style\=RubyPrefixTag></style>\nええで！=<style\=RubyPrefixTag></style>\nSure thing!
+    <style\=RubyPrefixTag></style>\nうん=<style\=RubyPrefixTag></style>\nOkay
+    さて、みんなはどこを探してるのかな。=So, where is everyone searching?
+    ななみんを探そう！=Let's find Nanase!
+    さすがに橋の向こうにはいないだろ…。=She's probably not anywhere near the bridge...
+    <style\=RubyPrefixTag></style>\nさすがに橋の向こうにはいないだろ…。=<style\=RubyPrefixTag></style>\nShe's probably not anywhere near the bridge...
+    [Karen]
+        よう、かれりん、どんな感じ？=Yo, Karerin, how's it going?
+        いそうな所を探しているつもりなのだけど、あたし気づいたの。=I'm trying to search places where she might be, but I\nnoticed something.
+        <style\=RubyPrefixTag></style>\nいそうな所を探しているつもりなのだけど、あたし気づい\r\nたの。=<style\=RubyPrefixTag></style>\nI'm trying to search places where she might be, but I\nnoticeed something.
+        なにに？=Noticed what?
+        七瀬さんの行きそうな場所を知らないことに。=That I don't know where Nanase-san might go.
+        気づいちゃったかー。=You figured it out, huh?
+        みんなで、ええ、うん、ああ、ええで、はい！！と景気よく分かれたものの、みんなどこを当たるんだろう？と不思議に思ってたところ。=Everyone enthusiastically split up and said, "Yeah,\nokay, sure thing!" but I wondered where everyone was\nactually going to look.
+        月歌さんも？=Ruka-san too?
+        うん。だから、あてどなく彷徨っている。=Yep. So, I've been wandering aimlessly.
+        ここは教官室だから居てもおかしくないけど、居たら居たで、なんで訓練を忘れているの？ってなる場所。=This is the instructor's room, so it wouldn't be strange\nif she were here, but if she were, I'd wonder why she\nforgot about the training.
+        なるねぇ。ななみんに限ってすっぽかすなんてことなさそうだしねぇ。=That's true. Nanamin wouldn't normally skip training.
+        とりあえず、誰かに訊いてみる。=Anyway, I'll ask someone.
+        <style\=RubyPrefixTag></style>\nとりあえず、誰かに訊いてみる。=<style\=RubyPrefixTag></style>\nAnyway, I'll ask someone.
+        そうだね。=Good idea.
+        ねぇ、七瀬さんを知らない？=Hey, have you seen Nanase-san?
+        女性下士官=Female NCO
+        見てませんけど。=I haven't seen her.
+        はずれでしたー。=Off the mark～
+        <style\=RubyPrefixTag></style>\nはずれでしたー。=<style\=RubyPrefixTag></style>\nOff the mark～
+    [Tsukasa]
+        （つかさっちが司令官室前にいるな…）=(Tsukasachi is in front of the commander's room...)
+        よう、つかさっち、どんな感じ？=Yo, Tsukasachi, how's it going?
+        ねぇ、わたし気づいたの…。=Hey, I noticed something...
+        七瀬さんの行きそうな場所を知らないことに…。=That I don't know where Nanase-san might go...
+        みんなで、ええ、うん、ああ、ええで、はい！！と景気よく分かれたぶん、気まずくて…みんなには当てがあるんだろうし…。=Everyone enthusiastically split up and said, "Yeah,\nokay, sure thing!", but I felt awkward... thinking everyone\nelse probably had a clue...
+        安心しな。このあたしですら、あてどなく彷徨っている。=Don't worry. Even I'm wandering aimlessly.
+        <style\=RubyPrefixTag></style>\n安心しな。このあたしですら、あてどなく彷徨っている。\r\n=<style\=RubyPrefixTag></style>\nDon't worry. Even I'm wandering aimlessly.
+        よかった…！　わたしだけじゃなかった…！=Thank goodness...! It wasn't just me...!
+        かれりんは、安直に教官室に行っていた。=Karerin went straight to the instructor's room.
+        <style\=RubyPrefixTag></style>\nかれりんは、安直に教官室に行っていた。=<style\=RubyPrefixTag></style>\nKarerin went straight to the instructor's room.
+        安心の一言！！=That's reassuring!!
+        でも、ここは司令官室…。=But this is the commander's room...
+        二番目に安直なことは自覚してる…！=I know it's the second most obvious place...!
+        <style\=RubyPrefixTag></style>\n二番目に安直なことは自覚してる…！=<style\=RubyPrefixTag></style>\nI know it's the second most obvious place...!
+        まあ、司令官に呼ばれていたら、そっち優先しそうだもんねぇ。=Well, if the commander summoned her, this place would\ntake priority.
+        居ないほうがいいのか、居たほうがいいのか、よくわからない…！=I don't know if it's better if she's here or not...
+        そりゃ居たほうがいいでしょ。=It's better if she's here.
+        じゃ、入ってみる…？=Then, wanna try going in...?
+        ん…？　開かない…。=Hm...? It's not opening...
+        鍵が閉まってるね。=It's locked.
+        居ないって…こと？=Does that mean she's not here?
+        <style\=RubyPrefixTag></style>\n居ないって…こと？=<style\=RubyPrefixTag></style>\nDoes that mean she's not here?
+        よかったのかしら…よくなかったのかしら…？=Is this good or not...?
+        訓練出来ないから、よくはないだろうねぇ。=Since we can't train, it's not good.
+    [Megummin]
+        <style\=RubyPrefixTag></style>\n諦める=<style\=RubyPrefixTag></style>\nGive up
+        <style\=RubyPrefixTag></style>\nまだ探す=<style\=RubyPrefixTag></style>\nKeep searching
+        よう、めぐみん、どんな感じ？=Yo, Megumin, how's it going?
+        うち、気づいてもうたんや…。=I just noticed somethin'...
+        みんな気づくねぇ。=Everybody notices it, huh.
+        七瀬の行きそうな場所知らんわ…。=I don't know where Nanase might go...
+        あんな、ええで！って景気よく飛び出していったのにねぇ。=You enthusiastically ran off and said "Sure thing!",\ntoo.
+        やめろや！=Quit it!
+        こんな教室に居るかなあ？=Would she be in a classroom like this?
+        おるかもしれへんやろ！=She might be!
+        しーーーん、としてるけど？=It's quiet though...
+        あいつかて隠れて泣きたい時もあるんや！=Even she might want to hide and cry sometimes!
+        ななみーーーーん。=Nanamiiiin!
+        <style\=RubyPrefixTag></style>\nななみーーーーん。=<style\=RubyPrefixTag></style>\nNanamiiiin!
+        繰り返すな！　適当で悪かったな！=Quit repeatin' it! Sorry for bein' so random!
+        <style\=RubyPrefixTag></style>\n繰り返すな！　適当で悪かったな！=<style\=RubyPrefixTag></style>\nQuit repeatin' it! Sorry for bein' so random!
+    [Yuki]
+        よう、ユッキー、気づいた？=Yo, Yukki, did you notice?
+        なんだよ。訊くなら気づいた？じゃなく、居た？だろ。=What? If you're going to ask, it should be "Found her?"\nand not "did you notice?".
+        いや、みんな揃って気づいてたから、ユッキーもそうだろうなと思って。=No, everyone noticed, so I thought you would too.
+        <style\=RubyPrefixTag></style>\nいや、みんな揃って気づいてたから、ユッキーもそうだろ\r\nうなと思って。=<style\=RubyPrefixTag></style>\nNo, everyone noticed, so I thought you would too.
+        相変わらず意味わかんねーわ。=I still don't understand what you mean, as usual.
+        だって、ユッキーも、安直にアリーナ探そうとしてたんだろ？=Well, you were just trying to find her in the arena,\nright?
+        なんだよ、安直にって。居るかもしれないだろ。=What do you mean "just"? She might be here.
+        まあねぇ。=Well, yeah.
+        でも、やっぱどこも開いてねーわ。=But still, none of the doors is open.
+        みたいだねぇ。=Seems like it.
+        なあ、よくよく考えたらさぁ…。=Hey, come to think of it...
+        うん、なになに？=Yep, what is it?
+        <style\=RubyPrefixTag></style>\nうん、なになに？=<style\=RubyPrefixTag></style>\nYep, what is it?
+        七瀬の行きそうな場所知らねーわ。=I don't know where Nanase might go.
+        っしゃ！！　頂きました！！=Nice!! Got 'em!!
+        見つかってもないのに、なに喜んでんだ？=Even though we haven't found her, why are you so happy?
+        いやもう、みんなにそれを言ってもらうゲームみたいにあたしの中でなっててさー。=Well, it's become like a game for me to get everyone\nto say that.
+        いやー、あのユッキーも言うかぁ。そうかぁ。あんな、ああ！って息巻いて解散したのにねぇ。=Oh wow, even Yukki says it. I see. Even though we all\nsplit up and you shouted "Yeah!" like that.
+        なんだお前、喧嘩売ってんのか？=What's with you? Are you picking a fight?
+        ひぃー！　ユッキーがこわーーい！=Eek! Yukki is scary!
+    [Tama]
+        よう、おタマさん、もう何も言わなくてもわかる。=Yo, O-tama-san, I get it without you saying anything.
+        寝てる！！=She's sleeping!!
+        <style\=RubyPrefixTag></style>\n寝てる！！=<style\=RubyPrefixTag></style>\nShe's sleeping!!
+        まだ夜じゃないよ！？　今寝たら、夜寝られなくなるよ！？=It's not night yet! If you sleep now, you won't be\nable to sleep tonight!
+        …は！=...Ah!
+        私寝てしまってましたか！？=Did I fall asleep!?
+        <style\=RubyPrefixTag></style>\n私寝てしまってましたか！？=<style\=RubyPrefixTag></style>\nDid I fall asleep!?
+        うん。このままじゃ夜型人間になっちゃう！と危険を察して起こした。=Yep. I sensed the danger of you becoming nocturnal and\nwoke you up.
+        <style\=RubyPrefixTag></style>\nうん。このままじゃ夜型人間になっちゃう！と危険を察し\r\nて起こした。=<style\=RubyPrefixTag></style>\nYep. I sensed the danger of you becoming nocturnal and\nwoke you up.
+        すみません！　助かりました！！=I'm sorry! You saved me!
+        おタマさんはなんでここに？=What are you doing here, O-tama-san?
+        だって、ここが一番気持ちがいい場所じゃないですか。=I mean, this is the most comfortable place, isn't it?
+        七瀬さんも、こんな場所だったら気分転換に来ても不思議ではないと思いまして！=I thought it wouldn't be strange if Nanase-san came\nhere for a change of pace.
+        いやー、ななみんはそんな自分の役割をほっぽり出しては来ないと思うなあ。=No, I don't think Nanamin would abandon her duties to\ncome here.
+        そうですか？=Really?
+        まー、あたしらって結局のところ気づいてなかったんだよ。=Well, we just didn't notice it in the end.
+        なににですか？=Notice what?
+        ほら、ここには実際ななみんは居ないわけだしさ、わかるだろ？=Look, Nanami isn't actually here, right? You get it,\nright?
+        は！　私が寝ている間に通り過ぎてしまったのかも！？=Ah! Maybe she passed by while I was sleeping!?
+        いや、ここには来ないと思うなあ。なぜなら、あたしらは気づいてなかったからだよ。な？=No, I don't think she would come here. Because we didn't\nnotice it. Get it?
+        こんなに高くて、風が気持ちいい場所なのに、私が寝てしまったせいで…すみません！=Even though it's such a high place with a nice breeze,\nit's all because I fell asleep... I'm sorry!
+        <style\=RubyPrefixTag></style>\nこんなに高くて、風が気持ちいい場所なのに、私が寝てし\r\nまったせいで…すみません！=<style\=RubyPrefixTag></style>\nEven though it's such a high place with a nice breeze,\nit's all because I fell asleep... I'm sorry!
+        もしかして、私たちは…。=Could it be that we...
+        うんうん、いいよいいよ…。=yep, yep, say it...
+        全員寝てしまっていたんですか？=That we all fall asleep?
+        <style\=RubyPrefixTag></style>\nあああああああああああぁーーーーーーーー！！=<style\=RubyPrefixTag></style>\nAAAAAAAAHHHHHH!!
+        どうしてそんな世界の終わりみたいな絶望をしているんですか？=Why are you despairing like it's the end of the world?
+        まあ、人類ピンチだし…。=Well, humanity is in a pinch after all...
+        <style\=RubyPrefixTag></style>\nまあ、人類ピンチだし…。=<style\=RubyPrefixTag></style>\nWell, humanity is in a pinch after all...
+        そうならないよう、弛まぬ努力を続けていくのが我々じゃないですか！　そのためにも早く七瀬さんを見つけましょう！！=It's our duty to keep trying to prevent that from happening!\nSo let's find Nanase-san quickly!!
+        <style\=RubyPrefixTag></style>\nそうならないよう、弛まぬ努力を続けていくのが我々じゃ\r\nないですか！　そのためにも早く七瀬さんを見つけましょ\r\nう！！=<style\=RubyPrefixTag></style>\nIt's our duty to keep trying to prevent that from happening!\nSo let's find Nanase-san quickly!!
+        そうだね…その通りだね…。=Yeah... you're totally right...
+    [Ruka]
+        （あたしだけは違う…あたしが一番ななみんと仲良く過ごしてきたんだ…）=(I'm different... I've spent the most time with Nanamin...)
+        （みんなのようにはならない…！）=(I won't be like them...!)
+        お前、こんなところでなにしてるんだ？=What are you doing in a place like this?
+        え？　ななみんが居るかと思って。=Eh? I thought Nanamin might be here.
+        ひとのこと言えへんやろ…。=You ain't got no right to say all those things to us...
+        まったくだな。=F'real.
+        え、なになに、恐い恐い…。=Eh what, scary, scary...
+        <style\=RubyPrefixTag></style>\nえ、なになに、恐い恐い…。=<style\=RubyPrefixTag></style>\nEh what, scary, scary...
+        うちの隊長も、そうかぁ。あんな、ななみんが行きそうな場所を当たってくれ！って息巻いてたのになぁ？=I see, so our leader, too. Even though she was all\n"Please check the places Nanamin might go!", too.
+        <style\=RubyPrefixTag></style>\nうちの隊長も、そうかぁ。あんな、ななみんが行きそうな\r\n場所を当たってくれ！って息巻いてたのになぁ？=<style\=RubyPrefixTag></style>\nI see, so our leader, too. Even though she was all\n"Please check the places Nanamin might go!", too.
+        どこにおるんかなぁ？=Where could she be, I wonder～?
+        ご…。=I...
+        ごめんなさいでしたぁーーー！！=I'm sorry!!
+        諦めよう…。=Let's give up...
+        <style\=RubyPrefixTag></style>\n諦めよう…。=<style\=RubyPrefixTag></style>\nLet's give up...
+        さて、どうする？=So, what do we do?
+        もう遊んじゃう？=Let's just play around?
+        一番ダメだろ。=That's the worst idea.
+        ねぇ、もう一度司令室に行ってみてもいい…？=Hey, can we try the command room again...?
+        <style\=RubyPrefixTag></style>\nねぇ、もう一度司令室に行ってみてもいい…？=<style\=RubyPrefixTag></style>\nHey, can we try the command room again...?
+        まー、司令官に訊くのがそりゃ一番手っ取り早いわな。=Well, asking the commander is the quickest way.
+        さっきは鍵が閉まってたのだけど…。=It was locked earlier...
+        <style\=RubyPrefixTag></style>\nさっきは鍵が閉まってたのだけど…。=<style\=RubyPrefixTag></style>\nIt was locked earlier...
+        他に行く当てもないですし、行きますか！=We have no other place to go, so let's go!
+        <style\=RubyPrefixTag></style>\n他に行く当てもないですし、行きますか！=<style\=RubyPrefixTag></style>\nWe have no other place to go, so let's go!
+        司令官室に行こう！=Let's go to the commander's room!
+[Commander office]
+    鍵が開いてる！=The door is open!
+    し…失礼します…。=E... Excuse us...
+    あら、あなたたち、どうしたの？=Oh, what brings you all here?
+    <style\=RubyPrefixTag></style>\nあら、あなたたち、どうしたの？=<style\=RubyPrefixTag></style>\nOh, what brings you all here?
+    七瀬さんが居なくて、アリーナで訓練出来ないんです。=We can't find Nanase-san anywhere, so we can't train\nin the arena.
+    え、今日はアリーナ使えないわよ？　定期点検だもの。それは七瀬さんから伝えてもらっているはずよ？=Eh, you can't use the arena today. It's regular maintenance.\nNanase should have informed you already.
+    そんな大事なこと聞いてないんだが…。=I didn't hear such an important thing...
+    あー、点呼のあとに、あたしが聞いてた。=Ah, I heard it after roll call.
+    <style\=RubyPrefixTag></style>\nうがあぁぁーーーーーーーーー！！=<style\=RubyPrefixTag></style>\nUWAAAAAAAAGGGGGHHHHH!!
+    ユキさんが獰猛な獣のように…！！=Yuki-san is like a fierce beast...!!
+    恐いーーーー！　にっげろーーーーー！！=Scary!! Let's bail!!
+    はぁ…あなたたちねぇ…先が思いやられるわ…。=Haaa... You guys... I worry about your future...
+    うちらもです…。=We worry too...
+[Night]
+    ねぇねぇ、ユッキー。=Hey hey, Yukki.
+    んだよ、まだ寝てなかったのか…。=What the hell, you're still not asleep?
+    好きなひと居るー？=Is there someone you like?
+    <style\=RubyPrefixTag></style>\n好きなひと居るー？=<style\=RubyPrefixTag></style>\nIs there someone you like?
+    やめろ。修学旅行の夜じゃねーんだから。=Stop it. This isn't a school trip.
+    居るの！？=You have!?
+    いねーよ。=I don't.
+    <style\=RubyPrefixTag></style>\nいねーよ。=<style\=RubyPrefixTag></style>\nI don't.
+    昔には？　居たの？=How about in the past?
+    いねーから。ハッキング一筋だったから。=No, I didn't. I was solely focused on hacking.
+    <style\=RubyPrefixTag></style>\n心配する=<style\=RubyPrefixTag></style>\nI'm worried.
+    <style\=RubyPrefixTag></style>\n安心する=<style\=RubyPrefixTag></style>\nI'm relieved.
+    <style\=RubyPrefixTag></style>\nユッキーに好きな人いなかった…？=<style\=RubyPrefixTag></style>\nYukki have anyone she liked...?
+[Option Relieved]
+    ふーーー。=Phew.
+    <style\=RubyPrefixTag></style>\nふーーー。=<style\=RubyPrefixTag></style>\nPhew.
+    なんで安心してんだよ。=Why are you relieved?
+    いや、居たら、どんな相手だろう？って気になって眠れないじゃん。=Well, if you had someone, I'd be curious about what\nkind of person they are, and I wouldn't be able to sleep.
+    <style\=RubyPrefixTag></style>\nいや、居たら、どんな相手だろう？って気になって眠れな\r\nいじゃん。=<style\=RubyPrefixTag></style>\nWell, if you had someone, I'd be curious about what\nkind of person they are, and I wouldn't be able to sleep.
+    ならよかったな。ぐっすり眠れ。=Then that's good. Sleep well.
+    <style\=RubyPrefixTag></style>\nならよかったな。ぐっすり眠れ。=<style\=RubyPrefixTag></style>\nThen that's good. Sleep well.
+    月歌さんは居なかったの？=How about you, Ruka-san? Didn't you have someone you\nliked?
+    まだ続けるのか…。=Are we still going on about this...?
+    テレビ番組も出てたし、いっぱしの芸能人だったじゃない？=You were on TV shows, and quite the celebrity, right?
+    ほかの芸能人さんとだって連絡先交換し放題ね。=You could freely exchange contact information with other\ncelebrities too.
+    ほんとだな…どうなんだよ。=That's true... so how about it?
+    意識したことなかったなぁ。=I never really thought about it.
+    <style\=RubyPrefixTag></style>\n意識したことなかったなぁ。=<style\=RubyPrefixTag></style>\nI never really thought about it.
+    周りが芸能人だったのに！？=Even though you were surrounded by celebrities!?
+    あの時のあたしは自分の歌がこれからたくさんのひとたちに届くんだって…それに対してどきどきしてたなぁ。=At that time, I was excited thinking that my songs would\nreach a lot of people...
+    は…なんやそれ。しょーもな。=Huh... what's with that. How lame.
+    めぐみんは、自分のサイキックが本物だっていろんなひとに伝わる時どきどきしない？=Megumin, don't you get excited when you think about\nproving your psychic powers are real to many people?
+    <style\=RubyPrefixTag></style>\nめぐみんは、自分のサイキックが本物だっていろんなひと\r\nに伝わる時どきどきしない？=<style\=RubyPrefixTag></style>\nMegumin, don't you get excited when you think about\nproving your psychic powers are real to many people?
+    めっちゃする。=Absolutely.
+    <style\=RubyPrefixTag></style>\nめっちゃする。=<style\=RubyPrefixTag></style>\nAbsolutely.
+    わかるんじゃねーかよ。=So, you get it.
+    やっぱり自分の本気が相手に伝わるかどうかって時はみんなそういうもんだと思う。=I think everyone feels that way when they wonder if\ntheir true feelings will get through to others.
+    私も、艦長として船出した日は、どきどきしました！=I was excited too, on the day I set sail as captain!
+    そういうこと。=That's what I mean.
+    あたしたちの力もこれから実戦で試されてゆく。=Our strength will also be tested in real situations\nfrom now on.
+    なるほど…それはどきどきする。=I see... that is exciting.
+    そう考えると、ちょっとは楽しめそうじゃん？=Thinking about it that way, it could be a bit enjoyable,\ndon't you think?
+    …そうだな。そうかもな。=...Yeah. You might be right.
+    ためになる話です！=This is an useful discussion!
+    というわけで、限界！　ぐー。=Well then, I'm at my limit! *Snore*
+    相変わらず寝付きだけはいいな…。=As always, you fall asleep so easily...
+    <style\=RubyPrefixTag></style>\n相変わらず寝付きだけはいいな…。=<style\=RubyPrefixTag></style>\nAs always, you fall asleep so easily...
+    <style\=RubyPrefixTag></style>\n『オペレーション・プレアデス』決行まで あと６日=<style\=RubyPrefixTag></style>\n'Operation Pleiades' will commence in 6 days.
+[Extra option]
+    [Option - 1]
+    大丈夫。きっと上がっているさ。=It's okay. I'm sure it goes up.
+    [Option - Worry]
+    えーー…。=Eehh...
+    なんで引いてんだよ。=Why are you getting horrified?
+    <style\=RubyPrefixTag></style>\nなんで引いてんだよ。=<style\=RubyPrefixTag></style>\nWhy are you getting horrified?
+    心配してるんだよ。=Because I'm worried.
+    なにを。=About what?
+    ユッキーの将来。=Yukki's future.
+    <style\=RubyPrefixTag></style>\nユッキーの将来。=<style\=RubyPrefixTag></style>\nYukki's future.
+    ふつーの恋愛出来るのかなって。=I'm wondering if you can have a normal romance.
+    する気ねーし。=I have no intention of doing that.
+    <style\=RubyPrefixTag></style>\nする気ねーし。=<style\=RubyPrefixTag></style>\nI have no intention of doing that.
+    <style\=RubyPrefixTag></style>\nない！？=<style\=RubyPrefixTag></style>\nYou don't!?
+    <style\=RubyPrefixTag></style>\nないの！？=<style\=RubyPrefixTag></style>\nYou don't!?
+    <style\=RubyPrefixTag></style>\nないんですか！？=<style\=RubyPrefixTag></style>\nYou don't!?
+    <style\=RubyPrefixTag></style>\nあれへんて！？=<style\=RubyPrefixTag></style>\nYa don't!?
+    <style\=RubyPrefixTag></style>\nする気ねーの！？=<style\=RubyPrefixTag></style>\nNo intention!?
+    待て待て待て！　一斉に驚くな！　こっちがびっくりするわ！=Wait, wait, wait! Don't be surprised at once!\nYou're surprising me!
+    やっぱりそういう特殊な{気:け}のひとだったのね…。=I knew it, she's THAT kind of special person...
+    <style\=RubyPrefixTag></style>\nやっぱりそういう特殊な気<space\=-35.482px><voffset\=1em><size\=50%><cspace\=0px>け</cspace></size></voffset><space\=12.264px><style\=RubySuffixTag></style>のひとだったのね…。=<style\=RubyPrefixTag></style>\nI knew it, she's THAT kind of special person...
+    ちげーから！　こんなご時世だからって意味だから！=That's not it! It's because of the times we live in!
+    なんで寝る前にこんなアドレナリン分泌しなくちゃならねーんだよ…。=Why do I have to secrete so much adrenaline before bed...
+    月歌さんは好きなひと居なかったの？=Ruka-san, didn't you have someone you liked?
