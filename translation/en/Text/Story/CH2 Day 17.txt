@@ -222,7 +222,7 @@
     <style\=RubyPrefixTag></style>\nいや、居たら、どんな相手だろう？って気になって眠れな\r\nいじゃん。=<style\=RubyPrefixTag></style>\nWell, if you had someone, I'd be curious about what\nkind of person they are, and I wouldn't be able to sleep.
     ならよかったな。ぐっすり眠れ。=Then that's good. Sleep well.
     <style\=RubyPrefixTag></style>\nならよかったな。ぐっすり眠れ。=<style\=RubyPrefixTag></style>\nThen that's good. Sleep well.
-    月歌さんは居なかったの？=How about you, Ruka-san? Didn't you have someone you\nliked?
+    月歌さんは居なかったの？=You didn't have someone you liked, Ruka-san?
     まだ続けるのか…。=Are we still going on about this...?
     テレビ番組も出てたし、いっぱしの芸能人だったじゃない？=You were on TV shows, and quite the celebrity, right?
     ほかの芸能人さんとだって連絡先交換し放題ね。=You could freely exchange contact information with other\ncelebrities too.
@@ -273,4 +273,4 @@
     <style\=RubyPrefixTag></style>\nやっぱりそういう特殊な気<space\=-35.482px><voffset\=1em><size\=50%><cspace\=0px>け</cspace></size></voffset><space\=12.264px><style\=RubySuffixTag></style>のひとだったのね…。=<style\=RubyPrefixTag></style>\nI knew it, she's THAT kind of special person...
     ちげーから！　こんなご時世だからって意味だから！=That's not it! It's because of the times we live in!
     なんで寝る前にこんなアドレナリン分泌しなくちゃならねーんだよ…。=Why do I have to secrete so much adrenaline before bed...
-    月歌さんは好きなひと居なかったの？=Ruka-san, didn't you have someone you liked?
+    月歌さんは好きなひと居なかったの？=You didn't have someone you liked, Ruka-san?
