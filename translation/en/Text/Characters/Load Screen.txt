@@ -43,7 +43,7 @@ CV : 天海由梨奈 =CV: Yurina Amami
 -----------
 [Tama Kunimi]
 CV : 古賀葵 =CV: Aoi Koga 
- 戦艦の頭脳としてデザインされたちびっ子艦長=Child Captain Designed as the Brain of a Battleship
+ 戦艦の頭脳としてデザインされたちびっ子艦長=Smol Captain Designed as the Brain of a Battleship
 <style\=RubyPrefixTag></style>\n國見<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>くにみ</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style> タマ<space\=-78.00999px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=77.99999px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nTama<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>    Kunimi<space\=-78.00999px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=77.99999px><style\=RubySuffixTag></style>
 こんな見た目で戦艦の元艦長。オホーツク海で敗れ去った。\n天然ボケな性格だが、自覚はない。\nいつも庇ってくれる同じ31Aの逢川めぐみを慕っている。\n背が低いことをコンプレックスに感じている。=Despite her appearance, she is a former battleship captain, however she was defeated in the Sea of Okhotsk. She has a natural airhead personality but is unaware of it. Admires Megumi Aikawa of 31A, who always looks out for her, but feels self-conscious about her short stature.
 
