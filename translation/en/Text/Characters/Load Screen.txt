@@ -53,7 +53,7 @@ CV : 古賀葵 =CV: Aoi Koga
 
 --------------------
 [Erika Aoi]
-テストで必ず１００点を取れる天才少女。\n３１Ｂの部隊長だが、自分に自信がなくいつもおどおどとしている。\n同じ３１Ｂのビャッコの存在だけが心のよりどころ。\nよくぽかーんと呆けてしまう。=A genius girl who always scores perfect on tests and the leader of 31B. She is a genius girl who always scores 100 on tests. Although she is the leader of her unit, she lacks confidence and is always nervous. Byakko, a member of 31B, is her only source of comfort. She often spaces out.
+テストで必ず１００点を取れる天才少女。\n３１Ｂの部隊長だが、自分に自信がなくいつもおどおどとしている。\n同じ３１Ｂのビャッコの存在だけが心のよりどころ。\nよくぽかーんと呆けてしまう。=A smart girl with a peculiar ability to always get a 100% perfect score on tests. While she's the leader of 31B, she has no confidence in herself and always seems unsure. Byakko, a fellow member of 31-B, is her only solace. She’s often seen zoning out.
 <style\=RubyPrefixTag></style>\n蒼井<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>あおい</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style> えりか<space\=-117.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=117px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nErika<space\=-136.51px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=19.49999px><style\=RubySuffixTag></style>      Aoi<space\=-117.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=117px><style\=RubySuffixTag></style>
  特殊な能力を持つ健気な部隊長=A Devoted Leader with Special Abilities
 CV : 宮下早紀 =CV: Saki Miyashita
@@ -64,7 +64,7 @@ CV : 愛美 =CV: Aimi
  すぐ銃を向けたがるが人情に厚い殺し屋=A Hitman Who Loves to Point Guns but Has a Big Heart
 <style\=RubyPrefixTag></style>\n水瀬<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>みなせ</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style> いちご<space\=-117.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=117px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nIchigo<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>    Minase<space\=-117.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=117px><style\=RubySuffixTag></style>
 愛知=Aichi
-水瀬すももと姉妹の殺し屋。いちごは姉。\n言動はがさつで、すぐひとに銃口を向けるおっかない人物。\n好きなスポーツは野球。\n好きな食べ物は野菜スティック。=An assassin and sister of Sumomo Minase. Ichigo is the older sister. She is rough in her behavior and a frightening person who quickly points her gun at others. Her favorite sport is baseball, and her favorite food is vegetable sticks.
+水瀬すももと姉妹の殺し屋。いちごは姉。\n言動はがさつで、すぐひとに銃口を向けるおっかない人物。\n好きなスポーツは野球。\n好きな食べ物は野菜スティック。=Older sister of Sumomo Minase. They work together as assassins. Rough and volatile, she doesn't hesitate to draw her gun at people that annoy her. Her favorite sport is baseball, and her favorite food is veggie sticks.
 
 --------------------
 [Sumomo Minase]
