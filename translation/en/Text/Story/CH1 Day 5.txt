@@ -555,7 +555,7 @@
 え？　最後まで聞いてた！？=Eh? She listened till the end!?
 <style\=RubyPrefixTag></style>\nえ？　最後まで聞いてた！？=<style\=RubyPrefixTag></style>\nEh? She listened till the end!?
 みたいね。=Seems like it.
-ふっ…。=Hehe...
+ふっ…。=Heh...
 <style\=RubyPrefixTag></style>\nそして 適性試験当日へ=<style\=RubyPrefixTag></style>\nAnd so, onto the day of the aptitude test
 
 ---------------------------------
