@@ -17,14 +17,14 @@ CV : 芹澤優 =CV: Yu Serizawa
  FPSが得意なゲーマーであり、殺人鬼でもある二重人格者=FPS-Savvy Gamer and Killer with Dual Personality
 <style\=RubyPrefixTag></style>\n朝倉<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px>あさくら</cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style> 可憐<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>かれん</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nKaren<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style>     Asakura<space\=-117.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=117px><style\=RubySuffixTag></style>
  / Vo. : 鈴木このみ = / Vo. : Konomi Suzuki 
-FPSが得意なゲーマー少女。その容姿通りの可愛らしい性格。\nゲームをプレイし続けられる理由から、片手で食べられるジャンクフードを好む。\n新生『She is Legend』でツインボーカルの一翼を担う。=A girl gamer who excels at FPS games. She has a cute personality that matches her appearance. She prefers junk food that can be eaten with one hand so she can continue playing games. She takes on the role of one of the twin vocalists in the new 'She is Legend.'
+FPSが得意なゲーマー少女。その容姿通りの可愛らしい性格。\nゲームをプレイし続けられる理由から、片手で食べられるジャンクフードを好む。\n新生『She is Legend』でツインボーカルの一翼を担う。=A gamer girl who excels at FPS games, with a cute personality that matches her appearance. She prefers junk food that can be eaten with one hand so she can continue playing games. She takes on the role of one of the two main vocalists in the new 'She is Legend.' However, behind all of this is the alternate personality of a bloodthirsty serial killer.
 
 -----------
 [Megumi Aikawa]
 CV : 伊波杏樹 =CV: Anju Inami
  関西の自称天才サイキッカー=Self-Proclaimed Psychicker Prodigy from Kansai
 <style\=RubyPrefixTag></style>\n逢川<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px>あいかわ</cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style> めぐみ<space\=-117.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=117px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nMegumi<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style>     Aikawa<space\=-117.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=117px><style\=RubySuffixTag></style>
-関西出身の勝気なサイキック少女。\n超能力を扱えるが、その力は未知数。というか、セラフ部隊に入ってからは特に役に立っていない。\nしかし自分が世界を救う救世主であると信じている。\n同世代で天才としてもてはやされていた茅森に対して勝手にライバル意識を持っている。=A feisty psychic girl from Kansai. She can use psychic powers, but their extent is unknown. In fact, since joining the Seraph unit, they haven't been particularly useful. However, she believes herself to be the savior of the world. She has an uninvited rivalry with Kayamori, who was praised as a genius of her generation.
+関西出身の勝気なサイキック少女。\n超能力を扱えるが、その力は未知数。というか、セラフ部隊に入ってからは特に役に立っていない。\nしかし自分が世界を救う救世主であると信じている。\n同世代で天才としてもてはやされていた茅森に対して勝手にライバル意識を持っている。=A feisty psychic girl from Kansai, she can use psychic powers, though their extent remains unknown. Since joining the Seraph unit, these powers haven't proven particularly useful. Nevertheless, she believes herself to be the Savior destined to save the world. She has a one-sided rivalry with Kayamori, who is hailed as a prodigy of her generation.
 
 --------------------------
 [Ruka Kayamori]
@@ -38,14 +38,14 @@ CV : 楠木ともり =CV: Tomori Kusunoki
 CV : 天海由梨奈 =CV: Yurina Amami
  ポンコツ美少女諜報員=Clumsy but Beautiful Secret Agent
 <style\=RubyPrefixTag></style>\n東城<space\=-136.51px><voffset\=1em><size\=30%><cspace\=0px>とうじょう</cspace></size></voffset><space\=19.49999px><style\=RubySuffixTag></style> つかさ<space\=-117.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=117px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nTsukasa<space\=-136.51px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=19.49999px><style\=RubySuffixTag></style>      Tojo<space\=-117.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=117px><style\=RubySuffixTag></style>
-完璧な外見を持つ、自称エリート諜報員。\nしかし、どこからどう見ても中身はポンコツ諜報員。\nただ、役に立たない情報だけは無駄に詳しい。\n同じ31Aの朝倉可憐に美肌のコツを教えては、悦に入っている。=A self-proclaimed elite spy with a perfect appearance. However, she is inept in every way possible. She is only exceptionally detailed about useless information. She enjoys teaching Karen Asakura of 31A beauty tips for flawless skin and takes pride in it.
+完璧な外見を持つ、自称エリート諜報員。\nしかし、どこからどう見ても中身はポンコツ諜報員。\nただ、役に立たない情報だけは無駄に詳しい。\n同じ31Aの朝倉可憐に美肌のコツを教えては、悦に入っている。=A self-proclaimed elite spy with a perfect appearance. However, she is inept in every way possible. She does have a vast knowledge of random and useless trivia. She enjoys teaching Karen Asakura, fellow member of 31A beauty tips for flawless skin and takes pride in it.
 
 -----------
 [Tama Kunimi]
 CV : 古賀葵 =CV: Aoi Koga 
- 戦艦の頭脳としてデザインされたちびっ子艦長=Child Captain Designed as the Brain of a Battleship
+ 戦艦の頭脳としてデザインされたちびっ子艦長=Smol Captain Designed as the Brain of a Battleship
 <style\=RubyPrefixTag></style>\n國見<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>くにみ</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style> タマ<space\=-78.00999px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=77.99999px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nTama<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>    Kunimi<space\=-78.00999px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=77.99999px><style\=RubySuffixTag></style>
-こんな見た目で戦艦の元艦長。オホーツク海で敗れ去った。\n天然ボケな性格だが、自覚はない。\nいつも庇ってくれる同じ31Aの逢川めぐみを慕っている。\n背が低いことをコンプレックスに感じている。=Despite her appearance, she is a former battleship captain. She was defeated in the Sea of Okhotsk. She has a natural airhead personality but is unaware of it. She admires Megumi Aikawa of 31A, who always looks out for her. She feels self-conscious about her short stature.
+こんな見た目で戦艦の元艦長。オホーツク海で敗れ去った。\n天然ボケな性格だが、自覚はない。\nいつも庇ってくれる同じ31Aの逢川めぐみを慕っている。\n背が低いことをコンプレックスに感じている。=Despite her appearance, she is a former battleship captain, however she was defeated in the Sea of Okhotsk. She has a natural airhead personality but is unaware of it. Admires Megumi Aikawa of 31A, who always looks out for her, but feels self-conscious about her short stature.
 
 --------------------
 [31B]
@@ -53,7 +53,7 @@ CV : 古賀葵 =CV: Aoi Koga
 
 --------------------
 [Erika Aoi]
-テストで必ず１００点を取れる天才少女。\n３１Ｂの部隊長だが、自分に自信がなくいつもおどおどとしている。\n同じ３１Ｂのビャッコの存在だけが心のよりどころ。\nよくぽかーんと呆けてしまう。=A genius girl who always scores perfect on tests and the leader of 31B. She is a genius girl who always scores 100 on tests. Although she is the leader of her unit, she lacks confidence and is always nervous. Byakko, a member of 31B, is her only source of comfort. She often spaces out.
+テストで必ず１００点を取れる天才少女。\n３１Ｂの部隊長だが、自分に自信がなくいつもおどおどとしている。\n同じ３１Ｂのビャッコの存在だけが心のよりどころ。\nよくぽかーんと呆けてしまう。=A smart girl with a peculiar ability to always get a 100% perfect score on tests. While she's the leader of 31B, she has no confidence in herself and always seems unsure. Byakko, a fellow member of 31-B, is her only solace. She’s often seen zoning out.
 <style\=RubyPrefixTag></style>\n蒼井<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>あおい</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style> えりか<space\=-117.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=117px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nErika<space\=-136.51px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=19.49999px><style\=RubySuffixTag></style>      Aoi<space\=-117.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=117px><style\=RubySuffixTag></style>
  特殊な能力を持つ健気な部隊長=A Devoted Leader with Special Abilities
 CV : 宮下早紀 =CV: Saki Miyashita
@@ -64,7 +64,7 @@ CV : 愛美 =CV: Aimi
  すぐ銃を向けたがるが人情に厚い殺し屋=A Hitman Who Loves to Point Guns but Has a Big Heart
 <style\=RubyPrefixTag></style>\n水瀬<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>みなせ</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style> いちご<space\=-117.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=117px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nIchigo<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>    Minase<space\=-117.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=117px><style\=RubySuffixTag></style>
 愛知=Aichi
-水瀬すももと姉妹の殺し屋。いちごは姉。\n言動はがさつで、すぐひとに銃口を向けるおっかない人物。\n好きなスポーツは野球。\n好きな食べ物は野菜スティック。=An assassin and sister of Sumomo Minase. Ichigo is the older sister. She is rough in her behavior and a frightening person who quickly points her gun at others. Her favorite sport is baseball, and her favorite food is vegetable sticks.
+水瀬すももと姉妹の殺し屋。いちごは姉。\n言動はがさつで、すぐひとに銃口を向けるおっかない人物。\n好きなスポーツは野球。\n好きな食べ物は野菜スティック。=Older sister of Sumomo Minase. They work together as assassins. Rough and volatile, she doesn't hesitate to draw her gun at people that annoy her. Her favorite sport is baseball, and her favorite food is veggie sticks.
 
 --------------------
 [Sumomo Minase]
