@@ -61,7 +61,7 @@ CV : 宮下早紀 =CV: Saki Miyashita
 --------------------
 [Ichigo Minase]
 CV : 愛美 =CV: Aimi 
- すぐ銃を向けたがるが人情に厚い殺し屋=A Hitman Who Loves to Point Guns but Has a Big Heart
+ すぐ銃を向けたがるが人情に厚い殺し屋=An Assassin Who Loves to Point Guns but Has a Big Heart
 <style\=RubyPrefixTag></style>\n水瀬<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>みなせ</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style> いちご<space\=-117.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=117px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nIchigo<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>    Minase<space\=-117.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=117px><style\=RubySuffixTag></style>
 愛知=Aichi
 水瀬すももと姉妹の殺し屋。いちごは姉。\n言動はがさつで、すぐひとに銃口を向けるおっかない人物。\n好きなスポーツは野球。\n好きな食べ物は野菜スティック。=Older sister of Sumomo Minase. They work together as assassins. Rough and volatile, she doesn't hesitate to draw her gun at people that annoy her. Her favorite sport is baseball, and her favorite food is veggie sticks.
@@ -69,9 +69,9 @@ CV : 愛美 =CV: Aimi
 --------------------
 [Sumomo Minase]
 CV : 小路裕夕 =CV: Yuyu Shoji 
- 語尾が「にゃ」だが冷徹な殺し屋=A Cold-Hearted Hitman Who Ends Sentences with 'Nya'
+ 語尾が「にゃ」だが冷徹な殺し屋=A Cold-Hearted Assassin Who Speaks 'Nya'
 <style\=RubyPrefixTag></style>\n水瀬<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>みなせ</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style> すもも<space\=-117.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=117px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nSumomo<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>    Minase<space\=-117.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=117px><style\=RubySuffixTag></style>
-水瀬いちごと姉妹の殺し屋。すももは妹。\n殺し屋として天賦の才を持つ。\n雰囲気はアンニュイに映るが、キレさせると危険。\n好きな食べ物は５円チョコ。=Sumomo is the younger sister and an assassin. She has a natural talent for being a hitman. Although she appears to have an ennui-like atmosphere, she is dangerous when provoked. Her favorite food is 5-yen chocolates.
+水瀬いちごと姉妹の殺し屋。すももは妹。\n殺し屋として天賦の才を持つ。\n雰囲気はアンニュイに映るが、キレさせると危険。\n好きな食べ物は５円チョコ。=Younger sister of Ichigo Minase. They work together as assassins. She has a natural talent towards her line of work. Although she appears to have a disinterested atmosphere, she is dangerous when provoked. Her favorite food is 5-yen chocolates.
 
 --------------------
 [Higuchi Seika]
