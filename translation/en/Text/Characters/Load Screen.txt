@@ -79,21 +79,21 @@ CV : 山根綺 =CV: Aya Yamane
  「死」を追い求める天才科学者=Genius Scientist Pursuing 'Death'
 <style\=RubyPrefixTag></style>\n樋口<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>ひぐち</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style> 聖華<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>せいか</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nSeika<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>    Higuchi<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>
 滋賀=Shiga
-基地内の科学技術研究所に務める研究員。\nセラフにも詳しい。\n天才科学者であることは間違いないが、その熱意は狂気的。\n生命の「死」すらにも興味を持ち、そのため、自らセラフ部隊員となり、前線へも繰り出している。=A researcher working at the science and technology research institute within the base. She is well-versed in Seraphs. There is no doubt she is a genius scientist, but her passion is maniacal. She is interested in the concept of "death," which leads her to become a Seraph unit member and engage in frontline activities.
+基地内の科学技術研究所に務める研究員。\nセラフにも詳しい。\n天才科学者であることは間違いないが、その熱意は狂気的。\n生命の「死」すらにも興味を持ち、そのため、自らセラフ部隊員となり、前線へも繰り出している。=A researcher working at the science and technology research institute within the base. She is well-versed in Seraphs. There is no doubt she is a genius in her field, but her intellectual curiosity can be maniacal. She is keenly interested in the concept of "death," which leads her to become a Seraph unit member and engage in the frontlines.
 
 --------------------
 [Kozue Hiiragi]
 CV : 小澤亜李 =CV: Ari Ozawa 
- ＳＦ世界に混じり込んだ霊能力者=Spiritualist Mingling in an SF World
+ ＳＦ世界に混じり込んだ霊能力者=Spirit Medium mingling in a Sci-Fi Setting
 <style\=RubyPrefixTag></style>\n柊木<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px>ひいらぎ</cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style> 梢<space\=-74.105px><voffset\=1em><size\=30%><cspace\=0px>こずえ</cspace></size></voffset><space\=3.904999px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nKozue<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style>     Hiiragi<space\=-74.105px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=3.904999px><style\=RubySuffixTag></style>
 青森=Aomori
-幽霊を見ることができる少女。\n眼帯で隠された左目を解放すると、幽霊を成仏させることが出来る。\nやや中二病。=A girl who can see ghosts. When she reveals her left eye, which is hidden by an eyepatch, she can send ghosts to the afterlife. She is somewhat chuunibyou (delusions of grandeur often associated with adolescence).
+幽霊を見ることができる少女。\n眼帯で隠された左目を解放すると、幽霊を成仏させることが出来る。\nやや中二病。=A girl who can see spirits. When she takes the eye patch off of her left eye, she can send spirits to the afterlife. She is somewhat chuunibyou (8th grade syndrome, delusions of grandeur often associated with adolescence).
 
 --------------------
 [Byakko]
  弱い者に寄り添う心優しき虎=The Kind-Hearted Tiger Who Stands by the Weak
 岩手=Iwate
-軍の実験の末、セラフと唯一適合した動物。\n非常に賢いが、人見知り。\n蒼井にだけは心を許している。\nカルパスが好物。=An animal that uniquely adapted to the Seraph through military experiments. It is highly intelligent but shy. It only trusts Aoi. Its favorite food is salami sticks.
+軍の実験の末、セラフと唯一適合した動物。\n非常に賢いが、人見知り。\n蒼井にだけは心を許している。\nカルパスが好物。=An animal that uniquely adapted to the Seraph through military experiments. It is highly intelligent but shy. It only opens up to Aoi. Its favorite food is sausage sticks.
 
 --------------------
 [31C]
@@ -105,7 +105,7 @@ CV : 千本木彩花 =CV: Sayaka Senbongi
  世界征服を企む、自称マッドサイエンティスト=Self-Proclaimed Mad Scientist Plotting World Domination
 <style\=RubyPrefixTag></style>\n山脇<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px>やまわき</cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style>・ボン<space\=-78.00999px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=77.99999px><style\=RubySuffixTag></style>・イヴァール<space\=-195.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=195px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nIvar<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style>     Bon<space\=-78.00999px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=77.99999px><style\=RubySuffixTag></style> Yamawaki<space\=-195.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=195px><style\=RubySuffixTag></style>
 熊本=Kumamoto
-豊後と一緒に世界征服を企むマッドサイエンティスト。ただし自称。\n３１Ｃの部隊長であり、茅森たちと同期。\nＡを冠する部隊がその世代のエリートとして扱われるため、Ａを奪おうと茅森たちに挑戦状を叩きつける。\n高圧的で、血気盛んだが、本当は友達思いの優しい子。=A self-proclaimed mad scientist plotting world domination along with Bungo. She is the leader of 31C and a contemporary of Kayamori and others. Because units with an 'A' prefix are treated as elites of their generation, she challenges Kayamori and others to steal the 'A' designation. She is high-handed and hot-blooded, but truly kind-hearted and values her friends.
+豊後と一緒に世界征服を企むマッドサイエンティスト。ただし自称。\n３１Ｃの部隊長であり、茅森たちと同期。\nＡを冠する部隊がその世代のエリートとして扱われるため、Ａを奪おうと茅森たちに挑戦状を叩きつける。\n高圧的で、血気盛んだが、本当は友達思いの優しい子。=A self-proclaimed mad scientist plotting world domination along with her minion, Bungo. She is the leader of 31C and a contemporary of Kayamori and others. Because units with an 'A' prefix are treated as elites of their generation, she challenges Kayamori and others to steal the 'A' designation. While coming off as high-handed and hot-blooded, she's actually a kind-hearted person and values her friends.
 
 --------------------
 [Seira Sakuraba]
@@ -113,38 +113,38 @@ CV : 田澤茉純 =CV: Masumi Tazawa
  占星術で未来を予知する少女=The Girl Who Predicts the Future with Astrology
 <style\=RubyPrefixTag></style>\n桜庭<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px>さくらば</cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style> 星羅<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>せいら</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nSeira<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style>     Sakuraba<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>
 長野=Nagano
-占星術で未来を視る占い師。よく恋愛占いを勧めてくる。\n占い道具である水晶がないと何も出来ない。\n落ち着いた物腰から告げられる言葉には不思議な説得力がある。\nなお、占いの的中率は53％。=A fortune teller who sees the future through astrology. She often recommends love fortunes. She cannot do anything without her crystal ball, her fortune-telling tool. Her calm demeanor lends a mysterious persuasiveness to her words. Incidentally, her prediction accuracy rate is 53%.
+占星術で未来を視る占い師。よく恋愛占いを勧めてくる。\n占い道具である水晶がないと何も出来ない。\n落ち着いた物腰から告げられる言葉には不思議な説得力がある。\nなお、占いの的中率は53％。=A fortune teller who sees the future through astrology. She often recommends love fortunes. Although she can't do anything without her crystal ball, her fortune-telling tool. Her calm demeanor lends a mysterious persuasiveness to her words. Incidentally, her prediction accuracy rate is 53%.
 
 --------------------
 [Miko Tenne]
 CV : 宮崎珠子 =CV: Tamako Miyazaki 
- 不老不死を追い求める稀代の魔術師=Extraordinary Magician Pursuing Immortality
+ 不老不死を追い求める稀代の魔術師=Unrivaled Magician on a Quest for Immortality
 <style\=RubyPrefixTag></style>\n天音<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>てんね</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style> 巫呼<space\=-101.41px><voffset\=1em><size\=30%><cspace\=0px>みこ</cspace></size></voffset><space\=54.59999px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nMiko<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>    Tenne<space\=-101.41px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=54.59999px><style\=RubySuffixTag></style>
 富山=Toyama
-不老不死を追い求め、色々な薬を作っている。\nその過程で生まれた様々な薬は、病を治し世界中に貢献してきた。\n自身を稀代の魔術師と自称している。\nダボダボのローブを羽織り、ロリっ子に見えるが本人は決して認めない。=She pursues immortality and creates various medicines. The various medicines born from this process have cured diseases and contributed to the world. She calls herself an extraordinary magician. She wears a baggy robe and looks like a little girl, but she never admits it.
+不老不死を追い求め、色々な薬を作っている。\nその過程で生まれた様々な薬は、病を治し世界中に貢献してきた。\n自身を稀代の魔術師と自称している。\nダボダボのローブを羽織り、ロリっ子に見えるが本人は決して認めない。=She seeks immortality and creates various medicines. The various medicines born from this process have cured diseases and contributed to medicinal progress across the world. Calling herself an unrivaled magician. She wears a baggy robe and looks like a little girl, but she refuses to accept it.
 
 --------------------
 [Yayoi Bungo]
 CV : 白花恋香 =CV: Shirahana Renka
- 山脇の忠実な使い魔=Yamawaki's Loyal Familiar
+ 山脇の忠実な使い魔=Yamawaki's Loyal Minion
 <style\=RubyPrefixTag></style>\n豊後<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>ぶんご</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style> 弥生<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>やよい</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nYayoi<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>    Bungo<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>
-マッドサイエンティスト山脇のしもべで、一緒に世界征服を企む少女。\n体は小さく、精神年齢は低いが、運動能力だけは抜群。キャンサーとも充分に渡り合える。\n語尾が「ゲス」。\n好戦的なセリフばかり吐くが、なぜだかα波を引き起こす癒やし系キャラである。=A servant of the mad scientist Yamawaki, plotting world domination together. She has a small body and a low mental age but has outstanding physical abilities. She can even compete adequately with Cancer. Her speech ends with "gesu." Despite her combative lines, for some reason, she has a soothing character that induces alpha waves.
+マッドサイエンティスト山脇のしもべで、一緒に世界征服を企む少女。\n体は小さく、精神年齢は低いが、運動能力だけは抜群。キャンサーとも充分に渡り合える。\n語尾が「ゲス」。\n好戦的なセリフばかり吐くが、なぜだかα波を引き起こす癒やし系キャラである。=A minion of the mad scientist Yamawaki, plotting world domination together. Although small and mentally child-like, she has outstanding physical capabilities that can even compete adequately with Cancer. Her speech ends with "gesu." Despite her combative lines, for some reason, she has a soothing character that induces alpha waves.
 
 --------------------
 [Adelheid Kanzaki]
 CV : 稗田寧々 =CV: Nene Hieda 
- 忍者に憧れる忍ばないニンジャ少女=A Ninja Girl Who Admires Ninjas but Doesn't Hide
+ 忍者に憧れる忍ばないニンジャ少女=A Ninja Girl Who Admires Ninjas but Doesn't Sneak Around
 <style\=RubyPrefixTag></style>\n神崎<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px>かんざき</cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style> アーデルハイド<space\=-273.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=273px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nAdelheid<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style>     Kanzaki<space\=-273.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=273px><style\=RubySuffixTag></style>
 ドイツ・ベルリン=Germany, Berlin
-ドイツからやって来た、目立ちたがり屋の忍ばない忍者。\n忍者への強い憧れから独学で猛特訓して忍術を会得。\n基地の至るとこで忍術を披露している。\n一定以上注目され続けると、言語中枢が乱れて興奮し始める。=A ninja from Germany who loves to stand out. Due to her strong admiration for ninjas, she trained intensely on her own and mastered ninjutsu. She demonstrates her ninjutsu all over the base. When she receives a certain level of attention, her language center becomes disordered, and she gets excited.
+ドイツからやって来た、目立ちたがり屋の忍ばない忍者。\n忍者への強い憧れから独学で猛特訓して忍術を会得。\n基地の至るとこで忍術を披露している。\n一定以上注目され続けると、言語中枢が乱れて興奮し始める。=A ninja from Germany who loves to stand out. Due to her strong admiration for ninjas, she trained intensely on her own and mastered ninjutsu. She demonstrates her ninjutsu all over the base. When she receives a certain level of attention, she forgets how to speak normally as she gets excited.
 
 --------------------
 [Mari Satsuki]
 CV : 宮本侑芽 =CV: Yume Miyamoto
- 戦う最強のショップ店員= The Strongest Shop Clerk Who Fights
+ 戦う最強のショップ店員=The Ultimate Shop Clerk Who Fights
 <style\=RubyPrefixTag></style>\n佐月<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>さつき</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style> マリ<space\=-78.00999px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=77.99999px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nMari<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>    Satsuki<space\=-78.00999px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=77.99999px><style\=RubySuffixTag></style>
 三重=Mie
-基地のすべてのショップに務めるスーパー店員。ひとりではなく、複数居るのでは？と思われるほど。\nしかも戦っても強い。\n男兄弟の中で育ったため、たまに言動が粗暴になる。\n３１Ｃの精神的支柱になりたいと日々頑張っている。=A super shop clerk who works at all the shops in the base. It's suspected that there might be more than one of her. Moreover, she is strong even in combat. Having grown up among male siblings, her behavior occasionally becomes rough. She works hard every day to become the spiritual pillar of 31C.
+基地のすべてのショップに務めるスーパー店員。ひとりではなく、複数居るのでは？と思われるほど。\nしかも戦っても強い。\n男兄弟の中で育ったため、たまに言動が粗暴になる。\n３１Ｃの精神的支柱になりたいと日々頑張っている。=A super shop clerk who works at all the shops in the base, that it's suspected that there might be more than one of her. She is capable in combat as she is at the register. Having grown up among male siblings, her behavior occasionally gets a little rough. She works hard every day to become the spiritual pillar of 31C.
 --------------------
 [30G]
  第３０Ｇ部隊、通称３０Ｇ（さんまるじー）\n頼れる先輩部隊。経験に裏打ちされたその実力は計り知れない。=The 30G unit, commonly known as 30G. A reliable senior unit.\nTheir prowess, backed by experience, is immeasurable.
@@ -155,7 +155,7 @@ CV : 花守ゆみり =CV: Yumiri Hanamori
  頼れる先輩部隊長=Reliable Senior Unit Leader
 <style\=RubyPrefixTag></style>\n白河<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px>しらかわ</cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style> ユイナ<space\=-117.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=117px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nYuina<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style>     Shirakawa<space\=-117.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=117px><style\=RubySuffixTag></style>
 不明=Unknown
-仲間からの信頼が厚く、頼られる存在。\n真面目で誠実だが、親しみやすさも兼ね備えている。\n思いもよらないことを言われるとうろたえてしまう可愛いらしい一面を持つ。\n茅森の相談に乗り続けることにより、それがどんどん引き出されていく。=She is highly trusted and relied upon by her comrades. She is serious and sincere but also approachable. She has a cute side that gets flustered when told unexpected things. This side is increasingly drawn out through her continuous counseling of Kayamori.
+仲間からの信頼が厚く、頼られる存在。\n真面目で誠実だが、親しみやすさも兼ね備えている。\n思いもよらないことを言われるとうろたえてしまう可愛いらしい一面を持つ。\n茅森の相談に乗り続けることにより、それがどんどん引き出されていく。=Ever the reliable person, she is highly trusted by her peers. She is not only serious and sincere but also approachable. She has a cute side that gets flustered when told unexpected things. This side is increasingly drawn out through her continuous counseling of Kayamori.
 
 --------------------
 [Monaka Tsukishiro]
@@ -163,7 +163,7 @@ CV : 松本沙羅 =CV: Sara Matsumoto
  現役最強の戦士=The Strongest Seraph User in Active Duty
 <style\=RubyPrefixTag></style>\n月城<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px>つきしろ</cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style> 最中<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>もなか</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nMonaka<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style>     Tsukishiro<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>
 鹿児島=Kagoshima
-現役セラフ部隊で最強と呼ばれる戦士。\n武士のような佇まいで、強者の貫禄がある。\n飲み物や汁ものを作るのが得意。\nかつての戦いで失った親友とふたりでカフェを開くことが夢だった。=She is called the strongest warrior in the active Seraph unit. She has the demeanor of a samurai and the presence of a strong person. She is good at making drinks and soups. Her dream was to open a cafe with a best friend she lost in a previous battle.
+現役セラフ部隊で最強と呼ばれる戦士。\n武士のような佇まいで、強者の貫禄がある。\n飲み物や汁ものを作るのが得意。\nかつての戦いで失った親友とふたりでカフェを開くことが夢だった。=Touted as the strongest warrior in the active Seraph units. She has the demeanor of a samurai and the presence of a strong person. She is good at preparing drinks and soups. Her dream was to open a cafe with a best friend she lost in a previous battle.
 
 --------------------
 [Miya Kiryu]
@@ -171,15 +171,15 @@ CV : 大西亜玖璃 =CV: Aguri Onishi
  日本の伝統文化を愛しすぎる弓道少女=A Girl Who Loves Japanese Traditional Culture Too Much and Practices Archery
 <style\=RubyPrefixTag></style>\n桐生<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px>きりゅう</cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style> 美也<space\=-101.41px><voffset\=1em><size\=30%><cspace\=0px>みや</cspace></size></voffset><space\=54.59999px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nMiya<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style>     Kiryu<space\=-101.41px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=54.59999px><style\=RubySuffixTag></style>
 京都=Kyoto
-弓道の才に恵まれ「百年にひとりの逸材」として日本代表に選ばれたこともあった。\n日本の伝統文化を愛するあまり、「日本伝統文化保存同好会」を立ち上げ、精力的に活動するようになったが、未だ会員は自分ひとり。\n和服を羽織ったり、お面をつけていたりと非常に個性的な外見をしている。\n普段は丁寧で物腰柔らかだが、テンションがあがると非常にグイグイくるタイプ。=She has a talent for archery and was once selected as the Japanese representative as a "once-in-a-century talent." Her love for Japanese traditional culture led her to establish the "Japanese Traditional Culture Preservation Club," where she is energetically active, though she is the only member. She wears traditional Japanese clothing and masks, giving her a very unique appearance. Normally, she is polite and gentle, but when excited, she becomes very assertive.
+弓道の才に恵まれ「百年にひとりの逸材」として日本代表に選ばれたこともあった。\n日本の伝統文化を愛するあまり、「日本伝統文化保存同好会」を立ち上げ、精力的に活動するようになったが、未だ会員は自分ひとり。\n和服を羽織ったり、お面をつけていたりと非常に個性的な外見をしている。\n普段は丁寧で物腰柔らかだが、テンションがあがると非常にグイグイくるタイプ。=She has a talent for archery and was once selected as the Japanese representative as a "once-in-a-century talent." Her love for traditional Japanese culture led her to establish the "Association for the Preservation of Traditional Japanese Culture," where she is energetically active, though so far she is the only member. She wears traditional Japanese clothing and masks, giving her a very unique appearance. Normally, she is polite and gentle, but when excited, she becomes very assertive.
 
 --------------------
 [Chie Sugawara]
 CV : 根本京里 =CV: Miyari Nemoto 
- ロリータ服を愛しすぎるブチギレ少女=A Girl Who Loves Lolita Fashion Too Much and Easily Loses Her Temper
+ ロリータ服を愛しすぎるブチギレ少女=A Girl Who Loves Lolita Fashion Too Much With A Hot Temper
 <style\=RubyPrefixTag></style>\n菅原<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px>すがわら</cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style> 千恵<space\=-101.41px><voffset\=1em><size\=30%><cspace\=0px>ちえ</cspace></size></voffset><space\=54.59999px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nChie<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style>     Sugawara<space\=-101.41px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=54.59999px><style\=RubySuffixTag></style>
 群馬=Gunma
-顔つきと口調がコロコロ変わる。\n穏やかなときは上品だが、キレると非常に狂暴。\nロリータ服を愛し、日々仲間を増やそうとしている。\n同部隊の桐生とは、ひとつの文化を愛する同士として、気が合う。=Her facial expressions and tone of voice change frequently. She is elegant when calm, but extremely violent when angry. She loves Lolita fashion and tries to recruit more members every day. She gets along well with Kiryu from the same unit as a fellow enthusiast of a particular culture.
+顔つきと口調がコロコロ変わる。\n穏やかなときは上品だが、キレると非常に狂暴。\nロリータ服を愛し、日々仲間を増やそうとしている。\n同部隊の桐生とは、ひとつの文化を愛する同士として、気が合う。=Her facial expressions and tone of voice change at the drop of a hat. She is elegant when calm, but extremely violent when angry. She loves lolita fashion and is always on the lookout for people to drag into her hobby. She gets along well with Kiryu from the same unit as a fellow enthusiasts of a specific subcultures.
 
 --------------------
 [Hisame Ogasahara]
@@ -307,15 +307,15 @@ CV : 福島美里衣 =CV: Mirii Fukushima
 CV : 鳥越まあや =CV: Maaya Torigoe
  完全無欠の万能執事=Flawless All-Rounder Butler
 <style\=RubyPrefixTag></style>\n柳<space\=-74.105px><voffset\=1em><size\=30%><cspace\=0px>やなぎ</cspace></size></voffset><space\=3.904999px><style\=RubySuffixTag></style> 美音<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>みおん</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nMion<space\=-74.105px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=3.904999px><style\=RubySuffixTag></style>    Yanagi<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>
-３１Ｆの部隊長であると同時に、同部隊の丸山奏多に仕える執事。\n執事としての能力は非常に高く、家事や雑務を完璧にこなすだけでなく、戦闘能力も高い。\nやんちゃな丸山のサポートで気苦労が多いが、真っ直ぐな心を持つ丸山を誰よりも尊敬し、信頼している。\n丸山の危機には敏感で少し過保護。丸山のためなら冷酷にもなる。=Simultaneously the leader of the 31F unit and the butler serving Kanata Maruyama of the same unit. Her abilities as a butler are extremely high, handling household chores and miscellaneous tasks perfectly, as well as having excellent combat skills. Although she often worries due to the mischievous Maruyama, she respects and trusts Maruyama, who has a straightforward heart, more than anyone. She is very sensitive to Maruyama's dangers and a bit overprotective. She can be cold-hearted if it's for Maruyama's sake.
+３１Ｆの部隊長であると同時に、同部隊の丸山奏多に仕える執事。\n執事としての能力は非常に高く、家事や雑務を完璧にこなすだけでなく、戦闘能力も高い。\nやんちゃな丸山のサポートで気苦労が多いが、真っ直ぐな心を持つ丸山を誰よりも尊敬し、信頼している。\n丸山の危機には敏感で少し過保護。丸山のためなら冷酷にもなる。=Simultaneously the leader of the 31F unit as well as the butler serving Kanata Maruyama of the same unit. Her abilities as a butler are extremely high, handling household chores and miscellaneous tasks perfectly, as well as having excellent combat skills. Although she often worries due to the mischievous Maruyama, Mion respects and trusts her, who has a straightforward heart more than anyone. She is very sensitive to Maruyama's dangers and a bit overprotective. She can be cold-hearted if it's for Maruyama's sake.
 
 ----------
 [Kanata Maruyama]
 CV : 河野ひより =CV: Hiyori Kono
- 名門の誇りを継ぐ少女=Girl Who Inherits the Pride of a Distinguished Family
+ 名門の誇りを継ぐ少女=Heiress Who Carries the Pride of a Prestigious Family
 <style\=RubyPrefixTag></style>\n丸山<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px>まるやま</cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style> 奏多<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>かなた</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nKanata<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style>     Maruyama<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>
 宮城=Miyagi
-様々な分野のセンスの塊。センスに強いこだわりを持つ。\n名家の一人娘だが、少年らしい言動が目立つ。\nがさつな言動をお付きの執事である柳に窘められることもあるが、本人は気にしていない。\n本人は認めないが、柳に依存しきっている。=A girl with an innate sense of various fields. She has a strong attachment to her sense of style. Although she is the only daughter of a distinguished family, her behavior is notably boyish. Her rough behavior is often reprimanded by her butler, Yanagi, but she doesn't mind. She won't admit it, but she is completely dependent on Yanagi.
+様々な分野のセンスの塊。センスに強いこだわりを持つ。\n名家の一人娘だが、少年らしい言動が目立つ。\nがさつな言動をお付きの執事である柳に窘められることもあるが、本人は気にしていない。\n本人は認めないが、柳に依存しきっている。=A girl with an innate sense of various fields. She has a strong attachment to her sense of style. Although she is the only daughter of a distinguished family, her behavior is notably boyish. Her rough behavior is often reprimanded by her butler, Yanagi, but she doesn't mind. She won't admit it, but she is completely dependent on Yanagi to do things for her.
 
 ----------
 [Shiki Hanamura]
@@ -328,24 +328,24 @@ CV : 時澤香保里 =CV: Kaori Tokisawa
 ----------
 [Chiroru Matsuoka]
 CV : 小島ゆい =CV: Yui Kojima
- 過酷な現場ほど燃える名脇役=Supporting Actress Who Thrives in Harsh Conditions
+ 過酷な現場ほど燃える名脇役=Stunt Performer Who Gets Fired Up at the Riskiest Situations
 <style\=RubyPrefixTag></style>\n松岡<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px>まつおか</cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style> チロル<space\=-117.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=117px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nChihoru<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style>     Matsuoka<space\=-117.01px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=117px><style\=RubySuffixTag></style>
 高知=Kochi
-様々なアクションをこなすスタントウーマン。\n生傷の絶えない体は、過酷なスタントを「無事に」こなしてきた証。\n裏方という役目に誇りを持っており、求められればどんなことにも気前よく力を貸す。\nちょっとした演技もこなすことができて、ノリも良い。=A stuntwoman who handles various action scenes. Her body, always bearing scars, is proof that she has "safely" completed many grueling stunts. She takes pride in her role behind the scenes and is willing to help out generously whenever needed. She can also handle minor acting roles and is very spirited.
+様々なアクションをこなすスタントウーマン。\n生傷の絶えない体は、過酷なスタントを「無事に」こなしてきた証。\n裏方という役目に誇りを持っており、求められればどんなことにも気前よく力を貸す。\nちょっとした演技もこなすことができて、ノリも良い。=A stuntwoman who handles various action scenes. Her body, always bearing scars, is proof that she has "safely" completed many grueling stunts. She takes pride in her role as a supporting cast member and is willing to help out generously whenever needed. She is able to play bit parts in a pinch and is always quick on her feet.
 
 ----------
 [Inori Natsume]
 CV : 築山苑佳 =CV: Sonoka Tsukiyama 
- 死に囚われた剣技を宿す処刑人=Executioner Possessed by Deathly Swordsmanship
+ 死に囚われた剣技を宿す処刑人=Blade-wielding Executioner Trapped by the Weight of Death
 <style\=RubyPrefixTag></style>\n夏目<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>なつめ</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style> 祈<space\=-74.105px><voffset\=1em><size\=30%><cspace\=0px>いのり</cspace></size></voffset><space\=3.904999px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nInori<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>    Natsume<space\=-74.105px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=3.904999px><style\=RubySuffixTag></style>
-江戸時代から脈々と続く、罪人を処刑する剣技を受け継いだ少女。\n常に重々しい雰囲気を放ち、人を寄せ付けようとしない。\n基本、誰とも会話しようとせず、目も合わせようとしない。\n実はただの口下手なのかもしれない。=A girl who inherited the swordsmanship used to execute criminals, passed down since the Edo period. She always exudes a heavy atmosphere and tries to keep people at a distance. She generally avoids conversation and eye contact with anyone. She might just be very shy.
+江戸時代から脈々と続く、罪人を処刑する剣技を受け継いだ少女。\n常に重々しい雰囲気を放ち、人を寄せ付けようとしない。\n基本、誰とも会話しようとせず、目も合わせようとしない。\n実はただの口下手なのかもしれない。=A girl who inherited the swordsmanship used to execute criminals, passed down since the Edo period. Always exuding a heavy atmosphere and tries to keep people at a distance. She generally avoids conversation and eye contact with anyone. Perhaps she's just not good with words.
 
 ----------
 [Maki Kurosawa]
 <style\=RubyPrefixTag></style>\n黒沢<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px>くろさわ</cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style> 真希<space\=-101.41px><voffset\=1em><size\=30%><cspace\=0px>まき</cspace></size></voffset><space\=54.59999px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nMaki<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style>     Kurosawa<space\=-101.41px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=54.59999px><style\=RubySuffixTag></style>
 広島=Hiroshima
-たった１年で全国制覇を成し遂げた暴走族の総長。\n道を共にする仲間を第一に考え、義理と人情に生きる。\n気合の入った人物を見つけると、自分のチームに勧誘しようとする。\n「広島焼き」を断じて認めない。=The leader of a biker gang who achieved national dominance in just one year. She values comrades who share the road with her and lives by loyalty and humanity. When she finds someone with strong determination, she tries to recruit them into her team. She absolutely refuses to acknowledge "Hiroshima-yaki."
- 喧嘩上等気合い２００％の総長=Leader with a Fighting Spirit of 200%
+たった１年で全国制覇を成し遂げた暴走族の総長。\n道を共にする仲間を第一に考え、義理と人情に生きる。\n気合の入った人物を見つけると、自分のチームに勧誘しようとする。\n「広島焼き」を断じて認めない。=The leader of a biker gang who that took over the whole country within the span of 1 year. She values buds first who share the road with her and lives by a code of honor and kin-ship. When she finds someone with strong determination, she tries to recruit them into her gang. She absolutely refuses to acknowledge Hiroshima-style okonomiyaki as "Hiroshima-yaki."
+ 喧嘩上等気合い２００％の総長=Ex Biker-gang Leader Who is Always 200% Ready
 CV : 黒瀬ゆうこ =CV: Yuuko Kurose
 
 ----------
