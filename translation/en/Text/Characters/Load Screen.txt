@@ -84,7 +84,7 @@ CV : 山根綺 =CV: Aya Yamane
 --------------------
 [Kozue Hiiragi]
 CV : 小澤亜李 =CV: Ari Ozawa 
- ＳＦ世界に混じり込んだ霊能力者=Spirit Medium mingling in a Sci-Fi Setting
+ ＳＦ世界に混じり込んだ霊能力者=Spirit Medium Mingling in a Sci-Fi Setting
 <style\=RubyPrefixTag></style>\n柊木<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px>ひいらぎ</cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style> 梢<space\=-74.105px><voffset\=1em><size\=30%><cspace\=0px>こずえ</cspace></size></voffset><space\=3.904999px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nKozue<space\=-124.81px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=31.2px><style\=RubySuffixTag></style>     Hiiragi<space\=-74.105px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=3.904999px><style\=RubySuffixTag></style>
 青森=Aomori
 幽霊を見ることができる少女。\n眼帯で隠された左目を解放すると、幽霊を成仏させることが出来る。\nやや中二病。=A girl who can see spirits. When she takes the eye patch off of her left eye, she can send spirits to the afterlife. She is somewhat chuunibyou (8th grade syndrome, delusions of grandeur often associated with adolescence).
