@@ -184,10 +184,10 @@ CV : 根本京里 =CV: Miyari Nemoto
 --------------------
 [Hisame Ogasahara]
 CV : 田中美海 =CV: Minami Tanaka 
- 剣術を極めた天才剣士=A Swordswoman Prodigy Who Mastered Swordsmanship
+ 剣術を極めた天才剣士=Blade Master at the Pinnacle of Swordsmanship
 <style\=RubyPrefixTag></style>\n小笠原<space\=-175.51px><voffset\=1em><size\=30%><cspace\=0px>おがさはら</cspace></size></voffset><space\=58.49999px><style\=RubySuffixTag></style> 緋雨<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>ひさめ</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nHisame<space\=-175.51px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=58.49999px><style\=RubySuffixTag></style>      Ogasahara<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>
 千葉=Chiba
-剣の道に生きる３０Ｇ部隊最年少の少女。孤高の剣士を気取る。\n自分が年下なのを気にしていて、ことあるごとに先輩風を吹かすところがある。\n３分以上戦えないという設定を自分に課しているおかしな子。\n剣術以外のことで褒められ慣れていないので、すぐにテンパる。=The youngest girl in the 30G unit, who lives by the way of the sword. She pretends to be a solitary swordsman. She is conscious of being the youngest and often tries to act superior. She has an odd rule for herself that she cannot fight for more than three minutes. She is not used to being praised for anything other than swordsmanship, so she quickly gets flustered.
+剣の道に生きる３０Ｇ部隊最年少の少女。孤高の剣士を気取る。\n自分が年下なのを気にしていて、ことあるごとに先輩風を吹かすところがある。\n３分以上戦えないという設定を自分に課しているおかしな子。\n剣術以外のことで褒められ慣れていないので、すぐにテンパる。=A girl who studies the art of the blade, and the youngest member of 30-G. Likes to imagine herself as a lone, solemn blade master. Since she's the youngest, she tries to make up for it by acting lofty towards new recruits. Has a strange, self-imposed time limit of 3 minutes of combat. She is not used to being praised for anything other than swordsmanship, so she quickly gets flustered.
 
 --------------------
 [Satomi Kura]
