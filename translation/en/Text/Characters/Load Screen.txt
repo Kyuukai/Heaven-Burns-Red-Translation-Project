@@ -121,7 +121,7 @@ CV : 宮崎珠子 =CV: Tamako Miyazaki
  不老不死を追い求める稀代の魔術師=Unrivaled Magician on a Quest for Immortality
 <style\=RubyPrefixTag></style>\n天音<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px>てんね</cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style> 巫呼<space\=-101.41px><voffset\=1em><size\=30%><cspace\=0px>みこ</cspace></size></voffset><space\=54.59999px><style\=RubySuffixTag></style>=<style\=RubyPrefixTag></style>\nMiko<space\=-113.105px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=42.905px><style\=RubySuffixTag></style>    Tenne<space\=-101.41px><voffset\=1em><size\=30%><cspace\=0px></cspace></size></voffset><space\=54.59999px><style\=RubySuffixTag></style>
 富山=Toyama
-不老不死を追い求め、色々な薬を作っている。\nその過程で生まれた様々な薬は、病を治し世界中に貢献してきた。\n自身を稀代の魔術師と自称している。\nダボダボのローブを羽織り、ロリっ子に見えるが本人は決して認めない。=She seeks immortality and creates various medicines. The various medicines born from this process have cured diseases and contributed to medicinal progress across the world. Calling herself an unrivaled magician. She wears a baggy robe and looks like a little girl, but she refuses to accept it.
+不老不死を追い求め、色々な薬を作っている。\nその過程で生まれた様々な薬は、病を治し世界中に貢献してきた。\n自身を稀代の魔術師と自称している。\nダボダボのローブを羽織り、ロリっ子に見えるが本人は決して認めない。=She seeks immortality and creates various medicines. The various medicines born from this process have cured diseases and contributed to medicinal progress across the world. Calling herself an unrivaled magician. She wears a baggy robe and looks like a loli, but refuses to accept it.
 
 --------------------
 [Yayoi Bungo]
