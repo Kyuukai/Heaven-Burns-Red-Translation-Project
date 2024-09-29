@@ -1,3 +1,5 @@
+# THIS PLUGIN IS NON FUNCTIONAL FOR NOW
+
 # XUnity.AutoTranslator and BepInEx for Heaven Burns Red
 This project aims to translate Heaven Burns Red in English using XUnity.AutoTranslator.
 
